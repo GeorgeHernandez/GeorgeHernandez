@@ -2,7 +2,7 @@
 
 My name is George Hernandez and I live in Chicago, Illinois.
 
-I work as Chief of Applications at [Roji Health Intelligence](https://rojihealthintelligence.com).
+I work as Chief of Applications at [Roji Health Intelligence](https://rojihealthintelligence.com) in the healtcare industry.
 
 I am a calm, candid, & curious cat who strives to be a courageous, creative, & kind contributor.
 
