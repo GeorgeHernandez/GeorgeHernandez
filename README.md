@@ -4,7 +4,7 @@ My name is George Hernandez and I live in Chicago. I work as Chief of Applicatio
 
 I am a calm, candid, & curious cat who strives to be a courageous, creative, & kind contributor.
 
-I am usually quiet but I'll share some of [my opinions](Opinions/index.md) to express myself and maka a minor contribution to society.
+I am usually quiet but I'll share some of [my opinions](Opinions/) to express myself and maka a minor contribution to society.
 
 <!--
 We all have different experiences, paths, heuristics, histories, futures, context, etc., and yet we also have so much in common that sharing makes all of us better.
