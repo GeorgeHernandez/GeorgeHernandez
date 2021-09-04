@@ -16,6 +16,7 @@ I'm not here to totally change the world. I'm not doing a sophisticated coordina
     - [1.2.2. Better](#122-better)
     - [1.2.3. Good](#123-good)
   - [1.3. SHOULD NOT](#13-should-not)
+  - [Bonus: Some quotes on facts & opinions](#bonus-some-quotes-on-facts--opinions)
 
 ## 1.1. SHOULD
 
@@ -109,3 +110,17 @@ I'm not here to totally change the world. I'm not doing a sophisticated coordina
 - Firing guns into the air
 - Loud music after midnight if your neighbors can hear it
 - Anti: Vaccines, Round Earth, Evolution, Apollo Missions, Education & Science
+
+## Bonus: Some quotes on facts & opinions
+
+"You can spend your whole life building a wall of facts between you and anything real." - Chuck Palahniuk
+
+"The truth is more important than the facts." - Frank Lloyd Wright
+
+"We do not deal much in facts when we are contemplating ourselves." - Mark Twain
+
+"Few people are capable of expressing with equanimity opinions which differ from the prejudices of their social enviroment. Most people are incapable of forming such opinions." - Albert Einstein
+
+'Experiment is the sole judge of scientific "truth".' - Richard Feynman
+
+"Why, you simple creatures, the weakest of all weak things is a virtue which has not been tested in the fire." - Mark Twain
