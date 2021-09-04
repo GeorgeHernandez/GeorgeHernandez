@@ -13,8 +13,8 @@ I'm not here to totally change the world. I'm not doing a sophisticated coordina
     - [1.1.3. Good](#113-good)
   - [1.2. SHOULD CSE](#12-should-cse)
     - [1.2.1. Best](#121-best)
-    - [Better](#better)
-    - [Good](#good)
+    - [1.2.2. Better](#122-better)
+    - [1.2.3. Good](#123-good)
 
 ## 1.1. SHOULD
 
@@ -61,7 +61,7 @@ I'm not here to totally change the world. I'm not doing a sophisticated coordina
 - Indentation: 2 spaces, unless your system requires otherwise.
 - Web Service: REST Web API
 
-### Better
+### 1.2.2. Better
 
 - Floating Point Marker > Comma
 - TOML > YAML > JSON > XML
@@ -69,7 +69,7 @@ I'm not here to totally change the world. I'm not doing a sophisticated coordina
 - 1 space between sentences > 2 spaces
 - HTML > XHTML
 
-### Good
+### 1.2.3. Good
 
 - EOF SHOULD have a blank line
 - Long versions of options for console commands SHOULD use a double dash, while the short versions use a single dash. E.g. --force and -f.
