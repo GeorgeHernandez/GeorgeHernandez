@@ -57,7 +57,7 @@ I'm not here to totally change the world. I'm not doing a sophisticated coordina
 
 - Unicode Encoding: UTF-8, which is Windows Code Page Identifier 65001.
 - Version Control: Git
-- Browser: Google Chrome
+- Browser: Google Chrome. Could use less memory and have vertical tabbing.
 - Indentation: 2 spaces, unless your system requires otherwise.
 - Web Service: REST Web API
 
@@ -72,7 +72,7 @@ I'm not here to totally change the world. I'm not doing a sophisticated coordina
 ### 1.2.3. Good
 
 - EOF SHOULD have a blank line
-- Long versions of options for console commands SHOULD use a double dash, while the short versions use a single dash. E.g. --force and -f.
+- Long versions of options for console commands SHOULD use a double dash, while the short versions use a single dash. E.g. `--force` and `-f`.
 - The top of HTML 5 SHOULD be:
     - `<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">`
     - In Pug/Jade:
@@ -80,8 +80,8 @@ I'm not here to totally change the world. I'm not doing a sophisticated coordina
         - `html(lang="en")`
             - `head`
                 - `meta(charset="utf-i")`
-- Semantic Versioning (http://semver.org/) SHOULD be used. E.g.
+- [Semantic Versioning](http://semver.org/) SHOULD be used. E.g.
     - "foo": "1.8.7"
-        - 1. MAJOR. Incompatible changes to the API.
-        - 8. MINOR. Backwards compatible additions to the API.
-        - 7. PATCH. Backwards compatible bug fixes.
+        - 1\. MAJOR. Incompatible changes to the API.
+        - 8\. MINOR. Backwards compatible additions to the API.
+        - 7\. PATCH. Backwards compatible bug fixes.
