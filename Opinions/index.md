@@ -82,10 +82,14 @@ I'm not here to totally change the world. I'm not doing a sophisticated coordina
 - The top of HTML 5 documents SHOULD be:
     - `<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">`
     - In Pug/Jade:
-        - `doctype html`
-        - `html(lang="en")`
-            - `head`
-                - `meta(charset="utf-i")`
+
+        ```jade
+        doctype html
+        html(lang="en")
+            head
+                meta(charset="utf-i")
+        ```
+
 - [Semantic Versioning](http://semver.org/) SHOULD be used. E.g.
     - `"foo": "1.8.7"`
         - `1`. MAJOR. Incompatible changes to the API.
