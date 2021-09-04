@@ -20,7 +20,7 @@ I'm not here to totally change the world. I'm not doing a sophisticated coordina
 
 ### 1.1.1. Best
 
-- Time and Date Standard: [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601), e.g. YYYY-MM-DD hh:mm:ss. http://xkcd.com/1179/. I wonder if 2019\10\03-24 would have been better?
+- Time and Date Standard: [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601), e.g. `YYYY-MM-DD hh:mm:ss` and `P3DT2H`. http://xkcd.com/1179/. I wonder if `2019\10\03-24` would have been better?
 - System of Measurement: Metric. However I have a few personal opinions.
     - The prefixes for the positive exponents SHOULD change from:
         - `[da, h, k, M, G,  T,  P,  E,  Z,  Y] to:`
