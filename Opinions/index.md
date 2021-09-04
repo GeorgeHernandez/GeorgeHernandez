@@ -16,7 +16,7 @@ I'm not here to totally change the world. I'm not doing a sophisticated coordina
     - [1.2.2. Better](#122-better)
     - [1.2.3. Good](#123-good)
   - [1.3. SHOULD NOT](#13-should-not)
-  - [Bonus: Some quotes on facts & opinions](#bonus-some-quotes-on-facts--opinions)
+  - [1.4. Bonus: Some quotes on facts & opinions](#14-bonus-some-quotes-on-facts--opinions)
 
 ## 1.1. SHOULD
 
@@ -111,7 +111,7 @@ I'm not here to totally change the world. I'm not doing a sophisticated coordina
 - Loud music after midnight if your neighbors can hear it
 - Anti: Vaccines, Round Earth, Evolution, Apollo Missions, Education & Science
 
-## Bonus: Some quotes on facts & opinions
+## 1.4. Bonus: Some quotes on facts & opinions
 
 "You can spend your whole life building a wall of facts between you and anything real." - Chuck Palahniuk
 
