@@ -20,7 +20,7 @@ I'm not here to totally change the world. I'm not doing a sophisticated coordina
 
 ### 1.1.1. Best
 
-- Time and Date Standard: [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601): YYYY-MM-DD hh:mm:ss. http://xkcd.com/1179/. I wonder if 2019\10\03-24 would have been better?
+- Time and Date Standard: [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601), e.g. YYYY-MM-DD hh:mm:ss. http://xkcd.com/1179/. I wonder if 2019\10\03-24 would have been better?
 - System of Measurement: Metric. However I have a few personal opinions.
     - The prefixes for the positive exponents SHOULD change from:
         - `[da, h, k, M, G,  T,  P,  E,  Z,  Y] to:`
@@ -41,7 +41,7 @@ I'm not here to totally change the world. I'm not doing a sophisticated coordina
 - Languages with few characters > 100s of characters
 - LibreOffice > Open Office. LO can incorporate features from OO, but not the other way. LO has ~50x as many users.
 - Renewable & Reusable > Single use
-- Period (.) > Comma (,). For use as a decimal character, the period is simpler.
+- Period (`.`) > Comma (`,`). For use as a decimal character, the period is simpler.
 - Wheelbarrow with centrally-mounted wheel > end-mounted wheel
 
 ### 1.1.3. Good
@@ -65,15 +65,15 @@ I'm not here to totally change the world. I'm not doing a sophisticated coordina
 
 - Floating Point Marker > Comma
 - TOML > YAML > JSON > XML
-- != > <>
+- `!=` > `<>`
 - 1 space between sentences > 2 spaces
 - HTML > XHTML
 
 ### 1.2.3. Good
 
-- EOF SHOULD have a blank line
+- The end of files (EOF) SHOULD have a blank line.
 - Long versions of options for console commands SHOULD use a double dash, while the short versions use a single dash. E.g. `--force` and `-f`.
-- The top of HTML 5 SHOULD be:
+- The top of HTML 5 documents SHOULD be:
     - `<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">`
     - In Pug/Jade:
         - `doctype html`
@@ -81,7 +81,7 @@ I'm not here to totally change the world. I'm not doing a sophisticated coordina
             - `head`
                 - `meta(charset="utf-i")`
 - [Semantic Versioning](http://semver.org/) SHOULD be used. E.g.
-    - "foo": "1.8.7"
-        - 1\. MAJOR. Incompatible changes to the API.
-        - 8\. MINOR. Backwards compatible additions to the API.
-        - 7\. PATCH. Backwards compatible bug fixes.
+    - `"foo": "1.8.7"`
+        - `1`. MAJOR. Incompatible changes to the API.
+        - `8`. MINOR. Backwards compatible additions to the API.
+        - `7`. PATCH. Backwards compatible bug fixes.
