@@ -15,6 +15,7 @@ I'm not here to totally change the world. I'm not doing a sophisticated coordina
     - [1.2.1. Best](#121-best)
     - [1.2.2. Better](#122-better)
     - [1.2.3. Good](#123-good)
+  - [1.3. SHOULD NOT](#13-should-not)
 
 ## 1.1. SHOULD
 
@@ -95,3 +96,16 @@ I'm not here to totally change the world. I'm not doing a sophisticated coordina
         - `1`. MAJOR. Incompatible changes to the API.
         - `8`. MINOR. Backwards compatible additions to the API.
         - `7`. PATCH. Backwards compatible bug fixes.
+
+## 1.3. SHOULD NOT
+
+- Dibs. E.g. [Chicago's 'Dibs' Tradition Can Get Dirty, And Even Dangerous](https://www.npr.org/local/309/2020/03/02/811209907/chicago-s-dibs-tradition-can-get-dirty-and-even-dangerous).
+- Graffiti on signs and homes
+- Littering
+- Jaywalking
+- Low-waisted pants
+- Not using turn signals
+- Driving distracted, i.e. texting, doing social media, watching videos, etc.
+- Firing guns into the air
+- Loud music after midnight if your neighbors can hear it
+- Anti: Vaccines, Round Earth, Evolution, Apollo Missions, Education & Science
