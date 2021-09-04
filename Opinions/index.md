@@ -23,13 +23,19 @@ I'm not here to totally change the world. I'm not doing a sophisticated coordina
 - Time and Date Standard: [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601), e.g. `YYYY-MM-DD hh:mm:ss` and `P3DT2H`. http://xkcd.com/1179/. I wonder if `2019\10\03-24` would have been better?
 - System of Measurement: Metric. However I have a few personal opinions.
     - The prefixes for the positive exponents SHOULD change from:
-        - `[da, h, k, M, G,  T,  P,  E,  Z,  Y] to:`
-        - `[ D, H, K, M, G,  T,  P,  E,  Z,  Y]. e:`
-        - `[ 1, 2, 3, 6, 9, 12, 15, 18, 21, 24]`
-    - The prefixes for the negative exponents are fine:
-        - `[d, c, m, μ, n,  p,  f,  a,  z,  y]. e-:`
-        - `[1, 2, 3, 6, 9, 12, 15, 18, 21, 24]`
-        - ISO 2955 was on track: µ isn't ASCII but it's easy to enter with a keyboard input like EN INTL.
+
+        ```yaml
+        [da, h, k, M, G,  T,  P,  E,  Z,  Y] to:
+        [ D, H, K, M, G,  T,  P,  E,  Z,  Y]. e:
+        [ 1, 2, 3, 6, 9, 12, 15, 18, 21, 24]
+        ```
+
+    - The prefixes for the negative exponents are fine. ISO 2955 was on track: µ isn't ASCII but it's easy to enter with a keyboard input like EN INTL.
+
+        ```yaml
+        [d, c, m, μ, n,  p,  f,  a,  z,  y]. e-:
+        [1, 2, 3, 6, 9, 12, 15, 18, 21, 24]
+        ```
 
 ### 1.1.2. Better
 
