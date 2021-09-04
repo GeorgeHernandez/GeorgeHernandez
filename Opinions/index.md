@@ -46,10 +46,10 @@ I'm not here to totally change the world. I'm not doing a sophisticated coordina
 
 ### 1.1.3. Good
 
-- Because of the oligodynamic effect (https://en.wikipedia.org/wiki/Oligodynamic_effect), it would be nice if some germ-exposed items were made out of naturally biocidal metals. E.g. Brass doorknobs, silverware.
-- The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "NOT RECOMMENDED",  "MAY", and "OPTIONAL" MAY BE interpreted as described in RFC 2119 [http://www.ietf.org/rfc/rfc2119.txt]. Aka Conformance Verbs for Requirement Levels.
+- Because of the [oligodynamic effect](https://en.wikipedia.org/wiki/Oligodynamic_effect), it would be nice if some germ-exposed items were made out of naturally biocidal metals. E.g. Brass doorknobs, silverware.
+- The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "NOT RECOMMENDED",  "MAY", and "OPTIONAL" MAY BE interpreted as described in [RFC 2119](http://www.ietf.org/rfc/rfc2119.txt). Aka Conformance Verbs for Requirement Levels.
 - ISO 9000: 7 Quality Management Principles: Customer Focus. Leadership. Engagement of People. Process Approach. Improvement. Evidence-Based Decision Making. Relationship Management.
-- 13 month calendars where each month is 28 day. E.g. https://en.wikipedia.org/wiki/International_Fixed_Calendar or https://en.wikipedia.org/wiki/Positivist_calendar. Alas, not likely. to ever be broadly implemented.
+- 13 month calendars where each month is 28 day. E.g. [International Fixed Calendar](https://en.wikipedia.org/wiki/International_Fixed_Calendar) or [Positivist calendar](https://en.wikipedia.org/wiki/Positivist_calendar). Alas, not likely to ever be broadly implemented.
 
 ## 1.2. SHOULD CSE
 
