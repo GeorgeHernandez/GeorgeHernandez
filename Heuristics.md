@@ -5,7 +5,8 @@ Here are some of my favorite heuristics. I don't think I have a "system" yet, bu
 - [1. My Favorite Heuristics](#1-my-favorite-heuristics)
     - [1.1. Epistemology](#11-epistemology)
     - [1.2. Perspective](#12-perspective)
-    - [1.3. Time](#13-time)
+    - [Who](#who)
+    - [1.3. When & Time](#13-when--time)
     - [1.4. Manage your suffering](#14-manage-your-suffering)
     - [1.5. Manage complexity](#15-manage-complexity)
     - [1.6. Form follows function](#16-form-follows-function)
@@ -57,7 +58,6 @@ Here are some of my favorite heuristics. I don't think I have a "system" yet, bu
     - Pantaloon
     - Oblivion
 - [Five Ws](https://en.wikipedia.org/wiki/Five_Ws). Who, What, Why When, Where + How. E.g.
-    - Who: Loved ones. Those in need. Those to come. Non-people. Talk to a variety: age, gender, class, occupation, outlook, etc.
 - Essential > Incidental
     - Essential > Accidental
 - Impossible to Possible to Probable to Functional to Perfect
@@ -75,7 +75,19 @@ Here are some of my favorite heuristics. I don't think I have a "system" yet, bu
 - [Physicists Have Discovered a Formula for Success, and It Contains a Brutal Truth Most People Don't Want to Admit](https://www.inc.com/jessica-stillman/physicists-have-discovered-a-formula-for-success-it-contains-a-brutal-truth-most-people-dont-want-to-admit.html)
     - Success = (Ability to execute ) * (potential value of an idea).
 
-## 1.3. Time
+## Who
+
+- 1: You. 2: Someone you're communicating with. 3: Others.
+- Loved ones.
+- Those in need.
+- Those to come.
+- Those who are unehard, have no voice.
+- Those you are grateful for or to.
+- Your heroes. Do they inspire you to act?
+- Non-people.
+- Talk to a variety: age, gender, class, occupation, outlook, etc.
+
+## 1.3. When & Time
 
 - _Carpe Diem_: Seize the day
 - The Greek language denotes two distinct principles, [Chronos](https://en.wikipedia.org/wiki/Chronos) and [Kairos](https://en.wikipedia.org/wiki/Kairos). The former refers to numeric, or chronological, time. The latter, literally "the right or opportune moment", relates specifically to metaphysical or Divine time. In theology, Kairos is qualitative, as opposed to quantitative.
