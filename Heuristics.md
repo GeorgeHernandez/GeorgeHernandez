@@ -5,21 +5,23 @@ Here are some of my favorite heuristics. I don't think I have a "system" yet, bu
 - [1. My Favorite Heuristics](#1-my-favorite-heuristics)
     - [1.1. Epistemology](#11-epistemology)
     - [1.2. Perspective](#12-perspective)
-    - [1.3. Manage your suffering](#13-manage-your-suffering)
-    - [1.4. Manage complexity](#14-manage-complexity)
-    - [Form follows function](#form-follows-function)
-    - [1.5. Better actions](#15-better-actions)
-    - [1.6. Humane actions](#16-humane-actions)
-    - [1.7. Virtue & Sin](#17-virtue--sin)
-    - [1.8. Some Ethics](#18-some-ethics)
-    - [1.9. Learning & Teaching](#19-learning--teaching)
-    - [1.10. Social lubrication](#110-social-lubrication)
+    - [1.3. Time](#13-time)
+    - [1.4. Manage your suffering](#14-manage-your-suffering)
+    - [1.5. Manage complexity](#15-manage-complexity)
+    - [1.6. Form follows function](#16-form-follows-function)
+    - [1.7. Better actions](#17-better-actions)
+    - [1.8. Humane actions](#18-humane-actions)
+    - [1.9. Virtue & Sin](#19-virtue--sin)
+    - [1.10. Some Ethics](#110-some-ethics)
+    - [1.11. Learning & Teaching](#111-learning--teaching)
+    - [1.12. Social lubrication](#112-social-lubrication)
 
 ## 1.1. Epistemology
 
 - How do you know? What do you know?
 - "The first principle is that you must not fool yourself, and you are the easiest person to fool." ~ Richard Feynman
     - Self candor is difficult.
+    - [Cognitive dissonance](https://en.wikipedia.org/wiki/Cognitive_dissonance). Who would've guessed that our minds are good at rationalizing.
 - Common sense, experimentation, scientific method.
 - opinion (_doxa_) v knowledge (_episteme_)
 - custom (_nomos_) v nature (_physis_)
@@ -44,10 +46,8 @@ Here are some of my favorite heuristics. I don't think I have a "system" yet, bu
         - Important but not Urgent. Tasks to schedule to DO LATER.
         - Not Important and not Urgent. Tasks to DELEGATE.
         - Not Important and NOT Urgent. Tasks to DELETE.
-- The Greek language denotes two distinct principles, [Chronos](https://en.wikipedia.org/wiki/Chronos) and [Kairos](https://en.wikipedia.org/wiki/Kairos). The former refers to numeric, or chronological, time. The latter, literally "the right or opportune moment", relates specifically to metaphysical or Divine time. In theology, Kairos is qualitative, as opposed to quantitative.
-- "There is a tide in the affairs of men Which, taken at the flood, leads on to fortune; Omitted, all the voyage of their life Is bound in shallows and in miseries. On such a full sea are we now afloat; And we must take the current when it serves, Or lose our ventures." ~ William Shakespeare, "Julius Caesar" (1599), Brutus in scene iii of Act IV.
-- "Vita brevis, ars longa, occasio praeceps, experimentum periculosum, iudicium difficile." (Latin), "Life is short, the craft long, opportunity fleeting, experiment treacherous, judgment difficult." -Hippocrates. First line of "Aphorisms" from the "Hippocratic Corpus".
 - Creating > Curating > Collecting > Consuming
+- Consumer < Producer < Producers & Consumers collaborating
 - [All the world's a stage](https://en.wikipedia.org/wiki/All_the_world%27s_a_stage). Aka the seven ages of man.
     - Infant
     - Schoolboy
@@ -56,12 +56,14 @@ Here are some of my favorite heuristics. I don't think I have a "system" yet, bu
     - Justice
     - Pantaloon
     - Oblivion
-- [Five Ws](https://en.wikipedia.org/wiki/Five_Ws). Who, What, Why When, Where + How
+- [Five Ws](https://en.wikipedia.org/wiki/Five_Ws). Who, What, Why When, Where + How. E.g.
+    - Who: Loved ones. Those in need. Those to come. Non-people. Talk to a variety: age, gender, class, occupation, outlook, etc.
 - Essential > Incidental
     - Essential > Accidental
 - Impossible to Possible to Probable to Functional to Perfect
 - Build with detail, but feel the dream. Head in the clouds, feet on the ground, heart at hand.
-- Strategy. I.e. Look ahead a bit. Win then cut. Go. Rapier.
+- Construct life like a story but live it like a dream.
+- [Strategy](https://en.wikipedia.org/wiki/Strategy). I.e. Look ahead a bit. Win then cut. Go. Rapier.
 - [Maslow's hierarchy of needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs). Starting with more basic needs
     - Physiological
     - Safety
@@ -69,8 +71,23 @@ Here are some of my favorite heuristics. I don't think I have a "system" yet, bu
     - Esteem. Some insert Cognitive & Aesthetic after Esteem.
     - Self-actualization
     - Self-transcendence
+- [Risk management](https://en.wikipedia.org/wiki/Risk_management). Risk management is the identification, evaluation, and prioritization of risks (defined in ISO 31000 as the effect of uncertainty on objectives) followed by coordinated and economical application of resources to minimize, monitor, and control the probability or impact of unfortunate events or to maximize the realization of opportunities.
+- [Physicists Have Discovered a Formula for Success, and It Contains a Brutal Truth Most People Don't Want to Admit](https://www.inc.com/jessica-stillman/physicists-have-discovered-a-formula-for-success-it-contains-a-brutal-truth-most-people-dont-want-to-admit.html)
+    - Success = (Ability to execute ) * (potential value of an idea).
 
-## 1.3. Manage your suffering
+## 1.3. Time
+
+- _Carpe Diem_: Seize the day
+- The Greek language denotes two distinct principles, [Chronos](https://en.wikipedia.org/wiki/Chronos) and [Kairos](https://en.wikipedia.org/wiki/Kairos). The former refers to numeric, or chronological, time. The latter, literally "the right or opportune moment", relates specifically to metaphysical or Divine time. In theology, Kairos is qualitative, as opposed to quantitative.
+- "There is a tide in the affairs of men Which, taken at the flood, leads on to fortune; Omitted, all the voyage of their life Is bound in shallows and in miseries. On such a full sea are we now afloat; And we must take the current when it serves, Or lose our ventures." ~ William Shakespeare, "Julius Caesar" (1599), Brutus in scene iii of Act IV.
+- "Vita brevis, ars longa, occasio praeceps, experimentum periculosum, iudicium difficile." (Latin), "Life is short, the craft long, opportunity fleeting, experiment treacherous, judgment difficult." -Hippocrates. First line of "Aphorisms" from the "Hippocratic Corpus".
+- "Live as if you were to die tomorrow. Learn as if you were to live forever." ~ Gandhi
+- Past, Present, Future
+- Time is always flowing
+- Time is finite
+- Procrastination is often not about time but about emotional suffering.
+
+## 1.4. Manage your suffering
 
 - Stoicism. What you can affect.
 - Namaste > Living in a world of poison
@@ -92,8 +109,16 @@ Here are some of my favorite heuristics. I don't think I have a "system" yet, bu
 - Manage your cortisol
 - Patient Agent: No fear, no hesitation, no surprise, no doubt. ~ Musashi
 - Emotions(https://en.wikipedia.org/wiki/Emotion). Complex but includes the 6 basic emotions: anger, disgust, fear, happiness, sadness and surprise.
+- [Rational emotive behavior therapy](https://en.wikipedia.org/wiki/Rational_emotive_behavior_therapy) Aka REBT or A-B-C-D-E-F model.
+    - A stands for Activating Event or Adversity. This is any event. It is just a fact. E.g. Traffic.
+    - B refers to one's irrational Belief about the event at "A". Look for beliefs with these troublesome words such as should, ought and must. E.g. "Traffic shouldn't be this bad."
+    - C stands for the emotional and behavioral Consequences. E.g. You banging the steering wheel with your fist and sending your blood pressure into the stratosphere.
+    - D stands for Disputes or arguments against irrational beliefs. E.g. Are you demanding the universe and everyone bend to your wishes? Is that rational? No way. You can want, you can wish and you can definitely try your best in the future, but you cannot demand if you want to stay happy and sane.
+    - E stands for new Effect or the new, more Effective emotions and behaviors that result from more reasonable thinking about the original event. E.g. Accept traffic as it is.
+    - F stands for the developed Feelings. E.g. Inner peace.
 
-## 1.4. Manage complexity
+
+## 1.5. Manage complexity
 
 - Signal-to-Noise Ratio (SNR)
 - 🌱⏳🌳.
@@ -106,9 +131,10 @@ Here are some of my favorite heuristics. I don't think I have a "system" yet, bu
 - Modularity: Large complex wholes can only be actualized, managed, summed, and synergized with small simple parts.
 - 1.01^365 = 37.8, i.e. Daily 1% growth results in huge annual growth.
 - Analysis & Syntheis
-    - E.g. Many mindlessly consider health as binary (healthy or sick), but is actually large & complex, and thus should be broken into smaller and simpler components for analysis. Howwever some focus so much on the analyis that the holistic synthesis is lost.
+    - Many mindlessly consider health as binary (healthy or sick), but is actually large & complex, and thus should be broken into smaller and simpler components for analysis. Howwever some focus so much on the analyis that the holistic synthesis is lost.
+    - Analysis might separate "means to an end" as how v why, but synthesis can say that the journey and the goal are one.
 
-## Form follows function
+## 1.6. Form follows function
 
 - Function is WHAT is to be done or made. Form is HOW it is done or made.
 - "Whether it be the sweeping eagle in his flight, or the open apple-blossom, the toiling work-horse, the blithe swan, the branching oak, the winding stream at its base, the drifting clouds, over all the coursing sun, form ever follows function, and this is the law. Where function does not change, form does not change. The granite rocks, the ever-brooding hills, remain for ages; the lightning lives, comes into shape, and dies, in a twinkling. It is the pervading law of all things organic and inorganic, of all things physical and metaphysical, of all things human and all things superhuman, of all true manifestations of the head, of the heart, of the soul, that the life is recognizable in its expression, that form ever follows function. This is the law." ~ Louis Sullivan. "The Tall Office Building Artistically Considered" (1896)
@@ -128,26 +154,29 @@ Here are some of my favorite heuristics. I don't think I have a "system" yet, bu
     - It is possible to focus on the form regardless of the function (e.g. tea ceremony), but if you can derive more significance from the function, then its signal increases.
     - It is possible to focus on the form so much that it loses connection to its function. E.g. A martial art that becomes a dance; This may be acceptable when done as art for art's sake
 
-## 1.5. Better actions
+## 1.7. Better actions
 
 - Quality. E.g. ISO 9000
 - [Tao](https://en.wikipedia.org/wiki/Tao). 道. Aka Dao, Do. The Way. The "natural order". "This is The Way".
 - Growth = Stress + Rest. E.g. PDCA, Kaizen, Virtuous Circle
 - (story, struggle) > (excellence, experience)
-- Problem Solving:
-    - Understand.
-    - Plan a solution.
-    - Break the solution into small parts.
-    - Apply the solution.
-    - Determine how well the solution solved the problem.
+- Problem Solving. E.g. [How to Solve It](https://en.wikipedia.org/wiki/How_to_Solve_It) by George Pólya:
+    - Understand the problem
+    - Devise a plan/solution
+        - Break the solution into small parts.
+    - Carry out the plan.
+    - Review/extend. Determine how well the solution solved the problem. Extend it to future problems.
+- Nature to be commanded must be obeyed ~ Francis Bacon, "Novum Organum" (The New Organon) (1620).
 
-## 1.6. Humane actions
+## 1.8. Humane actions
 
 - [Golden Rule](https://en.wikipedia.org/wiki/Golden_Rule)
+    - Sex SHOULD require consent. Examples of non-consensual sex: Pedophilia, bestiality, rape.
 - Win-Win instead of Zero Sum
-- Economy of Abundance > Economy of Scarcity. I.e. Generosity > Greed.
-- A just and generous well-off society fosters positive subsistence rights
-- Sex SHOULD require consent. Examples of non-consensual sex: Pedophilia, bestiality, rape.
+    - Value > Profit. Folks are sometimes so concerned with profit that they provide negative value.
+    - Value > Political points. Folks are sometimes so concerned with winning that they provide negative value.
+    - Economy of Abundance > Economy of Scarcity. I.e. Generosity > Greed.
+    - A just and generous well-off society fosters positive subsistence rights
 - [Common good](https://en.wikipedia.org/wiki/Common_good)
     - [Tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons)
     - Perhaps a good society can provide the basics for its members.
@@ -155,11 +184,10 @@ Here are some of my favorite heuristics. I don't think I have a "system" yet, bu
     - Provide some conditions. Most parents love and care for their children unconditionally, but as the kids get older, parents tend to alter the care and add conditions. Parents "alter the deal" not because they love their kids less, but because they want to ensure the kids continue developing.
 - The right not to tolerate the intolerant ~ Karl Popper, "The Open Society and Its Enemies" (1945).
 - Machine v Garden. Focus on the garden (people, processes, policies), not the machine (hw, code, tech). The machine helps the life in the garden.
-- Value > Profit
-- Value > Political points
 - Reduce, Reuse, Recycle.
+- A government can be a Theocracy or a Democracy, but not both.
 
-## 1.7. Virtue & Sin
+## 1.9. Virtue & Sin
 
 There are many heuristics on [Virtue](https://en.wikipedia.org/wiki/Virtue) and [Sin](https://en.wikipedia.org/wiki/Sin). My set is rather arbitrary and arranged by "number".
 
@@ -188,6 +216,7 @@ There are many heuristics on [Virtue](https://en.wikipedia.org/wiki/Virtue) and 
         - Courage: The virtue of facing fear and risk.
         - Rashness: The vice of excess courage.
         - Cowardice: The vice of deficient courage.
+- [Theological virtues](https://en.wikipedia.org/wiki/Theological_virtues). 3: Faith, Hope, Charity/Love.
 - [Brahmavihara](https://en.wikipedia.org/wiki/Brahmavihara). 4: Benevolence, Compassion, Joy, Equanimity.
 - [Seven deadly sin](https://en.wikipedia.org/wiki/Seven_deadly_sins). 7/8 sins sort of derived from the Transcendental & Cardinal Virtues.
     - Gula (gluttony)
@@ -250,7 +279,7 @@ My favorite is __GRACE__:
 - Grace is virtue so elegant, that it seems natural & effortless. The intolerant seek purity, and yet they tarnish themselves because trying to diminish the grace of another diminishes your own grace. Foster grace in others & you foster grace in yourself too.
 - Today I dwell on grace. Grace is a combination of elegance and divine blessing. Grace is beauty beyond form that extends into love. Grace is the sound of your child's first cry or your mother's last breath. Grace are creatures or water in any form. Grace ranges from unprocessed nature to the constructs of man. Grace is fairness, respect, and dignity. Grace delights in science that explores the conversion of sunlight into nourishing food. Grace is there in your darkest moments when faith and hope are just pale flickers of light. Grace abounds in your greatest moments when you are shining with hope and love. Grace is mysterious but obvious. Namaste and may the grace of God be with you. ~ Myself
 
-## 1.8. Some Ethics
+## 1.10. Some Ethics
 
 A spectrum
 
@@ -301,7 +330,7 @@ TODO
     - 2019-03-19
     - 2020-02-22
 
-## 1.9. Learning & Teaching
+## 1.11. Learning & Teaching
 
 - 10 Kh to become an expert. 20 h to learn. The major barrier to skill isn't intellectual, it's emotional.
     - Get the tools.
@@ -319,7 +348,7 @@ TODO
     - Train incompatible behaviors to tip the scales towards getting the desired results.
 - Study things by analysis (breaking down), then make new things by synthesis.
 
-## 1.10. Social lubrication
+## 1.12. Social lubrication
 
 - Rhetoric: inform, persuade, or motivate. Appeal with logos, pathos, and ethos. Use invention, arrangement, style, memory, & delivery.
 - THINK: Is your communication True, Helpful, Inspiring, Necessary, Kind?
@@ -327,3 +356,27 @@ TODO
 - Email subjects
     - Verb + Object. E.g: [schedule, view, read, print, sign, scan, return, confirm receipt] + [this, person]. E.g. Call Susan
     - Subject only, i.e. no body. E.g. No text (N/T), End of Message (EOM), No reply necessary (NRN). E.g. \[EOM\] Package received.
+- Apply OOP broadly: There are classes & object instances with properties, methods, interfaces, input, output, etc. The context matters. We rewrite our own human programming.
+- Influence without authority.
+    - You can't do everything.
+    - You're not the boss of everyone.
+    - People are part of nature too: Nature to be commanded must be obeyed ~ Francis Bacon, "Novum Organum" (The New Organon) (1620).
+- Sometimes it is better to err on the side of over communcation.
+- "The Success Indicator Acceleration Report" by MaryEllen Tribby
+    - Compliment > Criticize
+    - Forgive others > Hold a grudge
+    - Accept responsibility for their failures > Blame others for their failures
+    - Keep a journal > Say they keep a journal but really don't
+    - Want others to succeed > Secretly hope others fail
+    - Keep a "to be" list > Don't know what they want to be
+    - Set goals and develop life plans > Never set goals
+    - Continuously learn > Think they know it all
+    - Operate from a transformational perspective > Operate from a transactional perspective
+    - Keep a "to do/project" list > Fly by the seat of their pants
+    - Embrace change > Fear change
+    - Exude joy > Exude anger
+    - Share information and data > Horde information and data
+    - Talk about ideas  > Talk about people
+    - Read everyday > Watch TV everyday
+    - Give other people credit for their victories > Take all the credit of the their victories
+    - Have a sense of gratitude > Have a sense of entitlement
