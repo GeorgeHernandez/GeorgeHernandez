@@ -6,14 +6,9 @@ I am a calm, candid, & curious cat who strives to be a courageous, creative, & k
 
 I am usually quiet but I will share a few things here:
 
-- Some of [my opinions](Opinions.md).
-- Some of [my favorite quotes](Quotes.md).
-
-<!--
-We all have different experiences, paths, heuristics, histories, futures, context, etc., and yet we also have so much in common that sharing makes all of us better.
-
-Policy affects many of us (the *polis*) and thus we need to make those decisions together, preferably using best practices, evidence, well formed logic, transparency, testing, perspective, etc., but also in an effective, timely, earnest, heard, woke, and emotionally conscious manner.
--->
+- 💬 [My favorite quotes](Quotes.md).
+- 🤌🏽 [My opinions](Opinions.md).
+- ✨ [Stuff I find wonderful](Wonderful.md)
 
 <!--
 **GeorgeHernandez/GeorgeHernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
