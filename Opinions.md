@@ -1,10 +1,6 @@
 # 1. My opinions
 
-On this page I share some of my opinions to express myself and maka a minor contribution to society.
-
-I'm not here to write long elaborate manifestos about everything, but rather to make short expressive statements on select subjects in my own idiom.
-
-I'm not here to totally change the world. I'm not doing a sophisticated coordinated campaign utilizing every social media platform. Rather I'm just muttering to myself on GitHub.
+Here are some of my opinions to express myself in my own idiom and to maka a minor contribution to society. In short, I'm just muttering to myself on GitHub.
 
 - [1. My opinions](#1-my-opinions)
     - [1.1. SHOULD](#11-should)
@@ -40,7 +36,7 @@ I'm not here to totally change the world. I'm not doing a sophisticated coordina
         [1, 2, 3, 6, 9, 12, 15, 18, 21, 24]
         ```
 
-- Browser: Google Chrome. If you use multiple Google accounts. Chrome use less memory and have vertical tabbing.
+- Browser: Google Chrome. Best by largest number of users and if you use multiple Google accounts. Chrome use less memory and have vertical tabbing.
 
 ### 1.1.2. Better
 
