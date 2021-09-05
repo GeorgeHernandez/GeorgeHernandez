@@ -1,10 +1,10 @@
 # Hello, world! 👋 🌎
 
-My name is George Hernandez and I live in Chicago. I work as Chief of Applications at [Roji Health Intelligence](https://rojihealthintelligence.com) in the healthcare industry there. (Yes it's a [Yon Yonson](https://en.wikipedia.org/wiki/Yon_Yonson) joke.)
+My name is George Hernandez and I live in Chicago. I work as Chief of Applications at [Roji Health Intelligence](https://rojihealthintelligence.com) in the healthcare industry there. (Yes it's a [Yon Yonson](https://en.wikipedia.org/wiki/Yon_Yonson) reference.)
 
 I am a calm, candid, & curious cat who strives to be a courageous, creative, & kind contributor.
 
-I am usually quiet but I'll share some of [my opinions](Opinions/index.md) to express myself and maka a minor contribution to society.
+I am usually quiet but I share some of [my opinions](Opinions/index.md) to express myself and maka a minor contribution to society.
 
 <!--
 We all have different experiences, paths, heuristics, histories, futures, context, etc., and yet we also have so much in common that sharing makes all of us better.

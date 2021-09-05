@@ -1,22 +1,23 @@
 # 1. My opinions
 
-On this page I'm sharing some of my opinions to express myself and maka a minor contribution to society.
+On this page I share some of my opinions to express myself and maka a minor contribution to society.
 
-I'm not here to write long elaborate manifestos about everything, but rather to make short expressive statements on select subjects.
+I'm not here to write long elaborate manifestos about everything, but rather to make short expressive statements on select subjects in my own idiom.
 
 I'm not here to totally change the world. I'm not doing a sophisticated coordinated campaign utilizing every social media platform. Rather I'm just muttering to myself on GitHub.
 
 - [1. My opinions](#1-my-opinions)
-  - [1.1. SHOULD](#11-should)
-    - [1.1.1. Best](#111-best)
-    - [1.1.2. Better](#112-better)
-    - [1.1.3. Good](#113-good)
-  - [1.2. SHOULD CSE](#12-should-cse)
-    - [1.2.1. Best](#121-best)
-    - [1.2.2. Better](#122-better)
-    - [1.2.3. Good](#123-good)
-  - [1.3. SHOULD NOT](#13-should-not)
-  - [1.4. Bonus: Some quotes on facts & opinions](#14-bonus-some-quotes-on-facts--opinions)
+    - [1.1. SHOULD](#11-should)
+        - [1.1.1. Best](#111-best)
+        - [1.1.2. Better](#112-better)
+        - [1.1.3. Good](#113-good)
+    - [1.2. SHOULD CSE](#12-should-cse)
+        - [1.2.1. Best](#121-best)
+        - [1.2.2. Better](#122-better)
+        - [1.2.3. Good](#123-good)
+    - [1.3. SHOULD NOT](#13-should-not)
+    - [1.4. My opinions on opinions](#14-my-opinions-on-opinions)
+        - [1.4.1. Bonus: Some quotes on facts & opinions](#141-bonus-some-quotes-on-facts--opinions)
 
 ## 1.1. SHOULD
 
@@ -39,6 +40,8 @@ I'm not here to totally change the world. I'm not doing a sophisticated coordina
         [1, 2, 3, 6, 9, 12, 15, 18, 21, 24]
         ```
 
+- Browser: Google Chrome. If you use multiple Google accounts. Chrome use less memory and have vertical tabbing.
+
 ### 1.1.2. Better
 
 - Breastfeeding > Formula
@@ -49,7 +52,7 @@ I'm not here to totally change the world. I'm not doing a sophisticated coordina
 - Languages with few characters > 100s of characters
 - LibreOffice > Open Office. LO can incorporate features from OO, but not the other way. LO has ~50x as many users.
 - Renewable & Reusable > Single use
-- Period (`.`) > Comma (`,`). For use as a decimal character, the period is simpler.
+- Period (`.`) > Comma (`,`). For use as a decimal character, the period is simpler. It's right there on the numeric keypad.
 - Wheelbarrow with centrally-mounted wheel > end-mounted wheel
 
 ### 1.1.3. Good
@@ -65,7 +68,6 @@ I'm not here to totally change the world. I'm not doing a sophisticated coordina
 
 - Unicode Encoding: UTF-8, which is Windows Code Page Identifier 65001.
 - Version Control: Git
-- Browser: Google Chrome. Could use less memory and have vertical tabbing.
 - Indentation: 2 spaces, unless your system requires otherwise.
 - Web Service: REST Web API
 
@@ -81,17 +83,7 @@ I'm not here to totally change the world. I'm not doing a sophisticated coordina
 
 - The end of files (EOF) SHOULD have a blank line.
 - Long versions of options for console commands SHOULD use a double dash, while the short versions use a single dash. E.g. `--force` and `-f`.
-- The top of HTML 5 documents SHOULD be:
-    - `<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">`
-    - In Pug/Jade:
-
-        ```jade
-        doctype html
-        html(lang="en")
-            head
-                meta(charset="utf-i")
-        ```
-
+- The top of most of my HTML 5 documents SHOULD be: `<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">`
 - [Semantic Versioning](http://semver.org/) SHOULD be used. E.g.
     - `"foo": "1.8.7"`
         - `1`. MAJOR. Incompatible changes to the API.
@@ -109,9 +101,25 @@ I'm not here to totally change the world. I'm not doing a sophisticated coordina
 - Driving distracted, i.e. texting, doing social media, watching videos, etc.
 - Firing guns into the air
 - Loud music after midnight if your neighbors can hear it
-- Anti: Vaccines, Round Earth, Evolution, Apollo Missions, Education & Science
+- Anti: Vaccines, Round Earth, Evolution, Apollo Missions, Education & Science, Separation of church & state
 
-## 1.4. Bonus: Some quotes on facts & opinions
+## 1.4. My opinions on opinions
+
+Your opinions and worldview will almost certainly differ from mine. And yet we have so much in common that it is important to be able to share and parse our opinions.
+
+Policy affects many of us (the *polis*) and thus we need to make those decisions together, preferably using best practices, evidence, well formed logic, transparency, testing, perspective, etc., but also in an effective, timely, earnest, heard, woke, and emotionally conscious manner.
+
+- LOGIC. Given the [is-ought problem](https://en.wikipedia.org/wiki/Is%E2%80%93ought_problem) and the [fact-value distinction](https://en.wikipedia.org/wiki/Fact%E2%80%93value_distinction), ought/value opinions may not be purely derived from facts or what-is. Even so we all form opinions. If however I present a proposition with a [formal fallacy](https://en.wikipedia.org/wiki/Formal_fallacy), then I apologize and should appreciate having it pointed out to me.
+- FACTS. These should be reasonably independent of belief. The blur between [facts](https://en.wikipedia.org/wiki/Fact) and [opinions](https://en.wikipedia.org/wiki/Opinion) is astonishing. Is it possible to have all the facts? Do you know all the facts about your father? Education varies: Some people with no formal education may have a better set of facts; Two people can go to the same classes and come out with different facts. If my opinions are missing key facts, then I should appreciate being informed of the facts.
+- EXPERIMENTS. The scientific method has been Man's best tool for coming up with positive facts. However it needs a creative hypothesis (i.e. an opinion) that can be tested. Similarly a person's character may just be bluster if never tested.
+- DEFINITIONS. Some definitions are merely tautologies or language-games (Wittgenstein) and should be taken with a grain of salt. I may provide definitions that are convenient or context specific, and thus may vary from the vernacular or more proper definitions or standards. Definitions, like axioms, are in effect opinions upon which you build propositions or other opinions.
+- EXPERIENCES. Anecdotal experiences are facts but like facts come in a great variety. Experiences can strongly color opinions and it is good to be aware of that.
+- QUOTES. These are often succinct and witty, but also provide other perspectives, other opinions.
+- HEURISTICS. While not optimal, perfect, or rational, heuristics are often satisfactory and are an opinion shared by many. I will strive to generate a small set of common sense, secular heuristics that can be used as axioms to apply broadly. Heuristics also come in a great variety. Heuristics, whether good or bad, sometimes become traditions.
+- METAPHORS. Metaphors are great because they take something we already know and carry them forward to something else.
+- PERSPECTIVE: Opinions vary in different points in our lives, contexts, etc.
+
+### 1.4.1. Bonus: Some quotes on facts & opinions
 
 "You can spend your whole life building a wall of facts between you and anything real." - Chuck Palahniuk
 
