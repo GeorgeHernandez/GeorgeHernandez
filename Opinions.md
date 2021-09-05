@@ -1,8 +1,8 @@
-# 1. My opinions
+# 1. My Opinions
 
 Here are some of my opinions to express myself in my own idiom and to maka a minor contribution to society. In short, I'm just muttering to myself on GitHub.
 
-- [1. My opinions](#1-my-opinions)
+- [1. My Opinions](#1-my-opinions)
     - [1.1. SHOULD](#11-should)
         - [1.1.1. Best](#111-best)
         - [1.1.2. Better](#112-better)

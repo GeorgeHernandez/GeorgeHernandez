@@ -1,14 +1,14 @@
 # Wonderful
 
-Here is some stuff that I find wonderful.
+Here is some stuff that I find wonderful, almost magical.
 
 - Bicycles. Balance and mechanical advantage.
 - Children
-- Water: Clouds. Waves.
+- Water: Clouds. Waves. Bodies of water.
 - Flight
 - Plants & Trees. Photosynthesis & Photons.
 - Pre-Verbals
 - Salt
-- Triangles & Circles
+- Math, Triangles Circles. E.g. 3^2 + 4^2 = 5^^2
 - Craftsmanship & Care. By any species, in any capacity.
 - Bagheera kiplingi. Of the 40K species of spider this is the only one that is vegetarian.
