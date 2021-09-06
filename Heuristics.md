@@ -7,16 +7,16 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
     - [1.2. Perspective](#12-perspective)
     - [1.3. WHO](#13-who)
     - [1.4. WHEN](#14-when)
-    - [1.5. Manage your suffering (HOW)](#15-manage-your-suffering-how)
-    - [1.6. Manage complexity (HOW)](#16-manage-complexity-how)
-    - [1.7. Form follows function (HOW/WHAT)](#17-form-follows-function-howwhat)
-    - [1.8. Better actions (HOW)](#18-better-actions-how)
-    - [1.9. Humane actions (HOW/WHY)](#19-humane-actions-howwhy)
-    - [1.10. Virtue & Sin (HOW)](#110-virtue--sin-how)
-    - [1.11. Some Ethics (HOW)](#111-some-ethics-how)
-    - [1.12. Learning & Teaching (HOW)](#112-learning--teaching-how)
-    - [1.13. Social lubrication (HOW)](#113-social-lubrication-how)
-    - [1.14. Goals (WHAT/WHY)](#114-goals-whatwhy)
+    - [1.5. Goals (WHAT/WHY)](#15-goals-whatwhy)
+    - [1.6. Manage your suffering (HOW)](#16-manage-your-suffering-how)
+    - [1.7. Manage complexity (HOW)](#17-manage-complexity-how)
+    - [1.8. Form follows function (HOW/WHAT)](#18-form-follows-function-howwhat)
+    - [1.9. Better actions (HOW)](#19-better-actions-how)
+    - [1.10. Humane actions (HOW/WHY)](#110-humane-actions-howwhy)
+    - [1.11. Virtue & Sin (HOW)](#111-virtue--sin-how)
+    - [1.12. Some Ethics (HOW)](#112-some-ethics-how)
+    - [1.13. Learning & Teaching (HOW)](#113-learning--teaching-how)
+    - [1.14. Social lubrication (HOW)](#114-social-lubrication-how)
 
 ## 1.1. Epistemology
 
@@ -31,8 +31,16 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
     - [Fallacy](https://en.wikiquote.org/wiki/Fallacy)
     - [Formal fallacy](https://en.wikipedia.org/wiki/Formal_fallacy)
     - [Cargo cult science](https://en.wikipedia.org/wiki/Cargo_cult_science)
-- [Scientific method](https://en.wikipedia.org/wiki/Scientific_method)
+- [Scientific method](https://en.wikipedia.org/wiki/Scientific_method).
     - 'The test of all knowledge is experiment. Experiment is the sole judge of scientific “truth”.' ~ Richard Feynman
+    - Key parts of the scientific method
+        - Make observations, characterizations
+        - Formulate interesting questions.
+        - Form Hypotheses
+        - Make a testable prediction.
+        - Test and experiment. Can the test be repeated? Gather and share the data.
+        - Analyze, induce, form general theories.
+        - Subject to external and peer review.
     - [Falsifiability](https://en.wikipedia.org/wiki/Falsifiability)
     - [Bayesian inference](https://en.wikipedia.org/wiki/Bayesian_inference)
 - [Johari window](https://en.wikipedia.org/wiki/Johari_window). Contemporarily used by Donald Rumsfeld when he said ["There are known knowns"](https://en.wikipedia.org/wiki/There_are_known_knowns.)
@@ -58,7 +66,7 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
     - Slow is smooth. Smooth is fast.
 - Prioritize
     - Sequence matters. E.g. Recipes follow a sequence.
-    - Pareto principle: The vital few with the most ROI
+    - [Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle). Roughly 80% of consequences come from 20% of causes. The vital few with the most ROI.
     - The Important & Urgent
         - "I have two kinds of problems: the urgent and the important. The urgent are not important, and the important are never urgent." ~ In a 1954 speech to the Second Assembly of the World Council of Churches, former U.S. President Dwight D. Eisenhower, who was quoting Dr J. Roscoe Miller, president of Northwestern University, said the above. This "Eisenhower Principle" is said to be how he organized his workload and priorities. Important items contribute to our goals; Urgent items contribute to the goals of others.
         - Important and Urgent. Tasks to DO IMMEDIATELY.
@@ -67,15 +75,7 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
         - Not Important and NOT Urgent. Tasks to DELETE.
 - Creating > Curating > Collecting > Consuming
 - Consumer < Producer < Producers & Consumers collaborating
-- [All the world's a stage](https://en.wikipedia.org/wiki/All_the_world%27s_a_stage). Aka the seven ages of man.
-    - Infant
-    - Schoolboy
-    - Lover
-    - Soldier
-    - Justice
-    - Pantaloon
-    - Oblivion
-- [Five Ws](https://en.wikipedia.org/wiki/Five_Ws). Who, What, Why When, Where + How. E.g.
+- [Five Ws](https://en.wikipedia.org/wiki/Five_Ws). Who, What, Why When, Where + How. Personally what & why are more difficult.
 - Essential > Incidental
     - Essential > Accidental
 - Impossible to Possible to Probable to Functional to Perfect
@@ -95,7 +95,13 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
 
 ## 1.3. WHO
 
-- 1: You. 2: Someone you're communicating with. 3: Others.
+- [Grammatical person](https://en.wikipedia.org/wiki/Grammatical_person)
+    - 1st person singular: I. Me. Us.
+    - 1st person plural: We.
+    - 2nd person singular: You. Thee. Thou.
+    - 2nd person plural: Ye. Y'all. You guys. Yinz. Youse.
+    - 3rd person singular: He. She. It.
+    - 3rd person plural: They. Them
 - Loved ones.
 - Those in need.
 - Those to come.
@@ -107,17 +113,46 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
 
 ## 1.4. WHEN
 
-- _Carpe Diem_: Seize the day
-- The Greek language denotes two distinct principles, [Chronos](https://en.wikipedia.org/wiki/Chronos) and [Kairos](https://en.wikipedia.org/wiki/Kairos). The former refers to numeric, or chronological, time. The latter, literally "the right or opportune moment", relates specifically to metaphysical or Divine time. In theology, Kairos is qualitative, as opposed to quantitative.
-- "There is a tide in the affairs of men Which, taken at the flood, leads on to fortune; Omitted, all the voyage of their life Is bound in shallows and in miseries. On such a full sea are we now afloat; And we must take the current when it serves, Or lose our ventures." ~ William Shakespeare, "Julius Caesar" (1599), Brutus in scene iii of Act IV.
-- "Vita brevis, ars longa, occasio praeceps, experimentum periculosum, iudicium difficile." (Latin), "Life is short, the craft long, opportunity fleeting, experiment treacherous, judgment difficult." -Hippocrates. First line of "Aphorisms" from the "Hippocratic Corpus".
-- "Live as if you were to die tomorrow. Learn as if you were to live forever." ~ Gandhi
-- Past, Present, Future
-- Time is always flowing
+- Time and Date Standard: [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601), e.g. `YYYY-MM-DD hh:mm:ss` and `P3DT2H`. http://xkcd.com/1179/. I wonder if `2019\10\03-24` would have been better?
 - Time is finite
-- Procrastination is often not about time but about emotional suffering.
+- How long? How often?
+- Past
+- Present
+    - _Carpe Diem_: Seize the day
+    - The Greek language denotes two distinct principles, [Chronos](https://en.wikipedia.org/wiki/Chronos) and [Kairos](https://en.wikipedia.org/wiki/Kairos). The former refers to numeric, or chronological, time. The latter, literally "the right or opportune moment", relates specifically to metaphysical or Divine time. In theology, Kairos is qualitative, as opposed to quantitative.
+    - "There is a tide in the affairs of men Which, taken at the flood, leads on to fortune; Omitted, all the voyage of their life Is bound in shallows and in miseries. On such a full sea are we now afloat; And we must take the current when it serves, Or lose our ventures." ~ William Shakespeare, "Julius Caesar" (1599), Brutus in scene iii of Act IV.
+- Future
+    - [Destiny](https://en.wikipedia.org/wiki/Destiny)
+    - [Wyrd](https://en.wikipedia.org/wiki/Wyrd)
+- Time is always flowing
+    - [Procrastination](https://en.wikipedia.org/wiki/Procrastination) is often not about time but about emotional suffering.
+    - "Vita brevis, ars longa, occasio praeceps, experimentum periculosum, iudicium difficile." (Latin), "Life is short, the craft long, opportunity fleeting, experiment treacherous, judgment difficult." -Hippocrates. First line of "Aphorisms" from the "Hippocratic Corpus".
+    - "Live as if you were to die tomorrow. Learn as if you were to live forever." ~ Gandhi
+    - [All the world's a stage](https://en.wikipedia.org/wiki/All_the_world%27s_a_stage). Aka the seven ages of man.
+        - Infant
+        - Schoolboy
+        - Lover
+        - Soldier
+        - Justice
+        - Pantaloon
+        - Oblivion
+    - ["This too shall pass"](https://en.wikipedia.org/wiki/This_too_shall_pass)
+    - ["Ozymandias"](https://en.wikipedia.org/wiki/Ozymandias) by English Romantic poet Percy Bysshe Shelley.
 
-## 1.5. Manage your suffering (HOW)
+## 1.5. Goals (WHAT/WHY)
+
+- [Meaning-making](https://en.wikipedia.org/wiki/Meaning-making). In psychology, meaning-making is the process of how people construe, understand, or make sense of life events, relationships, and the self.
+- [Ikiga](https://en.wikipedia.org/wiki/Ikigai). 生き甲斐, 'a reason for being'.
+    - What you LOVE
+    - What the world NEEDS
+    - What you can be PAID FOR
+    - What you are GOOD AT
+        - Special case: What can only you do?
+    - What you CAN GET
+- The adage is "You are what you do", but consider being your best self and letter your nature drive what you do.
+- [Satisficing](https://en.wikipedia.org/wiki/Satisficing). A decision-making strategy or cognitive heuristic that entails searching through the available alternatives until an acceptability threshold is met. E.g. A task is to sew a patch onto a pair of blue pants. The best needle to do the threading is a 4-cm-long needle with a 3-millimeter eye. This needle is hidden in a haystack along with 1,000 other needles varying in size from 1 cm to 6 cm. Satisficing claims that the first needle that can sew on the patch is the one that should be used. Spending time searching for that one specific needle in the haystack is a waste of energy and resources.
+
+## 1.6. Manage your suffering (HOW)
 
 - [Stoicism](https://en.wikipedia.org/wiki/Stoicism). What you can affect.
 - [_Namaste_](https://en.wikipedia.org/wiki/Namaste) > Living in a world of poison
@@ -136,10 +171,9 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
     - Do you have X? Or does X have you?
     - Mindful > Mindless
     - Be present
-- Manage your cortisol
 - Be a Patient Agent.
 - "No fear, no hesitation, no surprise, no doubt." ~ Musashi
-- Emotions(https://en.wikipedia.org/wiki/Emotion). Complex but includes the 6 basic emotions: anger, disgust, fear, happiness, sadness and surprise.
+- [Emotions](https://en.wikipedia.org/wiki/Emotion). Complex but includes the 6 basic emotions: anger, disgust, fear, happiness, sadness and surprise.
 - [Rational emotive behavior therapy](https://en.wikipedia.org/wiki/Rational_emotive_behavior_therapy) Aka REBT or A-B-C-D-E-F model.
     - A stands for Activating Event or Adversity. This is any event. It is just a fact. E.g. Traffic.
     - B refers to one's irrational Belief about the event at "A". Look for beliefs with these troublesome words such as should, ought and must. E.g. "Traffic shouldn't be this bad."
@@ -148,12 +182,15 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
     - E stands for new Effect or the new, more Effective emotions and behaviors that result from more reasonable thinking about the original event. E.g. Accept traffic as it is.
     - F stands for the developed Feelings. E.g. Inner peace.
 
-## 1.6. Manage complexity (HOW)
+## 1.7. Manage complexity (HOW)
 
 - Signal-to-Noise Ratio (SNR)
 - 🌱⏳🌳.
+    - Start small and over time produce results.
     - 1.01^365 = 37.8, i.e. Daily 1% growth results in huge annual growth.
-- As simple as possible, but no simpler
+    - "Every journey begins with a single step." ~ Laozi in Tao Te Ching
+- As simple as possible, but no simpler.
+    - [Perfect is the enemy of good](https://en.wikipedia.org/wiki/Perfect_is_the_enemy_of_good)
 - Don't reinvent the wheel.
 - [Programming principle](https://en.wikipedia.org/wiki/Category:Programming_principles). Many of these apply to regular life. Here are some favorites:
     - [Keep it simple, stupid (KISS)](https://en.wikipedia.org/wiki/KISS_principle)
@@ -161,12 +198,11 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
     - [You aren't gonna need it (YAGNI)](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it). Counter balances too much DRY.
     - [Unix philosophy](https://en.wikipedia.org/wiki/Unix_philosophy)
     - [Modularity](https://en.wikipedia.org/wiki/Modularity): Large complex wholes can only be actualized, managed, summed, and synergized with small simple parts.
-        - "Every journey begins with a single step." ~ Laozi in Tao Te Ching
 - Analysis & Syntheis
     - Many mindlessly consider health as binary (healthy or sick), but is actually large & complex, and thus should be broken into smaller and simpler components for analysis. Howwever some focus so much on the analyis that the holistic synthesis is lost.
     - Analysis might separate "means to an end" as how v why, but synthesis can say that the journey and the goal are one.
 
-## 1.7. Form follows function (HOW/WHAT)
+## 1.8. Form follows function (HOW/WHAT)
 
 - Function is WHAT is to be done or made. Form is HOW it is done or made.
 - "Whether it be the sweeping eagle in his flight, or the open apple-blossom, the toiling work-horse, the blithe swan, the branching oak, the winding stream at its base, the drifting clouds, over all the coursing sun, form ever follows function, and this is the law. Where function does not change, form does not change. The granite rocks, the ever-brooding hills, remain for ages; the lightning lives, comes into shape, and dies, in a twinkling. It is the pervading law of all things organic and inorganic, of all things physical and metaphysical, of all things human and all things superhuman, of all true manifestations of the head, of the heart, of the soul, that the life is recognizable in its expression, that form ever follows function. This is the law." ~ Louis Sullivan. "The Tall Office Building Artistically Considered" (1896)
@@ -186,11 +222,11 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
     - It is possible to focus on the form regardless of the function (e.g. tea ceremony), but if you can derive more significance from the function, then its signal increases.
     - It is possible to focus on the form so much that it loses connection to its function. E.g. A martial art that becomes a dance; This may be acceptable when done as art for art's sake
 
-## 1.8. Better actions (HOW)
+## 1.9. Better actions (HOW)
 
 - Quality. E.g. ISO 9000
-- [Tao](https://en.wikipedia.org/wiki/Tao). 道. Aka Dao, Do. The Way. The "natural order". "This is The Way".
 - Growth = Stress + Rest. E.g. PDCA, Kaizen, Virtuous Circle
+- Nature to be commanded must be obeyed ~ Francis Bacon, "Novum Organum" (The New Organon) (1620).
 - (story, struggle) > (excellence, experience)
 - Problem Solving. E.g. [How to Solve It](https://en.wikipedia.org/wiki/How_to_Solve_It) by George Pólya:
     - Understand the problem
@@ -198,9 +234,9 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
         - Break the solution into small parts.
     - Carry out the plan.
     - Review/extend. Determine how well the solution solved the problem. Extend it to future problems.
-- Nature to be commanded must be obeyed ~ Francis Bacon, "Novum Organum" (The New Organon) (1620).
+- [Wicked problem](https://en.wikipedia.org/wiki/Wicked_problem)
 
-## 1.9. Humane actions (HOW/WHY)
+## 1.10. Humane actions (HOW/WHY)
 
 - [Golden Rule](https://en.wikipedia.org/wiki/Golden_Rule)
     - Sex SHOULD require consent. Examples of non-consensual sex: Pedophilia, bestiality, rape.
@@ -218,12 +254,17 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
 - Machine v Garden. Focus on the garden (people, processes, policies), not the machine (hw, code, tech). The machine helps the life in the garden.
 - Reduce, Reuse, Recycle.
 - A government can be a Theocracy or a Democracy, but not both.
+- [Ubuntu](https://en.wikipedia.org/wiki/Ubuntu_philosophy)
 
-## 1.10. Virtue & Sin (HOW)
+## 1.11. Virtue & Sin (HOW)
 
 There are many heuristics on [Virtue](https://en.wikipedia.org/wiki/Virtue) and [Sin](https://en.wikipedia.org/wiki/Sin). My set is rather arbitrary and arranged by "number".
 
-- [Om](https://en.wikipedia.org/wiki/Om). 🕉. The sound of a sacred spiritual symbol in Indian religions, mainly in Hinduism, wherein it signifies the essence of the ultimate reality (_parabrahman_) which is consciousness (_paramatman_). More broadly, it is a syllable that is chanted either independently or before a spiritual recitation in Hinduism, Buddhism, and Jainism. E.g. [The Meaning Behind The Om Symbol & Sound, Plus How To Use It Respectfully](https://www.mindbodygreen.com/articles/what-does-the-om-symbol-mean).
+- [_Om_](https://en.wikipedia.org/wiki/Om). 🕉. The sound of a sacred spiritual symbol in Indian religions, mainly in Hinduism, wherein it signifies the essence of the ultimate reality (_parabrahman_) which is consciousness (_paramatman_). More broadly, it is a syllable that is chanted either independently or before a spiritual recitation in Hinduism, Buddhism, and Jainism. E.g. [The Meaning Behind The Om Symbol & Sound, Plus How To Use It Respectfully](https://www.mindbodygreen.com/articles/what-does-the-om-symbol-mean).
+- [_Qi_](https://en.wikipedia.org/wiki/Qi). 氣. Vitality.
+- [_Tao_](https://en.wikipedia.org/wiki/Tao). 道. Aka Dao, Do. The Way. The "natural order". "This is The Way".
+- [_Dharma_](https://en.wikipedia.org/wiki/Dharma). Nature & natural. _Adharma_ is unnatural.
+- [Yin and Yang](https://en.wikipedia.org/wiki/Yin_and_yang) ☯️ of [Taoism](https://en.wikipedia.org/wiki/Taoism).
 - [Life, Liberty and the pursuit of Happiness](https://en.wikipedia.org/wiki/Life,_Liberty_and_the_pursuit_of_Happiness).
     - Life. Survival.
     - Liberty. Consent.
@@ -249,7 +290,8 @@ There are many heuristics on [Virtue](https://en.wikipedia.org/wiki/Virtue) and 
         - Rashness: The vice of excess courage.
         - Cowardice: The vice of deficient courage.
 - [Theological virtues](https://en.wikipedia.org/wiki/Theological_virtues). 3: Faith, Hope, Charity/Love.
-- [Brahmavihara](https://en.wikipedia.org/wiki/Brahmavihara). 4: Benevolence, Compassion, Joy, Equanimity.
+- [_Brahmavihara_](https://en.wikipedia.org/wiki/Brahmavihara). 4: Benevolence, Compassion, Joy, Equanimity.
+- [Classical elements](https://en.wikipedia.org/wiki/Classical_element). 4/5 shared by several ancient cultures: Earth, Water, Air, Fire, & Aether/Void. The Chinese Wu Xing system also includes Wood and Metal.
 - [Seven deadly sin](https://en.wikipedia.org/wiki/Seven_deadly_sins). 7/8 sins sort of derived from the Transcendental & Cardinal Virtues.
     - Gula (gluttony)
     - Luxuria/Fornicatio (lust, fornication)
@@ -259,7 +301,7 @@ There are many heuristics on [Virtue](https://en.wikipedia.org/wiki/Virtue) and 
     - Acedia (sloth)
     - Vanagloria (vainglory)
     - Superbia (pride, hubris)
-- [Bushido](https://en.wikipedia.org/wiki/Bushido). 7:
+- [_Bushido_](https://en.wikipedia.org/wiki/Bushido). 7:
     - 義   = Gi     = Rectitude (Right Decisions/Justice and Morality)
     - 勇   = Yu     = Courage
     - 仁   = Jin    = Benevolence
@@ -289,16 +331,15 @@ There are many heuristics on [Virtue](https://en.wikipedia.org/wiki/Virtue) and 
 - [Chivalry](https://en.wikipedia.org/wiki/Chivalry). 10 here as well.
 - Bertrand Russel: "Perhaps the essence of the Liberal outlook could be summed up in a new decalogue, not intended to replace the old one but only to supplement it. The Ten Commandments that, as a teacher, I should wish to promulgate, might be set forth as follows:
     1. Do not feel absolutely certain of anything.
-    1. Do not think it worth while to proceed by concealing evidence, for the evidence is sure to come to light.
-    1. Never try to discourage thinking for you are sure to succeed.
-    1. When you meet with opposition, even if it should be from your husband or your children, endeavor to overcome it by argument and not by authority, for a victory dependent upon authority is unreal and illusory.
-    1. Have no respect for the authority of others, for there are always contrary authorities to be found.
-    1. Do not use power to suppress opinions you think pernicious, for if you do the opinions will suppress you.
-    1. Do not fear to be eccentric in opinion, for every opinion now accepted was once eccentric.
-    1. Find more pleasure in intelligent dissent than in passive agreement, for, if you value intelligence as you should, the former implies a deeper agreement than the latter.
-    1. Be scrupulously truthful, even if the truth is inconvenient, for it is more inconvenient when you try to conceal it.
-    1. Do not feel envious of the happiness of those who live in a fool’s paradise, for only a fool will think that it is happiness.
-
+    2. Do not think it worth while to proceed by concealing evidence, for the evidence is sure to come to light.
+    3. Never try to discourage thinking for you are sure to succeed.
+    4. When you meet with opposition, even if it should be from your husband or your children, endeavor to overcome it by argument and not by authority, for a victory dependent upon authority is unreal and illusory.
+    5. Have no respect for the authority of others, for there are always contrary authorities to be found.
+    6. Do not use power to suppress opinions you think pernicious, for if you do the opinions will suppress you.
+    7. Do not fear to be eccentric in opinion, for every opinion now accepted was once eccentric.
+    8. Find more pleasure in intelligent dissent than in passive agreement, for, if you value intelligence as you should, the former implies a deeper agreement than the latter.
+    9. Be scrupulously truthful, even if the truth is inconvenient, for it is more inconvenient when you try to conceal it.
+    10. Do not feel envious of the happiness of those who live in a fool’s paradise, for only a fool will think that it is happiness.
 - [Stoic passions](https://en.wikipedia.org/wiki/Stoic_passions). Forms of emotional suffering. 4 primary but many subdivisions.
     - Present Delight (_hedone_): Malice, rapture, ostentation
     - Future Lust (_epithumia_): Anger, rage, hatred, enmity, wrath, greed, longing
@@ -325,7 +366,7 @@ My favorite is __GRACE__:
 - Grace is virtue so elegant, that it seems natural & effortless. The intolerant seek purity, and yet they tarnish themselves because trying to diminish the grace of another diminishes your own grace. Foster grace in others & you foster grace in yourself too.
 - Today I dwell on grace. Grace is a combination of elegance and divine blessing. Grace is beauty beyond form that extends into love. Grace is the sound of your child's first cry or your mother's last breath. Grace are creatures or water in any form. Grace ranges from unprocessed nature to the constructs of man. Grace is fairness, respect, and dignity. Grace delights in science that explores the conversion of sunlight into nourishing food. Grace is there in your darkest moments when faith and hope are just pale flickers of light. Grace abounds in your greatest moments when you are shining with hope and love. Grace is mysterious but obvious. Namaste and may the grace of God be with you. ~ Myself
 
-## 1.11. Some Ethics (HOW)
+## 1.12. Some Ethics (HOW)
 
 A spectrum:
 
@@ -376,7 +417,7 @@ TODO
     - 2019-03-19
     - 2020-02-22
 
-## 1.12. Learning & Teaching (HOW)
+## 1.13. Learning & Teaching (HOW)
 
 - 10 Kh to become an expert. 20 h to learn. The major barrier to skill isn't intellectual, it's emotional.
     - Get the tools.
@@ -394,7 +435,7 @@ TODO
     - Train incompatible behaviors to tip the scales towards getting the desired results.
 - Study things by analysis (breaking down), then make new things by synthesis.
 
-## 1.13. Social lubrication (HOW)
+## 1.14. Social lubrication (HOW)
 
 - Rhetoric: inform, persuade, or motivate. Appeal with logos, pathos, and ethos. Use invention, arrangement, style, memory, & delivery.
 - THINK: Is your communication True, Helpful, Inspiring, Necessary, Kind?
@@ -427,15 +468,4 @@ TODO
     - Read everyday > Watch TV everyday
     - Give other people credit for their victories > Take all the credit of the their victories
     - Have a sense of gratitude > Have a sense of entitlement
-
-## 1.14. Goals (WHAT/WHY)
-
-- [Meaning-making](https://en.wikipedia.org/wiki/Meaning-making). In psychology, meaning-making is the process of how people construe, understand, or make sense of life events, relationships, and the self.
-- [Ikiga](https://en.wikipedia.org/wiki/Ikigai). 生き甲斐, 'a reason for being'.
-    - What you LOVE
-    - What the world NEEDS
-    - What you can be PAID FOR
-    - What you are GOOD AT
-        - Special case: What can only you do?
-    - What you CAN GET
-- The adage is "You are what you do", but consider being your best self and letter your nature drive what you do.
+- In one definition "politics" is protecting & promoting your interests, thus everyone should be involved in politics.
