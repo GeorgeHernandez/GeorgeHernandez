@@ -1,21 +1,22 @@
 # 1. My Favorite Heuristics
 
-Here are some of my favorite heuristics. I don't think I have a "system" yet, but I'll see if anything gels.
+Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org/wiki/Heuristic) is any approach to problem solving or self-discovery that employs a practical method that is not guaranteed to be optimal, perfect, or rational, but is nevertheless sufficient for reaching an immediate, short-term goal or approximation. It doesn't matter how a heuristic was derived as long as it is helpful. (The curious and intellectually honest probably want to dig into the derivation.) If it isn't helpful, don't use it.
 
 - [1. My Favorite Heuristics](#1-my-favorite-heuristics)
     - [1.1. Epistemology](#11-epistemology)
     - [1.2. Perspective](#12-perspective)
-    - [Who](#who)
-    - [1.3. When & Time](#13-when--time)
-    - [1.4. Manage your suffering](#14-manage-your-suffering)
-    - [1.5. Manage complexity](#15-manage-complexity)
-    - [1.6. Form follows function](#16-form-follows-function)
-    - [1.7. Better actions](#17-better-actions)
-    - [1.8. Humane actions](#18-humane-actions)
-    - [1.9. Virtue & Sin](#19-virtue--sin)
-    - [1.10. Some Ethics](#110-some-ethics)
-    - [1.11. Learning & Teaching](#111-learning--teaching)
-    - [1.12. Social lubrication](#112-social-lubrication)
+    - [1.3. WHO](#13-who)
+    - [1.4. WHEN](#14-when)
+    - [1.5. Manage your suffering (HOW)](#15-manage-your-suffering-how)
+    - [1.6. Manage complexity (HOW)](#16-manage-complexity-how)
+    - [1.7. Form follows function (HOW/WHAT)](#17-form-follows-function-howwhat)
+    - [1.8. Better actions (HOW)](#18-better-actions-how)
+    - [1.9. Humane actions (HOW/WHY)](#19-humane-actions-howwhy)
+    - [1.10. Virtue & Sin (HOW)](#110-virtue--sin-how)
+    - [1.11. Some Ethics (HOW)](#111-some-ethics-how)
+    - [1.12. Learning & Teaching (HOW)](#112-learning--teaching-how)
+    - [1.13. Social lubrication (HOW)](#113-social-lubrication-how)
+    - [1.14. Goals (WHAT/WHY)](#114-goals-whatwhy)
 
 ## 1.1. Epistemology
 
@@ -23,13 +24,30 @@ Here are some of my favorite heuristics. I don't think I have a "system" yet, bu
 - "The first principle is that you must not fool yourself, and you are the easiest person to fool." ~ Richard Feynman
     - Self candor is difficult.
     - [Cognitive dissonance](https://en.wikipedia.org/wiki/Cognitive_dissonance). Who would've guessed that our minds are good at rationalizing.
-- Common sense, experimentation, scientific method.
-- opinion (_doxa_) v knowledge (_episteme_)
-- custom (_nomos_) v nature (_physis_)
-- nurture v nature
-- perception v knowledge (JTB, verifiability, Gettier problem)
-- construct v reality
-- Known knowns, known unknowns, unknown knowns, unknown unknowns
+    - "What gets us into trouble is not what we don't know. It's what we know for sure that just ain't so." ~ Mark Twain
+    - ["I know that I know nothing"](https://en.wikipedia.org/wiki/I_know_that_I_know_nothing) ~ Plato for Socrates. An answer for why the Oracle of Delphi stated Socrates as the wisest.
+    - [Dunning–Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
+- [Common sense](https://en.wikipedia.org/wiki/Common_sense)& [Logic](https://en.wikipedia.org/wiki/Logic). Good but not enough.
+    - [Fallacy](https://en.wikiquote.org/wiki/Fallacy)
+    - [Formal fallacy](https://en.wikipedia.org/wiki/Formal_fallacy)
+    - [Cargo cult science](https://en.wikipedia.org/wiki/Cargo_cult_science)
+- [Scientific method](https://en.wikipedia.org/wiki/Scientific_method)
+    - 'The test of all knowledge is experiment. Experiment is the sole judge of scientific “truth”.' ~ Richard Feynman
+    - [Falsifiability](https://en.wikipedia.org/wiki/Falsifiability)
+    - [Bayesian inference](https://en.wikipedia.org/wiki/Bayesian_inference)
+- [Johari window](https://en.wikipedia.org/wiki/Johari_window). Contemporarily used by Donald Rumsfeld when he said ["There are known knowns"](https://en.wikipedia.org/wiki/There_are_known_knowns.)
+    - Arena. Known knowns. Perceived by self & others.
+    - Blind Spot. Unknown knowns. Not perceived by self, but perceived by others.
+    - Façade. Known unknowns. Not perceived by self, but not perceived by others. This may indicate a conspiracy theory (☹️) or new knowledge (😃).
+    - Unknown. Unknown unknowns. Not perceived by self & others.
+- [Nature versus Nurture](https://en.wikipedia.org/wiki/Nature_versus_nurture). Especially be wary of indocrination.
+    - [_Physis_ (Greek)](https://en.wikipedia.org/wiki/Physis) v [_Nomos_ (Greek)](https://en.wikipedia.org/wiki/Nomos_(mythology))
+- [perception, construct] v [knowledge, reality]
+    - opinion (_doxa_) v knowledge (_episteme_)
+    - [Justified True Belief (JTB)](https://en.wikipedia.org/wiki/Justified_true_belief)
+    - [Verificationism](https://en.wikipedia.org/wiki/Verificationism)
+    - [Gettier problem](https://en.wikipedia.org/wiki/Gettier_problem).
+    - [Social constructionism](https://en.wikipedia.org/wiki/Social_constructionism). Each person creates their own "constructed reality" that drives their behaviors.
 
 ## 1.2. Perspective
 
@@ -75,7 +93,7 @@ Here are some of my favorite heuristics. I don't think I have a "system" yet, bu
 - [Physicists Have Discovered a Formula for Success, and It Contains a Brutal Truth Most People Don't Want to Admit](https://www.inc.com/jessica-stillman/physicists-have-discovered-a-formula-for-success-it-contains-a-brutal-truth-most-people-dont-want-to-admit.html)
     - Success = (Ability to execute ) * (potential value of an idea).
 
-## Who
+## 1.3. WHO
 
 - 1: You. 2: Someone you're communicating with. 3: Others.
 - Loved ones.
@@ -84,10 +102,10 @@ Here are some of my favorite heuristics. I don't think I have a "system" yet, bu
 - Those who are unehard, have no voice.
 - Those you are grateful for or to.
 - Your heroes. Do they inspire you to act?
-- Non-people.
+- Not typically people: Non-life (e.g. rocks), non-sentients (e.g plants), non-humans (e.g. animals, aliens, artifiical life forms), etc.
 - Talk to a variety: age, gender, class, occupation, outlook, etc.
 
-## 1.3. When & Time
+## 1.4. WHEN
 
 - _Carpe Diem_: Seize the day
 - The Greek language denotes two distinct principles, [Chronos](https://en.wikipedia.org/wiki/Chronos) and [Kairos](https://en.wikipedia.org/wiki/Kairos). The former refers to numeric, or chronological, time. The latter, literally "the right or opportune moment", relates specifically to metaphysical or Divine time. In theology, Kairos is qualitative, as opposed to quantitative.
@@ -99,13 +117,13 @@ Here are some of my favorite heuristics. I don't think I have a "system" yet, bu
 - Time is finite
 - Procrastination is often not about time but about emotional suffering.
 
-## 1.4. Manage your suffering
+## 1.5. Manage your suffering (HOW)
 
-- Stoicism. What you can affect.
-- Namaste > Living in a world of poison
+- [Stoicism](https://en.wikipedia.org/wiki/Stoicism). What you can affect.
+- [_Namaste_](https://en.wikipedia.org/wiki/Namaste) > Living in a world of poison
 - Reduce aversion (_dvesha_) 🐍: confusion, drama, discouragement, pracrastination, fear, complaints, angst, feeling sorry for yourself
-- Wabi-Sabi: [Imperfect, Incomplete, Impermanent]
-- Serenity Prayer
+- [Wabi-Sabi](https://en.wikipedia.org/wiki/Wabi-sabi): [Imperfect, Incomplete, Impermanent]
+- [Serenity Prayer](https://en.wikipedia.org/wiki/Serenity_Prayer)
 
     ```text
     God, grant me
@@ -114,12 +132,13 @@ Here are some of my favorite heuristics. I don't think I have a "system" yet, bu
     And the wisdom to know the difference.
     ```
 
-- The essence of Zen is non-fixation.
+- The essence of [Zen](https://en.wikipedia.org/wiki/Zen) is non-fixation.
     - Do you have X? Or does X have you?
     - Mindful > Mindless
     - Be present
 - Manage your cortisol
-- Patient Agent: No fear, no hesitation, no surprise, no doubt. ~ Musashi
+- Be a Patient Agent.
+- "No fear, no hesitation, no surprise, no doubt." ~ Musashi
 - Emotions(https://en.wikipedia.org/wiki/Emotion). Complex but includes the 6 basic emotions: anger, disgust, fear, happiness, sadness and surprise.
 - [Rational emotive behavior therapy](https://en.wikipedia.org/wiki/Rational_emotive_behavior_therapy) Aka REBT or A-B-C-D-E-F model.
     - A stands for Activating Event or Adversity. This is any event. It is just a fact. E.g. Traffic.
@@ -129,24 +148,25 @@ Here are some of my favorite heuristics. I don't think I have a "system" yet, bu
     - E stands for new Effect or the new, more Effective emotions and behaviors that result from more reasonable thinking about the original event. E.g. Accept traffic as it is.
     - F stands for the developed Feelings. E.g. Inner peace.
 
-
-## 1.5. Manage complexity
+## 1.6. Manage complexity (HOW)
 
 - Signal-to-Noise Ratio (SNR)
 - 🌱⏳🌳.
+    - 1.01^365 = 37.8, i.e. Daily 1% growth results in huge annual growth.
 - As simple as possible, but no simpler
-- Keep it simple, stupid (KISS)
-- Don't Repeat Yourself (DRY)
-- You ain't gonna need it (YAGNI). Counter balances too much DRY.
 - Don't reinvent the wheel.
-- "A journey of a thousand miles begines with a single step.
-- Modularity: Large complex wholes can only be actualized, managed, summed, and synergized with small simple parts.
-- 1.01^365 = 37.8, i.e. Daily 1% growth results in huge annual growth.
+- [Programming principle](https://en.wikipedia.org/wiki/Category:Programming_principles). Many of these apply to regular life. Here are some favorites:
+    - [Keep it simple, stupid (KISS)](https://en.wikipedia.org/wiki/KISS_principle)
+    - [Don't Repeat Yourself (DRY)](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
+    - [You aren't gonna need it (YAGNI)](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it). Counter balances too much DRY.
+    - [Unix philosophy](https://en.wikipedia.org/wiki/Unix_philosophy)
+    - [Modularity](https://en.wikipedia.org/wiki/Modularity): Large complex wholes can only be actualized, managed, summed, and synergized with small simple parts.
+        - "Every journey begins with a single step." ~ Laozi in Tao Te Ching
 - Analysis & Syntheis
     - Many mindlessly consider health as binary (healthy or sick), but is actually large & complex, and thus should be broken into smaller and simpler components for analysis. Howwever some focus so much on the analyis that the holistic synthesis is lost.
     - Analysis might separate "means to an end" as how v why, but synthesis can say that the journey and the goal are one.
 
-## 1.6. Form follows function
+## 1.7. Form follows function (HOW/WHAT)
 
 - Function is WHAT is to be done or made. Form is HOW it is done or made.
 - "Whether it be the sweeping eagle in his flight, or the open apple-blossom, the toiling work-horse, the blithe swan, the branching oak, the winding stream at its base, the drifting clouds, over all the coursing sun, form ever follows function, and this is the law. Where function does not change, form does not change. The granite rocks, the ever-brooding hills, remain for ages; the lightning lives, comes into shape, and dies, in a twinkling. It is the pervading law of all things organic and inorganic, of all things physical and metaphysical, of all things human and all things superhuman, of all true manifestations of the head, of the heart, of the soul, that the life is recognizable in its expression, that form ever follows function. This is the law." ~ Louis Sullivan. "The Tall Office Building Artistically Considered" (1896)
@@ -166,7 +186,7 @@ Here are some of my favorite heuristics. I don't think I have a "system" yet, bu
     - It is possible to focus on the form regardless of the function (e.g. tea ceremony), but if you can derive more significance from the function, then its signal increases.
     - It is possible to focus on the form so much that it loses connection to its function. E.g. A martial art that becomes a dance; This may be acceptable when done as art for art's sake
 
-## 1.7. Better actions
+## 1.8. Better actions (HOW)
 
 - Quality. E.g. ISO 9000
 - [Tao](https://en.wikipedia.org/wiki/Tao). 道. Aka Dao, Do. The Way. The "natural order". "This is The Way".
@@ -180,7 +200,7 @@ Here are some of my favorite heuristics. I don't think I have a "system" yet, bu
     - Review/extend. Determine how well the solution solved the problem. Extend it to future problems.
 - Nature to be commanded must be obeyed ~ Francis Bacon, "Novum Organum" (The New Organon) (1620).
 
-## 1.8. Humane actions
+## 1.9. Humane actions (HOW/WHY)
 
 - [Golden Rule](https://en.wikipedia.org/wiki/Golden_Rule)
     - Sex SHOULD require consent. Examples of non-consensual sex: Pedophilia, bestiality, rape.
@@ -199,7 +219,7 @@ Here are some of my favorite heuristics. I don't think I have a "system" yet, bu
 - Reduce, Reuse, Recycle.
 - A government can be a Theocracy or a Democracy, but not both.
 
-## 1.9. Virtue & Sin
+## 1.10. Virtue & Sin (HOW)
 
 There are many heuristics on [Virtue](https://en.wikipedia.org/wiki/Virtue) and [Sin](https://en.wikipedia.org/wiki/Sin). My set is rather arbitrary and arranged by "number".
 
@@ -284,6 +304,20 @@ There are many heuristics on [Virtue](https://en.wikipedia.org/wiki/Virtue) and 
     - Future Lust (_epithumia_): Anger, rage, hatred, enmity, wrath, greed, longing
     - Present Distress (_lupe_): Envy, rivalry, jealousy, compassion, anxiety, mourning, sadness, troubling, grief, lamenting, depression, vexation, despondency
     - Future Fear (_phobos_): Sluggishness, shame, fright, timidity, consternation, pusillanimity, bewilderment, faintheartedness
+- [Delphic maxims](https://en.wikipedia.org/wiki/Delphic_maxims). 147 cited by Stobaeus; 3 inscribed at the Temple of Apollo at Delphi:
+    - Γνῶθι σεαυτόν. Know thyself. In Latin: _nosce te ipsum_ or _temet nosce_. I.e. Introspection.
+    - Μηδὲν ἄγαν. Nothing in excess. I.e. Temperance.
+    - Ἐγγύα πάρα δ ἄτα. Surety brings ruin. I.e. Pride.
+- [Tao Te Ching](https://en.wikipedia.org/wiki/Tao_Te_Ching) (道德經) by Laozi (老子). Sort of misfiled here but its short and deep. Some of my favorite items
+    - "The tao that can be described is not the eternal Tao. The name that can be spoken is not the eternal Name.". One interpretation is try to understand instead of blindly following dogma or formulas.
+    - "When goodness is lost there is morality.". Dogma.
+    - "If you realize that you have enough, you are truly rich. "
+    - "Every journey begins with a single step."
+    - "Not-knowing is true knowledge. Presuming to know is a disease. First realize that you are sick; then you can move toward health."
+    - "I have just three things to teach: simplicity, patience, compassion."
+    - "The path into the light seems dark, the path forward seems to go back, the direct path seems long."
+    - "The truth is not always beautiful, nor beautiful words the truth."
+    - "A leader is best When people barely know he exists Of a good leader, who talks little, When his work is done, his aim fulfilled, They will say, 'We did this ourselves.'"
 
 My favorite is __GRACE__:
 
@@ -291,9 +325,9 @@ My favorite is __GRACE__:
 - Grace is virtue so elegant, that it seems natural & effortless. The intolerant seek purity, and yet they tarnish themselves because trying to diminish the grace of another diminishes your own grace. Foster grace in others & you foster grace in yourself too.
 - Today I dwell on grace. Grace is a combination of elegance and divine blessing. Grace is beauty beyond form that extends into love. Grace is the sound of your child's first cry or your mother's last breath. Grace are creatures or water in any form. Grace ranges from unprocessed nature to the constructs of man. Grace is fairness, respect, and dignity. Grace delights in science that explores the conversion of sunlight into nourishing food. Grace is there in your darkest moments when faith and hope are just pale flickers of light. Grace abounds in your greatest moments when you are shining with hope and love. Grace is mysterious but obvious. Namaste and may the grace of God be with you. ~ Myself
 
-## 1.10. Some Ethics
+## 1.11. Some Ethics (HOW)
 
-A spectrum
+A spectrum:
 
 - Good
     - Survival of yourself or others. E.g. Babies are good. Life.
@@ -342,7 +376,7 @@ TODO
     - 2019-03-19
     - 2020-02-22
 
-## 1.11. Learning & Teaching
+## 1.12. Learning & Teaching (HOW)
 
 - 10 Kh to become an expert. 20 h to learn. The major barrier to skill isn't intellectual, it's emotional.
     - Get the tools.
@@ -360,11 +394,12 @@ TODO
     - Train incompatible behaviors to tip the scales towards getting the desired results.
 - Study things by analysis (breaking down), then make new things by synthesis.
 
-## 1.12. Social lubrication
+## 1.13. Social lubrication (HOW)
 
 - Rhetoric: inform, persuade, or motivate. Appeal with logos, pathos, and ethos. Use invention, arrangement, style, memory, & delivery.
 - THINK: Is your communication True, Helpful, Inspiring, Necessary, Kind?
 - Although some problems are seemingly solvable and objective, they often have subjective social components.
+- [BLUF: Bottom line up front](https://en.wikipedia.org/wiki/BLUF_(communication)). Start messages with the key info. E.g. Start with a summary or TLDNR.
 - Email subjects
     - Verb + Object. E.g: [schedule, view, read, print, sign, scan, return, confirm receipt] + [this, person]. E.g. Call Susan
     - Subject only, i.e. no body. E.g. No text (N/T), End of Message (EOM), No reply necessary (NRN). E.g. \[EOM\] Package received.
@@ -392,3 +427,15 @@ TODO
     - Read everyday > Watch TV everyday
     - Give other people credit for their victories > Take all the credit of the their victories
     - Have a sense of gratitude > Have a sense of entitlement
+
+## 1.14. Goals (WHAT/WHY)
+
+- [Meaning-making](https://en.wikipedia.org/wiki/Meaning-making). In psychology, meaning-making is the process of how people construe, understand, or make sense of life events, relationships, and the self.
+- [Ikiga](https://en.wikipedia.org/wiki/Ikigai). 生き甲斐, 'a reason for being'.
+    - What you LOVE
+    - What the world NEEDS
+    - What you can be PAID FOR
+    - What you are GOOD AT
+        - Special case: What can only you do?
+    - What you CAN GET
+- The adage is "You are what you do", but consider being your best self and letter your nature drive what you do.
