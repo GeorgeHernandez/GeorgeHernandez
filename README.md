@@ -4,11 +4,11 @@ My name is George Hernandez and I live in Chicago. I work as Chief of Applicatio
 
 🦊 I am usually quiet but I will share a few things:
 
-- 🐈 I am a calm, candid, & curious cat who strives to be a courageous, creative, & kind contributor.
 - ✨ [Stuff I find wonderful](Wonderful.md)
 - 💬 [My favorite quotes](Quotes.md)
 - 🌱 [My favorite heuristics](Heuristics.md)
 - 🤌🏽 [My opinions](Opinions.md)
+- 🐈 [Know thyself](KnowThyself.md)
 
 <!--
 **GeorgeHernandez/GeorgeHernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -269,8 +269,8 @@ There are many heuristics on [Virtue](https://en.wikipedia.org/wiki/Virtue) and 
     - Life. Survival.
     - Liberty. Consent.
     - Happiness. Freedom, Choice.
-- [Three poisons](https://en.wikipedia.org/wiki/Three_poisons). 3. The three poisons (_trivisa_) of Buddhism are at the root of suffering (_dukkha_) and at the center of the Wheel of Life (_bhavacakra_), i.e. the symbolic representation of cyclic existence (_samsara_). Each is a _klesha_, i.e. a mental state that cloud the mind and manifest in unwholesome actions. These 3 are considered to be the root of all the other _kleshas_. They are the root of _tanha_ (craving), and thus are part of the cause of _dukkha_ (suffering, pain, unsatisfactoriness).
-    - _Moha_. Delusion. Confusion. Bewilderment. Ignorance. Chaos. Related to Vanity, Despair, Hubris, & Sloth of the 7 Sins.
+- [Three poisons](https://en.wikipedia.org/wiki/Three_poisons). 3. The three poisons (_trivisa_) of Buddhism are at the root of suffering (_dukkha_) and at the center of the Wheel of Life (_bhavacakra_), i.e. the symbolic representation of cyclic existence (_samsara_). Each is a _klesha_, i.e. a mental state that cloud the mind and manifest in unwholesome actions. These 3 are considered to be the root of all the other _kleshas_. They are the root of [_tanha_](https://en.wikipedia.org/wiki/Ta%E1%B9%87h%C4%81) (craving), and thus are part of the cause of [_dukkha_](https://en.wikipedia.org/wiki/Du%E1%B8%A5kha) (suffering, pain, unsatisfactoriness).
+    - _Avidya_ or _Moha_. Delusion. Confusion. Bewilderment. Ignorance. Chaos. Related to Vanity, Despair, Hubris, & Sloth of the 7 Sins.
         - Represented as a pig 🐖.
         - Opposed by _amoha_ (non-delusion) or _prajna_ (wisdom). Related to Prudence & Justice/Morality of the Cardinal Virtues. Related to Stoic passions.
     - _Raga_. Greed. Attachment. Desire. Sensuality. Related to Gluttony, Fornication, & Greed of the 7 Sins. Related to Stoic passions.
