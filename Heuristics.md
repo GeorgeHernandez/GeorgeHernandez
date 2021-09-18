@@ -1,6 +1,6 @@
 # 1. My Favorite Heuristics
 
-Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org/wiki/Heuristic) is any approach to problem solving or self-discovery that employs a practical method that is not guaranteed to be optimal, perfect, or rational, but is nevertheless sufficient for reaching an immediate, short-term goal or approximation. It doesn't matter how a heuristic was derived as long as it is helpful. (The curious and intellectually honest probably want to dig into the derivation.) If it isn't helpful, don't use it.
+Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org/wiki/Heuristic) is any approach to problem solving or self-discovery that employs a practical method that is not guaranteed to be optimal, perfect, or rational, but is nevertheless sufficient for reaching an immediate, short-term goal or approximation. The origin of a heuristic doesn't matter (when, who, where, how, why, etc.), as long as it is helpful. (The curious and intellectually honest should want to dig into the derivation, political context, etc.. If a heuristic isn't helpful, then don't use it.
 
 - [1. My Favorite Heuristics](#1-my-favorite-heuristics)
     - [1.1. Epistemology](#11-epistemology)
@@ -116,7 +116,16 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
 - Time and Date Standard: [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601), e.g. `YYYY-MM-DD hh:mm:ss` and `P3DT2H`. http://xkcd.com/1179/. I wonder if `2019\10\03-24` would have been better?
 - Time is finite
 - How long? How often?
+- Time is always flowing
+- Timing
+    - If you're going to fail, fail fast.
+    - Lots of timing in martial arts. True time as per [George Silver](https://en.wikipedia.org/wiki/George_Silver). _Vor_ and _noch_ of the [German schol of fencing](https://en.wikipedia.org/wiki/German_school_of_fencing). And so on.
+    - "To every thing there is a season, and a time to every purpose under the heaven" ~ [Ecclesiastes 3](https://biblehub.com/ecclesiastes/3.htm).
+    - [Procrastination](https://en.wikipedia.org/wiki/Procrastination) is often not about time but about emotional suffering. Procrastinating, urfing, lounging, chilling, etc. can alleviate suffering. You have to determine need (v want) and whether you have the time for it now (v later).
+    - Timing & priorities can be linked. E.g. People ofen say "pay yourself first" (with savings, debt reduction, etc), but the same applies for time, i.e. you need to set aside some time for exercise, hygiene, mental health, relaxation, exploing, being lively, etc.
 - Past
+    - "Life can only be understood backwards; but it must be lived forwards." ~ Søren Kierkegaard
+    - "Those who cannot remember the past are condemned to repeat it." ~ George Santayana
 - Present
     - _Carpe Diem_: Seize the day
     - The Greek language denotes two distinct principles, [Chronos](https://en.wikipedia.org/wiki/Chronos) and [Kairos](https://en.wikipedia.org/wiki/Kairos). The former refers to numeric, or chronological, time. The latter, literally "the right or opportune moment", relates specifically to metaphysical or Divine time. In theology, Kairos is qualitative, as opposed to quantitative.
@@ -124,20 +133,19 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
 - Future
     - [Destiny](https://en.wikipedia.org/wiki/Destiny)
     - [Wyrd](https://en.wikipedia.org/wiki/Wyrd)
-- Time is always flowing
-    - [Procrastination](https://en.wikipedia.org/wiki/Procrastination) is often not about time but about emotional suffering.
-    - "Vita brevis, ars longa, occasio praeceps, experimentum periculosum, iudicium difficile." (Latin), "Life is short, the craft long, opportunity fleeting, experiment treacherous, judgment difficult." -Hippocrates. First line of "Aphorisms" from the "Hippocratic Corpus".
-    - "Live as if you were to die tomorrow. Learn as if you were to live forever." ~ Gandhi
-    - [All the world's a stage](https://en.wikipedia.org/wiki/All_the_world%27s_a_stage). Aka the seven ages of man.
-        - Infant
-        - Schoolboy
-        - Lover
-        - Soldier
-        - Justice
-        - Pantaloon
-        - Oblivion
-    - ["This too shall pass"](https://en.wikipedia.org/wiki/This_too_shall_pass)
-    - ["Ozymandias"](https://en.wikipedia.org/wiki/Ozymandias) by English Romantic poet Percy Bysshe Shelley.
+
+- "Vita brevis, ars longa, occasio praeceps, experimentum periculosum, iudicium difficile." (Latin), "Life is short, the craft long, opportunity fleeting, experiment treacherous, judgment difficult." -Hippocrates. First line of "Aphorisms" from the "Hippocratic Corpus".
+- "Live as if you were to die tomorrow. Learn as if you were to live forever." ~ Gandhi
+- [All the world's a stage](https://en.wikipedia.org/wiki/All_the_world%27s_a_stage). Aka the seven ages of man.
+    - Infant
+    - Schoolboy
+    - Lover
+    - Soldier
+    - Justice
+    - Pantaloon
+    - Oblivion
+- ["This too shall pass"](https://en.wikipedia.org/wiki/This_too_shall_pass)
+- ["Ozymandias"](https://en.wikipedia.org/wiki/Ozymandias) by English Romantic poet Percy Bysshe Shelley.
 
 ## 1.5. Goals (WHAT/WHY)
 
