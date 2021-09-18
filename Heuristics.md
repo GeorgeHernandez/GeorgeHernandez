@@ -189,6 +189,7 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
     - D stands for Disputes or arguments against irrational beliefs. E.g. Are you demanding the universe and everyone bend to your wishes? Is that rational? No way. You can want, you can wish and you can definitely try your best in the future, but you cannot demand if you want to stay happy and sane.
     - E stands for new Effect or the new, more Effective emotions and behaviors that result from more reasonable thinking about the original event. E.g. Accept traffic as it is.
     - F stands for the developed Feelings. E.g. Inner peace.
+- There are so called "secrets" that you might share. There are real secrets you never will.
 
 ## 1.7. Manage complexity (HOW)
 
@@ -197,6 +198,7 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
     - Start small and over time produce results.
     - 1.01^365 = 37.8, i.e. Daily 1% growth results in huge annual growth.
     - "Every journey begins with a single step." ~ Laozi in Tao Te Ching
+    - Keep your to do list small. Large to do lists are often lists of things you are never going to do.
 - As simple as possible, but no simpler.
     - [Perfect is the enemy of good](https://en.wikipedia.org/wiki/Perfect_is_the_enemy_of_good)
 - Don't reinvent the wheel.
@@ -209,6 +211,10 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
 - Analysis & Syntheis
     - Many mindlessly consider health as binary (healthy or sick), but is actually large & complex, and thus should be broken into smaller and simpler components for analysis. Howwever some focus so much on the analyis that the holistic synthesis is lost.
     - Analysis might separate "means to an end" as how v why, but synthesis can say that the journey and the goal are one.
+- [Self-organization](https://en.wikipedia.org/wiki/Self-organization)
+- [Complex system](https://en.wikipedia.org/wiki/Complex_system)
+- [Fractal](https://en.wikipedia.org/wiki/Fractal)
+- [Power law](https://en.wikipedia.org/wiki/Power_law)
 
 ## 1.8. Form follows function (HOW/WHAT)
 
@@ -398,7 +404,7 @@ Simple rules
 - The ends do not justify the means.
 - Foster the good & indeterminate, while doing some work to diminish the bad & evil
 - Foster processes that favor the good for more people for more time.
-- [Local, Tangible] > [Distant, Abstract]. The moral value of an act vs the consequences.
+- [Local, Tangible] > [Distant, Abstract]. The moral value of an act vs the consequences. Who is most responsible for those nearest to you?
 
 What this model does not cover
 
