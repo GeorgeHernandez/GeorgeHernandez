@@ -11,6 +11,7 @@ So here I am in a few bullet points. No one can really tell everything about the
 - I was born in 1968 in the Phillippines then moved to Chicago as a toddler
     - Your age is your age. I don't worry about being too young or too old.
     - I could be classified as a first generation Filipino American. Growing up my parents did not persist the native tounge, so I've lost much of my Filipino cultural heritage.
+    - My parents left my yourger brother and I in the Philippes while they seized a window to go the America. When we were reunited I did not recognize my own parents. Who can really say how this affected me.
     - Culturally by geography I define myself in this order: Part of the Universe, World citizen, Chicagoan, Midwestern American, Filipino.
 - I lost all hearing in my left ear because of an infection I had as a baby.
     - I used to be shy about this, but since my twenties I've found it more practical to just tell people as needed.
@@ -23,8 +24,8 @@ So here I am in a few bullet points. No one can really tell everything about the
     - Given the climate emergency, I feel regret that I never did combat climate change professionally. And yet "Life is what happens to you while you're busy making other plans".
 - I was raised Catholic but I'm an atheist
     - I was raised Catholic, I went to Catholic grade school, I was an Altar Boy, and most of my relatives are Catholic.
-    - Even though I had Catholic nurturing, I've been an atheist since I was 7. My nature is epistemological and open. I try to find what is helpful from any where, any when, anyone, etc.
+    - Even though I had Catholic nurturing, I've been an atheist since I was 7. My nature is epistemological and open. I try to find what is helpful from anywhere, any time, anyone, etc.
     - Everyone finds their own path in forming their worldview.
 - As a person:
     - 🐈 I am a calm, candid, & curious cat who strives to be a courageous, creative, & kind contributor.
-    - Since my 30s I've been craving non-existence. I'm not yet sure if this is physiologica/psychological depression or more of a philiosphical outlook. I love my family and I don't think I'm at risk of self harm, but possibly my craving limits my self-actualization. In Buddhism craving non-existence is a type of [_tanha_](https://en.wikipedia.org/wiki/Ta%E1%B9%87h%C4%81) (craving), called _vibhava tanha_, that is partially due to suffering and wrong view annihilationism, i.e. that there is no rebirth. In my case this life, this "movie", has its ups and downs, but overall I feel like I've seen it before and I wish the movie would end, that I would blink out of existence and become non-sentient or even non-life.
+    - Since my 30s I've been craving non-existence. I'm not yet sure if this is physiologica/psychological depression or more of a philiosphical outlook. I love my family and I don't think I'm at risk of self harm, but possibly my craving limits my self-actualization. In Buddhism craving non-existence is a type of [_tanha_](https://en.wikipedia.org/wiki/Ta%E1%B9%87h%C4%81) (craving), called _vibhava tanha_, which is partially due to suffering and wrong view annihilationism, i.e. that there is no rebirth. I don't know about nirvana, moksha, or heaven. This life, this "movie", has its ups and downs, but overall I feel like I've seen it before and I wish the movie would end, that I would blink out of existence and become non-sentient or even non-life.

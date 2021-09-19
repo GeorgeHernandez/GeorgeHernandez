@@ -163,7 +163,7 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
 ## 1.6. Manage your suffering (HOW)
 
 - [Stoicism](https://en.wikipedia.org/wiki/Stoicism). What you can affect.
-- [_Namaste_](https://en.wikipedia.org/wiki/Namaste) > Living in a world of poison
+- [_Namaste_](https://en.wikipedia.org/wiki/Namaste) > Living in a world of poison.
 - Reduce aversion (_dvesha_) 🐍: confusion, drama, discouragement, pracrastination, fear, complaints, angst, feeling sorry for yourself
 - [Wabi-Sabi](https://en.wikipedia.org/wiki/Wabi-sabi): [Imperfect, Incomplete, Impermanent]
 - [Serenity Prayer](https://en.wikipedia.org/wiki/Serenity_Prayer)
@@ -190,6 +190,10 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
     - E stands for new Effect or the new, more Effective emotions and behaviors that result from more reasonable thinking about the original event. E.g. Accept traffic as it is.
     - F stands for the developed Feelings. E.g. Inner peace.
 - There are so called "secrets" that you might share. There are real secrets you never will.
+- Mental distance & perspective.
+    - Zoom in on the good. Immerse yourself in it, relish it, cherish it. Be grateful for the good.
+    - Zoom out of the bad. Be more objectve. What if it was someone else that had your problems? Use your anger, fear, sadness, worry, frustration, etc. to take positive action. Step out into nature or big picture views/shows.
+- Get help. Sometimes you need extra tools, people, time, space, etc to solve things.
 
 ## 1.7. Manage complexity (HOW)
 
