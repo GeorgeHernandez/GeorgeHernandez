@@ -215,9 +215,9 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
 - Analysis & Syntheis
     - Many mindlessly consider health as binary (healthy or sick), but is actually large & complex, and thus should be broken into smaller and simpler components for analysis. Howwever some focus so much on the analyis that the holistic synthesis is lost.
     - Analysis might separate "means to an end" as how v why, but synthesis can say that the journey and the goal are one.
-- [Self-organization](https://en.wikipedia.org/wiki/Self-organization)
+- [Self-organization](https://en.wikipedia.org/wiki/Self-organization). The topic itself is fascinating but note that it is not a matter of either self-organing or centrally-organized. Why not both? Why not a body with self-organizing cells & a centrally-organizing brain? Why not grass roots & executive functionality?
 - [Complex system](https://en.wikipedia.org/wiki/Complex_system)
-- [Fractal](https://en.wikipedia.org/wiki/Fractal)
+- [Fractal](https://en.wikipedia.org/wiki/Fractal). The term "fractal" was first used by mathematician Benoit Mandelbrot in 1975. The topic itself is fascinating but I like to apply the concept generally in this fashion: Managable sytems have similarities regardless of the size & type of the system even though the specifics at each zoom & domain differ. E.g. Managing the health of 3, 30, 300, 3e3, 3e6, 300e6, 7e9.
 - [Power law](https://en.wikipedia.org/wiki/Power_law)
 
 ## 1.8. Form follows function (HOW/WHAT)
@@ -244,7 +244,7 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
 
 - Quality. E.g. ISO 9000
 - Growth = Stress + Rest. E.g. PDCA, Kaizen, Virtuous Circle
-- Nature to be commanded must be obeyed ~ Francis Bacon, "Novum Organum" (The New Organon) (1620).
+- Nature to be commanded must be obeyed ~ Francis Bacon, "Novum Organum" (The New Organon) (1620). Probblems can be better solved if you have a better understanding of the situation and deal with the factors involved. In swordsmanship the path to your opponent is through their sword, i.e. if you don't manage their sword and just try to hit them, then you may get hit yourself.
 - (story, struggle) > (excellence, experience)
 - Problem Solving. E.g. [How to Solve It](https://en.wikipedia.org/wiki/How_to_Solve_It) by George Pólya:
     - Understand the problem
@@ -282,7 +282,7 @@ There are many heuristics on [Virtue](https://en.wikipedia.org/wiki/Virtue) and 
 - [_Qi_](https://en.wikipedia.org/wiki/Qi). 氣. Vitality.
 - [_Tao_](https://en.wikipedia.org/wiki/Tao). 道. Aka Dao, Do. The Way. The "natural order". "This is The Way".
 - [_Dharma_](https://en.wikipedia.org/wiki/Dharma). Nature & natural. _Adharma_ is unnatural.
-- [Yin and Yang](https://en.wikipedia.org/wiki/Yin_and_yang) ☯️ of [Taoism](https://en.wikipedia.org/wiki/Taoism).
+- [Yin and Yang](https://en.wikipedia.org/wiki/Yin_and_yang) ☯️ of [Taoism](https://en.wikipedia.org/wiki/Taoism). There is a lot of dualisim in the world, but beware of [false dilemmas](https://en.wikipedia.org/wiki/False_dilemma) and [zero-sum bias](https://en.wikipedia.org/wiki/Zero-sum_thinking).
 - [Life, Liberty and the pursuit of Happiness](https://en.wikipedia.org/wiki/Life,_Liberty_and_the_pursuit_of_Happiness).
     - Life. Survival.
     - Liberty. Consent.
