@@ -283,6 +283,7 @@ There are many heuristics on [Virtue](https://en.wikipedia.org/wiki/Virtue) and 
 - [_Qi_](https://en.wikipedia.org/wiki/Qi). 氣. Vitality.
 - [_Tao_](https://en.wikipedia.org/wiki/Tao). 道. Aka Dao, Do. The Way. The "natural order". "This is The Way".
 - [_Dharma_](https://en.wikipedia.org/wiki/Dharma). Nature & natural. _Adharma_ is unnatural.
+- [_Wu wei_](https://en.wikipedia.org/wiki/Wu_wei). 無為. Effortless action. The best way is often the easiest. Related to "Nature to be commanded must be obeyed.".
 - [Yin and Yang](https://en.wikipedia.org/wiki/Yin_and_yang) ☯️ of [Taoism](https://en.wikipedia.org/wiki/Taoism). There is a lot of dualisim in the world, but beware of [false dilemmas](https://en.wikipedia.org/wiki/False_dilemma) and [zero-sum bias](https://en.wikipedia.org/wiki/Zero-sum_thinking).
 - [Life, Liberty and the pursuit of Happiness](https://en.wikipedia.org/wiki/Life,_Liberty_and_the_pursuit_of_Happiness).
     - Life. Survival.
