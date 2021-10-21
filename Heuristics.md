@@ -81,7 +81,7 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
 - Impossible to Possible to Probable to Functional to Perfect
 - Build with detail, but feel the dream. Head in the clouds, feet on the ground, heart at hand.
 - Construct life like a story but live it like a dream.
-- [Strategy](https://en.wikipedia.org/wiki/Strategy). I.e. Look ahead a bit. Win then cut. Go. Rapier.
+- [Strategy](https://en.wikipedia.org/wiki/Strategy). I.e. Look ahead a bit. Win then cut (instead of just striking hoping to win). Go. Rapier.
 - [Maslow's hierarchy of needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs). Starting with more basic needs
     - Physiological
     - Safety
