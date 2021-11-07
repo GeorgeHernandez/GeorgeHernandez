@@ -263,6 +263,7 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
     - Value > Political points. Folks are sometimes so concerned with winning that they provide negative value.
     - Economy of Abundance > Economy of Scarcity. I.e. Generosity > Greed.
     - A just and generous well-off society fosters positive subsistence rights
+    - We may all live in our own constructed realities, but instead of siloing & diminishing others, why build up everyone's that we can?
 - [Common good](https://en.wikipedia.org/wiki/Common_good)
     - [Tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons)
     - Perhaps a good society can provide the basics for its members.
