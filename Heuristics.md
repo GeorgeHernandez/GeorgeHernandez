@@ -242,7 +242,7 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
 
 ## 1.9. Better actions (HOW)
 
-- Quality. E.g. ISO 9000
+- Quality. E.g. [ISO 9000](https://en.wikipedia.org/wiki/ISO_9000): Customer focus, Leadership, Engagement of people, Process approach, Improvement, Evidence-based decision making, Relationhip management.
 - Growth = Stress + Rest. E.g. PDCA, Kaizen, Virtuous Circle
 - Nature to be commanded must be obeyed ~ Francis Bacon, "Novum Organum" (The New Organon) (1620). Probblems can be better solved if you have a better understanding of the situation and deal with the factors involved. In swordsmanship the path to your opponent is through their sword, i.e. if you don't manage their sword and just try to hit them, then you may get hit yourself.
 - (story, struggle) > (excellence, experience)
