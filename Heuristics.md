@@ -78,6 +78,7 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
 - [Five Ws](https://en.wikipedia.org/wiki/Five_Ws). Who, What, Why When, Where + How. Personally what & why are more difficult.
 - Essential > Incidental
     - Essential > Accidental
+    - The incidentals (language, syntax, domains, problems, people, etc) change, but the essentials (logic, people's nature, principles, problem solving, etc) don't.
 - Impossible to Possible to Probable to Functional to Perfect
 - Build with detail, but feel the dream. Head in the clouds, feet on the ground, heart at hand.
 - Construct life like a story but live it like a dream.
