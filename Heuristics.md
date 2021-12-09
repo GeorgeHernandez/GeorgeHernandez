@@ -64,6 +64,7 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
 - Effectiveness > Efficiency.
     - Safety > Efficiency.
     - Slow is smooth. Smooth is fast.
+    - Within the boundaries of the laws of nature, compliance requirements, etc., you want to balance (freedom, options, creativity, flexibility, efficiency, etc.) against (safety, timeliness, priorities, focus, context, best practices, etc).
 - Prioritize
     - Sequence matters. E.g. Recipes follow a sequence.
     - [Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle). Roughly 80% of consequences come from 20% of causes. The vital few with the most ROI.
