@@ -164,7 +164,7 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
 
 ## 1.6. Manage your suffering (HOW)
 
-- [Stoicism](https://en.wikipedia.org/wiki/Stoicism). What you can affect.
+- [Stoicism](https://en.wikipedia.org/wiki/Stoicism). What you can affect. The facts, events, outcomes, etc. may differ from your expectations.
 - [_Namaste_](https://en.wikipedia.org/wiki/Namaste) > Living in a world of poison.
 - Reduce aversion (_dvesha_) 🐍: confusion, drama, discouragement, pracrastination, fear, complaints, angst, feeling sorry for yourself
 - [Wabi-Sabi](https://en.wikipedia.org/wiki/Wabi-sabi): [Imperfect, Incomplete, Impermanent]
