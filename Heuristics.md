@@ -168,6 +168,7 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
 - [_Namaste_](https://en.wikipedia.org/wiki/Namaste) > Living in a world of poison.
 - Reduce aversion (_dvesha_) 🐍: confusion, drama, discouragement, pracrastination, fear, complaints, angst, feeling sorry for yourself
 - [Wabi-Sabi](https://en.wikipedia.org/wiki/Wabi-sabi): [Imperfect, Incomplete, Impermanent]
+    - Some things must be "perfect". E.g. 1 + 1 = 2. However it is too much to expect a full, deep, totally refreshing night's sleep every night. Over achievement, self realization, perfection, 100%, etc. are overrated. Things like better, above average, etc. can also be too much. I think things like settling, managing expectations, etc. are keys to achieving happiness. It is yet another take on Stoicism, the Serenity Prayer, etc.
 - [Serenity Prayer](https://en.wikipedia.org/wiki/Serenity_Prayer)
 
     ```text
@@ -207,6 +208,7 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
     - Keep your to do list small. Large to do lists are often lists of things you are never going to do.
 - As simple as possible, but no simpler.
     - [Perfect is the enemy of good](https://en.wikipedia.org/wiki/Perfect_is_the_enemy_of_good)
+    - As simple as possible (as per natural law, laws of man, compliance, etchics, not being a jackass, etc), but no simpler.
 - Don't reinvent the wheel.
 - [Programming principle](https://en.wikipedia.org/wiki/Category:Programming_principles). Many of these apply to regular life. Here are some favorites:
     - [Keep it simple, stupid (KISS)](https://en.wikipedia.org/wiki/KISS_principle)
