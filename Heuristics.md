@@ -62,7 +62,7 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
 - If you don't have perspective, then you may just be reacting.
 - Effectiveness != Efficacy
 - Effectiveness > Efficiency.
-    - Safety > Efficiency.
+    - Effectiveness has different components. E.g. If an exercise is not safe, then it's not effective; hence safety > efficiency. E.g. If a close vote count is not accurate, then it's not effective; hence accuracy > efficiency.
     - Slow is smooth. Smooth is fast.
     - Within the boundaries of the laws of nature, compliance requirements, etc., you want to balance (freedom, options, creativity, flexibility, efficiency, etc.) against (safety, timeliness, priorities, focus, context, best practices, etc).
 - Prioritize
