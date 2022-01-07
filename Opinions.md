@@ -36,7 +36,7 @@ Here are some of my opinions to express myself in my own idiom and to maka a min
         [1, 2, 3, 6, 9, 12, 15, 18, 21, 24]
         ```
 
-- Browser: Google Chrome. Best by largest number of users and if you use multiple Google accounts. Chrome use less memory and have vertical tabbing.
+- Browser: Google Chrome. Best by largest number of users and if you use multiple Google accounts. Microsoft Edge uses less memory and has vertical tabbing.
 
 ### 1.1.2. Better
 
