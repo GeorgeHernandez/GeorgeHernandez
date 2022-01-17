@@ -1,23 +1,54 @@
 # 1. My Opinions
 
-Here are some of my opinions to express myself in my own idiom and to maka a minor contribution to society. In short, I'm just muttering to myself on GitHub.
+Here are some of my opinions to express myself in my own idiom and to maka a minor contribution to society. I'll start with my opinon on opinions, then provide some of my opinions, starting with some easy ones.
+
+<!-- In Visual Studio Code I use the Markdown All In One extension to manage the section numbers and table of contents.  -->
 
 - [1. My Opinions](#1-my-opinions)
-    - [1.1. SHOULD](#11-should)
-        - [1.1.1. Best](#111-best)
-        - [1.1.2. Better](#112-better)
-        - [1.1.3. Good](#113-good)
-    - [1.2. SHOULD CSE](#12-should-cse)
+    - [1.1. My opinions on opinions](#11-my-opinions-on-opinions)
+        - [1.1.1. Bonus: Some quotes on facts & opinions](#111-bonus-some-quotes-on-facts--opinions)
+    - [1.2. SHOULD](#12-should)
         - [1.2.1. Best](#121-best)
         - [1.2.2. Better](#122-better)
         - [1.2.3. Good](#123-good)
-    - [1.3. SHOULD NOT](#13-should-not)
-    - [1.4. My opinions on opinions](#14-my-opinions-on-opinions)
-        - [1.4.1. Bonus: Some quotes on facts & opinions](#141-bonus-some-quotes-on-facts--opinions)
+    - [1.3. SHOULD CSE](#13-should-cse)
+        - [1.3.1. Best](#131-best)
+        - [1.3.2. Better](#132-better)
+        - [1.3.3. Good](#133-good)
+    - [1.4. SHOULD NOT](#14-should-not)
+    - [1.5. Politics & Policies](#15-politics--policies)
 
-## 1.1. SHOULD
+## 1.1. My opinions on opinions
 
-### 1.1.1. Best
+Your opinions and worldview will almost certainly differ from mine. And yet we have so much in common that it is important to be able to share and parse our opinions so as to have informed, tested, reviewed, & overall improved opinions.
+
+- LOGIC. Given the [is-ought problem](https://en.wikipedia.org/wiki/Is%E2%80%93ought_problem) and the [fact-value distinction](https://en.wikipedia.org/wiki/Fact%E2%80%93value_distinction), ought/value opinions may not be purely derived from facts or what-is. Even so we all form opinions. If however I present a proposition with a [formal fallacy](https://en.wikipedia.org/wiki/Formal_fallacy), then I apologize and should appreciate having it pointed out to me.
+- FACTS. These should be reasonably independent of belief. The blur between [facts](https://en.wikipedia.org/wiki/Fact) and [opinions](https://en.wikipedia.org/wiki/Opinion) is astonishing. Is it possible to have all the facts? Do you know all the facts about your father? Education varies: Some people with no formal education may have a better set of facts; Two people can go to the same classes and come out with different facts. If my opinions are missing key facts, then I should appreciate being informed of the facts. Besides fact v opinion, I like facts & opinions, i.e. the facts and the fancy can coexist.
+- EXPERIMENTS. The scientific method has been Man's best tool for coming up with positive facts. However it needs a creative hypothesis (i.e. an opinion) that can be tested and reviewed. Similarly a person's character may just be bluster if never tested.
+- DEFINITIONS. Some definitions are merely tautologies or language-games (Wittgenstein) and should be taken with a grain of salt. I may provide definitions that are convenient or context specific, and thus may vary from the vernacular or more proper definitions or standards. Definitions, like axioms, are in effect opinions upon which you build propositions or other opinions.
+- EXPERIENCES. First hand anecdotal experiences are facts but like facts come in a great variety. Experiences can strongly color opinions and it is good to be aware of that. Also memory is often a ficlke thing.
+- QUOTES. These are often succinct and witty, but also provide other perspectives, other opinions.
+- HEURISTICS. While not optimal, perfect, or rational, heuristics are often satisfactory and are an opinion shared by many. I will strive to generate a small set of common sense, secular heuristics that can be used as axioms to apply broadly. A heuristic must be helpful, otherwise it is noise, like a bad tradition.
+- METAPHORS. Metaphors are great because they take something we already know and carry them forward to something else.
+- PERSPECTIVE: Opinions vary in different points in our lives, contexts, etc.
+
+### 1.1.1. Bonus: Some quotes on facts & opinions
+
+"You can spend your whole life building a wall of facts between you and anything real." - Chuck Palahniuk
+
+"The truth is more important than the facts." - Frank Lloyd Wright
+
+"We do not deal much in facts when we are contemplating ourselves." - Mark Twain
+
+"Few people are capable of expressing with equanimity opinions which differ from the prejudices of their social enviroment. Most people are incapable of forming such opinions." - Albert Einstein
+
+'Experiment is the sole judge of scientific "truth".' - Richard Feynman
+
+"Why, you simple creatures, the weakest of all weak things is a virtue which has not been tested in the fire." - Mark Twain
+
+## 1.2. SHOULD
+
+### 1.2.1. Best
 
 - Time and Date Standard: [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601), e.g. `YYYY-MM-DD hh:mm:ss` and `P3DT2H`. http://xkcd.com/1179/. I wonder if `2019\10\03-24` would have been better?
 - System of Measurement: Metric. However I have a few personal opinions.
@@ -38,7 +69,7 @@ Here are some of my opinions to express myself in my own idiom and to maka a min
 
 - Browser: Google Chrome. Best by largest number of users and if you use multiple Google accounts. Microsoft Edge uses less memory and has vertical tabbing.
 
-### 1.1.2. Better
+### 1.2.2. Better
 
 - Breastfeeding > Formula
 - Toilet rolls releasing from the top > bottom
@@ -51,23 +82,26 @@ Here are some of my opinions to express myself in my own idiom and to maka a min
 - Period (`.`) > Comma (`,`). For use as a decimal character, the period is simpler. It's right there on the numeric keypad.
 - Wheelbarrow with centrally-mounted wheel > end-mounted wheel
 
-### 1.1.3. Good
+### 1.2.3. Good
 
 - Because of the [oligodynamic effect](https://en.wikipedia.org/wiki/Oligodynamic_effect), it would be nice if some germ-exposed items were made out of naturally biocidal metals. E.g. Brass doorknobs, silverware.
 - The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "NOT RECOMMENDED",  "MAY", and "OPTIONAL" MAY BE interpreted as described in [RFC 2119](http://www.ietf.org/rfc/rfc2119.txt). Aka Conformance Verbs for Requirement Levels.
 - ISO 9000: 7 Quality Management Principles: Customer Focus. Leadership. Engagement of People. Process Approach. Improvement. Evidence-Based Decision Making. Relationship Management.
 - 13 month calendars where each month is 28 day. E.g. [International Fixed Calendar](https://en.wikipedia.org/wiki/International_Fixed_Calendar) or [Positivist calendar](https://en.wikipedia.org/wiki/Positivist_calendar). Alas, not likely to ever be broadly implemented.
 
-## 1.2. SHOULD CSE
+## 1.3. SHOULD CSE
 
-### 1.2.1. Best
+### 1.3.1. Best
 
 - Unicode Encoding: UTF-8, which is Windows Code Page Identifier 65001.
 - Version Control: Git
 - Indentation: 2 spaces, unless your system requires otherwise.
 - Web Service: REST Web API
+- Wikipedia is awesome!
+- Parks, especially national and state parks are awesome!
+- Public libraries are awesome!
 
-### 1.2.2. Better
+### 1.3.2. Better
 
 - Floating Point Marker > Comma
 - TOML > YAML > JSON > XML
@@ -75,7 +109,7 @@ Here are some of my opinions to express myself in my own idiom and to maka a min
 - 1 space between sentences > 2 spaces
 - HTML > XHTML
 
-### 1.2.3. Good
+### 1.3.3. Good
 
 - The end of files (EOF) SHOULD have a blank line.
 - Long versions of options for console commands SHOULD use a double dash, while the short versions use a single dash. E.g. `--force` and `-f`.
@@ -86,7 +120,7 @@ Here are some of my opinions to express myself in my own idiom and to maka a min
         - `8`. MINOR. Backwards compatible additions to the API.
         - `7`. PATCH. Backwards compatible bug fixes.
 
-## 1.3. SHOULD NOT
+## 1.4. SHOULD NOT
 
 - Dibs. E.g. [Chicago's 'Dibs' Tradition Can Get Dirty, And Even Dangerous](https://www.npr.org/local/309/2020/03/02/811209907/chicago-s-dibs-tradition-can-get-dirty-and-even-dangerous).
 - Graffiti on signs and homes
@@ -99,32 +133,67 @@ Here are some of my opinions to express myself in my own idiom and to maka a min
 - Loud music after midnight if your neighbors can hear it
 - Anti: Vaccines, Round Earth, Evolution, Apollo Missions, Education & Science, Separation of church & state
 
-## 1.4. My opinions on opinions
+## 1.5. Politics & Policies
 
-Your opinions and worldview will almost certainly differ from mine. And yet we have so much in common that it is important to be able to share and parse our opinions.
+Everyone looks out for themselves. Everyone protects & promotes their interests. Thus everyone should form their opinions. However we also have loved ones and we also live in a society, a [*polis*](https://en.wikipedia.org/wiki/Polis). Politics & Policies affects many of us and thus we need to parse the many opinions.
 
-Policy affects many of us (the *polis*) and thus we need to make those decisions together, preferably using best practices, evidence, well formed logic, transparency, testing, perspective, etc., but also in an effective, timely, earnest, heard, woke, and emotionally conscious manner.
+I want to highlight key problems common to many poltical topics. My examples will focus on U.S. issues.
 
-- LOGIC. Given the [is-ought problem](https://en.wikipedia.org/wiki/Is%E2%80%93ought_problem) and the [fact-value distinction](https://en.wikipedia.org/wiki/Fact%E2%80%93value_distinction), ought/value opinions may not be purely derived from facts or what-is. Even so we all form opinions. If however I present a proposition with a [formal fallacy](https://en.wikipedia.org/wiki/Formal_fallacy), then I apologize and should appreciate having it pointed out to me.
-- FACTS. These should be reasonably independent of belief. The blur between [facts](https://en.wikipedia.org/wiki/Fact) and [opinions](https://en.wikipedia.org/wiki/Opinion) is astonishing. Is it possible to have all the facts? Do you know all the facts about your father? Education varies: Some people with no formal education may have a better set of facts; Two people can go to the same classes and come out with different facts. If my opinions are missing key facts, then I should appreciate being informed of the facts. Besides fact v opinion, I like facts & opinions, i.e. the facts and the fancy can coexist.
-- EXPERIMENTS. The scientific method has been Man's best tool for coming up with positive facts. However it needs a creative hypothesis (i.e. an opinion) that can be tested. Similarly a person's character may just be bluster if never tested.
-- DEFINITIONS. Some definitions are merely tautologies or language-games (Wittgenstein) and should be taken with a grain of salt. I may provide definitions that are convenient or context specific, and thus may vary from the vernacular or more proper definitions or standards. Definitions, like axioms, are in effect opinions upon which you build propositions or other opinions.
-- EXPERIENCES. Anecdotal experiences are facts but like facts come in a great variety. Experiences can strongly color opinions and it is good to be aware of that. Also memory is often a ficlke thing.
-- QUOTES. These are often succinct and witty, but also provide other perspectives, other opinions.
-- HEURISTICS. While not optimal, perfect, or rational, heuristics are often satisfactory and are an opinion shared by many. I will strive to generate a small set of common sense, secular heuristics that can be used as axioms to apply broadly. Heuristics also come in a great variety. Heuristics, whether good or bad, sometimes become traditions.
-- METAPHORS. Metaphors are great because they take something we already know and carry them forward to something else.
-- PERSPECTIVE: Opinions vary in different points in our lives, contexts, etc.
+- HOW TO PARSE. If we cannot establish a framework to parse our opinions, we will not be building upon hard earned knowledge and be closing ourselves to better solutions. Our opinions should be parsed using best practices, evidence, well-formed logic, transparency, testing, perspective, etc., but also in an effective, timely, earnest, heard, woke, and emotionally conscious manner. This part of [political science](https://en.wikipedia.org/wiki/Political_science).
+- PROBLEMS > POLTICAL PROBLEMS. Please distinguish between the problems faced by the state vs. the political problems. Many become so focused on poltical problems that statesmanship is left behind. Deciding on the faction or the captain can overshadow keeping the ship afloat.
+- RULE BY A FEW. You don't see modern instances of rule either by a [philosopher king](https://en.wikipedia.org/wiki/Philosopher_king) or serveral wisemen (a [noocracy](https://en.wikipedia.org/wiki/Noocracy)), but there are many modern autocrats and [oligarchies] (https://en.wikipedia.org/wiki/Oligarchy). These issues are manifested in many ways.
+    - [Late capitalism](https://en.wikipedia.org/wiki/Late_capitalism). Aka hypercapitalism. An [economic system](https://en.wikipedia.org/wiki/Economic_system) is the flow of goods, services, and value. [Money](https://en.wikipedia.org/wiki/Money) is a tool that helps with economic flow. [Capitalism] is an economiic system on private ownership with an emphasis on money. Capitalism in moderation is good but hypercapitalism dams the economic flow, and concentrates it in a few.
+    - Oligarchs have too much voice. Why are elections too expensive?
+        - [Campaign finance reform in the United States](https://en.wikipedia.org/wiki/Campaign_finance_reform_in_the_United_States)
+            - [Dark money](https://en.wikipedia.org/wiki/Gerrymandering)
+            - [Citizens United v. FEC](https://en.wikipedia.org/wiki/Gerrymandering) (2010)
+            - [Lobbying in the United States](https://en.wikipedia.org/wiki/Lobbying_in_the_United_States)
+            - [Political action committee](https://en.wikipedia.org/wiki/Political_action_committee)
+        - [Gerrymandering](https://en.wikipedia.org/wiki/Gerrymandering). Drawing the maps should NOT be done by the parties. The U.S. Census has been used as a tool for gerrymandering.
+        - [Voter suppression in the United States](https://en.wikipedia.org/wiki/Voter_suppression_in_the_United_States)
+        - [Anti-competitive practices](https://en.wikipedia.org/wiki/Anti-competitive_practices).
+        - [Conflict of interest](https://en.wikipedia.org/wiki/Conflict_of_interest). So much corruption, insider trading, side benefits, financial gifts, emoluments, etc.
+    - Value > Money. Late stage captialism also shifts the focus to money instead of value, this is like focusing on the finger pointing at the Moon instead of focusing on the Moon. Money is a proxy for value, not actual value. Profiteering eventually works against the People's interests. Artificial scarcity.
+        - Too many advertisements.
+        - Water: It is in the People's interests for everyone to have access to water. That is more important than making money by selling water.
+            - [Nestlé Doesn't Think Water Is A Human Right - Bill Burr @ Conan (2015)](https://www.youtube.com/watch?v=w_pb6r8VNWk)
+            - [Is Water a Human Right? C-Suite Insights With Nestlé Chairman Peter Brabeck](https://www.youtube.com/watch?v=_GFjtiasm5w)
+            - [The Evil Business of Nestlé](https://www.youtube.com/watch?v=MoKLovtnbGY)
+        - Some items are too expensive, i.e. not socialized, or have an artifical supply/demand scenario.
+            - The Military and police. Yes, the money per person in these areas should be high but their budgets are too large.
+            - Healthcare and prescription drugs. Too many interventions with questionable research and const-benefits ratios. U.S. healthcare is the most expenseive but we don't have the best outcomes.
+            - Education, Scientific Journals
+            - Funerals
+            - Internet service
+            - Incarceration. Racially biased. Profiteered.
+        - Some items are too cheap, i.e. subsidized. Profit is privatized but losses are socialized.
+            - Farming, Fishing, Dairy
+            - Fossil fuels & products
+            - Mining
+            - Damage to the environment, nature, animals, water, treasured sites, etc.
+- RULE BY THE MANY. A fair democracy is better than an oligarchy, but there are problems with misinformation, propanda, and manipulation. Part of it is weak epistemology, but part of it can be contributed to purposeful campaigns. There is the adage "A lie is halfway round the world before the truth has got its boots on", but the propagation of "false news" is magnified by social media.
+    - [Journalism](https://en.wikipedia.org/wiki/Journalism). Yes, there is free speech but journalistic organizations should be certified and held to a higher standard.
+    - Trigger issues. Some people are easily incited. The policy making process should be granular as much as possible and not bundled with trigger issues or pork issues. Some issues commonly used for manipulation in no particular order.
+        - Immigration. Separating children from parents is wrong.
+        - Identity
+        - Abortion
+            - Abortion is a difficult, horrific, and personal decision that I don't think anyone takes lightly, especially not the mother. Trust the mothers and their maternal instincts to make the hard decision.
+            - Just because I am pro-choice does not mean I am pro-abortion. It means I understand that your choice is none of my damn business, and I will always fight for your right to choose.
+            - Abortion should be avoided but there are cases where it should be done.
+            Abortion should be an informed decision made by the mother and that it is her right and that government should stay out of it except to protect the right.
+            - I think that most people are actually in agreement on the issue.
+            - I think politicians use this push button issue for votes.
+            - When does life begin? What is an embryo? Where is the line? The Bible speaks of the breath of life.
+        - Guns
+            - I own guns myself. The gun media is riddled with fear and yet most people have never had a gun altercation or have had guns taken from them.
+            - I think most people believe in the right to bear arms but that there should be certain safeties like requiring gun education and a background check when you buy guns. E.g. When I go to Bass Pro Shop to get a gun, I can't pick it up for 3 days. What's the big deal? On the other hand some laws are just inconvenient. E.g. I'm not sure if restricting silencers is useful.
+        - Transgender
+        - Religion
+            - [Freedom of religion in the United States](https://en.wikipedia.org/wiki/Freedom_of_religion_in_the_United_States) is constitutionally protected by the [First Amendment](https://en.wikipedia.org/wiki/First_Amendment_to_the_United_States_Constitution).
+            - The [seperation of church and state](https://en.wikipedia.org/wiki/Separation_of_church_and_state) protects everyone. It also effectively defines that the U.S. is NOT a Christian nation even though there are many Christians in the U.S.
+            - Since the People are of different religions, policy decisions should areligious and not tied to any relgious texts.
+            - I don't limit acquiring useful heuristics to one religion.
+        - Drugs. I don't really smoke or drink let alone do drugs, but more drugs should be legalized because when it is illegal it happens anyway but in an unsafe and untaxed fashion. Alcohol is legal but it probably does more harm tha cannibis.
+        - Medically assisted suicide. We euthanize our pets. If people OK their own euthanzia before they are in trouble, then I'm OK with it.
+        - Sexual orientation, identification, etc.
 
-### 1.4.1. Bonus: Some quotes on facts & opinions
-
-"You can spend your whole life building a wall of facts between you and anything real." - Chuck Palahniuk
-
-"The truth is more important than the facts." - Frank Lloyd Wright
-
-"We do not deal much in facts when we are contemplating ourselves." - Mark Twain
-
-"Few people are capable of expressing with equanimity opinions which differ from the prejudices of their social enviroment. Most people are incapable of forming such opinions." - Albert Einstein
-
-'Experiment is the sole judge of scientific "truth".' - Richard Feynman
-
-"Why, you simple creatures, the weakest of all weak things is a virtue which has not been tested in the fire." - Mark Twain
