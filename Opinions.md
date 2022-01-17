@@ -137,7 +137,7 @@ Your opinions and worldview will almost certainly differ from mine. And yet we h
 
 Everyone looks out for themselves. Everyone protects & promotes their interests. Thus everyone should form their opinions. However we also have loved ones and we also live in a society, a [*polis*](https://en.wikipedia.org/wiki/Polis). Politics & Policies affects many of us and thus we need to parse the many opinions.
 
-I want to highlight key problems common to many poltical topics. My examples will focus on U.S. issues.
+I want to highlight key problems common to many poltical topics, then move on to particular issues, especially U.S. issues. TLDR: I'm a Progressive.
 
 - HOW TO PARSE. If we cannot establish a framework to parse our opinions, we will not be building upon hard earned knowledge and be closing ourselves to better solutions. Our opinions should be parsed using best practices, evidence, well-formed logic, transparency, testing, perspective, etc., but also in an effective, timely, earnest, heard, woke, and emotionally conscious manner. This part of [political science](https://en.wikipedia.org/wiki/Political_science).
 - PROBLEMS > POLTICAL PROBLEMS. Please distinguish between the problems faced by the state vs. the political problems. Many become so focused on poltical problems that statesmanship is left behind. Deciding on the faction or the captain can overshadow keeping the ship afloat.
@@ -151,7 +151,8 @@ I want to highlight key problems common to many poltical topics. My examples wil
             - [Political action committee](https://en.wikipedia.org/wiki/Political_action_committee)
         - [Gerrymandering](https://en.wikipedia.org/wiki/Gerrymandering). Drawing the maps should NOT be done by the parties. The U.S. Census has been used as a tool for gerrymandering.
         - [Voter suppression in the United States](https://en.wikipedia.org/wiki/Voter_suppression_in_the_United_States)
-        - [Anti-competitive practices](https://en.wikipedia.org/wiki/Anti-competitive_practices).
+        - [Anti-competitive practices](https://en.wikipedia.org/wiki/Anti-competitive_practices)
+        - [Telecommunications Act of 1996](https://en.wikipedia.org/wiki/Telecommunications_Act_of_1996). Media monopolies with poor journalistic standards are againt the interests of the people.
         - [Conflict of interest](https://en.wikipedia.org/wiki/Conflict_of_interest). So much corruption, insider trading, side benefits, financial gifts, emoluments, etc.
     - Value > Money. Late stage captialism also shifts the focus to money instead of value, this is like focusing on the finger pointing at the Moon instead of focusing on the Moon. Money is a proxy for value, not actual value. Profiteering eventually works against the People's interests. Artificial scarcity.
         - Too many advertisements.
@@ -159,7 +160,7 @@ I want to highlight key problems common to many poltical topics. My examples wil
             - [Nestlé Doesn't Think Water Is A Human Right - Bill Burr @ Conan (2015)](https://www.youtube.com/watch?v=w_pb6r8VNWk)
             - [Is Water a Human Right? C-Suite Insights With Nestlé Chairman Peter Brabeck](https://www.youtube.com/watch?v=_GFjtiasm5w)
             - [The Evil Business of Nestlé](https://www.youtube.com/watch?v=MoKLovtnbGY)
-        - Some items are too expensive, i.e. not socialized, or have an artifical supply/demand scenario.
+        - Some items are too expensive, i.e. not socialized, or have an artifical supply/demand scenario. Profiteering in these areas is entrenched in America.
             - The Military and police. Yes, the money per person in these areas should be high but their budgets are too large.
             - Healthcare and prescription drugs. Too many interventions with questionable research and const-benefits ratios. U.S. healthcare is the most expenseive but we don't have the best outcomes.
             - Education, Scientific Journals
@@ -171,29 +172,68 @@ I want to highlight key problems common to many poltical topics. My examples wil
             - Fossil fuels & products
             - Mining
             - Damage to the environment, nature, animals, water, treasured sites, etc.
+        - Social services
+            - Some social services the U.S. already provides: primary & secondary education, public libraries, fire departments, police departments, the military, the Post Office, Medicare & Medicaid, some parks, emergency funding, transportation (via subsidizing highways & public transportation).
+            - A society can be judged by how it takes care of its people. We have the resources to provide basic social services with [universal basic income](https://en.wikipedia.org/wiki/Universal_basic_income) or modular basic income.
+                - Food
+                - Clean Air & Water
+                - Shelter & Utilities
+                - Healthcare
+                - Childcare & Education
+                - Maternity Leave & Elder Care
 - RULE BY THE MANY. A fair democracy is better than an oligarchy, but there are problems with misinformation, propanda, and manipulation. Part of it is weak epistemology, but part of it can be contributed to purposeful campaigns. There is the adage "A lie is halfway round the world before the truth has got its boots on", but the propagation of "false news" is magnified by social media.
     - [Journalism](https://en.wikipedia.org/wiki/Journalism). Yes, there is free speech but journalistic organizations should be certified and held to a higher standard.
     - Trigger issues. Some people are easily incited. The policy making process should be granular as much as possible and not bundled with trigger issues or pork issues. Some issues commonly used for manipulation in no particular order.
-        - Immigration. Separating children from parents is wrong.
+        - Immigration
+            - Separating children from parents is wrong. It doesn't seem to be about resources but racism and xenophobia.
         - Identity
+            - Everyone has an identity, a culture. Odd that this is politicized.
         - Abortion
             - Abortion is a difficult, horrific, and personal decision that I don't think anyone takes lightly, especially not the mother. Trust the mothers and their maternal instincts to make the hard decision.
             - Just because I am pro-choice does not mean I am pro-abortion. It means I understand that your choice is none of my damn business, and I will always fight for your right to choose.
             - Abortion should be avoided but there are cases where it should be done.
             Abortion should be an informed decision made by the mother and that it is her right and that government should stay out of it except to protect the right.
             - I think that most people are actually in agreement on the issue.
-            - I think politicians use this push button issue for votes.
-            - When does life begin? What is an embryo? Where is the line? The Bible speaks of the breath of life.
+            - When does life begin? What is an embryo? Where is the line? [What Does the Bible Say About Abortion?](https://ffrf.org/component/k2/item/26087-abortion-nontract).
         - Guns
             - I own guns myself. The gun media is riddled with fear and yet most people have never had a gun altercation or have had guns taken from them.
             - I think most people believe in the right to bear arms but that there should be certain safeties like requiring gun education and a background check when you buy guns. E.g. When I go to Bass Pro Shop to get a gun, I can't pick it up for 3 days. What's the big deal? On the other hand some laws are just inconvenient. E.g. I'm not sure if restricting silencers is useful.
-        - Transgender
         - Religion
             - [Freedom of religion in the United States](https://en.wikipedia.org/wiki/Freedom_of_religion_in_the_United_States) is constitutionally protected by the [First Amendment](https://en.wikipedia.org/wiki/First_Amendment_to_the_United_States_Constitution).
             - The [seperation of church and state](https://en.wikipedia.org/wiki/Separation_of_church_and_state) protects everyone. It also effectively defines that the U.S. is NOT a Christian nation even though there are many Christians in the U.S.
             - Since the People are of different religions, policy decisions should areligious and not tied to any relgious texts.
             - I don't limit acquiring useful heuristics to one religion.
-        - Drugs. I don't really smoke or drink let alone do drugs, but more drugs should be legalized because when it is illegal it happens anyway but in an unsafe and untaxed fashion. Alcohol is legal but it probably does more harm tha cannibis.
-        - Medically assisted suicide. We euthanize our pets. If people OK their own euthanzia before they are in trouble, then I'm OK with it.
+            - The U.S. relationship with Israel is odd and it probably has a religious basis.
+        - Drugs
+            - I don't really smoke or drink let alone do drugs, but more drugs should be legalized because when it is illegal it happens anyway but in an unsafe and untaxed fashion.
+            - Alcohol is legal but it probably does more harm tha cannibis.
+        - Medically assisted suicide
+            - We euthanize our pets.
+            - If people OK their own euthanzia before they are in trouble, then I'm OK with it.
+            - [Wabi-Sabi](https://en.wikipedia.org/wiki/Wabi-sabi) applies to people. We are imperfect, incomplete, and impermanent. We get sick, injured, old, suffer, and die.
         - Sexual orientation, identification, etc.
-
+            - Consent is the key rule for sexual activity. Be healthy, legal, educated, and kind too.
+            - As far as LGBQT, etc. whatever float your boat. People are people under law. Marry who you want.
+            - The state should do sex education in high school because people do it anyway and it's a public health issue.
+            - Legalize prostitution because when it is illegal it happens anyway but in an unsafe and untaxed fashion.
+            - Prevent and discourage human trafficking.
+            - As far as your health reocrd goes, gender at birth is the closest thing we have to a standard.
+        - Environment, Climate Change, Climate Emergency.
+            - We only have one planet. Odd that this is politicized.
+            - There is free atomic furnace in the sky. Odd that we don't do more solar.
+        - Breast feeding
+            - It's perfectly natural.
+        - Protein
+            - I'm not a vegetarian but I try to eat more plants.
+            - Humans grow the fastest as babies, and breast milk is only 7% protein, so why do Americans eat diets with 3-4 times as much?
+            - Animal-based protein uses far more resources than plant-based protein.
+            - The amount of extra resources and animal suffering is astounding.
+        - Federal Minimum Wage
+            - While I believe that the free market should largely set wages, history has shown (with slavery, slum shops, child labor, etc) that the drive for profit naturally pushes the wage as low as possible. Thus, I believe the government and society should establish some sort of minimum wage.
+            - As of 2022 the Federal Minimum Wage has not been adjusted for inflation in decades.
+        - Open
+            - Any data, research, software, etc. paid with public money should belong to the public.
+            - Open software should be used as much as possible.
+            - Open politics because we should act courageously and enable prudent and tempered policies for society, in a just, fair, and transparent fashion.
+        - Vaccines
+            - Most anti-vaccination stances are unfounded and conspiratorial.
