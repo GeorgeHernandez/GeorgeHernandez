@@ -17,7 +17,7 @@ Here are some of my opinions to express myself in my own idiom and to maka a min
         - [1.3.3. Good](#133-good)
     - [1.4. SHOULD NOT](#14-should-not)
     - [1.5. Politics & Policies](#15-politics--policies)
-        - [1.5.1. ISSUES](#151-issues)
+        - [1.5.1. Political Issues](#151-political-issues)
 
 ## 1.1. My opinions on opinions
 
@@ -185,14 +185,10 @@ I want to highlight key problems common to many poltical topics, then move on to
 - RULE BY THE MANY. A fair democracy is better than an oligarchy, but there are problems with misinformation, propanda, and manipulation. Part of it is weak epistemology, but part of it can be contributed to purposeful campaigns. There is the adage "A lie is halfway round the world before the truth has got its boots on", but the propagation of "false news" is magnified by social media.
     - [Journalism](https://en.wikipedia.org/wiki/Journalism). Yes, there is free speech but journalistic organizations should be certified and held to a higher standard.
 
-### 1.5.1. ISSUES
+### 1.5.1. Political Issues
 
-Some issues can incite some people. The policy making process should be granular as much as possible and not bundled with trigger issues or pork issues. Here are some issues in no particular order.
+Some issues can incite some people. The policy making process should be granular as much as possible and not bundled with trigger issues or pork issues. Here are some issues in alphabetical order.
 
-- Immigration
-    - Separating children from parents is wrong. It doesn't seem to be about resources but racism and xenophobia.
-- Identity
-    - Everyone has an identity, a culture. Odd that this is politicized.
 - Abortion
     - Abortion is a difficult, horrific, and personal decision that I don't think anyone takes lightly, especially not the mother. Trust the mothers and their maternal instincts to make the hard decision.
     - Just because I am pro-choice does not mean I am pro-abortion. It means I understand that your choice is none of my damn business, and I will always fight for your right to choose.
@@ -200,9 +196,21 @@ Some issues can incite some people. The policy making process should be granular
     Abortion should be an informed decision made by the mother and that it is her right and that government should stay out of it except to protect the right.
     - I think that most people are actually in agreement on the issue.
     - When does life begin? What is an embryo? Where is the line? [What Does the Bible Say About Abortion?](https://ffrf.org/component/k2/item/26087-abortion-nontract).
+- Breast feeding
+    - It's perfectly natural. It's free. It passes immunities from mother to child.
+- Environment, Climate Change, Climate Emergency.
+    - We only have one planet. Odd that this is politicized.
+    - There is free atomic furnace in the sky. Odd that we don't do more solar.
+- Federal Minimum Wage
+    - While I believe that the free market should largely set wages, history has shown (with slavery, slum shops, child labor, etc) that the drive for profit naturally pushes the wage as low as possible. Thus, I believe the government and society should establish some sort of minimum wage.
+    - As of 2022 the Federal Minimum Wage has not been adjusted for inflation in decades.
 - Guns
     - I own guns myself. The gun media is riddled with fear and yet most people have never had a gun altercation or have had guns taken from them.
     - I think most people believe in the right to bear arms but that there should be certain safeties like requiring gun education and a background check when you buy guns. E.g. When I go to Bass Pro Shop to get a gun, I can't pick it up for 3 days. What's the big deal? On the other hand some laws are just inconvenient. E.g. I'm not sure if restricting silencers is useful.
+- Identity
+    - Everyone has an identity, a culture. Odd that this is politicized.
+- Immigration
+    - Separating children from parents is wrong. It doesn't seem to be about resources but racism and xenophobia.
 - Religion
     - [Freedom of religion in the United States](https://en.wikipedia.org/wiki/Freedom_of_religion_in_the_United_States) is constitutionally protected by the [First Amendment](https://en.wikipedia.org/wiki/First_Amendment_to_the_United_States_Constitution).
     - The [seperation of church and state](https://en.wikipedia.org/wiki/Separation_of_church_and_state) protects everyone. It also effectively defines that the U.S. is NOT a Christian nation even though there are many Christians in the U.S.
@@ -210,7 +218,7 @@ Some issues can incite some people. The policy making process should be granular
     - I don't limit acquiring useful heuristics to one religion.
     - The U.S. relationship with Israel is odd and it probably has a religious basis.
 - Drugs
-    - I don't really smoke or drink let alone do drugs, but more drugs should be legalized because when it is illegal it happens anyway but in an unsafe and untaxed fashion.
+    - I don't really smoke or drink let alone do drugs, but more drugs should be legalized because when it is illegal it happens anyway but in an unsafe and untaxed fashion. The war on drugs has done more harm than good.
     - Alcohol is legal but it probably does more harm tha cannibis.
 - Medically assisted suicide
     - We euthanize our pets.
@@ -223,22 +231,14 @@ Some issues can incite some people. The policy making process should be granular
     - Legalize prostitution because when it is illegal it happens anyway but in an unsafe and untaxed fashion.
     - Prevent and discourage human trafficking.
     - As far as your health reocrd goes, gender at birth is the closest thing we have to a standard.
-- Environment, Climate Change, Climate Emergency.
-    - We only have one planet. Odd that this is politicized.
-    - There is free atomic furnace in the sky. Odd that we don't do more solar.
-- Breast feeding
-    - It's perfectly natural.
+- Open
+    - Any data, research, software, etc. paid with public money should belong to the public.
+    - Open software should be used as much as possible.
+    - Open politics because we should act courageously and enable prudent and tempered policies for society, in a just, fair, and transparent fashion.
 - Protein
     - I'm not a vegetarian but I try to eat more plants.
     - Humans grow the fastest as babies, and breast milk is only 7% protein, so why do Americans eat diets with 3-4 times as much?
     - Animal-based protein uses far more resources than plant-based protein.
     - The amount of extra resources and animal suffering is astounding.
-- Federal Minimum Wage
-    - While I believe that the free market should largely set wages, history has shown (with slavery, slum shops, child labor, etc) that the drive for profit naturally pushes the wage as low as possible. Thus, I believe the government and society should establish some sort of minimum wage.
-    - As of 2022 the Federal Minimum Wage has not been adjusted for inflation in decades.
-- Open
-    - Any data, research, software, etc. paid with public money should belong to the public.
-    - Open software should be used as much as possible.
-    - Open politics because we should act courageously and enable prudent and tempered policies for society, in a just, fair, and transparent fashion.
 - Vaccines
     - Most anti-vaccination stances are unfounded and conspiratorial.
