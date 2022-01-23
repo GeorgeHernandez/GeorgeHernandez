@@ -163,7 +163,7 @@ I want to highlight key problems common to many poltical topics, then move on to
             - [The Evil Business of Nestlé](https://www.youtube.com/watch?v=MoKLovtnbGY)
         - Some items are too expensive, i.e. not socialized, or have an artifical supply/demand scenario. Profiteering in these areas is entrenched in America.
             - The Military and police. Yes, the money per person in these areas should be high but their budgets are too large.
-            - Healthcare and prescription drugs. Too many interventions with questionable research and const-benefits ratios. U.S. healthcare is the most expenseive but we don't have the best outcomes.
+            - Healthcare and prescription drugs. U.S. healthcare is the most expenseive but we don't have the best outcomes. Some interventions have questionable research and const-benefits ratios. Caveat emptor is difficult in healthcare.
             - Education, Scientific Journals
             - Funerals
             - Internet service
@@ -182,8 +182,11 @@ I want to highlight key problems common to many poltical topics, then move on to
                 - Healthcare
                 - Childcare & Education
                 - Maternity Leave & Elder Care
+            - Generational wealth should not be for oligarchies, dynasties, etc. There should be generational wealth for all of society. We can break the poverty cycle for everybody.
+                - One way to transition to societal generational wealth is to increase profit sharing so that more workers of a company get a share of the profits.
+                - There are many paths to justice: ["Martin Luther King Jr. and the Unfinished Work of Abolishing Poverty"](https://www.thenation.com/article/society/mlk-freedom-budget/).
+            - Yes, people are different (gender, age, physical abilites, smarts, looks, etc) no one needs to be poor or uncared for.
 - RULE BY THE MANY. A fair democracy is better than an oligarchy, but there are problems with misinformation, propanda, and manipulation. Part of it is weak epistemology, but part of it can be contributed to purposeful campaigns. There is the adage "A lie is halfway round the world before the truth has got its boots on", but the propagation of "false news" is magnified by social media.
-    - [Journalism](https://en.wikipedia.org/wiki/Journalism). Yes, there is free speech but journalistic organizations should be certified and held to a higher standard.
 
 ### 1.5.1. Political Issues
 
@@ -198,35 +201,50 @@ Some issues can incite some people. The policy making process should be granular
     - When does life begin? What is an embryo? Where is the line? [What Does the Bible Say About Abortion?](https://ffrf.org/component/k2/item/26087-abortion-nontract).
 - Breast feeding
     - It's perfectly natural. It's free. It passes immunities from mother to child.
+- Capital Punishment
+    - There have been many cases of executing the wrong person. A clean solution is to not have executions.
+- Drugs
+    - I don't really smoke or drink let alone do drugs, but more drugs should be legalized because when it is illegal it happens anyway but in an unsafe and untaxed fashion. The war on drugs has done more harm than good.
+    - Alcohol is legal but it probably does more harm tha cannibis.
 - Environment, Climate Change, Climate Emergency.
     - We only have one planet. Odd that this is politicized.
     - There is free atomic furnace in the sky. Odd that we don't do more solar.
 - Federal Minimum Wage
     - While I believe that the free market should largely set wages, history has shown (with slavery, slum shops, child labor, etc) that the drive for profit naturally pushes the wage as low as possible. Thus, I believe the government and society should establish some sort of minimum wage.
     - As of 2022 the Federal Minimum Wage has not been adjusted for inflation in decades.
+- Freedom of Speech
+    - [Journalism](https://en.wikipedia.org/wiki/Journalism). Yes, there is free speech, but journalistic organizations should be certified and held to a higher standard because of misinformation and conflicts of interest.
+    - Unions are covered by free speech and freedom of peaceful assembly.
+    - Yes, there is freedom of speech, but it is illegal to yell "Fire!" in crowds.
+    - Some people use their freedom of speech to act entitled, make demands beyond the norm, insult otheers, etc.
 - Guns
     - I own guns myself. The gun media is riddled with fear and yet most people have never had a gun altercation or have had guns taken from them.
     - I think most people believe in the right to bear arms but that there should be certain safeties like requiring gun education and a background check when you buy guns. E.g. When I go to Bass Pro Shop to get a gun, I can't pick it up for 3 days. What's the big deal? On the other hand some laws are just inconvenient. E.g. I'm not sure if restricting silencers is useful.
-- Identity
-    - Everyone has an identity, a culture. Odd that this is politicized.
+- Identification
+    - Until there is a global ID "card", every nation should have a national ID card.
+- Identity, Race
+    - People are people.
+    - Everyone has an identity, a culture, a race; Heck some people have mutliples.
 - Immigration
-    - Separating children from parents is wrong. It doesn't seem to be about resources but racism and xenophobia.
+    - People are people.
+    - Separating children from parents is wrong.
+    - It doesn't seem to be about resources but racism and xenophobia. On one hand Americans want cheeap labor, on the other hand there's resentment.
+    - No one wants a statue, flag, etc. on public property that celebrates humiliating your people.
 - Religion
     - [Freedom of religion in the United States](https://en.wikipedia.org/wiki/Freedom_of_religion_in_the_United_States) is constitutionally protected by the [First Amendment](https://en.wikipedia.org/wiki/First_Amendment_to_the_United_States_Constitution).
     - The [seperation of church and state](https://en.wikipedia.org/wiki/Separation_of_church_and_state) protects everyone. It also effectively defines that the U.S. is NOT a Christian nation even though there are many Christians in the U.S.
     - Since the People are of different religions, policy decisions should areligious and not tied to any relgious texts.
     - I don't limit acquiring useful heuristics to one religion.
     - The U.S. relationship with Israel is odd and it probably has a religious basis.
-- Drugs
-    - I don't really smoke or drink let alone do drugs, but more drugs should be legalized because when it is illegal it happens anyway but in an unsafe and untaxed fashion. The war on drugs has done more harm than good.
-    - Alcohol is legal but it probably does more harm tha cannibis.
 - Medically assisted suicide
     - We euthanize our pets.
     - If people OK their own euthanzia before they are in trouble, then I'm OK with it.
     - [Wabi-Sabi](https://en.wikipedia.org/wiki/Wabi-sabi) applies to people. We are imperfect, incomplete, and impermanent. We get sick, injured, old, suffer, and die.
-- Sexual orientation, identification, etc.
+- Sexual orientation, gender identification, etc.
+    - People are people.
     - Consent is the key rule for sexual activity. Be healthy, legal, educated, and kind too.
-    - As far as LGBQT, etc. whatever float your boat. People are people under law. Marry who you want.
+    - As far as LGBQT, etc. whatever float your boat. Marry who you want.
+    - Reduce sexism, yes, but words like feminism and masculism can be widely interpreted.
     - The state should do sex education in high school because people do it anyway and it's a public health issue.
     - Legalize prostitution because when it is illegal it happens anyway but in an unsafe and untaxed fashion.
     - Prevent and discourage human trafficking.
@@ -237,7 +255,7 @@ Some issues can incite some people. The policy making process should be granular
     - Open politics because we should act courageously and enable prudent and tempered policies for society, in a just, fair, and transparent fashion.
 - Protein
     - I'm not a vegetarian but I try to eat more plants.
-    - Humans grow the fastest as babies, and breast milk is only 7% protein, so why do Americans eat diets with 3-4 times as much?
+    - Humans grow the fastest as babies, and breast milk is only 7% protein, so why do Americans eat diets with 3-4 times as much protein?
     - Animal-based protein uses far more resources than plant-based protein.
     - The amount of extra resources and animal suffering is astounding.
 - Vaccines
