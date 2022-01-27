@@ -13,22 +13,23 @@
 node_modules
 
 # Temp:
-.cache
 .loadpath
 .settings/
 [Ll]og/
 [Tt]emp/
 *_vti_*
 *.bak
+*.cache
 *.ignore
+*.log
 *.orig
 *.swp
 *.tmp
 *.zip
 *~
 *~.nib
-temp.*
 local.properties
+temp.*
 
 # Visual Studio Code:
 .vscode
