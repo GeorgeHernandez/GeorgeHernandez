@@ -172,8 +172,7 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
 - [Serenity Prayer](https://en.wikipedia.org/wiki/Serenity_Prayer)
 
     ```text
-    God, grant me
-    The serenity to accept the things I cannot change,
+    God, grant me the serenity to accept the things I cannot change,
     The courage to change the things I can,
     And the wisdom to know the difference.
     ```
