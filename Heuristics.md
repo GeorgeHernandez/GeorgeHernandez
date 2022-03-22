@@ -152,7 +152,7 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
 ## 1.5. Goals (WHAT/WHY)
 
 - [Meaning-making](https://en.wikipedia.org/wiki/Meaning-making). In psychology, meaning-making is the process of how people construe, understand, or make sense of life events, relationships, and the self.
-- [Ikiga](https://en.wikipedia.org/wiki/Ikigai). 生き甲斐, 'a reason for being'.
+- [Ikigai](https://en.wikipedia.org/wiki/Ikigai). 生き甲斐, 'a reason for being'.
     - What you LOVE
     - What the world NEEDS
     - What you can be PAID FOR
