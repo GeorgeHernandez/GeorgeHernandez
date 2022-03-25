@@ -241,7 +241,25 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
         - solid, useful, beautiful
 - Function
     - It is possible to focus on the form regardless of the function (e.g. tea ceremony), but if you can derive more significance from the function, then its signal increases.
-    - It is possible to focus on the form so much that it loses connection to its function. E.g. A martial art that becomes a dance; This may be acceptable when done as art for art's sake
+    - It is possible to focus on the form so much that it loses connection to its function. E.g. A martial art that becomes a dance; This may be acceptable when done as art for art's sake.
+- PP: Policies and Procedures
+    - Organizations that follow a process approach implment policies and procedures.
+        - Purpose. WHY.
+        - Policy. WHAT.
+        - Procedures. General HOW.
+        - Processes. Specific HOW.
+        - Links
+            - [Policy](https://en.wikipedia.org/wiki/Policy)
+            - [Policy studies](https://en.wikipedia.org/wiki/Policy_studies)
+            - [Separation of mechanism and plicy](https://en.wikipedia.org/wiki/Separation_of_mechanism_and_policy)
+            -
+    - TTP: Tactics, Tips, & Procedures
+        - Tactics. High-level general guidance on WHY.
+        - Techniques. WHAT to do.
+        - Procedures. Standard, detailed steps that prescribe HOW to perform specific tasks.
+        - Links
+            - [What’s in a name? TTPs in Info Sec](https://posts.specterops.io/whats-in-a-name-ttps-in-info-sec-14f24480ddcc)
+            - [Department of Defense Dictionary of Military and Associated Terms](https://irp.fas.org/doddir/dod/jp1_02.pdf). Joint Publication 1-02.
 
 ## 1.9. Better actions (HOW)
 
