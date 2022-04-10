@@ -151,6 +151,17 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
 
 ## 1.5. Goals (WHAT/WHY)
 
+- Greek Aristotle's [_Telos_](https://en.wikipedia.org/wiki/Telos) (end, goal). Japanese [_Ikigai_](https://en.wikipedia.org/wiki/Ikigai) (reason for being) 生き甲斐. French _raison d'être_ (reason to be).
+    - Distractions include many variants like the following:
+
+        ```text
+        Finger     : Moon  ::
+        Money      : Value ::
+        Techne     : Telos ::
+        Incidental : Essential
+        ```
+
+    - Losing our [Way, Perspective, Ithaca, Shire, Camelot]. Matthew 5:3-16 with the Beatitudes, Salt of the Earth, Light of the World, City upon a Hill, etc. is all about _moranthe_ (losing flavor, becoming foolish) μωρανθῇson, i.e. humility not hubris.
 - [Meaning-making](https://en.wikipedia.org/wiki/Meaning-making). In psychology, meaning-making is the process of how people construe, understand, or make sense of life events, relationships, and the self.
 - [Ikigai](https://en.wikipedia.org/wiki/Ikigai). 生き甲斐, 'a reason for being'.
     - What you LOVE
