@@ -212,7 +212,7 @@ Some issues can incite some people. The policy making process should be granular
     - Alcohol is legal but it probably does more harm tha cannibis.
 - Environment, Climate Change, Climate Emergency.
     - We only have one planet. Odd that this is politicized.
-    - There is free atomic furnace in the sky. Odd that we don't do more solar.
+    - There is a free atomic furnace in the sky. Odd that we don't do more solar.
 - Federal Minimum Wage
     - While I believe that the free market should largely set wages, history has shown (with slavery, slum shops, child labor, etc) that the drive for profit naturally pushes the wage as low as possible. Thus, I believe the government and society should establish some sort of minimum wage.
     - As of 2022 the Federal Minimum Wage has not been adjusted for inflation in decades.
@@ -222,7 +222,7 @@ Some issues can incite some people. The policy making process should be granular
     - Yes, there is freedom of speech, but it is illegal to yell "Fire!" in crowds.
     - Some people use their freedom of speech to act entitled, make demands beyond the norm, insult otheers, etc.
 - [Fatalism](https://en.wikipedia.org/wiki/Fatalism)
-    - I'm not into determinism, but I believe the odds are not in our favor. Individuals vary but 50% are below average and everyone is susceptible to misinformation. Many problems have a part that is objective, evidence based, logical, etc., but the other part is subjective, political, poplarity-based, etc.
+    - I'm not into determinism, but I believe the odds are not in our favor. Individuals vary but 50% are below average and everyone is susceptible to misinformation, ego, etc. Many problems have a part that is objective, evidence based, logical, etc., but the other part is subjective, political, poplarity-based, etc.
     - [Denialism](https://en.wikipedia.org/wiki/Denialism).
     - [Handlon's razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor): "never attribute to malice that which is adequately explained by stupidity".
     - [Bonhoeffer‘s Theory of Stupidity](https://www.youtube.com/watch?v=ww47bR86wSc). Stupid people are more dangerous than evil ones.
@@ -231,6 +231,9 @@ Some issues can incite some people. The policy making process should be granular
         - ["Idiocracy"](https://en.wikipedia.org/wiki/Idiocracy) (2006).
         - ["The Road"](https://en.wikipedia.org/wiki/The_Road_(2009_film)) (2009).
         - ["Don't Look Up"](https://en.wikipedia.org/wiki/Don%27t_Look_Up) (2021).
+- Genocide
+    - People are people.
+    - It's amazing that we even have to say that it's wrong, that denying it is wrong, that making excuses for it is wrong.
 - Guns
     - I own guns myself. The gun media is riddled with fear and yet most people have never had a gun altercation or have had guns taken from them.
     - I think most people believe in the right to bear arms but that there should be certain safeties like requiring gun education and a background check when you buy guns. E.g. When I go to Bass Pro Shop to get a gun, I can't pick it up for 3 days. What's the big deal? On the other hand some laws are just inconvenient. E.g. I'm not sure if restricting silencers is useful.
@@ -244,27 +247,10 @@ Some issues can incite some people. The policy making process should be granular
     - Separating children from parents is wrong.
     - It doesn't seem to be about resources but racism and xenophobia. On one hand Americans want cheeap labor, on the other hand there's resentment.
     - No one wants a statue, flag, etc. on public property that celebrates humiliating your people.
-- Religion
-    - [Freedom of religion in the United States](https://en.wikipedia.org/wiki/Freedom_of_religion_in_the_United_States) is constitutionally protected by the [First Amendment](https://en.wikipedia.org/wiki/First_Amendment_to_the_United_States_Constitution).
-    - The [seperation of church and state](https://en.wikipedia.org/wiki/Separation_of_church_and_state) protects everyone. It also effectively defines that the U.S. is NOT a Christian nation even though there are many Christians in the U.S.
-    - Since the People are of different religions, policy decisions should areligious and not tied to any relgious texts.
-    - I don't limit acquiring useful heuristics to one religion.
-    - The U.S. relationship with Israel is odd and it probably has a religious basis.
-    - [Freedom from Religion Foundation](https://ffrf.org/). Separating church from state protects you *from* religion but also protects *your* religion.
-    - [The Satanic Temple](https://thesatanictemple.com/). Actually about skepticism and separating church from state than literal Satanism.
 - Medically assisted suicide
     - We euthanize our pets.
     - If people OK their own euthanzia before they are in trouble, then I'm OK with it.
     - [Wabi-Sabi](https://en.wikipedia.org/wiki/Wabi-sabi) applies to people. We are imperfect, incomplete, and impermanent. We get sick, injured, old, suffer, and die.
-- Sexual orientation, gender identification, etc.
-    - People are people.
-    - Consent is the key rule for sexual activity. Be healthy, legal, educated, and kind too.
-    - As far as LGBQT, etc. whatever float your boat. Marry who you want.
-    - Reduce sexism, yes, but words like feminism and masculism can be widely interpreted.
-    - The state should do sex education in high school because people do it anyway and it's a public health issue.
-    - Legalize prostitution because when it is illegal it happens anyway but in an unsafe and untaxed fashion.
-    - Prevent and discourage human trafficking.
-    - As far as your health reocrd goes, gender at birth is the closest thing we have to a standard.
 - Open
     - Any data, research, software, etc. paid with public money should belong to the public.
     - Open software should be used as much as possible.
@@ -274,5 +260,25 @@ Some issues can incite some people. The policy making process should be granular
     - Humans grow the fastest as babies, and breast milk is only 7% protein, so why do Americans eat diets with 3-4 times as much protein?
     - Animal-based protein uses far more resources than plant-based protein.
     - The amount of extra resources and animal suffering is astounding.
+- Religion
+    - [Freedom of religion in the United States](https://en.wikipedia.org/wiki/Freedom_of_religion_in_the_United_States) is constitutionally protected by the [First Amendment](https://en.wikipedia.org/wiki/First_Amendment_to_the_United_States_Constitution).
+    - The [seperation of church and state](https://en.wikipedia.org/wiki/Separation_of_church_and_state) protects everyone. It also effectively defines that the U.S. is NOT a Christian nation even though there are many Christians in the U.S.
+    - Since the People are of different religions, policy decisions should areligious and not tied to any relgious texts.
+    - I don't limit acquiring useful heuristics to one religion.
+    - The U.S. relationship with Israel is odd and it probably has a religious basis.
+    - [Freedom from Religion Foundation](https://ffrf.org/). Separating church from state protects you *from* religion but also protects *your* religion.
+    - [The Satanic Temple](https://thesatanictemple.com/). Actually about skepticism and separating church from state than literal Satanism.
+- Sexual orientation, gender identification, etc.
+    - People are people.
+    - Consent is the key rule for sexual activity. Be healthy, legal, educated, and kind too.
+    - As far as LGBQT, etc. whatever float your boat. Marry who you want.
+    - Reduce sexism, yes, but words like feminism and masculism can be widely interpreted.
+    - The state should do sex education in high school because people do it anyway and it's a public health issue.
+    - Legalize prostitution because when it is illegal it happens anyway but in an unsafe and untaxed fashion.
+    - Prevent and discourage human trafficking.
+    - As far as your health reocrd goes, gender at birth is the closest thing we have to a standard.
+- Sovereignty
+    - Amazing that this is an issue at all. Usually its because people are violating the rules of "Don't be a dick" and "People are people". Separate and be done with it.
+    - Palestine, Ireland, Ukraine, Hong Kong, Tibet, Taiwan, etc.
 - Vaccines
     - Most anti-vaccination stances are unfounded and conspiratorial.
