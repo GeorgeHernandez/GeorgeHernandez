@@ -143,7 +143,7 @@ I want to highlight key problems common to many poltical topics, then move on to
 - HOW TO PARSE. If we cannot establish a framework to parse our opinions, we will not be building upon hard earned knowledge and be closing ourselves to better solutions. Our opinions should be parsed using best practices, evidence, well-formed logic, transparency, testing, perspective, etc., but also in an effective, timely, earnest, heard, woke, and emotionally conscious manner. This part of [political science](https://en.wikipedia.org/wiki/Political_science).
 - PROBLEMS > POLTICAL PROBLEMS. Please distinguish between the problems faced by the state vs. the political problems. Many become so focused on poltical problems that statesmanship is left behind. Deciding on the faction or the captain can overshadow keeping the ship afloat.
 - RULE BY A FEW. You don't see modern instances of rule either by a [philosopher king](https://en.wikipedia.org/wiki/Philosopher_king) or serveral wisemen (a [noocracy](https://en.wikipedia.org/wiki/Noocracy)), but there are many modern autocrats and [oligarchies] (https://en.wikipedia.org/wiki/Oligarchy). These issues are manifested in many ways.
-    - Oligarchy is varation of [No taxation without representation](https://en.wikipedia.org/wiki/No_taxation_without_representation). Decent representation is a key element of democracies. Variants of non-representation include race, gender, minority (minoritarianism), age (gerontocracy), military (stratocrayc), religion (theocracy), property ownership (timocracy), income (plutocracy), favoritism (nepotism), etc.
+    - Oligarchy is varation of [No taxation without representation](https://en.wikipedia.org/wiki/No_taxation_without_representation). Decent representation is a key element of democracies. Variants of non-representation include race, gender, minority (minoritarianism), age (gerontocracy), military (stratocrayc), religion (theocracy), property ownership (timocracy), income (plutocracy), favoritism (nepotism), rule by the worst (kakistocracy), etc.
     - [Late capitalism](https://en.wikipedia.org/wiki/Late_capitalism). Aka hypercapitalism. An [economic system](https://en.wikipedia.org/wiki/Economic_system) is the flow of goods, services, and value. [Money](https://en.wikipedia.org/wiki/Money) is a tool that helps with economic flow. [Capitalism] is an economiic system on private ownership with an emphasis on money. Capitalism in moderation is good but hypercapitalism dams the economic flow, and concentrates it in a few.
     - Oligarchs have too much voice. Why are elections too expensive?
         - [Campaign finance reform in the United States](https://en.wikipedia.org/wiki/Campaign_finance_reform_in_the_United_States)
@@ -177,7 +177,7 @@ I want to highlight key problems common to many poltical topics, then move on to
             - Damage to the environment, nature, animals, water, treasured sites, etc.
         - Social services
             - Some social services the U.S. already provides: primary & secondary education, public libraries, fire departments, police departments, the military, the Post Office, Medicare & Medicaid, some parks, emergency funding, transportation (via subsidizing highways & public transportation).
-            - A society can be judged by how it takes care of its people. We have the resources to provide basic social services with [universal basic income](https://en.wikipedia.org/wiki/Universal_basic_income) or modular basic income.
+            - A society can be judged by how it takes care of its people. We have the resources to provide basic services with [universal basic income](https://en.wikipedia.org/wiki/Universal_basic_income) or modular basic income.
                 - Food
                 - Clean Air & Water
                 - Shelter & Utilities
@@ -221,6 +221,16 @@ Some issues can incite some people. The policy making process should be granular
     - Unions are covered by free speech and freedom of peaceful assembly.
     - Yes, there is freedom of speech, but it is illegal to yell "Fire!" in crowds.
     - Some people use their freedom of speech to act entitled, make demands beyond the norm, insult otheers, etc.
+- [Fatalism](https://en.wikipedia.org/wiki/Fatalism)
+    - I'm not into determinism, but I believe the odds are not in our favor. Individuals vary but 50% are below average and everyone is susceptible to misinformation. Many problems have a part that is objective, evidence based, logical, etc., but the other part is subjective, political, poplarity-based, etc.
+    - [Denialism](https://en.wikipedia.org/wiki/Denialism).
+    - [Handlon's razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor): "never attribute to malice that which is adequately explained by stupidity".
+    - [Bonhoeffer‘s Theory of Stupidity](https://www.youtube.com/watch?v=ww47bR86wSc). Stupid people are more dangerous than evil ones.
+    - Fatalistic films
+        - ["Stupidity"](https://en.wikipedia.org/wiki/Stupidity_(film)) (2003).
+        - ["Idiocracy"](https://en.wikipedia.org/wiki/Idiocracy) (2006).
+        - ["The Road"](https://en.wikipedia.org/wiki/The_Road_(2009_film)) (2009).
+        - ["Don't Look Up"](https://en.wikipedia.org/wiki/Don%27t_Look_Up) (2021).
 - Guns
     - I own guns myself. The gun media is riddled with fear and yet most people have never had a gun altercation or have had guns taken from them.
     - I think most people believe in the right to bear arms but that there should be certain safeties like requiring gun education and a background check when you buy guns. E.g. When I go to Bass Pro Shop to get a gun, I can't pick it up for 3 days. What's the big deal? On the other hand some laws are just inconvenient. E.g. I'm not sure if restricting silencers is useful.
