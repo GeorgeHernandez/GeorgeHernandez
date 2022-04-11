@@ -158,19 +158,13 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
         Finger     : Moon  ::
         Money      : Value ::
         Techne     : Telos ::
+        Busywork   : Work  ::
         Incidental : Essential
         ```
 
     - Losing our [Way, Perspective, Ithaca, Shire, Camelot]. Matthew 5:3-16 with the Beatitudes, Salt of the Earth, Light of the World, City upon a Hill, etc. is all about _moranthe_ (losing flavor, becoming foolish) μωρανθῇson, i.e. humility not hubris.
 - [Meaning-making](https://en.wikipedia.org/wiki/Meaning-making). In psychology, meaning-making is the process of how people construe, understand, or make sense of life events, relationships, and the self.
-- [Ikigai](https://en.wikipedia.org/wiki/Ikigai). 生き甲斐, 'a reason for being'.
-    - What you LOVE
-    - What the world NEEDS
-    - What you can be PAID FOR
-    - What you are GOOD AT
-        - Special case: What can only you do?
-    - What you CAN GET
-- The adage is "You are what you do", but consider being your best self and letter your nature drive what you do.
+- The adage is "You are what you do", but consider being your best self and let your nature drive what you do.
 - [Satisficing](https://en.wikipedia.org/wiki/Satisficing). A decision-making strategy or cognitive heuristic that entails searching through the available alternatives until an acceptability threshold is met. E.g. A task is to sew a patch onto a pair of blue pants. The best needle to do the threading is a 4-cm-long needle with a 3-millimeter eye. This needle is hidden in a haystack along with 1,000 other needles varying in size from 1 cm to 6 cm. Satisficing claims that the first needle that can sew on the patch is the one that should be used. Spending time searching for that one specific needle in the haystack is a waste of energy and resources.
 
 ## 1.6. Manage your suffering (HOW)
