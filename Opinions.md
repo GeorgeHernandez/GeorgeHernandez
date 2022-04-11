@@ -169,6 +169,7 @@ I want to highlight key problems common to many poltical topics, then move on to
             - Funerals
             - Internet service
             - Incarceration. Racially biased. Profiteered.
+            - Tax preparation services. It is more automated, simpler and cheaper in other countries. E.g. https://news.yahoo.com/irs-already-income-tax-data-130029063.html.
         - Some items are too cheap, i.e. subsidized. Profit is privatized but losses are socialized.
             - Farming, Fishing, Dairy
             - Fossil fuels & products
@@ -183,6 +184,8 @@ I want to highlight key problems common to many poltical topics, then move on to
                 - Healthcare
                 - Childcare & Education
                 - Maternity Leave & Elder Care
+                - Technology access:  Internet, computers, etc.
+                - Transportation. More public transportation would also be greener.
             - Generational wealth should not be for oligarchies, dynasties, etc. There should be generational wealth for all of society. We can break the poverty cycle for everybody.
                 - One way to transition to societal generational wealth is to increase profit sharing so that more workers of a company get a share of the profits.
                 - There are many paths to justice: ["Martin Luther King Jr. and the Unfinished Work of Abolishing Poverty"](https://www.thenation.com/article/society/mlk-freedom-budget/).
@@ -237,6 +240,8 @@ Some issues can incite some people. The policy making process should be granular
     - Since the People are of different religions, policy decisions should areligious and not tied to any relgious texts.
     - I don't limit acquiring useful heuristics to one religion.
     - The U.S. relationship with Israel is odd and it probably has a religious basis.
+    - [Freedom from Religion Foundation](https://ffrf.org/). Separating church from state protects you *from* religion but also protects *your* religion.
+    - [The Satanic Temple](https://thesatanictemple.com/). Actually about skepticism and separating church from state than literal Satanism.
 - Medically assisted suicide
     - We euthanize our pets.
     - If people OK their own euthanzia before they are in trouble, then I'm OK with it.
