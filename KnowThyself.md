@@ -59,62 +59,61 @@ As a person
             - Kantianism. Treating people as ends unto themselves, not mere means.
             - Humanism. Valuing the dignity and worth of each individual.
             - Faith in Humanity. Believing in the fundamental goodness of humans.
-            - «the light triad was related to greater _interpersonal guilt_ — including _survivor_ ("I sometimes feel I don't deserve the happiness I achieved"), _separation_ ("It makes me anxious to be away from home for too long") and _omnipotent responsibility_ ("I worry a lot about the people I love even when they seem to be fine") forms of guilt.» - Kaufman, Scott Barry Kaufman. ["The Light Triad vs. Dark Triad of Personality"](https://blogs.scientificamerican.com/beautiful-minds/the-light-triad-vs-dark-triad-of-personality/) (2019).
+            - «the light triad was related to greater *interpersonal guilt* — including *survivor* ("I sometimes feel I don't deserve the happiness I achieved"), *separation* ("It makes me anxious to be away from home for too long") and *omnipotent responsibility* ("I worry a lot about the people I love even when they seem to be fine") forms of guilt.» - Kaufman, Scott Barry Kaufman. ["The Light Triad vs. Dark Triad of Personality"](https://blogs.scientificamerican.com/beautiful-minds/the-light-triad-vs-dark-triad-of-personality/) (2019).
         - Low: Dark Triad
             - Narcissistic. Entitled self-importance.
             - Psychopathic. Callousness & cynicism.
             - Machiavellian. Strategic exploitation & deceit.
-
-        - ME: 90%
+        - ME: 90%. I identify with kindness, but it contributes to guilt for not saving the world.
     - Emotionalism (fka Neuroticism)
-        - Identifies people who are prone to psychological distress. Individuals who are high in neuroticism tend to be anxious, depressed, self-conscious, impulsive, vulnerable and display angry hostility. Emotionality. Paranoia. Higher Highs. Lower Lows.
-        - ME: 80%
+        - Identifies people who are prone to psychological distress. Individuals who are high in neuroticism tend to be anxious, depressed, self-conscious, impulsive, vulnerable and display angry hostility. Higher Highs. Lower Lows.
+        - ME: 70%. I have [dysthmia](https://en.wikipedia.org/wiki/Dysthymia) and sadly it has gotten stronger over the years.
     - EXtraversion
         - Gregarious, outgoing, sociable, projecting one's personality outward. The opposite of extraversion is introversion. Extraversion has shown to share certain genetic markers with substance abuse. Extraversion is associated with various regions of the prefrontal cortex and the amygdala.
         - High: Respond positively to the stimuli of more people. Outward focus.
         - Low: Respond negatively to the stimuli of more people. Inward focus.
-        - ME: 20%
+        - ME: 20%. I identify as an introvert. I'm like a fox: A hidden forest creature. However introversion is not as much a hangup for me as it used to be. I can now deal with a lot of people if I have to.
     - Agreeableness
         - Refers to a compliant, trusting, empathic, sympathetic, friendly and cooperative nature.
         - Low: Competitive.
-        - ME: 70%
+        - ME: 70%. I am agreeable, but I don't mind productive competition.
     - Conscientiousness
         - Scrupulous, meticulous, principled behavior guided or conforming to one's own conscience. Detail oriented. Organized. OCD.
         - Low: Let things happen. Impulsive.
-        - ME: 80%
+        - ME: 80%. I do indeed love to line up my ducks.
     - Openness
         - Composed of two related but separable traits, Openness to Experience and Intellect. Behavioral aspects include having wide interests, and being imaginative and insightful. Considered primarily a cognitive trait. Curious. Explores. Creative.
-        - ME: 80%
-    - Self-esteem (low)
+        - ME: 80%. I identify as an explorer.
+    - Self-esteem
         - A "favorable or unfavorable attitude toward the self" (Rosenberg, 1965). An individual's sense of his or her value or worth, or the extent to which a person values, approves of, appreciates, prizes, or likes him or herself" (Blascovich & Tomaka, 1991).
-        - ME: 70%
+        - ME: 70%. Odd that I can like myself but also be a bit morose.
     - Harm avoidance
         - A tendency towards shyness, being fearful and uncertain, tendency to worry.
-        - ME: 50%
+        - ME: 50%. I like to take precautions and countermeasures, but I'm not a worrier.
     - Novelty seeking
         - Impulsive, exploratory, fickle, excitable, quick-tempered, and extravagant. Associated with addictive behavior.
-        - ME: 30%. Except sometimes.
+        - ME: 50%. I like to explore but I'm not a hedonist.
     - Sensory processing sensitivity (SPS)
-        - The defining trait of highly sensitive persons, characterized by the increased depth of processing of sensory input that underlies HSPs' greater proclivity to overstimulation, emotional reactivity and empathy, and sensitivity to stimuli.
-        - ME: 70%
+        - The defining trait of highly sensitive persons (HSPs), characterized by the increased depth of processing of sensory input that underlies HSPs' greater proclivity to overstimulation, emotional reactivity and empathy, and sensitivity to stimuli.
+        - ME: 70%. Some of my introversion stems from this and my SSD.
     - Perfectionism
         - Perfectionism is one of the traits associated with obsessional behavior.
-        - ME: 80%
+        - ME: 80%. I'm almost compulsive with this. That's why *wabi sabi* is one of my mantras.
     - Alexithymia
         - The inability to express emotions.
-        - ME: 50%
+        - ME: 60%. I write more than a say. I wish I could more easily say "I love you", but it doesn't come easy.
     - Rigidity
         - Inflexibility, difficulty making transitions, adherence to set patterns. Mental rigidity arises out of a deficit of the executive functions.
-        - ME: 60%
+        - ME: 70%. I MUST have milk with cookies or PBJ. I MUST have soda with pizza or burger. But I can be flexible with sufficient reason, or if I run into a wall and need to get creative. However emotionalism can interefere.
     - Impulsivity
         - Risk taking, lack of planning, and making up one's mind quickly (Eysenck and Eysenck). A component of disinhibition.
-        - ME: 40%
+        - ME: 30%. I tend to be constrained This is very context sensitive. If the situation is random then yes I can be impulsive or spontaneous.
     - Disinhibition
         - Behavioral disinhibition is an inability or unwillingness to constrain impulses, it is a key component of executive functioning. Researchers have emphasized poor behavioral inhibition as the central impairment of ADHD.
-        - ME: 40%
+        - ME: 20%. I tend to be constrained.
     - Pscyhoticism
         - Psychoticism is a personality pattern typified by aggressiveness and interpersonal hostility
-        - ME: 20%
+        - ME: 20%. I like to fight and do martial arts, but it's for fun, i.e. I'm usually not angry.
     - Obssessionality
         - Persistent, often unwelcome, and frequently disturbing ideas, thoughts, images or emotions, rumination, often inducing an anxious state.
-        - ME: 70%
+        - ME: 70%. Especially if I'm awake in the middle of the night. However even in the daytime, I have to keep busy or noise wells up.
