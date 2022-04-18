@@ -68,7 +68,7 @@ As a person
         - ME: 90%
     - Emotionalism (fka Neuroticism)
         - Identifies people who are prone to psychological distress. Individuals who are high in neuroticism tend to be anxious, depressed, self-conscious, impulsive, vulnerable and display angry hostility. Emotionality. Paranoia. Higher Highs. Lower Lows.
-        - - ME: 80%
+        - ME: 80%
     - EXtraversion
         - Gregarious, outgoing, sociable, projecting one's personality outward. The opposite of extraversion is introversion. Extraversion has shown to share certain genetic markers with substance abuse. Extraversion is associated with various regions of the prefrontal cortex and the amygdala.
         - High: Respond positively to the stimuli of more people. Outward focus.
