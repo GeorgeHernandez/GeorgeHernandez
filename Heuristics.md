@@ -111,7 +111,7 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
 - Those you are grateful for or to.
 - Your heroes. Do they inspire you to act?
 - Not typically people: Non-life (e.g. rocks), non-sentients (e.g plants), non-humans (e.g. animals, aliens, artifiical life forms), etc.
-- Talk to a variety: age, gender, class, occupation, outlook, etc.
+- Talk to a variety of folks by age, gender, class, occupation, outlook, etc.
 
 ## 1.4. WHEN
 

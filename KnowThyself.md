@@ -52,3 +52,69 @@ As a person
 
 - 🐈 I am a calm, candid, & curious cat who strives to be a courageous, creative, & kind contributor.
 <!-- - Since my 30s I've been craving non-existence. I'm not yet sure if this is physiologica/psychological depression or more of a philiosphical outlook. I love my family and I don't think I'm at risk of self harm, but possibly my craving limits my self-actualization. In Buddhism craving non-existence is a type of [_tanha_](https://en.wikipedia.org/wiki/Ta%E1%B9%87h%C4%81) (craving), called _vibhava tanha_, which is partially due to suffering and wrong view annihilationism, i.e. that there is no rebirth. I don't know about nirvana, moksha, or heaven. This life, this "movie", has its ups and downs, but overall I feel like I've seen it before and I often wish the movie would end, that I would blink out of existence and become non-sentient or even non-life. -->
+- [Trait theory](https://en.wikipedia.org/wiki/Trait_theory). I'm not here to evaluate the quality of the research behind the various theories, rather the traits are useful starting points for examing yourself and others. I'm not a psychologist, etc. so my self-evaluation may be flawed. I'll start with the traits from the [HEXACO model](https://en.wikipedia.org/wiki/HEXACO_model_of_personality_structure).
+    - Honesty-Humility
+        - Tendency towards sincerity, modesty, fairness, and greed avoidance. Those who score high on this trait feel little desire to manipulate others or to break the rules for personal gain.
+        - High: Light Triad
+            - Kantianism. Treating people as ends unto themselves, not mere means.
+            - Humanism. Valuing the dignity and worth of each individual.
+            - Faith in Humanity. Believing in the fundamental goodness of humans.
+            - «the light triad was related to greater _interpersonal guilt_ — including _survivor_ ("I sometimes feel I don't deserve the happiness I achieved"), _separation_ ("It makes me anxious to be away from home for too long") and _omnipotent responsibility_ ("I worry a lot about the people I love even when they seem to be fine") forms of guilt.» - Kaufman, Scott Barry Kaufman. ["The Light Triad vs. Dark Triad of Personality"](https://blogs.scientificamerican.com/beautiful-minds/the-light-triad-vs-dark-triad-of-personality/) (2019).
+        - Low: Dark Triad
+            - Narcissistic. Entitled self-importance.
+            - Psychopathic. Callousness & cynicism.
+            - Machiavellian. Strategic exploitation & deceit.
+
+        - ME: 90%
+    - Emotionalism (fka Neuroticism)
+        - Identifies people who are prone to psychological distress. Individuals who are high in neuroticism tend to be anxious, depressed, self-conscious, impulsive, vulnerable and display angry hostility. Emotionality. Paranoia. Higher Highs. Lower Lows.
+        - - ME: 80%
+    - EXtraversion
+        - Gregarious, outgoing, sociable, projecting one's personality outward. The opposite of extraversion is introversion. Extraversion has shown to share certain genetic markers with substance abuse. Extraversion is associated with various regions of the prefrontal cortex and the amygdala.
+        - High: Respond positively to the stimuli of more people. Outward focus.
+        - Low: Respond negatively to the stimuli of more people. Inward focus.
+        - ME: 20%
+    - Agreeableness
+        - Refers to a compliant, trusting, empathic, sympathetic, friendly and cooperative nature.
+        - Low: Competitive.
+        - ME: 70%
+    - Conscientiousness
+        - Scrupulous, meticulous, principled behavior guided or conforming to one's own conscience. Detail oriented. Organized. OCD.
+        - Low: Let things happen. Impulsive.
+        - ME: 80%
+    - Openness
+        - Composed of two related but separable traits, Openness to Experience and Intellect. Behavioral aspects include having wide interests, and being imaginative and insightful. Considered primarily a cognitive trait. Curious. Explores. Creative.
+        - ME: 80%
+    - Self-esteem (low)
+        - A "favorable or unfavorable attitude toward the self" (Rosenberg, 1965). An individual's sense of his or her value or worth, or the extent to which a person values, approves of, appreciates, prizes, or likes him or herself" (Blascovich & Tomaka, 1991).
+        - ME: 70%
+    - Harm avoidance
+        - A tendency towards shyness, being fearful and uncertain, tendency to worry.
+        - ME: 50%
+    - Novelty seeking
+        - Impulsive, exploratory, fickle, excitable, quick-tempered, and extravagant. Associated with addictive behavior.
+        - ME: 30%. Except sometimes.
+    - Sensory processing sensitivity (SPS)
+        - The defining trait of highly sensitive persons, characterized by the increased depth of processing of sensory input that underlies HSPs' greater proclivity to overstimulation, emotional reactivity and empathy, and sensitivity to stimuli.
+        - ME: 70%
+    - Perfectionism
+        - Perfectionism is one of the traits associated with obsessional behavior.
+        - ME: 80%
+    - Alexithymia
+        - The inability to express emotions.
+        - ME: 50%
+    - Rigidity
+        - Inflexibility, difficulty making transitions, adherence to set patterns. Mental rigidity arises out of a deficit of the executive functions.
+        - ME: 60%
+    - Impulsivity
+        - Risk taking, lack of planning, and making up one's mind quickly (Eysenck and Eysenck). A component of disinhibition.
+        - ME: 40%
+    - Disinhibition
+        - Behavioral disinhibition is an inability or unwillingness to constrain impulses, it is a key component of executive functioning. Researchers have emphasized poor behavioral inhibition as the central impairment of ADHD.
+        - ME: 40%
+    - Pscyhoticism
+        - Psychoticism is a personality pattern typified by aggressiveness and interpersonal hostility
+        - ME: 20%
+    - Obssessionality
+        - Persistent, often unwelcome, and frequently disturbing ideas, thoughts, images or emotions, rumination, often inducing an anxious state.
+        - ME: 70%
