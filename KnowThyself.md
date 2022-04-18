@@ -98,7 +98,7 @@ As a person
         - ME: 70%. Some of my introversion stems from this and my SSD.
     - Perfectionism
         - Perfectionism is one of the traits associated with obsessional behavior.
-        - ME: 80%. I'm almost compulsive with this. That's why *wabi sabi* is one of my mantras.
+        - ME: 70%. Tidiness and closure are important but not always possible. That's why *wabi sabi* is one of my mantras. But surely there must be cases where perfection can be achieved?
     - Alexithymia
         - The inability to express emotions.
         - ME: 60%. I write more than a say. I wish I could more easily say "I love you", but it doesn't come easy.
@@ -113,7 +113,7 @@ As a person
         - ME: 20%. I tend to be constrained.
     - Pscyhoticism
         - Psychoticism is a personality pattern typified by aggressiveness and interpersonal hostility
-        - ME: 20%. I like to fight and do martial arts, but it's for fun, i.e. I'm usually not angry.
+        - ME: 20%. I like to fight and do martial arts, but it's for fun, i.e. I'm usually not angry at the person. I sometimes get annoyed by problems that could have been prevented, but I have to remember that it happens.
     - Obssessionality
         - Persistent, often unwelcome, and frequently disturbing ideas, thoughts, images or emotions, rumination, often inducing an anxious state.
-        - ME: 70%. Especially if I'm awake in the middle of the night. However even in the daytime, I have to keep busy or noise wells up.
+        - ME: 70%. Especially if I'm awake in the middle of the night. However even in the daytime, my mind wanders and I have to keep busy or noise wells up.
