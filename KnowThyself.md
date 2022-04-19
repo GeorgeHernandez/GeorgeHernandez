@@ -101,10 +101,10 @@ As a person
         - ME: 70%. Tidiness and closure are important but not always possible. That's why *wabi sabi* is one of my mantras. But surely there must be cases where perfection can be achieved?
     - Alexithymia
         - The inability to express emotions.
-        - ME: 60%. I write more than a say. I wish I could more easily say "I love you", but it doesn't come easy.
+        - ME: 70%. I write more than a say. I wish I could more easily say "I love you", but it doesn't come easy. Possibly related to having 7 brothers & 1 sister. I wonder how much this contributes to my anti-hedonism?
     - Rigidity
-        - Inflexibility, difficulty making transitions, adherence to set patterns. Mental rigidity arises out of a deficit of the executive functions.
-        - ME: 70%. I MUST have milk with cookies or PBJ. I MUST have soda with pizza or burger. But I can be flexible with sufficient reason, or if I run into a wall and need to get creative. However emotionalism can interefere.
+        - Inflexibility, difficulty making transitions, adherence to set patterns. Mental rigidity arises out of a deficit of the executive functions. Difficulty with unmet expectations.
+        - ME: 60%. I MUST have milk with cookies or PBJ. I MUST have soda with pizza or burger. I can be flexible with sufficient reason, i.e. it is important to hear people out before ruling them out. I am also flexible if I run into a wall and need to get creative. I'm not aware of any insistently repititioius behaviours.
     - Impulsivity
         - Risk taking, lack of planning, and making up one's mind quickly (Eysenck and Eysenck). A component of disinhibition.
         - ME: 30%. I tend to be constrained This is very context sensitive. If the situation is random then yes I can be impulsive or spontaneous.
