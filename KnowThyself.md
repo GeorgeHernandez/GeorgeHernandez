@@ -64,23 +64,23 @@ As a person
             - Narcissistic. Entitled self-importance.
             - Psychopathic. Callousness & cynicism.
             - Machiavellian. Strategic exploitation & deceit.
-        - ME: 90%. I identify with kindness, but it contributes to guilt for not saving the world.
+        - ME: 90%. **I identify with kindness**, but it contributes to my feelings of guilt for not saving the world.
     - Emotionalism (fka Neuroticism)
         - Identifies people who are prone to psychological distress. Individuals who are high in neuroticism tend to be anxious, depressed, self-conscious, impulsive, vulnerable and display angry hostility. Higher Highs. Lower Lows.
-        - ME: 70%. I have [dysthmia](https://en.wikipedia.org/wiki/Dysthymia) and sadly it has gotten stronger over the years.
+        - ME: 70%. **Alas, I have [dysthymia](https://en.wikipedia.org/wiki/Dysthymia)** and sadly it has gotten stronger over the years.
     - EXtraversion
         - Gregarious, outgoing, sociable, projecting one's personality outward. The opposite of extraversion is introversion. Extraversion has shown to share certain genetic markers with substance abuse. Extraversion is associated with various regions of the prefrontal cortex and the amygdala.
         - High: Respond positively to the stimuli of more people. Outward focus.
         - Low: Respond negatively to the stimuli of more people. Inward focus.
-        - ME: 20%. I identify as an introvert. I'm like a fox: A hidden forest creature. However introversion is not as much a hangup for me as it used to be. I can now deal with a lot of people if I have to.
+        - ME: 20%. **I identify as an introvert**. I'm like a fox: A hidden forest creature. However introversion is not as much a hangup for me as it used to be. I can now deal with a lot of people if I have to.
     - Agreeableness
         - Refers to a compliant, trusting, empathic, sympathetic, friendly and cooperative nature.
         - Low: Competitive.
-        - ME: 70%. I am agreeable, but I don't mind productive competition.
+        - ME: 70%. **I identify as agreeable**, but I don't mind productive competition.
     - Conscientiousness
         - Scrupulous, meticulous, principled behavior guided or conforming to one's own conscience. Detail oriented. Organized. OCD.
         - Low: Let things happen. Impulsive.
-        - ME: 80%. I do indeed love to line up my ducks.
+        - ME: 80%. **I identify with lining up my ducks**.
     - Openness
         - Composed of two related but separable traits, Openness to Experience and Intellect. Behavioral aspects include having wide interests, and being imaginative and insightful. Considered primarily a cognitive trait. Curious. Explores. Creative.
         - ME: 80%. I identify as an explorer.
@@ -95,25 +95,25 @@ As a person
         - ME: 50%. I like to explore but I'm not a hedonist.
     - Sensory processing sensitivity (SPS)
         - The defining trait of highly sensitive persons (HSPs), characterized by the increased depth of processing of sensory input that underlies HSPs' greater proclivity to overstimulation, emotional reactivity and empathy, and sensitivity to stimuli.
-        - ME: 70%. Some of my introversion stems from this and my SSD.
+        - ME: 80%. **I identify as an anti-hedonist**. Probably related to my introversion, SSD, and how some video games can give me motion sickness.
     - Perfectionism
         - Perfectionism is one of the traits associated with obsessional behavior.
         - ME: 70%. Tidiness and closure are important but not always possible. That's why *wabi sabi* is one of my mantras. But surely there must be cases where perfection can be achieved?
     - Alexithymia
         - The inability to express emotions.
-        - ME: 70%. I write more than a say. I wish I could more easily say "I love you", but it doesn't come easy. Possibly related to having 7 brothers & 1 sister. I wonder how much this contributes to my anti-hedonism?
+        - ME: 70%. **Alas, I wish I could more easily say "I love you"**, but it doesn't come easy. Possibly related to having 7 brothers & 1 sister. I wonder how much this contributes to my anti-hedonism?
     - Rigidity
         - Inflexibility, difficulty making transitions, adherence to set patterns. Mental rigidity arises out of a deficit of the executive functions. Difficulty with unmet expectations.
-        - ME: 60%. I MUST have milk with cookies or PBJ. I MUST have soda with pizza or burger. I can be flexible with sufficient reason, i.e. it is important to hear people out before ruling them out. I am also flexible if I run into a wall and need to get creative. I'm not aware of any insistently repititioius behaviours.
+        - ME: 60%. **Alas, I MUST have milk with cookies or PBJ**. I MUST have soda with pizza or burger. I can be flexible with sufficient reason, i.e. it is important to hear people out before ruling them out. I am also flexible if I run into a wall and need to get creative. I'm not aware of any insistently repititioius behaviours.
     - Impulsivity
         - Risk taking, lack of planning, and making up one's mind quickly (Eysenck and Eysenck). A component of disinhibition.
-        - ME: 30%. I tend to be constrained This is very context sensitive. If the situation is random then yes I can be impulsive or spontaneous.
+        - ME: 30%. I tend to be constrained. This is very context sensitive. If the situation is random then yes I can be impulsive or spontaneous.
     - Disinhibition
         - Behavioral disinhibition is an inability or unwillingness to constrain impulses, it is a key component of executive functioning. Researchers have emphasized poor behavioral inhibition as the central impairment of ADHD.
         - ME: 20%. I tend to be constrained.
-    - Pscyhoticism
+    - Psychoticism
         - Psychoticism is a personality pattern typified by aggressiveness and interpersonal hostility
         - ME: 20%. I like to fight and do martial arts, but it's for fun, i.e. I'm usually not angry at the person. I sometimes get annoyed by problems that could have been prevented, but I have to remember that it happens.
-    - Obssessionality
+    - Obsessionality
         - Persistent, often unwelcome, and frequently disturbing ideas, thoughts, images or emotions, rumination, often inducing an anxious state.
-        - ME: 70%. Especially if I'm awake in the middle of the night. However even in the daytime, my mind wanders and I have to keep busy or noise wells up.
+        - ME: 70%. **Alas, my mind tends to wander towards the dark**. Especially if I'm awake in the middle of the night. However, even in the daytime, my mind wanders and I have to keep busy or noise wells up.
