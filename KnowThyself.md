@@ -72,7 +72,7 @@ As a person
         - Gregarious, outgoing, sociable, projecting one's personality outward. The opposite of extraversion is introversion. Extraversion has shown to share certain genetic markers with substance abuse. Extraversion is associated with various regions of the prefrontal cortex and the amygdala.
         - High: Respond positively to the stimuli of more people. Outward focus.
         - Low: Respond negatively to the stimuli of more people. Inward focus.
-        - ME: 20%. **I identify as an introvert**. I'm like a fox: A hidden forest creature. However introversion is not as much a hangup for me as it used to be. I can now deal with a lot of people if I have to.
+        - ME: 20%. **I identify as a fox**: A hidden forest creature. My introversion is not as much a hangup as it used to be. I find that I can deal with a lot of people if I have to.
     - Agreeableness
         - Refers to a compliant, trusting, empathic, sympathetic, friendly and cooperative nature.
         - Low: Competitive.
@@ -86,7 +86,7 @@ As a person
         - ME: 80%. I identify as an explorer.
     - Psychoticism
         - Psychoticism is a personality pattern typified by aggressiveness, interpersonal hostility, impulsivity, and sensation-seeking. Psychologist Hans Eysenck's 3 primary traits are P-E-N: Psychoticism, Extraversion, and Neuroticism/Emotionalism.
-        - ME: 60%. **I have a contrary nature** and tend to play the devil's advocate. My sense of humor tends to be ironic, i.e. something wrong is often funny. I like to fight and do martial arts, but it's for fun, developing character and skill, etc, i.e. I'm usually not angry at the person. I will mutter and swear while driving but I don't have road rage. I sometimes get annoyed by problems that could have been prevented, but I try to remember that it happens.
+        - ME: 60%. **I have a contrary nature** and tend to play the devil's advocate. My sense of humor tends to be ironic, i.e. something wrong is often funny. I like to fight and do martial arts, but it's for fun, developing character and skill, etc, i.e. I'm rarely angry at opponents. I will mutter and swear while driving but I don't have road rage. I sometimes get annoyed by problems that could have been prevented, but I try to remember that it happens.
     - Self-esteem
         - A "favorable or unfavorable attitude toward the self" (Rosenberg, 1965). An individual's sense of his or her value or worth, or the extent to which a person values, approves of, appreciates, prizes, or likes him or herself" (Blascovich & Tomaka, 1991).
         - ME: 70%. Odd that I can like myself but also be a bit morose.
