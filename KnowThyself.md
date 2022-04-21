@@ -82,14 +82,17 @@ As a person
         - Low: Let things happen. Impulsive.
         - ME: 80%. **I identify with lining up my ducks**.
     - Openness
-        - Composed of two related but separable traits, Openness to Experience and Intellect. Behavioral aspects include having wide interests, and being imaginative and insightful. Considered primarily a cognitive trait. Curious. Explores. Creative.
+        - Composed of two related but separable traits, Openness to Experience and Intellect. Behavioral aspects include having wide interests, and being imaginative and insightful. Considered primarily a cognitive trait. Curious. Creative.
         - ME: 80%. I identify as an explorer.
+    - Psychoticism
+        - Psychoticism is a personality pattern typified by aggressiveness, interpersonal hostility, impulsivity, and sensation-seeking. Psychologist Hans Eysenck's 3 primary traits are P-E-N: Psychoticism, Extraversion, and Neuroticism/Emotionalism.
+        - ME: 60%. **I have a contrary nature** and tend to play the devil's advocate. My sense of humor tends to be ironic, i.e. something wrong is often funny. I like to fight and do martial arts, but it's for fun, developing character and skill, etc, i.e. I'm usually not angry at the person. I will mutter and swear while driving but I don't have road rage. I sometimes get annoyed by problems that could have been prevented, but I try to remember that it happens.
     - Self-esteem
         - A "favorable or unfavorable attitude toward the self" (Rosenberg, 1965). An individual's sense of his or her value or worth, or the extent to which a person values, approves of, appreciates, prizes, or likes him or herself" (Blascovich & Tomaka, 1991).
         - ME: 70%. Odd that I can like myself but also be a bit morose.
     - Harm avoidance
         - A tendency towards shyness, being fearful and uncertain, tendency to worry.
-        - ME: 50%. I like to take precautions and countermeasures, but I'm not a worrier.
+        - ME: 60%. I like to take precautions and countermeasures, but I'm not a worrier.
     - Novelty seeking
         - Impulsive, exploratory, fickle, excitable, quick-tempered, and extravagant. Associated with addictive behavior.
         - ME: 50%. I like to explore but I'm not a hedonist.
@@ -98,7 +101,7 @@ As a person
         - ME: 80%. **I identify as an anti-hedonist**. Probably related to my introversion, SSD, and how some video games can give me motion sickness.
     - Perfectionism
         - Perfectionism is one of the traits associated with obsessional behavior.
-        - ME: 70%. Tidiness and closure are important but not always possible. That's why *wabi sabi* is one of my mantras. But surely there must be cases where perfection can be achieved?
+        - ME: 60%. Wabi sabi is one of my mantras. Tidiness and closure are important but not always possible. But surely there must be cases where perfection can be achieved?
     - Alexithymia
         - The inability to express emotions.
         - ME: 70%. **Alas, I wish I could more easily say "I love you"**, but it doesn't come easy. Possibly related to having 7 brothers & 1 sister. I wonder how much this contributes to my anti-hedonism?
@@ -107,13 +110,10 @@ As a person
         - ME: 60%. **Alas, I MUST have milk with cookies or PBJ**. I MUST have soda with pizza or burger. I can be flexible with sufficient reason, i.e. it is important to hear people out before ruling them out. I am also flexible if I run into a wall and need to get creative. I'm not aware of any insistently repititioius behaviours.
     - Impulsivity
         - Risk taking, lack of planning, and making up one's mind quickly (Eysenck and Eysenck). A component of disinhibition.
-        - ME: 30%. I tend to be constrained. This is very context sensitive. If the situation is random then yes I can be impulsive or spontaneous.
+        - ME: 30%. **I tend to be constrained**. This is very context sensitive. If the situation is random then yes I can be impulsive or spontaneous.
     - Disinhibition
         - Behavioral disinhibition is an inability or unwillingness to constrain impulses, it is a key component of executive functioning. Researchers have emphasized poor behavioral inhibition as the central impairment of ADHD.
-        - ME: 20%. I tend to be constrained.
-    - Psychoticism
-        - Psychoticism is a personality pattern typified by aggressiveness and interpersonal hostility
-        - ME: 20%. I like to fight and do martial arts, but it's for fun, i.e. I'm usually not angry at the person. I sometimes get annoyed by problems that could have been prevented, but I have to remember that it happens.
+        - ME: 20%. **I tend to be constrained**.
     - Obsessionality
         - Persistent, often unwelcome, and frequently disturbing ideas, thoughts, images or emotions, rumination, often inducing an anxious state.
         - ME: 70%. **Alas, my mind tends to wander towards the dark**. Especially if I'm awake in the middle of the night. However, even in the daytime, my mind wanders and I have to keep busy or noise wells up.
