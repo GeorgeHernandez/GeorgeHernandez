@@ -72,7 +72,7 @@ As a person
         - Gregarious, outgoing, sociable, projecting one's personality outward. The opposite of extraversion is introversion. Extraversion has shown to share certain genetic markers with substance abuse. Extraversion is associated with various regions of the prefrontal cortex and the amygdala.
         - High: Respond positively to the stimuli of more people. Outward focus.
         - Low: Respond negatively to the stimuli of more people. Inward focus.
-        - ME: 20%. **I identify as a fox**: A hidden forest creature. My introversion is not as much a hangup as it used to be. I find that I can deal with a lot of people if I have to.
+        - ME: 20%. **I identify as a fox**: A hidden forest creature. My introversion is not as much a hangup as it used to be. I find that I can deal with a lot of people if I have to. My basic advie to introverts: It is fair to comfortably invisible, but when you have something to say: Say it loud and clear.
     - Agreeableness
         - Refers to a compliant, trusting, empathic, sympathetic, friendly and cooperative nature.
         - Low: Competitive.

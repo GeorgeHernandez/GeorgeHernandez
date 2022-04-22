@@ -241,7 +241,9 @@ Some issues can incite some people. The policy making process should be granular
     - Until there is a global ID "card", every nation should have a national ID card.
 - Identity, Race
     - People are people.
-    - Everyone has an identity, a culture, a race; Heck some people have mutliples.
+    - Everyone has an identity, a culture, a race; Heck, some people have mutliples.
+    - Be mindful of [xenophobia](https://en.wikipedia.org/wiki/Xenophobia), [perjoratives](https://en.wikipedia.org/wiki/Pejorative), , etc. See the lists of [ethnic slurs](https://en.wikipedia.org/wiki/List_of_ethnic_slurs) and [religious slurs](https://en.wikipedia.org/wiki/List_of_religious_slurs).
+    - Be mindful of [speciesism](https://en.wikipedia.org/wiki/Speciesism) and [biocentrism](https://en.wikipedia.org/wiki/Biocentrism_(ethics)). It makes sense to care for all our habitats. Even simple acts like opting for egg from free range chickens helps.
 - Immigration
     - People are people.
     - Separating children from parents is wrong.
