@@ -68,12 +68,13 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
 - Prioritize
     - Sequence matters. E.g. Recipes follow a sequence.
     - [Pareto principle](https://en.wikipedia.org/wiki/Pareto_principle). Roughly 80% of consequences come from 20% of causes. The vital few with the most ROI.
-    - The Important & Urgent
+    - Urgency vs Importance/Impact
         - "I have two kinds of problems: the urgent and the important. The urgent are not important, and the important are never urgent." ~ In a 1954 speech to the Second Assembly of the World Council of Churches, former U.S. President Dwight D. Eisenhower, who was quoting Dr J. Roscoe Miller, president of Northwestern University, said the above. This "Eisenhower Principle" is said to be how he organized his workload and priorities. Important items contribute to our goals; Urgent items contribute to the goals of others.
-        - Important and Urgent. Tasks to DO IMMEDIATELY.
-        - Important but not Urgent. Tasks to schedule to DO LATER.
-        - Not Important and not Urgent. Tasks to DELEGATE.
-        - Not Important and NOT Urgent. Tasks to DELETE.
+            - Important and Urgent. Tasks to DO IMMEDIATELY.
+            - Important but not Urgent. Tasks to schedule to DO LATER.
+            - Not Important and not Urgent. Tasks to DELEGATE. (This irks me. It sounds like stuff for lowly minions.)
+            - Not Important and NOT Urgent. Tasks to DELETE.
+        - Another way to say it is that the Priority of an item is roughly the average of its Impact (effect) and Urgency (time).
 - Creating > Curating > Collecting > Consuming
 - Consumer < Producer < Producers & Consumers collaborating
 - [Five Ws](https://en.wikipedia.org/wiki/Five_Ws). Who, What, Why When, Where + How. Personally what & why are more difficult.
