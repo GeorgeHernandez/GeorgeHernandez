@@ -126,6 +126,12 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
     - "To every thing there is a season, and a time to every purpose under the heaven" ~ [Ecclesiastes 3](https://biblehub.com/ecclesiastes/3.htm).
     - [Procrastination](https://en.wikipedia.org/wiki/Procrastination) is often not about time but about emotional suffering. Procrastinating, urfing, lounging, chilling, etc. can alleviate suffering. You have to determine need (v want) and whether you have the time for it now (v later).
     - Timing & priorities can be linked. E.g. People ofen say "pay yourself first" (with savings, debt reduction, etc), but the same applies for time, i.e. you need to set aside some time for exercise, hygiene, mental health, relaxation, exploing, being lively, etc.
+    - Be mindful of the ebb and flow of your physical & mental energy throughout the day or week. E.g. The [daily quadrants](https://www.fastcompany.com/90742937/how-to-use-daily-quadrants-to-get-more-done-each-day) method has a typical day as
+        - pt2h High Intensity & High Impact. Your most important work.
+        - pt2h High Intensity & Low Impact. Smaller items.
+        - pt2h Low Intensity & Low Impact. Post-lunch coma, thus emails, filing, etc.
+        - pt2h Low Intensity & High Impact. Wrap up, plan for the next day, so you can hit the ground running.
+        - If you are not a morning person, you may want to a different schedule.
 - Past
     - "Life can only be understood backwards; but it must be lived forwards." ~ Søren Kierkegaard
     - "Those who cannot remember the past are condemned to repeat it." ~ George Santayana
