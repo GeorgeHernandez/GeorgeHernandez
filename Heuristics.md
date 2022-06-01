@@ -286,6 +286,16 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
     - Carry out the plan.
     - Review/extend. Determine how well the solution solved the problem. Extend it to future problems.
 - [Wicked problem](https://en.wikipedia.org/wiki/Wicked_problem)
+- Meetings
+    - Consider NOT having a meeting. Sometimes alternatives like an email or a phone call will do. Sometimes gravitas requires a meetings.
+    - Be mindful of the person-hours each meeting takes. E.g. A 2 hour meeting with 4 people takes at least 8 person-hours. There may be additional person-hours via opportunity cost, commuting, etc.
+    - Make meetings more efficient
+        - Have someone lead or moderate the meeting.
+        - Start by stating the time frame, purpose, key contact info, breaks, availability of recordings/notes, etc.
+        - Account for bio breaks for using the restroom, nourishment, stretching, etc.
+    - Meeting should be recorded or someone should take notes. Somtimes it is helpful take notes that the people can see so that there is no doubt about what was communicated.
+    - Start meetings a bit later than the stated time because there are always late comers.
+    - Discussions that are not strictly on the agenda for all attendees should be reserved for sidebars, later meetings, etc.
 
 ## 1.10. Humane actions (HOW/WHY)
 
