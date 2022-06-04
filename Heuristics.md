@@ -227,9 +227,12 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
     - [You aren't gonna need it (YAGNI)](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it). Counter balances too much DRY.
     - [Unix philosophy](https://en.wikipedia.org/wiki/Unix_philosophy)
     - [Modularity](https://en.wikipedia.org/wiki/Modularity): Large complex wholes can only be actualized, managed, summed, and synergized with small simple parts.
+        - [Coupling (computer programming)](https://en.wikipedia.org/wiki/Coupling_(computer_programming)). Usually loose coupling (interdependence on other modules) is preferred.
+        - [Cohesion (computer science)](https://en.wikipedia.org/wiki/Cohesion_(computer_science)). Usually high cohesion (the degree to which elements belong together within a module) is preferred.
 - Analysis & Syntheis
     - Many mindlessly consider health as binary (healthy or sick), but is actually large & complex, and thus should be broken into smaller and simpler components for analysis. Howwever some focus so much on the analyis that the holistic synthesis is lost.
     - Analysis might separate "means to an end" as how v why, but synthesis can say that the journey and the goal are one.
+    - We construct in the present, but hindsight comes from deconstructing the past.
 - [Self-organization](https://en.wikipedia.org/wiki/Self-organization). The topic itself is fascinating but note that it is not a matter of either self-organing or centrally-organized. Why not both? Why not a body with self-organizing cells & a centrally-organizing brain? Why not grass roots & executive functionality?
 - [Complex system](https://en.wikipedia.org/wiki/Complex_system)
 - [Fractal](https://en.wikipedia.org/wiki/Fractal). The term "fractal" was first used by mathematician Benoit Mandelbrot in 1975. The topic itself is fascinating but I like to apply the concept generally in this fashion: Managable sytems have similarities regardless of the size & type of the system even though the specifics at each zoom & domain differ. E.g. Managing the health of 3, 30, 300, 3e3, 3e6, 300e6, 7e9.
