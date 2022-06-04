@@ -250,7 +250,7 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
     - The form is the shape, pattern, likeness. Forma in Spanish.
     - 道 is Tao or Dao in Chinese; Do in Japanese or Korean. The way, path, route, road, choose, key, principle, doctrine.
     - The form (way, how) can be apolitical and objective, especially if the function (what, why) is effectively not an issue. The form is, of course, subject to forking, but then you have different ways. However regardless of the function , the way it is done maybe in an OK way (do) or in a remarkable way (Do).
-        - Generally speaking Do > do and Do has more signal.
+        - Generally speaking: Do > do; Do has more signal.
     - A structure must exhibit 3 qualities:
         - firmitas, utilitas, venustas
         - solid, useful, beautiful
