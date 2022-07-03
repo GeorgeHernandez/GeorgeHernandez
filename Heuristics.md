@@ -317,7 +317,7 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
     - Provide some conditions. Most parents love and care for their children unconditionally, but as the kids get older, parents tend to alter the care and add conditions. Parents "alter the deal" not because they love their kids less, but because they want to ensure the kids continue developing.
 - The right not to tolerate the intolerant ~ Karl Popper, "The Open Society and Its Enemies" (1945).
 - Machine v Garden. Focus on the garden (people, processes, policies), not the machine (hw, code, tech). The machine helps the life in the garden.
-- Reduce, Reuse, Recycle.
+- Refuse, Reduce, Reuse, Repair, Share, Recycle.
 - A government can be a Theocracy or a Democracy, but not both.
 - [Ubuntu](https://en.wikipedia.org/wiki/Ubuntu_philosophy)
 - Action & words can persist in many ways. They impress in your psyche and the psyche of others. They manifest as memories, dreams, echoes, ghosts, and so on. You should act and speak such that your psychic impression is postive and good. Will you persist as a friend, a hero, a pleasant dream, an angel? Or will you persist as an enemy, a villain, a nightmare, a demon?
