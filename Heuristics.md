@@ -297,7 +297,8 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
         - Start by stating the time frame, purpose, key contact info, breaks, availability of recordings/notes, etc.
         - Account for bio breaks for using the restroom, nourishment, stretching, etc.
     - Meeting should be recorded or someone should take notes. Somtimes it is helpful take notes that the people can see so that there is no doubt about what was communicated.
-    - Start meetings a bit later than the stated time because there are always late comers.
+    - Start meetings a bit later than the stated time because there are always late comers. Plus people can set an alarm for the stated time and still be on time for virtual meetings.
+    - End meetings a bit earlier than the stated time.
     - Discussions that are not strictly on the agenda for all attendees should be reserved for sidebars, later meetings, etc.
 
 ## 1.10. Humane actions (HOW/WHY)
