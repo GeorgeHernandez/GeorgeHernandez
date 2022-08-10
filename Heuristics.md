@@ -60,7 +60,7 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
 ## 1.2. Perspective
 
 - If you don't have perspective, then you may just be reacting.
-- Effectiveness != Efficacy
+- Effectiveness != Efficacy. Efficacy implies causation proved by deconfounding other variables, whereas effectiveness implies correlation with outcomes regardless of presence of other variables.
 - Effectiveness > Efficiency.
     - Effectiveness has different components. E.g. If an exercise is not safe, then it's not effective; hence safety > efficiency. E.g. If a close vote count is not accurate, then it's not effective; hence accuracy > efficiency.
     - Slow is smooth. Smooth is fast.
