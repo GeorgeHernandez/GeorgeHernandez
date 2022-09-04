@@ -109,6 +109,19 @@ Your opinions and worldview will almost certainly differ from mine. And yet we h
 - `!=` > `<>`
 - 1 space between sentences > 2 spaces
 - HTML > XHTML
+- My physical keyboard preferences:
+    - Layout: US QWERTY with at least 104 keys. I'm used to this and know where everything is.
+    - Backlit keys. This way you never have to worry about the paint rubbing off.
+    - Wired or rechargeable. No batteries to replace please.
+    - At least F1-F12, grouped in sets of 4.
+    - Bonus keys like media keys should be above outside of the usual 104. A FN may be on the right but definitely not on the left.
+    - Water resistant. A "water proof" claim is questionable.
+    - Quieter keys preferred but not required. Quieter avoids distractions during meetings.
+    - Large print preferred but not required.
+    - To use a Windows keyboard on a Mac:
+        - ALT works as OPTION ⌥
+        - WIN ⊞ works as CMD ⌘
+    - FYI: The closest I've found: Azio KB505U or KB510W.
 
 ### 1.3.3. Good
 
