@@ -3,20 +3,20 @@
 Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org/wiki/Heuristic) is any approach to problem solving or self-discovery that employs a practical method that is not guaranteed to be optimal, perfect, or rational, but is nevertheless sufficient for reaching an immediate, short-term goal or approximation. The origin of a heuristic doesn't matter (when, who, where, how, why, etc.), as long as it is helpful. (The curious and intellectually honest should want to dig into the derivation, political context, etc.. If a heuristic isn't helpful, then don't use it.
 
 - [1. My Favorite Heuristics](#1-my-favorite-heuristics)
-    - [1.1. Epistemology](#11-epistemology)
-    - [1.2. Perspective](#12-perspective)
-    - [1.3. WHO](#13-who)
-    - [1.4. WHEN](#14-when)
-    - [1.5. Goals (WHAT/WHY)](#15-goals-whatwhy)
-    - [1.6. Manage your suffering (HOW)](#16-manage-your-suffering-how)
-    - [1.7. Manage complexity (HOW)](#17-manage-complexity-how)
-    - [1.8. Form follows function (HOW/WHAT)](#18-form-follows-function-howwhat)
-    - [1.9. Better actions (HOW)](#19-better-actions-how)
-    - [1.10. Humane actions (HOW/WHY)](#110-humane-actions-howwhy)
-    - [1.11. Virtue & Sin (HOW)](#111-virtue--sin-how)
-    - [1.12. Some Ethics (HOW)](#112-some-ethics-how)
-    - [1.13. Learning & Teaching (HOW)](#113-learning--teaching-how)
-    - [1.14. Social lubrication (HOW)](#114-social-lubrication-how)
+  - [1.1. Epistemology](#11-epistemology)
+  - [1.2. Perspective](#12-perspective)
+  - [1.3. WHO](#13-who)
+  - [1.4. WHEN](#14-when)
+  - [1.5. Goals (WHAT/WHY)](#15-goals-whatwhy)
+  - [1.6. Manage your suffering (HOW)](#16-manage-your-suffering-how)
+  - [1.7. Manage complexity (HOW)](#17-manage-complexity-how)
+  - [1.8. Form follows function (HOW/WHAT)](#18-form-follows-function-howwhat)
+  - [1.9. Better actions (HOW)](#19-better-actions-how)
+  - [1.10. Humane actions (HOW/WHY)](#110-humane-actions-howwhy)
+  - [1.11. Virtue & Sin (HOW)](#111-virtue--sin-how)
+  - [1.12. Some Ethics (HOW)](#112-some-ethics-how)
+  - [1.13. Learning & Teaching (HOW)](#113-learning--teaching-how)
+  - [1.14. Social lubrication (HOW)](#114-social-lubrication-how)
 
 ## 1.1. Epistemology
 
@@ -176,6 +176,7 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
 - [Meaning-making](https://en.wikipedia.org/wiki/Meaning-making). In psychology, meaning-making is the process of how people construe, understand, or make sense of life events, relationships, and the self.
 - The adage is "You are what you do", but consider being your best self and let your nature drive what you do.
 - [Satisficing](https://en.wikipedia.org/wiki/Satisficing). A decision-making strategy or cognitive heuristic that entails searching through the available alternatives until an acceptability threshold is met. E.g. A task is to sew a patch onto a pair of blue pants. The best needle to do the threading is a 4-cm-long needle with a 3-millimeter eye. This needle is hidden in a haystack along with 1,000 other needles varying in size from 1 cm to 6 cm. Satisficing claims that the first needle that can sew on the patch is the one that should be used. Spending time searching for that one specific needle in the haystack is a waste of energy and resources.
+- [Flow](<https://en.wikipedia.org/wiki/Flow_(psychology)>). Aka being in the zone. A mental state in whicha person performing some activity is fully immeresed in a feeling of energized focus, full involvement, and enjoyjment in the process of the activity. Voluntary challenging worthwhile activities. Neither unchallenging (boring) or too challenging (crushing).
 
 ## 1.6. Manage your suffering (HOW)
 
