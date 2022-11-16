@@ -212,6 +212,7 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
   - Zoom in on the good. Immerse yourself in it, relish it, cherish it. Be grateful for the good.
   - Zoom out of the bad. Be more objectve. What if it was someone else that had your problems? Use your anger, fear, sadness, worry, frustration, etc. to take positive action. Step out into nature or big picture views/shows.
 - Get help. Sometimes you need extra tools, people, time, space, etc to solve things.
+- Pain * Resistance = Suffering. Similarly, making too much of Pleasure leads to Hedonism.
 
 ## 1.7. Manage complexity (HOW)
 
