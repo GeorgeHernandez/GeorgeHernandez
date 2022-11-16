@@ -1,14 +1,3 @@
-# ? matches 1 char
-# * matches 0+ char
-# ** matches all subdirs
-# [Aa] matches chars in brackets
-# [0-9] matches range of chars in brackets
-# Start pattern with / to specify the dir the .gitignore is in
-# End   pattern with / to specify a dir
-# Negate a pattern by starting it with !, unless it was previously ignored as part of a dir match
-# Escape a char with \
-# Patterns in ignore files are not rooted
-
 # Node.js:
 node_modules
 
