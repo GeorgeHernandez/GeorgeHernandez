@@ -56,16 +56,16 @@ Your opinions and worldview will almost certainly differ from mine. And yet we h
     - The prefixes for the positive exponents SHOULD change from:
 
         ```yaml
-        [da, h, k, M, G,  T,  P,  E,  Z,  Y] to:
-        [ D, H, K, M, G,  T,  P,  E,  Z,  Y]. e:
-        [ 1, 2, 3, 6, 9, 12, 15, 18, 21, 24]
+        [da, h, k, M, G,  T,  P,  E,  Z,  Y,  R,  Q] to:
+        [ D, H, K, M, G,  T,  P,  E,  Z,  Y,  R,  Q]. e:
+        [ 1, 2, 3, 6, 9, 12, 15, 18, 21, 24, 27, 30]
         ```
 
     - The prefixes for the negative exponents are fine. ISO 2955 was on track: µ isn't ASCII but it's easy to enter with a keyboard input like EN INTL.
 
         ```yaml
-        [d, c, m, μ, n,  p,  f,  a,  z,  y]. e-:
-        [1, 2, 3, 6, 9, 12, 15, 18, 21, 24]
+        [d, c, m, μ, n,  p,  f,  a,  z,  y,  r,  q]. e-:
+        [1, 2, 3, 6, 9, 12, 15, 18, 21, 24, 27, 30]
         ```
 
 - Browser: Google Chrome. Best by largest number of users and if you use multiple Google accounts. Microsoft Edge uses less memory and has vertical tabbing.
