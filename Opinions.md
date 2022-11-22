@@ -5,19 +5,19 @@ Here are some of my opinions to express myself in my own idiom and to maka a min
 <!-- In Visual Studio Code I use the Markdown All In One extension to manage the section numbers and table of contents.  -->
 
 - [1. My Opinions](#1-my-opinions)
-    - [1.1. My opinions on opinions](#11-my-opinions-on-opinions)
-        - [1.1.1. Bonus: Some quotes on facts \& opinions](#111-bonus-some-quotes-on-facts--opinions)
-    - [1.2. SHOULD](#12-should)
-        - [1.2.1. Best](#121-best)
-        - [1.2.2. Better](#122-better)
-        - [1.2.3. Good](#123-good)
-    - [1.3. SHOULD CSE](#13-should-cse)
-        - [1.3.1. Best](#131-best)
-        - [1.3.2. Better](#132-better)
-        - [1.3.3. Good](#133-good)
-    - [1.4. SHOULD NOT](#14-should-not)
-    - [1.5. Politics \& Policies](#15-politics--policies)
-        - [1.5.1. Political Issues](#151-political-issues)
+  - [1.1. My opinions on opinions](#11-my-opinions-on-opinions)
+    - [1.1.1. Bonus: Some quotes on facts \& opinions](#111-bonus-some-quotes-on-facts--opinions)
+  - [1.2. SHOULD](#12-should)
+    - [1.2.1. Best](#121-best)
+    - [1.2.2. Better](#122-better)
+    - [1.2.3. Good](#123-good)
+  - [1.3. SHOULD CSE](#13-should-cse)
+    - [1.3.1. Best](#131-best)
+    - [1.3.2. Better](#132-better)
+    - [1.3.3. Good](#133-good)
+  - [1.4. SHOULD NOT](#14-should-not)
+  - [1.5. Politics \& Policies](#15-politics--policies)
+    - [1.5.1. Political Issues](#151-political-issues)
 
 ## 1.1. My opinions on opinions
 
