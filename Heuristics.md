@@ -13,9 +13,9 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
   - [1.8. Form follows function (HOW/WHAT)](#18-form-follows-function-howwhat)
   - [1.9. Better actions (HOW)](#19-better-actions-how)
   - [1.10. Humane actions (HOW/WHY)](#110-humane-actions-howwhy)
-  - [1.11. Virtue & Sin (HOW)](#111-virtue--sin-how)
+  - [1.11. Virtue \& Sin (HOW)](#111-virtue--sin-how)
   - [1.12. Some Ethics (HOW)](#112-some-ethics-how)
-  - [1.13. Learning & Teaching (HOW)](#113-learning--teaching-how)
+  - [1.13. Learning \& Teaching (HOW)](#113-learning--teaching-how)
   - [1.14. Social lubrication (HOW)](#114-social-lubrication-how)
 
 ## 1.1. Epistemology
@@ -212,7 +212,7 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
   - Zoom in on the good. Immerse yourself in it, relish it, cherish it. Be grateful for the good.
   - Zoom out of the bad. Be more objectve. What if it was someone else that had your problems? Use your anger, fear, sadness, worry, frustration, etc. to take positive action. Step out into nature or big picture views/shows.
 - Get help. Sometimes you need extra tools, people, time, space, etc to solve things.
-- Pain * Resistance = Suffering. Similarly, making too much of Pleasure leads to Hedonism.
+- Pain \* Resistance = Suffering. Similarly, making too much of Pleasure leads to Hedonism.
 
 ## 1.7. Manage complexity (HOW)
 
