@@ -97,7 +97,7 @@ Your opinions and worldview will almost certainly differ from mine. And yet we h
 
 - Unicode Encoding: UTF-8, which is Windows Code Page Identifier 65001.
 - Version Control: Git
-- Indentation: 2 spaces, unless your system requires otherwise.
+- Indentation: 2 spaces, unless your system requires it.
 - Web Service: REST Web API
 - Wikipedia is awesome!
 - Parks, especially national and state parks are awesome!
@@ -108,7 +108,7 @@ Your opinions and worldview will almost certainly differ from mine. And yet we h
 - Floating Point Marker > Comma
 - TOML > YAML > JSON > XML
 - `!=` > `<>`
-- 1 space between sentences > 2 spaces
+- 1 space between sentences > 2 spaces. Exceptions: You have been wired by typewriter classes or your system requires otherwise (e.g. Linux `fmt -u`).
 - HTML > XHTML
 - My physical keyboard preferences:
   - Layout: US QWERTY with at least 104 keys. I'm used to this and know where everything is.
