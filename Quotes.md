@@ -2,7 +2,7 @@
 
 Here are some of my favorite quotes.
 
-The first principle is that you must not fool yourself, and you are the easiest person to fool.
+The first principle is that you must not fool yourself, and you are the easiest person to fool.\
 ~ Richard Feynman
 
 We live in a world in which we need to share responsibility. It's easy to say "It's not my child, not my community, not my world, not my problem". Then there are those who see the need and respond. I consider those people my heroes.
@@ -18,7 +18,7 @@ I do not know what I may appear to the world, but to myself I seem to have been 
 ~ Isaac Newton
 
 Nature to be commanded must be obeyed
-~ Francis Bacon, "Novum Organum" (The New Organon) (1620).
+~ Francis Bacon, "_Novum Organum_" ("The New Organon") (1620).
 
 Life can only be understood backwards; but it must be lived forwards.
 ~ Søren Kierkegaard
@@ -39,7 +39,7 @@ If you assume that there is no hope, you guarantee that there will be no hope. I
 ~ Noam Chomsky. As quoted in "Captain Fantastic" (2016).
 
 There is a tide in the affairs of men Which, taken at the flood, leads on to fortune; Omitted, all the voyage of their life Is bound in shallows and in miseries. On such a full sea are we now afloat; And we must take the current when it serves, Or lose our ventures.
-~ William Shakespeare, "Julius Caesar" (1599), Brutus in scene iii of Act IV.
+~ William Shakespeare, "Julius Caesar" (1599), Brutus in Scene iii of Act IV.
 
 Beauty is truth, truth beauty, — that is all Ye know on earth, and all ye need to know.
 ~ John Keats, last lines of "Ode on a Grecian Urn", from "Poems" (1820).
