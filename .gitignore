@@ -1,14 +1,10 @@
-.obsidian
-
-# Node.js:
-node_modules
-
-# Temp:
 .AppleDouble
 .DS_Store
 .loadpath
 .LSOverride
+.obsidian/
 .settings/
+.vscode/
 [Dd]ebug*/
 [Ll]og/
 [Tt]emp/
@@ -26,8 +22,6 @@ node_modules
 Desktop.ini
 ehthumbs.db
 local.properties
+node_modules/
 temp.*
 Thumbs.db
-
-# Visual Studio Code:
-.vscode

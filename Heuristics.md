@@ -184,6 +184,7 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
 - [_Namaste_](https://en.wikipedia.org/wiki/Namaste) > Living in a world of poison.
 - Reduce aversion (_dvesha_) 🐍: confusion, drama, discouragement, pracrastination, fear, complaints, angst, feeling sorry for yourself
 - [Wabi-Sabi](https://en.wikipedia.org/wiki/Wabi-sabi): [Imperfect, Incomplete, Impermanent]
+  - [Work in Process](https://en.wikipedia.org/wiki/Work_in_process) (WIP). Aka work in progress. A similar idea. Everything is in progress and a state of [continuoual improvement](https://en.wikipedia.org/wiki/Continual_improvement_process) (CI). There is always a next version.
   - Some things must be "perfect". E.g. 1 + 1 = 2. However it is too much to expect a full, deep, totally refreshing night's sleep every night. Over achievement, self realization, perfection, 100%, etc. are overrated. Things like better, above average, etc. can also be too much. I think things like settling, managing expectations, etc. are keys to achieving happiness. It is yet another take on Stoicism, the Serenity Prayer, etc.
 - [Serenity Prayer](https://en.wikipedia.org/wiki/Serenity_Prayer)
 
