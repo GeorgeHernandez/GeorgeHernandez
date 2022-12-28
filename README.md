@@ -1,6 +1,6 @@
 # Hello, world! 👋 🌎
 
-My name is George Hernandez and I live in Chicago. I work as Chief of Applications at [Roji Health Intelligence](https://rojihealthintel.com) in the healthcare industry there. (Yes, it's a [Yon Yonson](https://en.wikipedia.org/wiki/Yon_Yonson) reference.)
+My name is George Hernandez and I live in Chicago. I work as Lead Full Stack Engineer at [XIL Health](https://xilhealth.com) in the healthcare industry there. (Yes, it's a [Yon Yonson](https://en.wikipedia.org/wiki/Yon_Yonson) reference.)
 
 🐈 I am a calm, candid, & curious cat who strives to be a courageous, creative, & kind contributor. How do you know? How can you know? Let's test it out. Let's be effective & efficient but manage our suffering as we do it.
 
