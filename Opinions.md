@@ -117,12 +117,14 @@ Your opinions and worldview will almost certainly differ from mine. And yet we h
   - At least F1-F12, grouped in sets of 4.
   - Bonus keys like media keys should be above outside of the usual 104. A FN may be on the right but definitely not on the left.
   - Water resistant. A "water proof" claim is questionable.
-  - Quieter keys preferred but not required. Quieter avoids distractions during meetings.
+  - Quieter keys preferred but not required. Quieter avoids distractions during remote meetings, but lately microphones screen out the noise.
   - Large print preferred but not required.
   - To use a Windows keyboard on a Mac:
     - ALT works as OPTION ⌥
     - WIN ⊞ works as CMD ⌘
-  - FYI: The closest I've found: Azio KB505U or KB510W.
+  - FYI: The closest I've found:
+    - Azio KB505U or KB510W.
+    - FINEDAY Keyboard 2.0.
 
 ### 1.3.3. Good
 
