@@ -201,7 +201,7 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
 - Be a Patient Agent.
 - "No fear, no hesitation, no surprise, no doubt." ~ Musashi
 - [Emotions](https://en.wikipedia.org/wiki/Emotion). Complex but includes the 6 basic emotions: anger, disgust, fear, happiness, sadness and surprise.
-- [Rational emotive behavior therapy](https://en.wikipedia.org/wiki/Rational_emotive_behavior_therapy) Aka REBT or A-B-C-D-E-F model.
+- [Rational emotive behavior therapy](https://en.wikipedia.org/wiki/Rational_emotive_behavior_therapy) (REBT) Aka A-B-C-D-E-F model.
   - A stands for Activating Event or Adversity. This is any event. It is just a fact. E.g. Traffic.
   - B refers to one's irrational Belief about the event at "A". Look for beliefs with these troublesome words such as should, ought and must. E.g. "Traffic shouldn't be this bad."
   - C stands for the emotional and behavioral Consequences. E.g. You banging the steering wheel with your fist and sending your blood pressure into the stratosphere.
@@ -323,7 +323,7 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
   - If so then what? Food, Water, Shelter, Healthcare, Education, Income, Internet.
   - Provide some conditions. Most parents love and care for their children unconditionally, but as the kids get older, parents tend to alter the care and add conditions. Parents "alter the deal" not because they love their kids less, but because they want to ensure the kids continue developing.
 - The right not to tolerate the intolerant ~ Karl Popper, "The Open Society and Its Enemies" (1945).
-- Machine v Garden. Focus on the garden (people, processes, policies), not the machine (hw, code, tech). The machine helps the life in the garden.
+- Machine v Garden. Focus on the Garden (people, processes, policies), not the Machine (hw, code, tech). The Machine can help the Garden, but the Garden is primary.
 - Refuse, Reduce, Reuse, Repair, Share, Recycle.
 - A government can be a Theocracy or a Democracy, but not both.
 - [Ubuntu](https://en.wikipedia.org/wiki/Ubuntu_philosophy)
@@ -365,8 +365,8 @@ There are many heuristics on [Virtue](https://en.wikipedia.org/wiki/Virtue) and 
     - Cowardice: The vice of deficient courage.
 - [Theological virtues](https://en.wikipedia.org/wiki/Theological_virtues). 3: Faith, Hope, Charity/Love.
 - [_Brahmavihara_](https://en.wikipedia.org/wiki/Brahmavihara). 4: Benevolence, Compassion, Joy, Equanimity.
-- [Classical elements](https://en.wikipedia.org/wiki/Classical_element). 4/5 shared by several ancient cultures: Earth, Water, Air, Fire, & Aether/Void. The Chinese Wu Xing system also includes Wood and Metal.
-- [Seven deadly sin](https://en.wikipedia.org/wiki/Seven_deadly_sins). 7/8 sins sort of derived from the Transcendental & Cardinal Virtues.
+- [Classical elements](https://en.wikipedia.org/wiki/Classical_element). 4-5 shared by several ancient cultures: Earth, Water, Air, Fire, & Aether/Void. The Chinese Wu Xing system also includes Wood and Metal.
+- [Seven deadly sins](https://en.wikipedia.org/wiki/Seven_deadly_sins). 7-8 sins sort of derived from the Transcendental & Cardinal Virtues.
   - Gula (gluttony)
   - Luxuria/Fornicatio (lust, fornication)
   - Avaritia (avarice/greed)
@@ -401,9 +401,9 @@ There are many heuristics on [Virtue](https://en.wikipedia.org/wiki/Virtue) and 
   - Right Mindfulness
   - Right Concentration
 - [Nine Noble Virtues](https://en.wikipedia.org/wiki/Nine_Noble_Virtues). 9: Courage, Truth, Honor, Fidelity, Discipline, Hospitality, Self Reliance, Industriousness, Perseverance.
-- [Ten Commandments](https://en.wikipedia.org/wiki/Ten_Commandments).
-- [Chivalry](https://en.wikipedia.org/wiki/Chivalry). 10 here as well.
-- Bertrand Russel: "Perhaps the essence of the Liberal outlook could be summed up in a new decalogue, not intended to replace the old one but only to supplement it. The Ten Commandments that, as a teacher, I should wish to promulgate, might be set forth as follows:
+- [Ten Commandments](https://en.wikipedia.org/wiki/Ten_Commandments): 10.
+- [Chivalry](https://en.wikipedia.org/wiki/Chivalry). 10.
+- Bertrand Russel: "Perhaps the essence of the Liberal outlook could be summed up in a new decalogue, not intended to replace the old one but only to supplement it. The Ten Commandments that, as a teacher, I should wish to promulgate, might be set forth as follows: [10]
   1. Do not feel absolutely certain of anything.
   2. Do not think it worth while to proceed by concealing evidence, for the evidence is sure to come to light.
   3. Never try to discourage thinking for you are sure to succeed.
@@ -434,7 +434,7 @@ There are many heuristics on [Virtue](https://en.wikipedia.org/wiki/Virtue) and 
   - "The truth is not always beautiful, nor beautiful words the truth."
   - "A leader is best When people barely know he exists Of a good leader, who talks little, When his work is done, his aim fulfilled, They will say, 'We did this ourselves.'"
 
-My favorite is **GRACE**:
+My favorite virtue is **GRACE**:
 
 - [Courage, Justice, Prudence, Temperance] + [Charity, Faith, Hope] + [Truth, Beauty, Goodness].
 - Grace is virtue so elegant, that it seems natural & effortless. The intolerant seek purity, and yet they tarnish themselves because trying to diminish the grace of another diminishes your own grace. Foster grace in others & you foster grace in yourself too.
