@@ -1,6 +1,6 @@
 # 1. My Opinions
 
-Here are some of my opinions to express myself in my own idiom and to maka a minor contribution to society. I'll start with my opinion on opinions, then provide some of my opinions, starting with some easy ones.
+Here are some of my opinions to express myself in my own idiom and to make a minor contribution to society. I'll start with my opinion on opinions, then provide some of my opinions, starting with some easy ones.
 
 <!-- In Visual Studio Code I use the Markdown All In One extension to manage the section numbers and table of contents.  -->
 
@@ -41,7 +41,7 @@ Your opinions and worldview will almost certainly differ from mine. And yet we h
 
 "We do not deal much in facts when we are contemplating ourselves." - Mark Twain
 
-"Few people are capable of expressing with equanimity opinions which differ from the prejudices of their social enviroment. Most people are incapable of forming such opinions." - Albert Einstein
+"Few people are capable of expressing with equanimity opinions which differ from the prejudices of their social environment. Most people are incapable of forming such opinions." - Albert Einstein
 
 'Experiment is the sole judge of scientific "truth".' - Richard Feynman
 
@@ -155,13 +155,13 @@ Your opinions and worldview will almost certainly differ from mine. And yet we h
 
 Everyone looks out for themselves. Everyone protects & promotes their interests. Thus everyone should form their opinions. However we also have loved ones and we also live in a society, a [_polis_](https://en.wikipedia.org/wiki/Polis). Politics & Policies affects many of us and thus we need to parse the many opinions.
 
-I want to highlight key problems common to many poltical topics, then move on to particular issues, especially U.S. issues. TLDR: I'm a Progressive.
+I want to highlight key problems common to many political topics, then move on to particular issues, especially U.S. issues. TLDR: I'm a Progressive.
 
 - HOW TO PARSE. If we cannot establish a framework to parse our opinions, we will not be building upon hard earned knowledge and be closing ourselves to better solutions. Our opinions should be parsed using best practices, evidence, well-formed logic, transparency, testing, perspective, etc., but also in an effective, timely, earnest, heard, woke, and emotionally conscious manner. This part of [political science](https://en.wikipedia.org/wiki/Political_science).
-- PROBLEMS > POLTICAL PROBLEMS. Please distinguish between the problems faced by the state vs. the political problems. Many become so focused on poltical problems that statesmanship is left behind. Deciding on the faction or the captain can overshadow keeping the ship afloat.
-- RULE BY A FEW. You don't see modern instances of rule either by a [philosopher king](https://en.wikipedia.org/wiki/Philosopher_king) or serveral wisemen (a [noocracy](https://en.wikipedia.org/wiki/Noocracy)), but there are many modern autocrats and [oligarchies](https://en.wikipedia.org/wiki/Oligarchy). These issues are manifested in many ways.
-  - Oligarchy is varation of [No taxation without representation](https://en.wikipedia.org/wiki/No_taxation_without_representation). Decent representation is a key element of democracies. Variants of non-representation include race, gender, minority (minoritarianism), age (gerontocracy), military (stratocrayc), religion (theocracy), property ownership (timocracy), income (plutocracy), favoritism (nepotism), rule by the worst (kakistocracy), etc.
-  - [Late capitalism](https://en.wikipedia.org/wiki/Late_capitalism). Aka hypercapitalism. An [economic system](https://en.wikipedia.org/wiki/Economic_system) is the flow of goods, services, and value. [Money](https://en.wikipedia.org/wiki/Money) is a tool that helps with economic flow. [Capitalism] is an economiic system on private ownership with an emphasis on money. Capitalism in moderation is good but hypercapitalism dams the economic flow, and concentrates it in a few.
+- PROBLEMS > POLITICAL PROBLEMS. Please distinguish between the problems faced by the state vs. the political problems. Many become so focused on political problems that statesmanship is left behind. Deciding on the faction or the captain can overshadow keeping the ship afloat.
+- RULE BY A FEW. You don't see modern instances of rule either by a [philosopher king](https://en.wikipedia.org/wiki/Philosopher_king) or several wise men (a [noocracy](https://en.wikipedia.org/wiki/Noocracy)), but there are many modern autocrats and [oligarchies](https://en.wikipedia.org/wiki/Oligarchy). These issues are manifested in many ways.
+  - Oligarchy is variation of [No taxation without representation](https://en.wikipedia.org/wiki/No_taxation_without_representation). Decent representation is a key element of democracies. Variants of non-representation include race, gender, minority (minoritarianism), age (gerontocracy), military (stratocracy), religion (theocracy), property ownership (timocracy), income (plutocracy), favoritism (nepotism), rule by the worst (kakistocracy), etc.
+  - [Late capitalism](https://en.wikipedia.org/wiki/Late_capitalism). Aka hypercapitalism. An [economic system](https://en.wikipedia.org/wiki/Economic_system) is the flow of goods, services, and value. [Money](https://en.wikipedia.org/wiki/Money) is a tool that helps with economic flow. [Capitalism] is an economic system on private ownership with an emphasis on money. Capitalism in moderation is good but hypercapitalism dams the economic flow, and concentrates it in a few.
   - Oligarchs have too much voice. Why are elections too expensive?
     - [Campaign finance reform in the United States](https://en.wikipedia.org/wiki/Campaign_finance_reform_in_the_United_States)
       - [Dark money](https://en.wikipedia.org/wiki/Gerrymandering)
@@ -171,17 +171,17 @@ I want to highlight key problems common to many poltical topics, then move on to
     - [Gerrymandering](https://en.wikipedia.org/wiki/Gerrymandering). Drawing the maps should NOT be done by the parties. The U.S. Census has been used as a tool for gerrymandering.
     - [Voter suppression in the United States](https://en.wikipedia.org/wiki/Voter_suppression_in_the_United_States)
     - [Anti-competitive practices](https://en.wikipedia.org/wiki/Anti-competitive_practices)
-    - [Telecommunications Act of 1996](https://en.wikipedia.org/wiki/Telecommunications_Act_of_1996). Media monopolies with poor journalistic standards are againt the interests of the people.
+    - [Telecommunications Act of 1996](https://en.wikipedia.org/wiki/Telecommunications_Act_of_1996). Media monopolies with poor journalistic standards are against the interests of the people.
     - [Conflict of interest](https://en.wikipedia.org/wiki/Conflict_of_interest). So much corruption, insider trading, side benefits, financial gifts, emoluments, etc.
-  - Value > Money. Late stage captialism also shifts the focus to money instead of value, this is like focusing on the finger pointing at the Moon instead of focusing on the Moon. Money is a proxy for value, not actual value. Profiteering eventually works against the People's interests. Artificial scarcity.
+  - Value > Money. Late stage capitalism also shifts the focus to money instead of value, this is like focusing on the finger pointing at the Moon instead of focusing on the Moon. Money is a proxy for value, not actual value. Profiteering eventually works against the People's interests. Artificial scarcity.
     - Too many advertisements.
     - Water: It is in the People's interests for everyone to have access to water. That is more important than making money by selling water.
       - [Nestlé Doesn't Think Water Is A Human Right - Bill Burr @ Conan (2015)](https://www.youtube.com/watch?v=w_pb6r8VNWk)
       - [Is Water a Human Right? C-Suite Insights With Nestlé Chairman Peter Brabeck](https://www.youtube.com/watch?v=_GFjtiasm5w)
       - [The Evil Business of Nestlé](https://www.youtube.com/watch?v=MoKLovtnbGY)
-    - Some items are too expensive, i.e. not socialized, or have an artifical supply/demand scenario. Profiteering in these areas is entrenched in America.
+    - Some items are too expensive, i.e. not socialized, or have an artificial supply/demand scenario. Profiteering in these areas is entrenched in America.
       - The Military and police. Yes, the money per person in these areas should be high but their budgets are too large.
-      - Healthcare and prescription drugs. U.S. healthcare is the most expenseive but we don't have the best outcomes. Some interventions have questionable research and const-benefits ratios. Caveat emptor is difficult in healthcare.
+      - Healthcare and prescription drugs. U.S. healthcare is the most expensive but we don't have the best outcomes. Some interventions have questionable research and const-benefits ratios. Caveat emptor is difficult in healthcare.
       - Education, Scientific Journals
       - Funerals
       - Internet service
@@ -206,8 +206,8 @@ I want to highlight key problems common to many poltical topics, then move on to
       - Generational wealth should not be for oligarchies, dynasties, etc. There should be generational wealth for all of society. We can break the poverty cycle for everybody.
         - One way to transition to societal generational wealth is to increase profit sharing so that more workers of a company get a share of the profits.
         - There are many paths to justice: ["Martin Luther King Jr. and the Unfinished Work of Abolishing Poverty"](https://www.thenation.com/article/society/mlk-freedom-budget/).
-      - Yes, people are different (gender, age, physical abilites, smarts, looks, etc) no one needs to be poor or uncared for.
-- RULE BY THE MANY. A fair democracy is better than an oligarchy, but there are problems with misinformation, propanda, and manipulation. Part of it is weak epistemology, but part of it can be contributed to purposeful campaigns. There is the adage "A lie is halfway round the world before the truth has got its boots on", but the propagation of "false news" is magnified by social media.
+      - Yes, people are different (gender, age, physical abilities, smarts, looks, etc) no one needs to be poor or uncared for.
+- RULE BY THE MANY. A fair democracy is better than an oligarchy, but there are problems with misinformation, propaganda, and manipulation. Part of it is weak epistemology, but part of it can be contributed to purposeful campaigns. There is the adage "A lie is halfway round the world before the truth has got its boots on", but the propagation of "false news" is magnified by social media.
 
 ### 1.5.1. Political Issues
 
@@ -226,7 +226,7 @@ Some issues can incite some people. The policy making process should be granular
   - There have been many cases of executing the wrong person. A clean solution is to not have executions.
 - Drugs
   - I don't really smoke or drink let alone do drugs, but more drugs should be legalized because when it is illegal it happens anyway but in an unsafe and untaxed fashion. The war on drugs has done more harm than good.
-  - Alcohol is legal but it probably does more harm tha cannibis.
+  - Alcohol is legal but it probably does more harm tha cannabis.
 - Environment, Climate Change, Climate Emergency.
   - We only have one planet. Odd that this is politicized.
   - There is a free atomic furnace in the sky. Odd that we don't do more solar.
@@ -237,9 +237,9 @@ Some issues can incite some people. The policy making process should be granular
   - [Journalism](https://en.wikipedia.org/wiki/Journalism). Yes, there is free speech, but journalistic organizations should be certified and held to a higher standard because of misinformation and conflicts of interest.
   - Unions are covered by free speech and freedom of peaceful assembly.
   - Yes, there is freedom of speech, but it is illegal to yell "Fire!" in crowds.
-  - Some people use their freedom of speech to act entitled, make demands beyond the norm, insult otheers, etc.
+  - Some people use their freedom of speech to act entitled, make demands beyond the norm, insult others, etc.
 - [Fatalism](https://en.wikipedia.org/wiki/Fatalism)
-  - I'm not into determinism, but I believe the odds are not in our favor. Individuals vary but 50% are below average and everyone is susceptible to misinformation, ego, etc. Many problems have a part that is objective, evidence based, logical, etc., but the other part is subjective, political, poplarity-based, etc.
+  - I'm not into determinism, but I believe the odds are not in our favor. Individuals vary but 50% are below average and everyone is susceptible to misinformation, ego, etc. Many problems have a part that is objective, evidence based, logical, etc., but the other part is subjective, political, popularity-based, etc.
   - [Denialism](https://en.wikipedia.org/wiki/Denialism).
   - [Handlon's razor](https://en.wikipedia.org/wiki/Hanlon%27s_razor): "never attribute to malice that which is adequately explained by stupidity".
   - [Bonhoeffer‘s Theory of Stupidity](https://www.youtube.com/watch?v=ww47bR86wSc). Stupid people are more dangerous than evil ones.
@@ -258,17 +258,17 @@ Some issues can incite some people. The policy making process should be granular
   - Until there is a global ID "card", every nation should have a national ID card.
 - Identity, Race
   - People are people.
-  - Everyone has an identity, a culture, a race; Heck, some people have mutliples.
-  - Be mindful of [xenophobia](https://en.wikipedia.org/wiki/Xenophobia), [perjoratives](https://en.wikipedia.org/wiki/Pejorative), , etc. See the lists of [ethnic slurs](https://en.wikipedia.org/wiki/List_of_ethnic_slurs) and [religious slurs](https://en.wikipedia.org/wiki/List_of_religious_slurs).
+  - Everyone has an identity, a culture, a race; Heck, some people have multiples.
+  - Be mindful of [xenophobia](https://en.wikipedia.org/wiki/Xenophobia), [pejoratives](https://en.wikipedia.org/wiki/Pejorative), etc. See the lists of [ethnic slurs](https://en.wikipedia.org/wiki/List_of_ethnic_slurs) and [religious slurs](https://en.wikipedia.org/wiki/List_of_religious_slurs).
   - Be mindful of [speciesism](https://en.wikipedia.org/wiki/Speciesism) and [biocentrism](<https://en.wikipedia.org/wiki/Biocentrism_(ethics)>). It makes sense to care for all our habitats. Even simple acts like opting for egg from free range chickens helps.
 - Immigration
   - People are people.
   - Separating children from parents is wrong.
-  - It doesn't seem to be about resources but racism and xenophobia. On one hand Americans want cheeap labor, on the other hand there's resentment.
+  - It doesn't seem to be about resources but racism and xenophobia. On one hand Americans want cheap labor, on the other hand there's resentment.
   - No one wants a statue, flag, etc. on public property that celebrates humiliating your people.
 - Medically assisted suicide
   - We euthanize our pets.
-  - If people OK their own euthanzia before they are in trouble, then I'm OK with it.
+  - If people OK their own euthanasia before they are in trouble, then I'm OK with it.
   - [Wabi-Sabi](https://en.wikipedia.org/wiki/Wabi-sabi) applies to people. We are imperfect, incomplete, and impermanent. We get sick, injured, old, suffer, and die.
 - Open
   - Any data, research, software, etc. paid with public money should belong to the public.
@@ -281,8 +281,8 @@ Some issues can incite some people. The policy making process should be granular
   - The amount of extra resources and animal suffering is astounding.
 - Religion
   - [Freedom of religion in the United States](https://en.wikipedia.org/wiki/Freedom_of_religion_in_the_United_States) is constitutionally protected by the [First Amendment](https://en.wikipedia.org/wiki/First_Amendment_to_the_United_States_Constitution).
-  - The [seperation of church and state](https://en.wikipedia.org/wiki/Separation_of_church_and_state) protects everyone. It also effectively defines that the U.S. is NOT a Christian nation even though there are many Christians in the U.S.
-  - Since the People are of different religions, policy decisions should areligious and not tied to any relgious texts.
+  - The [separation of church and state](https://en.wikipedia.org/wiki/Separation_of_church_and_state) protects everyone. It also effectively defines that the U.S. is NOT a Christian nation even though there are many Christians in the U.S.
+  - Since the People are of different religions, policy decisions should areligious and not tied to any religious texts.
   - I don't limit acquiring useful heuristics to one religion.
   - The U.S. relationship with Israel is odd and it probably has a religious basis.
   - [Freedom from Religion Foundation](https://ffrf.org/). Separating church from state protects you _from_ religion but also protects _your_ religion.
@@ -295,7 +295,7 @@ Some issues can incite some people. The policy making process should be granular
   - The state should do sex education in high school because people do it anyway and it's a public health issue.
   - Legalize prostitution because when it is illegal it happens anyway but in an unsafe and untaxed fashion.
   - Prevent and discourage human trafficking.
-  - As far as your health reocrd goes, gender at birth is the closest thing we have to a standard.
+  - As far as your health record goes, gender at birth is the closest thing we have to a standard.
 - Sovereignty
   - Amazing that this is an issue at all. Usually its because people are violating the rules of "Don't be a dick" and "People are people". Separate and be done with it.
   - Palestine, Ireland, Ukraine, Hong Kong, Tibet, Taiwan, etc.

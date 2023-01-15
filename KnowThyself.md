@@ -1,24 +1,24 @@
 # Know Thyself
 
-The Ancient Greek aphorism ["know thyself"](https://en.wikipedia.org/wiki/Know_thyself) is one the three Delphic maxims inscribed at the Temple of Apollo at Delphi. This pharse can be interpreted in many ways but usually it means that it is helpful and wise to contemplate on yourself. On the other hand, one of the other maxims inscribed at the same temple is "nothing to excess", so don't over examine yourself.
+The Ancient Greek aphorism ["know thyself"](https://en.wikipedia.org/wiki/Know_thyself) is one the three Delphic maxims inscribed at the Temple of Apollo at Delphi. This phrase can be interpreted in many ways but usually it means that it is helpful and wise to contemplate on yourself. On the other hand, one of the other maxims inscribed at the same temple is "nothing to excess", so don't over examine yourself.
 
 It is prudent to be introspective (in moderation), but people also love to do it. People are fascinated with themselves because we have to deal with ourselves all the time. People also want to know more about the other people, especially those that we have to deal with. Heck people are social animals who like stories and patterns, so we like to learn about other people in general. Knowing yourself and others reduces social friction, creates empathy, improves problem solving, and so on.
 
-And yet I'm an introvert. I like introspection, quiet, and soltitude. See [Why Few People Prefer To Be Alone | Sadhguru](https://www.youtube.com/watch?v=LeUX8ail1-U). And yet sometimes I find myself, others, and all of existence to be noisy and annoying. Can you say ["cognitive dissonance"](https://en.wikipedia.org/wiki/Cognitive_dissonance)?
+And yet I'm an introvert. I like introspection, quiet, and solitude. See [Why Few People Prefer To Be Alone | Sadhguru](https://www.youtube.com/watch?v=LeUX8ail1-U). And yet sometimes I find myself, others, and all of existence to be noisy and annoying. Can you say ["cognitive dissonance"](https://en.wikipedia.org/wiki/Cognitive_dissonance)?
 
 So here I am in a few bullet points. No one can really tell everything about themselves.
 
-I was born in 1968 in the Phillippines then moved to Chicago as a toddler
+I was born in 1968 in the Philippines then moved to Chicago as a toddler
 
 - Your age is your age. I don't worry about being too young or too old.
-- I could be classified as a first generation Filipino American. Growing up my parents did not persist the native tounge, so I've lost much of my Filipino cultural heritage.
-- My parents left my yourger brother and I in the Philippes while they seized a window to go the America. When we were reunited I did not recognize my own parents. Who can really say how this affected me.
+- I could be classified as a first generation Filipino American. Growing up my parents did not persist the native tongue, so I've lost much of my Filipino cultural heritage.
+- My parents left my younger brother and I in the Philippines while they seized a window to go the America. When we were reunited I did not recognize my own parents. Who can really say how this affected me.
 - Culturally by geography I define myself in this order: Part of the Universe, World citizen, Chicagoan, Midwestern American, Filipino.
 
 I lost all hearing in my left ear because of an infection I had as a baby.
 
 - I used to be shy about this, but since my twenties I've found it more practical to just tell people as needed.
-- My single-sided deafness has affected my communication style: I tend to be epistemological, explicit & verify. As a child SSD combined with my immigrant enhanced my introverted & isolated outlook. SSD contributes to my annoyance when knowable things are unkown, and yet I am at peace with things that I can't hear and can't know.
+- My single-sided deafness has affected my communication style: I tend to be epistemological, explicit & verify. As a child SSD combined with my immigrant enhanced my introverted & isolated outlook. SSD contributes to my annoyance when knowable things are unknown, and yet I am at peace with things that I can't hear and can't know.
 
 I've done a lot of martial arts.
 
@@ -34,7 +34,7 @@ I graduated college with a degree in Chemical Engineering because I wanted to he
 I was raised Catholic but I'm an atheist
 
 - I was raised Catholic, I went to Catholic grade school, I was an unmolested Altar Boy, and most of my relatives are Catholic.
-- Even though I had Catholic nurturing, I've been an atheist since I was 7. My nature is epistemological and open. I try to find what is helpful from anywhere, any time, anyone, etc. It's a matter of backing a worldview with reasons and eviddence, and, as attributed to Abraham Lincoln: "When I do good I feel good, when I do bad I feel bad, and that's my religion.".
+- Even though I had Catholic nurturing, I've been an atheist since I was 7. My nature is epistemological and open. I try to find what is helpful from anywhere, any time, anyone, etc. It's a matter of backing a worldview with reasons and evidence, and, as attributed to Abraham Lincoln: "When I do good I feel good, when I do bad I feel bad, and that's my religion.".
 - Everyone finds their own path in forming their worldview.
 
 My health
@@ -51,8 +51,8 @@ My family & friends
 As a person
 
 - 🐈 I am a calm, candid, & curious cat who strives to be a courageous, creative, & kind contributor.
-<!-- - Since my 30s I've been craving non-existence. I'm not yet sure if this is physiologica/psychological depression or more of a philiosphical outlook. I love my family and I don't think I'm at risk of self harm, but possibly my craving limits my self-actualization. In Buddhism craving non-existence is a type of [_tanha_](https://en.wikipedia.org/wiki/Ta%E1%B9%87h%C4%81) (craving), called _vibhava tanha_, which is partially due to suffering and wrong view annihilationism, i.e. that there is no rebirth. I don't know about nirvana, moksha, or heaven. This life, this "movie", has its ups and downs, but overall I feel like I've seen it before and I often wish the movie would end, that I would blink out of existence and become non-sentient or even non-life. -->
-- [Trait theory](https://en.wikipedia.org/wiki/Trait_theory). I'm not here to evaluate the quality of the research behind the various theories, rather the traits are useful starting points for examing yourself and others. I'm not a psychologist, etc. so my self-evaluation may be flawed. I'll start with the traits from the [HEXACO model](https://en.wikipedia.org/wiki/HEXACO_model_of_personality_structure).
+<!-- - Since my 30s I've been craving non-existence. I'm not yet sure if this is physiological/psychological depression or more of a philosophical outlook. I love my family and I don't think I'm at risk of self harm, but possibly my craving limits my self-actualization. In Buddhism craving non-existence is a type of [_tanha_](https://en.wikipedia.org/wiki/Ta%E1%B9%87h%C4%81) (craving), called _vibhava tanha_, which is partially due to suffering and wrong view annihilation, i.e. that there is no rebirth. I don't know about nirvana, _moksha_, or heaven. This life, this "movie", has its ups and downs, but overall I feel like I've seen it before and I often wish the movie would end, that I would blink out of existence and become non-sentient or even non-life. -->
+- [Trait theory](https://en.wikipedia.org/wiki/Trait_theory). I'm not here to evaluate the quality of the research behind the various theories, rather the traits are useful starting points for examining yourself and others. I'm not a psychologist, etc. so my self-evaluation may be flawed. I'll start with the traits from the [HEXACO model](https://en.wikipedia.org/wiki/HEXACO_model_of_personality_structure).
   - Honesty-Humility
     - Tendency towards sincerity, modesty, fairness, and greed avoidance. Those who score high on this trait feel little desire to manipulate others or to break the rules for personal gain.
     - High: Light Triad
@@ -68,11 +68,11 @@ As a person
   - Emotionalism (fka Neuroticism)
     - Identifies people who are prone to psychological distress. Individuals who are high in neuroticism tend to be anxious, depressed, self-conscious, impulsive, vulnerable and display angry hostility. Higher Highs. Lower Lows.
     - ME: 70%. **Alas, I have [dysthymia](https://en.wikipedia.org/wiki/Dysthymia)** and sadly it has gotten stronger over the years.
-  - EXtraversion
-    - Gregarious, outgoing, sociable, projecting one's personality outward. The opposite of extraversion is introversion. Extraversion has shown to share certain genetic markers with substance abuse. Extraversion is associated with various regions of the prefrontal cortex and the amygdala.
+  - Extroversion
+    - Gregarious, outgoing, sociable, projecting one's personality outward. The opposite of extroversion is introversion. Extroversion has shown to share certain genetic markers with substance abuse. Extroversion is associated with various regions of the prefrontal cortex and the amygdala.
     - High: Respond positively to the stimuli of more people. Outward focus.
     - Low: Respond negatively to the stimuli of more people. Inward focus.
-    - ME: 20%. **I identify as a fox**: A hidden forest creature. My introversion is not as much a hangup as it used to be. I find that I can deal with a lot of people if I have to. My basic advie to introverts: It is fair to comfortably invisible, but when you have something to say: Say it loud and clear.
+    - ME: 20%. **I identify as a fox**: A hidden forest creature. My introversion is not as much a hangup as it used to be. I find that I can deal with a lot of people if I have to. My basic advice to introverts: It is fair to comfortably invisible, but when you have something to say: Say it loud and clear.
   - Agreeableness
     - Refers to a compliant, trusting, empathic, sympathetic, friendly and cooperative nature.
     - Low: Competitive.
@@ -85,7 +85,7 @@ As a person
     - Composed of two related but separable traits, Openness to Experience and Intellect. Behavioral aspects include having wide interests, and being imaginative and insightful. Considered primarily a cognitive trait. Curious. Creative.
     - ME: 80%. I identify as an explorer.
   - Psychoticism
-    - Psychoticism is a personality pattern typified by aggressiveness, interpersonal hostility, impulsivity, and sensation-seeking. Psychologist Hans Eysenck's 3 primary traits are P-E-N: Psychoticism, Extraversion, and Neuroticism/Emotionalism.
+    - Psychoticism is a personality pattern typified by aggressiveness, interpersonal hostility, impulsivity, and sensation-seeking. Psychologist Hans Eysenck's 3 primary traits are P-E-N: Psychoticism, Extroversion, and Neuroticism/Emotionalism.
     - ME: 60%. **I have a contrary nature** and tend to play the devil's advocate. My sense of humor tends to be ironic, i.e. something wrong is often funny. I like to fight and do martial arts, but it's for fun, developing character and skill, etc, i.e. I'm rarely angry at opponents. I will mutter and swear while driving but I don't have road rage. I sometimes get annoyed by problems that could have been prevented, but I try to remember that it happens.
   - Self-esteem
     - A "favorable or unfavorable attitude toward the self" (Rosenberg, 1965). An individual's sense of his or her value or worth, or the extent to which a person values, approves of, appreciates, prizes, or likes him or herself" (Blascovich & Tomaka, 1991).
@@ -101,13 +101,13 @@ As a person
     - ME: 80%. **I identify as an anti-hedonist**. Probably related to my introversion, SSD, and how some video games can give me motion sickness.
   - Perfectionism
     - Perfectionism is one of the traits associated with obsessional behavior.
-    - ME: 60%. Wabi sabi is one of my mantras. Tidiness and closure are important but not always possible. But surely there must be cases where perfection can be achieved?
+    - ME: 60%. _Wabi sabi_ is one of my mantras. Tidiness and closure are important but not always possible. But surely there must be cases where perfection can be achieved?
   - Alexithymia
     - The inability to express emotions.
     - ME: 70%. **Alas, I wish I could more easily say "I love you"**, but it doesn't come easy. Possibly related to having 7 brothers & 1 sister. I wonder how much this contributes to my anti-hedonism?
   - Rigidity
     - Inflexibility, difficulty making transitions, adherence to set patterns. Mental rigidity arises out of a deficit of the executive functions. Difficulty with unmet expectations.
-    - ME: 60%. **Alas, I MUST have milk with cookies or PBJ**. I MUST have soda with pizza or burger. I can be flexible with sufficient reason, i.e. it is important to hear people out before ruling them out. I am also flexible if I run into a wall and need to get creative. I'm not aware of any insistently repititioius behaviours.
+    - ME: 60%. **Alas, I MUST have milk with cookies or PBJ**. I MUST have soda with pizza or burger. I can be flexible with sufficient reason, i.e. it is important to hear people out before ruling them out. I am also flexible if I run into a wall and need to get creative. I'm not aware of any insistently repetitious behaviors.
   - Impulsivity
     - Risk taking, lack of planning, and making up one's mind quickly (Eysenck and Eysenck). A component of disinhibition.
     - ME: 30%. **I tend to be constrained**. This is very context sensitive. If the situation is random then yes I can be impulsive or spontaneous.
