@@ -1,6 +1,6 @@
 # 1. My Opinions
 
-Here are some of my opinions to express myself in my own idiom and to maka a minor contribution to society. I'll start with my opinon on opinions, then provide some of my opinions, starting with some easy ones.
+Here are some of my opinions to express myself in my own idiom and to maka a minor contribution to society. I'll start with my opinion on opinions, then provide some of my opinions, starting with some easy ones.
 
 <!-- In Visual Studio Code I use the Markdown All In One extension to manage the section numbers and table of contents.  -->
 
