@@ -26,12 +26,12 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
   - [Cognitive dissonance](https://en.wikipedia.org/wiki/Cognitive_dissonance). Who would've guessed that our minds are good at rationalizing.
   - "What gets us into trouble is not what we don't know. It's what we know for sure that just ain't so." ~ Mark Twain
   - ["I know that I know nothing"](https://en.wikipedia.org/wiki/I_know_that_I_know_nothing) ~ Plato for Socrates. An answer for why the Oracle of Delphi stated Socrates as the wisest.
-  - [Dunning–Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
-- [Common sense](https://en.wikipedia.org/wiki/Common_sense)& [Logic](https://en.wikipedia.org/wiki/Logic). Good but not enough.
+  - [Dunning–Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect). "whereby people with low ability, expertise, or experience regarding a certain type of task or area of knowledge tend to overestimate their ability or knowledge".
+- [Common sense](https://en.wikipedia.org/wiki/Common_sense) & [Logic](https://en.wikipedia.org/wiki/Logic). Good but not enough.
   - [Fallacy](https://en.wikiquote.org/wiki/Fallacy)
   - [Formal fallacy](https://en.wikipedia.org/wiki/Formal_fallacy)
   - [Cargo cult science](https://en.wikipedia.org/wiki/Cargo_cult_science)
-- [Scientific method](https://en.wikipedia.org/wiki/Scientific_method).
+- [Scientific method](https://en.wikipedia.org/wiki/Scientific_method)
   - 'The test of all knowledge is experiment. Experiment is the sole judge of scientific “truth”.' ~ Richard Feynman
   - Key parts of the scientific method
     - Make observations, characterizations
@@ -54,7 +54,7 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
   - opinion (_doxa_) v knowledge (_episteme_)
   - [Justified True Belief (JTB)](https://en.wikipedia.org/wiki/Justified_true_belief)
   - [Verificationism](https://en.wikipedia.org/wiki/Verificationism)
-  - [Gettier problem](https://en.wikipedia.org/wiki/Gettier_problem).
+  - [Gettier problem](https://en.wikipedia.org/wiki/Gettier_problem)
   - [Social constructionism](https://en.wikipedia.org/wiki/Social_constructionism). Each person creates their own "constructed reality" that drives their behaviors.
 
 ## 1.2. Perspective
@@ -77,7 +77,7 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
     - Another way to say it is that the Priority of an item is roughly the average of its Impact (effect) and Urgency (time).
 - Creating > Curating > Collecting > Consuming
 - Consumer < Producer < Producers & Consumers collaborating
-- [Five Ws](https://en.wikipedia.org/wiki/Five_Ws). Who, What, Why When, Where + How. Personally what & why are more difficult.
+- [Five Ws](https://en.wikipedia.org/wiki/Five_Ws). Who, What, Why When, Where + How. Personally the What & Why are more difficult.
 - Essential > Incidental
   - Essential > Accidental
   - The incidentals (language, syntax, domains, problems, people, etc) change, but the essentials (logic, people's nature, principles, problem solving, etc) don't.
@@ -94,13 +94,13 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
   - Self-transcendence
 - [Risk management](https://en.wikipedia.org/wiki/Risk_management). Risk management is the identification, evaluation, and prioritization of risks (defined in ISO 31000 as the effect of uncertainty on objectives) followed by coordinated and economical application of resources to minimize, monitor, and control the probability or impact of unfortunate events or to maximize the realization of opportunities.
 - [Physicists Have Discovered a Formula for Success, and It Contains a Brutal Truth Most People Don't Want to Admit](https://www.inc.com/jessica-stillman/physicists-have-discovered-a-formula-for-success-it-contains-a-brutal-truth-most-people-dont-want-to-admit.html)
-  - Success = (Ability to execute ) \* (potential value of an idea).
+  - Success = (Ability to execute ) \* (Potential value of an idea).
 
 ## 1.3. WHO
 
 - [Grammatical person](https://en.wikipedia.org/wiki/Grammatical_person)
-  - 1st person singular: I. Me. Us.
-  - 1st person plural: We.
+  - 1st person singular: I. Me.
+  - 1st person plural: We. Us.
   - 2nd person singular: You. Thee. Thou.
   - 2nd person plural: Ye. Y'all. You guys. Yinz. Youse.
   - 3rd person singular: He. She. It.
@@ -189,7 +189,7 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
 - [Serenity Prayer](https://en.wikipedia.org/wiki/Serenity_Prayer)
 
   ```text
-  God, grant me the serenity to accept the things I cannot change,
+  Grant me the serenity to accept the things I cannot change,
   The courage to change the things I can,
   And the wisdom to know the difference.
   ```
@@ -294,7 +294,7 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
     - Break the solution into small parts.
   - Carry out the plan.
   - Review/extend. Determine how well the solution solved the problem. Extend it to future problems.
-- [Wicked problem](https://en.wikipedia.org/wiki/Wicked_problem)
+- [Wicked problem](https://en.wikipedia.org/wiki/Wicked_problem). "a problem that is difficult or impossible to solve because of incomplete, contradictory, and changing requirements that are often difficult to recognize".
 - Meetings
   - Consider NOT having a meeting. Sometimes alternatives like an email or a phone call will do. Sometimes gravitas requires a meetings.
   - Be mindful of the person-hours each meeting takes. E.g. A 2 hour meeting with 4 people takes at least 8 person-hours. There may be additional person-hours via opportunity cost, commuting, etc.
@@ -517,12 +517,12 @@ TODO
 - [BLUF: Bottom line up front](<https://en.wikipedia.org/wiki/BLUF_(communication)>). Start messages with the key info. E.g. Start with a summary or TLDNR.
 - Email subjects
   - Verb + Object. E.g: [schedule, view, read, print, sign, scan, return, confirm receipt] + [this, person]. E.g. Call Susan
-  - Subject only, i.e. no body. E.g. No text (N/T), End of Message (EOM), No reply necessary (NRN). E.g. \[EOM\] Package received.
+  - Subject only, i.e. no body. E.g. No text (N/T), End of Message (EOM), No reply necessary (NRN). E.g. Package received \[EOM\].
 - Apply OOP broadly: There are classes & object instances with properties, methods, interfaces, input, output, etc. The context matters. We rewrite our own human programming.
 - Influence without authority.
   - You can't do everything.
   - You're not the boss of everyone.
-  - People are part of nature too: Nature to be commanded must be obeyed ~ Francis Bacon, "Novum Organum" (The New Organon) (1620).
+  - People are part of nature too: Nature to be commanded must be obeyed ~ Francis Bacon, "Novum Organum" ("The New Organon") (1620).
 - Sometimes it is better to err on the side of over communcation.
 - "The Success Indicator Acceleration Report" by MaryEllen Tribby
   - Compliment > Criticize
