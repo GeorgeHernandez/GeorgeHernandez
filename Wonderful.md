@@ -12,5 +12,5 @@ Here is some stuff that I find wonderful, almost magical.
 - Salt
 - Math, Triangles Circles. E.g. 3² + 4² = 5²
 - Craftsmanship & Care. By any species, in any capacity.
-- [Bagheera kiplingi](https://en.wikipedia.org/wiki/Bagheera_kiplingi). Of the 40K species of spiders, this is the only one that is mostly herbivorous.
+- [_Bagheera kiplingi_](https://en.wikipedia.org/wiki/Bagheera_kiplingi). Of the 40K species of spiders, this is the only one that is mostly herbivorous.
 - Wikipedia

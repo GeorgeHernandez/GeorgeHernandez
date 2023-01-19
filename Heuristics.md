@@ -108,10 +108,10 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
 - Loved ones.
 - Those in need.
 - Those to come.
-- Those who are unehard, have no voice.
+- Those who are unheard, have no voice.
 - Those you are grateful for or to.
 - Your heroes. Do they inspire you to act?
-- Not typically people: Non-life (e.g. rocks), non-sentients (e.g plants), non-humans (e.g. animals, aliens, artifiical life forms), etc.
+- Not typically people: Non-life (e.g. rocks), non-sentients (e.g plants), non-humans (e.g. animals, aliens, artificial life forms), etc.
 - Talk to a variety of folks by age, gender, class, occupation, outlook, etc.
 
 ## 1.4. WHEN
@@ -122,10 +122,10 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
 - Time is always flowing
 - Timing
   - If you're going to fail, fail fast.
-  - Lots of timing in martial arts. True time as per [George Silver](https://en.wikipedia.org/wiki/George_Silver). _Vor_ and _noch_ of the [German schol of fencing](https://en.wikipedia.org/wiki/German_school_of_fencing). And so on.
+  - Lots of timing in martial arts. True time as per [George Silver](https://en.wikipedia.org/wiki/George_Silver). _Vor_ and _noch_ of the [German school of fencing](https://en.wikipedia.org/wiki/German_school_of_fencing). And so on.
   - "To every thing there is a season, and a time to every purpose under the heaven" ~ [Ecclesiastes 3](https://biblehub.com/ecclesiastes/3.htm).
-  - [Procrastination](https://en.wikipedia.org/wiki/Procrastination) is often not about time but about emotional suffering. Procrastinating, urfing, lounging, chilling, etc. can alleviate suffering. You have to determine need (v want) and whether you have the time for it now (v later).
-  - Timing & priorities can be linked. E.g. People ofen say "pay yourself first" (with savings, debt reduction, etc), but the same applies for time, i.e. you need to set aside some time for exercise, hygiene, mental health, relaxation, exploing, being lively, etc.
+  - [Procrastination](https://en.wikipedia.org/wiki/Procrastination) is often not about time but about emotional suffering. Procrastinating, surfing, lounging, chilling, etc. can alleviate suffering. You have to determine need (v want) and whether you have the time for it now (v later).
+  - Timing & priorities can be linked. E.g. People often say "pay yourself first" (with savings, debt reduction, etc), but the same applies for time, i.e. you need to set aside some time for exercise, hygiene, mental health, relaxation, exploring, being lively, etc.
   - Be mindful of the ebb and flow of your physical & mental energy throughout the day or week. E.g. The [daily quadrants](https://www.fastcompany.com/90742937/how-to-use-daily-quadrants-to-get-more-done-each-day) method has a typical day as
     - pt2h High Intensity & High Impact. Your most important work.
     - pt2h High Intensity & Low Impact. Smaller items.
@@ -137,14 +137,14 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
   - "Those who cannot remember the past are condemned to repeat it." ~ George Santayana
 - Present
   - _Carpe Diem_: Seize the day
-  - The Greek language denotes two distinct principles, [Chronos](https://en.wikipedia.org/wiki/Chronos) and [Kairos](https://en.wikipedia.org/wiki/Kairos). The former refers to numeric, or chronological, time. The latter, literally "the right or opportune moment", relates specifically to metaphysical or Divine time. In theology, Kairos is qualitative, as opposed to quantitative.
-  - "There is a tide in the affairs of men Which, taken at the flood, leads on to fortune; Omitted, all the voyage of their life Is bound in shallows and in miseries. On such a full sea are we now afloat; And we must take the current when it serves, Or lose our ventures." ~ William Shakespeare, "Julius Caesar" (1599), Brutus in Scene iii of Act IV.
+  - The Greek language denotes two distinct principles, [_Chronos_](https://en.wikipedia.org/wiki/Chronos) and [_Kairos_](https://en.wikipedia.org/wiki/Kairos). The former refers to numeric, or chronological, time. The latter, literally "the right or opportune moment", relates specifically to metaphysical or Divine time. In theology, _Kairos_ is qualitative, as opposed to quantitative.
+  - "There is a tide in the affairs of men Which, taken at the flood, leads on to fortune; Omitted, all the voyage of their life Is bound in shallows and in miseries. On such a full sea are we now afloat; And we must take the current when it serves, Or lose our ventures." ~ William Shakespeare, "Julius Caesar" (1599), Brutus in scene iii of Act IV.
 - Future
 
   - [Destiny](https://en.wikipedia.org/wiki/Destiny)
   - [Wyrd](https://en.wikipedia.org/wiki/Wyrd)
 
-- "Vita brevis, ars longa, occasio praeceps, experimentum periculosum, iudicium difficile." (Latin), "Life is short, the craft long, opportunity fleeting, experiment treacherous, judgment difficult." -Hippocrates. First line of "Aphorisms" from the "Hippocratic Corpus".
+- "_Vita brevis, ars longa, occasio praeceps, experimentum periculosum, iudicium difficile_" (Latin), "Life is short, the craft long, opportunity fleeting, experiment treacherous, judgment difficult." -Hippocrates. First line of "Aphorisms" from the "Hippocratic Corpus".
 - "Live as if you were to die tomorrow. Learn as if you were to live forever." ~ Gandhi
 - [All the world's a stage](https://en.wikipedia.org/wiki/All_the_world%27s_a_stage). Aka the seven ages of man.
   - Infant
@@ -176,15 +176,15 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
 - [Meaning-making](https://en.wikipedia.org/wiki/Meaning-making). In psychology, meaning-making is the process of how people construe, understand, or make sense of life events, relationships, and the self.
 - The adage is "You are what you do", but consider being your best self and let your nature drive what you do.
 - [Satisficing](https://en.wikipedia.org/wiki/Satisficing). A decision-making strategy or cognitive heuristic that entails searching through the available alternatives until an acceptability threshold is met. E.g. A task is to sew a patch onto a pair of blue pants. The best needle to do the threading is a 4-cm-long needle with a 3-millimeter eye. This needle is hidden in a haystack along with 1,000 other needles varying in size from 1 cm to 6 cm. Satisficing claims that the first needle that can sew on the patch is the one that should be used. Spending time searching for that one specific needle in the haystack is a waste of energy and resources.
-- [Flow](<https://en.wikipedia.org/wiki/Flow_(psychology)>). Aka being in the zone. A mental state in whicha person performing some activity is fully immeresed in a feeling of energized focus, full involvement, and enjoyjment in the process of the activity. Voluntary challenging worthwhile activities. Neither unchallenging (boring) or too challenging (crushing).
+- [Flow](<https://en.wikipedia.org/wiki/Flow_(psychology)>). Aka being in the zone. A mental state in which a person performing some activity is fully immersed in a feeling of energized focus, full involvement, and enjoyment in the process of the activity. Voluntary challenging worthwhile activities. Neither not challenging (boring) or too challenging (crushing).
 
 ## 1.6. Manage your suffering (HOW)
 
 - [Stoicism](https://en.wikipedia.org/wiki/Stoicism). What you can affect. The facts, events, outcomes, etc. may differ from your expectations.
 - [_Namaste_](https://en.wikipedia.org/wiki/Namaste) > Living in a world of poison.
-- Reduce aversion (_dvesha_) 🐍: confusion, drama, discouragement, pracrastination, fear, complaints, angst, feeling sorry for yourself
+- Reduce aversion (_dvesha_) 🐍: confusion, drama, discouragement, procrastination, fear, complaints, angst, feeling sorry for yourself
 - [Wabi-Sabi](https://en.wikipedia.org/wiki/Wabi-sabi): [Imperfect, Incomplete, Impermanent]
-  - [Work in Process](https://en.wikipedia.org/wiki/Work_in_process) (WIP). Aka work in progress. A similar idea. Everything is in progress and a state of [continuoual improvement](https://en.wikipedia.org/wiki/Continual_improvement_process) (CI). There is always a next version.
+  - [Work in Process](https://en.wikipedia.org/wiki/Work_in_process) (WIP). Aka work in progress. A similar idea. Everything is in progress and a state of [continual improvement](https://en.wikipedia.org/wiki/Continual_improvement_process) (CI). There is always a next version.
   - Some things must be "perfect". E.g. 1 + 1 = 2. However it is too much to expect a full, deep, totally refreshing night's sleep every night. Over achievement, self realization, perfection, 100%, etc. are overrated. Things like better, above average, etc. can also be too much. I think things like settling, managing expectations, etc. are keys to achieving happiness. It is yet another take on Stoicism, the Serenity Prayer, etc.
 - [Serenity Prayer](https://en.wikipedia.org/wiki/Serenity_Prayer)
 
@@ -211,7 +211,7 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
 - There are so called "secrets" that you might share. There are real secrets you never will.
 - Mental distance & perspective.
   - Zoom in on the good. Immerse yourself in it, relish it, cherish it. Be grateful for the good.
-  - Zoom out of the bad. Be more objectve. What if it was someone else that had your problems? Use your anger, fear, sadness, worry, frustration, etc. to take positive action. Step out into nature or big picture views/shows.
+  - Zoom out of the bad. Be more objective. What if it was someone else that had your problems? Use your anger, fear, sadness, worry, frustration, etc. to take positive action. Step out into nature or big picture views/shows.
 - Get help. Sometimes you need extra tools, people, time, space, etc to solve things.
 - Pain \* Resistance = Suffering. Similarly, making too much of Pleasure leads to Hedonism.
 
@@ -225,7 +225,7 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
   - Keep your to do list small. Large to do lists are often lists of things you are never going to do.
 - As simple as possible, but no simpler.
   - [Perfect is the enemy of good](https://en.wikipedia.org/wiki/Perfect_is_the_enemy_of_good)
-  - As simple as possible (as per natural law, laws of man, compliance, etchics, not being a jackass, etc), but no simpler.
+  - As simple as possible (as per natural law, laws of man, compliance, ethics, not being a jackass, etc), but no simpler.
 - Don't reinvent the wheel.
 - [Programming principle](https://en.wikipedia.org/wiki/Category:Programming_principles). Many of these apply to regular life. Here are some favorites:
   - [Keep it simple, stupid (KISS)](https://en.wikipedia.org/wiki/KISS_principle)
@@ -235,13 +235,13 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
   - [Modularity](https://en.wikipedia.org/wiki/Modularity): Large complex wholes can only be actualized, managed, summed, and synergized with small simple parts.
     - [Coupling (computer programming)](<https://en.wikipedia.org/wiki/Coupling_(computer_programming)>). Usually loose coupling (interdependence on other modules) is preferred.
     - [Cohesion (computer science)](<https://en.wikipedia.org/wiki/Cohesion_(computer_science)>). Usually high cohesion (the degree to which elements belong together within a module) is preferred.
-- Analysis & Syntheis
-  - Many mindlessly consider health as binary (healthy or sick), but is actually large & complex, and thus should be broken into smaller and simpler components for analysis. Howwever some focus so much on the analyis that the holistic synthesis is lost.
+- Analysis & Synthesis
+  - Many mindlessly consider health as binary (healthy or sick), but is actually large & complex, and thus should be broken into smaller and simpler components for analysis. However some focus so much on the analysis that the holistic synthesis is lost.
   - Analysis might separate "means to an end" as how v why, but synthesis can say that the journey and the goal are one.
   - We construct in the present, but hindsight comes from deconstructing the past.
-- [Self-organization](https://en.wikipedia.org/wiki/Self-organization). The topic itself is fascinating but note that it is not a matter of either self-organing or centrally-organized. Why not both? Why not a body with self-organizing cells & a centrally-organizing brain? Why not grass roots & executive functionality?
+- [Self-organization](https://en.wikipedia.org/wiki/Self-organization). The topic itself is fascinating but note that it is not a matter of either self-organizing or centrally-organized. Why not both? Why not a body with self-organizing cells & a centrally-organizing brain? Why not grass roots & executive functionality?
 - [Complex system](https://en.wikipedia.org/wiki/Complex_system)
-- [Fractal](https://en.wikipedia.org/wiki/Fractal). The term "fractal" was first used by mathematician Benoit Mandelbrot in 1975. The topic itself is fascinating but I like to apply the concept generally in this fashion: Managable sytems have similarities regardless of the size & type of the system even though the specifics at each zoom & domain differ. E.g. Managing the health of 3, 30, 300, 3e3, 3e6, 300e6, 7e9.
+- [Fractal](https://en.wikipedia.org/wiki/Fractal). The term "fractal" was first used by mathematician Benoit Mandelbrot in 1975. The topic itself is fascinating but I like to apply the concept generally in this fashion: Manageable systems have similarities regardless of the size & type of the system even though the specifics at each zoom & domain differ. E.g. Managing the health of 3, 30, 300, 3e3, 3e6, 300e6, 7e9.
 - [Power law](https://en.wikipedia.org/wiki/Power_law)
 
 ## 1.8. Form follows function (HOW/WHAT)
@@ -264,7 +264,7 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
   - It is possible to focus on the form regardless of the function (e.g. tea ceremony), but if you can derive more significance from the function, then its signal increases.
   - It is possible to focus on the form so much that it loses connection to its function. E.g. A martial art that becomes a dance; This may be acceptable when done as art for art's sake.
 - PP: Policies and Procedures
-  - Organizations that follow a process approach implment policies and procedures.
+  - Organizations that follow a process approach implement policies and procedures.
     - Purpose. WHY.
     - Policy. WHAT.
     - Procedures. General HOW.
@@ -272,7 +272,8 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
     - Links
       - [Policy](https://en.wikipedia.org/wiki/Policy)
       - [Policy studies](https://en.wikipedia.org/wiki/Policy_studies)
-      - [Separation of mechanism and plicy](https://en.wikipedia.org/wiki/Separation_of_mechanism_and_policy)
+      - [Separation of mechanism and policy](https://en.wikipedia.org/wiki/Separation_of_mechanism_and_policy)
+      -
   - TTP: Tactics, Tips, & Procedures
     - Tactics. High-level general guidance on WHY.
     - Techniques. WHAT to do.
@@ -283,9 +284,9 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
 
 ## 1.9. Better actions (HOW)
 
-- Quality. E.g. [ISO 9000](https://en.wikipedia.org/wiki/ISO_9000): Customer focus, Leadership, Engagement of people, Process approach, Improvement, Evidence-based decision making, Relationhip management.
+- Quality. E.g. [ISO 9000](https://en.wikipedia.org/wiki/ISO_9000): Customer focus, Leadership, Engagement of people, Process approach, Improvement, Evidence-based decision making, Relationship management.
 - Growth = Stress + Rest. E.g. PDCA, Kaizen, Virtuous Circle
-- Nature to be commanded must be obeyed ~ Francis Bacon, "Novum Organum" (The New Organon) (1620). Probblems can be better solved if you have a better understanding of the situation and deal with the factors involved. In swordsmanship the path to your opponent is through their sword, i.e. if you don't manage their sword and just try to hit them, then you may get hit yourself.
+- Nature to be commanded must be obeyed ~ Francis Bacon, "_Novum Organum_" (The New Organon) (1620). Problems can be better solved if you have a better understanding of the situation and deal with the factors involved. In swordsmanship the path to your opponent is through their sword, i.e. if you don't manage their sword and just try to hit them, then you may get hit yourself.
 - (story, struggle) > (excellence, experience)
 - Problem Solving. E.g. [How to Solve It](https://en.wikipedia.org/wiki/How_to_Solve_It) by George Pólya:
   - Understand the problem
@@ -301,7 +302,7 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
     - Have someone lead or moderate the meeting.
     - Start by stating the time frame, purpose, key contact info, breaks, availability of recordings/notes, etc.
     - Account for bio breaks for using the restroom, nourishment, stretching, etc.
-  - Meeting should be recorded or someone should take notes. Somtimes it is helpful take notes that the people can see so that there is no doubt about what was communicated.
+  - Meeting should be recorded or someone should take notes. Sometimes it is helpful take notes that the people can see so that there is no doubt about what was communicated.
   - Start meetings a bit later than the stated time because there are always late comers. Plus people can set an alarm for the stated time and still be on time for virtual meetings.
   - End meetings a bit earlier than the stated time.
   - Discussions that are not strictly on the agenda for all attendees should be reserved for sidebars, later meetings, etc.
@@ -326,7 +327,7 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
 - Refuse, Reduce, Reuse, Repair, Share, Recycle.
 - A government can be a Theocracy or a Democracy, but not both.
 - [Ubuntu](https://en.wikipedia.org/wiki/Ubuntu_philosophy)
-- Action & words can persist in many ways. They impress in your psyche and the psyche of others. They manifest as memories, dreams, echoes, ghosts, and so on. You should act and speak such that your psychic impression is postive and good. Will you persist as a friend, a hero, a pleasant dream, an angel? Or will you persist as an enemy, a villain, a nightmare, a demon?
+- Action & words can persist in many ways. They impress in your psyche and the psyche of others. They manifest as memories, dreams, echoes, ghosts, and so on. You should act and speak such that your psychic impression is positive and good. Will you persist as a friend, a hero, a pleasant dream, an angel? Or will you persist as an enemy, a villain, a nightmare, a demon?
 
 ## 1.11. Virtue & Sin (HOW)
 
@@ -337,7 +338,7 @@ There are many heuristics on [Virtue](https://en.wikipedia.org/wiki/Virtue) and 
 - [_Tao_](https://en.wikipedia.org/wiki/Tao). 道. Aka Dao, Do. The Way. The "natural order". "This is The Way".
 - [_Dharma_](https://en.wikipedia.org/wiki/Dharma). Nature & natural. _Adharma_ is unnatural.
 - [_Wu wei_](https://en.wikipedia.org/wiki/Wu_wei). 無為. Effortless action. The best way is often the easiest. Related to "Nature to be commanded must be obeyed.".
-- [Yin and Yang](https://en.wikipedia.org/wiki/Yin_and_yang) ☯️ of [Taoism](https://en.wikipedia.org/wiki/Taoism). There is a lot of dualisim in the world, but beware of [false dilemmas](https://en.wikipedia.org/wiki/False_dilemma) and [zero-sum bias](https://en.wikipedia.org/wiki/Zero-sum_thinking).
+- [Yin and Yang](https://en.wikipedia.org/wiki/Yin_and_yang) ☯️ of [Taoism](https://en.wikipedia.org/wiki/Taoism). There is a lot of dualism in the world, but beware of [false dilemmas](https://en.wikipedia.org/wiki/False_dilemma) and [zero-sum bias](https://en.wikipedia.org/wiki/Zero-sum_thinking).
 - [Life, Liberty and the pursuit of Happiness](https://en.wikipedia.org/wiki/Life,_Liberty_and_the_pursuit_of_Happiness).
   - Life. Survival.
   - Liberty. Consent.
@@ -364,16 +365,16 @@ There are many heuristics on [Virtue](https://en.wikipedia.org/wiki/Virtue) and 
     - Cowardice: The vice of deficient courage.
 - [Theological virtues](https://en.wikipedia.org/wiki/Theological_virtues). 3: Faith, Hope, Charity/Love.
 - [_Brahmavihara_](https://en.wikipedia.org/wiki/Brahmavihara). 4: Benevolence, Compassion, Joy, Equanimity.
-- [Classical elements](https://en.wikipedia.org/wiki/Classical_element). 4-5 shared by several ancient cultures: Earth, Water, Air, Fire, & Aether/Void. The Chinese Wu Xing system also includes Wood and Metal.
+- [Classical elements](https://en.wikipedia.org/wiki/Classical_element). 4-5 shared by several ancient cultures: Earth, Water, Air, Fire, & Aether/Void. The Chinese _Wu Xing_ system also includes Wood and Metal.
 - [Seven deadly sins](https://en.wikipedia.org/wiki/Seven_deadly_sins). 7-8 sins sort of derived from the Transcendental & Cardinal Virtues.
-  - Gula (gluttony)
-  - Luxuria/Fornicatio (lust, fornication)
-  - Avaritia (avarice/greed)
-  - Tristitia (sorrow/despair/despondency)
-  - Ira (wrath)
-  - Acedia (sloth)
-  - Vanagloria (vainglory)
-  - Superbia (pride, hubris)
+  - _Gula_ (gluttony)
+  - _Luxuria/Fornicatio_ (lust, fornication)
+  - _Avaritia_ (avarice/greed)
+  - _Tristitia_ (sorrow/despair/despondency)
+  - _Ira_ (wrath)
+  - _Acedia_ (sloth)
+  - _Vanagloria_ (vainglory)
+  - _Superbia_ (pride, hubris)
 - [_Bushido_](https://en.wikipedia.org/wiki/Bushido). 7:
   - 義 = Gi = Rectitude (Right Decisions/Justice and Morality)
   - 勇 = Yu = Courage
