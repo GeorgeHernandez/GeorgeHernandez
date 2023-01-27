@@ -124,7 +124,7 @@ Your opinions and worldview will almost certainly differ from mine. And yet we h
     - WIN ⊞ works as CMD ⌘
   - FYI: The closest I've found:
     - Azio KB505U or KB510W.
-    - FINEDAY Keyboard 2.0. It's looks & feels lovely. Unfortunately it replaced the right win key with a fn key. PowerToys can't remap that.
+    - FINEDAY Keyboard 2.0. It's looks & feels lovely. Unfortunately it replaced the right win key with a fn key. PowerToys can't remap a fn key, but it can remap the menu key: which I almost never use and can be done with shift+f10.
 
 ### 1.3.3. Good
 
