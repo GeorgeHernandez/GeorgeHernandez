@@ -1,12 +1,2 @@
 .obsidian/
 .vscode/
-*.bak
-*.orig
-*.swp
-*.temp
-*.tmp
-*.zip
-*~
-[Dd]esktop.ini
-temp.*
-[Tt]humbs.db
