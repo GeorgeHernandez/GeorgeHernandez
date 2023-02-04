@@ -138,6 +138,7 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
 - Present
   - _Carpe Diem_: Seize the day
   - The Greek language denotes two distinct principles, [_Chronos_](https://en.wikipedia.org/wiki/Chronos) and [_Kairos_](https://en.wikipedia.org/wiki/Kairos). The former refers to numeric, or chronological, time. The latter, literally "the right or opportune moment", relates specifically to metaphysical or Divine time. In theology, _Kairos_ is qualitative, as opposed to quantitative.
+    - This is related to timeliness for attending events: Sometimes the focus is on clock-time (_chronos_), while sometimes the focus is on event-time (_kairos_) for different contexts like giving the host time to prepare, not wanting to be too early, etc.
   - "There is a tide in the affairs of men Which, taken at the flood, leads on to fortune; Omitted, all the voyage of their life Is bound in shallows and in miseries. On such a full sea are we now afloat; And we must take the current when it serves, Or lose our ventures." ~ William Shakespeare, "Julius Caesar" (1599), Brutus in scene iii of Act IV.
 - Future
 
