@@ -124,7 +124,7 @@ Your opinions and worldview will almost certainly differ from mine. And yet we h
     - WIN ⊞ works as CMD ⌘
   - FYI: The closest I've found:
     - Azio KB505U or KB510W.
-    - FINEDAY Keyboard 2.0. It's looks & feels lovely. Unfortunately it replaced the right win key with a function key.
+    - FINEDAY Keyboard 2.0. It's looks & feels lovely. Unfortunately it replaced the right win key with a fn key. PowerToys can't remap a fn key, but it can remap the menu key: which I almost never use and can be done with shift+f10.
 
 ### 1.3.3. Good
 
@@ -274,6 +274,8 @@ Some issues can incite some people. The policy making process should be granular
   - Any data, research, software, etc. paid with public money should belong to the public.
   - Open software should be used as much as possible.
   - Open politics because we should act courageously and enable prudent and tempered policies for society, in a just, fair, and transparent fashion.
+- Police Brutality & Discrimination
+  - Yes, there is [police brutality in the United States](https://en.wikipedia.org/wiki/Police_brutality_in_the_United_States). Step 1: Acknowledge it exists and is a problem. There are many countermeasures (body cameras, civilian review boards, etc.) but one that is often overlooked is that police offenders should be treated like sex and no-fly offenders: They should be listed in a registry and it should be difficult for them to repeat their offense.
 - Protein
   - I'm not a vegetarian but I try to eat more plants.
   - Humans grow the fastest as babies, and breast milk is only 7% protein, so why do Americans eat diets with 3-4 times as much protein?
@@ -287,14 +289,16 @@ Some issues can incite some people. The policy making process should be granular
   - The U.S. relationship with Israel is odd and it probably has a religious basis.
   - [Freedom from Religion Foundation](https://ffrf.org/). Separating church from state protects you _from_ religion but also protects _your_ religion.
   - [The Satanic Temple](https://thesatanictemple.com/). Actually about skepticism and separating church from state than literal Satanism.
+- Sex Offenders
+  - Prevent and discourage human trafficking.
+  - Sex offenders should be listed in a registry and it should be difficult for them to repeat their offense. E.g. It should be criminal for churches to move a sex offending priest to another church where they repeat their offense.
 - Sexual orientation, gender identification, etc.
   - People are people.
   - Consent is the key rule for sexual activity. Be healthy, legal, educated, and kind too.
   - As far as LGBQT, etc. whatever float your boat. Marry who you want.
-  - Reduce sexism, yes, but words like feminism and masculism can be widely interpreted.
-  - The state should do sex education in high school because people do it anyway and it's a public health issue.
+  - Reduce sexism, yes, but words like feminism and masculism can be widely interpreted. Instead focus on treating people like humans regardless of gender or sexual orientation.
+  - The state should do sex education in high school because people have sex anyway and it's a public health issue.
   - Legalize prostitution because when it is illegal it happens anyway but in an unsafe and untaxed fashion.
-  - Prevent and discourage human trafficking.
   - As far as your health record goes, gender at birth is the closest thing we have to a standard.
 - Sovereignty
   - Amazing that this is an issue at all. Usually its because people are violating the rules of "Don't be a dick" and "People are people". Separate and be done with it.
