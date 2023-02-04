@@ -51,7 +51,7 @@ Your opinions and worldview will almost certainly differ from mine. And yet we h
 
 ### 1.2.1. Best
 
-- Time and Date Standard: [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601), e.g. `YYYY-MM-DD hh:mm:ss` and `P3DT2H`. http://xkcd.com/1179/. I wonder if `2019\10\03-24` would have been better?
+- Time and Date Standard: [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601), e.g. `YYYY-MM-DD hh:mm:ss` and `P15DT7H`. http://xkcd.com/1179/. I wonder if `2019\10\03-24` would have been better?
 - System of Measurement: Metric. However I have a few personal opinions.
 
   - The prefixes for the positive exponents SHOULD change from:
