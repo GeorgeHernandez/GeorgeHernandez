@@ -75,7 +75,7 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
       - Not Important and not Urgent. Tasks to DELEGATE. (This irks me. It sounds like stuff for lowly minions.)
       - Not Important and NOT Urgent. Tasks to DELETE.
     - Another way to say it is that the Priority of an item is roughly the average of its Impact (effect) and Urgency (time).
-- Creating > Curating > Collecting > Consuming
+- Create > Curate > Collect > Consume
 - Consumer < Producer < Producers & Consumers collaborating
 - [Five Ws](https://en.wikipedia.org/wiki/Five_Ws). Who, What, Why When, Where + How. Personally the What & Why are more difficult.
 - Essential > Incidental
@@ -314,6 +314,8 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
 - Win-Win instead of Zero Sum
   - Value > Profit. Folks are sometimes so concerned with profit that they provide negative value.
   - Value > Political points. Folks are sometimes so concerned with winning that they provide negative value.
+  - Long term & short term Value > Short term value. Late stage capitalism often focus on the short term.
+  - Value for the many > Value for the few. Late stage capitalism often emphasize value for the many (many employees, many customers), but seem to actually provide value for the few (CEOs and stockholders).
   - Economy of Abundance > Economy of Scarcity. I.e. Generosity > Greed.
   - A just and generous well-off society fosters positive subsistence rights
   - We may all live in our own constructed realities, but instead of siloing & diminishing others, why build up everyone's that we can?
