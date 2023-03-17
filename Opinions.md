@@ -75,14 +75,15 @@ Your opinions and worldview will almost certainly differ from mine. And yet we h
 
 - Breastfeeding > Formula
 - Toilet rolls releasing from the top > bottom
-- A4 paper (ISO 216) > 8.5"x11"
+- A4 paper ([ISO 216](https://en.wikipedia.org/wiki/ISO_216)) > 8.5"x11"
 - Common Era (CE) > AD
 - Butter > Margarine
-- Languages with few characters > 100s of characters
+- Languages with few characters > many of characters
 - LibreOffice > Open Office. LO can incorporate features from OO, but not the other way. LO has ~50x as many users.
 - Renewable & Reusable > Single use
 - Period (`.`) > Comma (`,`). For use as a decimal character, the period is simpler. It's right there on the numeric keypad.
 - Wheelbarrow with centrally-mounted wheel > end-mounted wheel
+- Mobile devices with larger bottom bezels. These devices are often put in stands with slots.
 
 ### 1.2.3. Good
 
