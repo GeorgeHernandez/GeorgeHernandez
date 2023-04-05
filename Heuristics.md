@@ -46,7 +46,7 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
 - [Johari window](https://en.wikipedia.org/wiki/Johari_window). Contemporarily used by Donald Rumsfeld when he said ["There are known knowns"](https://en.wikipedia.org/wiki/There_are_known_knowns.)
   - Arena. Known knowns. Perceived by self & others.
   - Blind Spot. Unknown knowns. Not perceived by self, but perceived by others.
-  - Façade. Known unknowns. Not perceived by self, but not perceived by others. This may indicate a conspiracy theory (☹️) or new knowledge (😃).
+  - Façade. Known unknowns. Perceived by self, but not perceived by others. This may indicate a conspiracy theory (☹️) or new knowledge (😃).
   - Unknown. Unknown unknowns. Not perceived by self & others.
 - [Nature versus Nurture](https://en.wikipedia.org/wiki/Nature_versus_nurture). Especially be wary of indoctrination.
   - [_Physis_ (Greek)](https://en.wikipedia.org/wiki/Physis) v [_Nomos_ (Greek)](<https://en.wikipedia.org/wiki/Nomos_(mythology)>)
