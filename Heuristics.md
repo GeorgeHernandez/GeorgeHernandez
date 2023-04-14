@@ -197,6 +197,7 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
 
 - The essence of [Zen](https://en.wikipedia.org/wiki/Zen) is non-fixation.
   - Do you have X? Or does X have you?
+  - Instead of "Aww, I have to do X", try "Yay, I get to do X"
   - Mindful > Mindless
   - Be present
 - Be a Patient Agent.
