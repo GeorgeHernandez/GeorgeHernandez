@@ -332,6 +332,7 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
 - A government can be a Theocracy or a Democracy, but not both.
 - [Ubuntu](https://en.wikipedia.org/wiki/Ubuntu_philosophy)
 - Action & words can persist in many ways. They impress in your psyche and the psyche of others. They manifest as memories, dreams, echoes, ghosts, and so on. You should act and speak such that your psychic impression is positive and good. Will you persist as a friend, a hero, a pleasant dream, an angel? Or will you persist as an enemy, a villain, a nightmare, a demon?
+- Impact > Intent. "Do the best you can until you know better. Then, when you know better, do better." - Maya Angelou
 
 ## 1.11. Virtue & Sin (HOW)
 
