@@ -48,6 +48,14 @@ My family & friends
 - I love my darling wife Julia and our three kids. I am a much richer, fuller, and sociable person for having them in my life. The are easily the best part of my life.
 - I've had a few genuine friends. I am grateful for everyone of them. Sadly the majority of them have passed on.
 
+My acronyms (summarizing my focus)
+
+- ExMAS: Exercise. Martial Arts. Survival.
+- CHOWS: Coin (my finanances). Home (family & housework). Others (society & service). Work (professional & project). Shop (be wary of materialism)
+- STEM: Science. Technology. Engineering. Math.
+- GRAMP: Grow (plants). Read & wRite. Art. Make. Play (music, games, etc.
+- CLEWS: Culture. Language. Explore. Worldview. Society. (I admit that this is my clumsiest acroynm)
+
 As a person
 
 - 🐈 I am a calm, candid, & curious cat who strives to be a courageous, creative, & kind contributor.
