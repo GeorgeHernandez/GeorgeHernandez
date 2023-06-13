@@ -51,10 +51,10 @@ My family & friends
 My acronyms (summarizing my focus)
 
 - ExMAS: Exercise. Martial Arts. Survival.
-- CHOWS: Coin (my finanances). Home (family & housework). Others (society & service). Work (professional & project). Shop (be wary of materialism)
+- CHOWS: Coin (finances). Home (family & housework). Others (society & service). Work (professional & project). Shop (be wary of materialism)
 - STEM: Science. Technology. Engineering. Math.
-- GRAMP: Grow (plants). Read & wRite. Art. Make. Play (music, games, etc.
-- CLEWS: Culture. Language. Explore. Worldview. Society. (I admit that this is my clumsiest acroynm)
+- GRAMP: Grow (plants). Read & wRite. Art. Make. Play (music, games, etc.)
+- CLEWS: Culture. Language. Explore. Worldview. Society. (I admit that this is my clumsiest acroynm.)
 
 As a person
 
