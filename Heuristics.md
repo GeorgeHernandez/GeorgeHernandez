@@ -113,6 +113,8 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
 - Your heroes. Do they inspire you to act?
 - Not typically people: Non-life (e.g. rocks), non-sentients (e.g plants), non-humans (e.g. animals, aliens, artificial life forms), etc.
 - Talk to a variety of folks by age, gender, class, occupation, outlook, etc.
+- You are unique. Only you can be you in your lifetime, so be yourself. Go you be you (UBU).
+- Everyone has value and worthy of love, even the damaged. [_Namaste_](https://en.wikipedia.org/wiki/Namaste) 🙏🏽. [_Ubuntu_](https://en.wikipedia.org/wiki/Ubuntu_philosophy). _Kapwa_ a concept by [Virgilio Enriquez](https://en.wikipedia.org/wiki/Virgilio_Enriquez) about recognizing the unity between self and others.
 
 ## 1.4. WHEN
 
@@ -182,8 +184,7 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
 ## 1.6. Manage your suffering (HOW)
 
 - [Stoicism](https://en.wikipedia.org/wiki/Stoicism). What you can affect. The facts, events, outcomes, etc. may differ from your expectations.
-- [_Namaste_](https://en.wikipedia.org/wiki/Namaste) > Living in a world of poison.
-- Reduce aversion (_dvesha_) 🐍: confusion, drama, discouragement, procrastination, fear, complaints, angst, feeling sorry for yourself
+- Reduce aversion (_dvesha_) 🐍: confusion, drama, discouragement, procrastination, fear, complaints, angst, feeling sorry for yourself. Do not live in a world of poison.
 - [Wabi-Sabi](https://en.wikipedia.org/wiki/Wabi-sabi): [Imperfect, Incomplete, Impermanent]
   - [Work in Process](https://en.wikipedia.org/wiki/Work_in_process) (WIP). Aka work in progress. A similar idea. Everything is in progress and a state of [continual improvement](https://en.wikipedia.org/wiki/Continual_improvement_process) (CI). There is always a next version.
   - Some things must be "perfect". E.g. 1 + 1 = 2. However it is too much to expect a full, deep, totally refreshing night's sleep every night. Over achievement, self realization, perfection, 100%, etc. are overrated. Things like better, above average, etc. can also be too much. I think things like settling, managing expectations, etc. are keys to achieving happiness. It is yet another take on Stoicism, the Serenity Prayer, etc.
@@ -330,7 +331,6 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
 - Machine v Garden. Focus on the Garden (people, processes, policies), not the Machine (hw, code, tech). The Machine can help the Garden, but the Garden is primary.
 - Refuse, Reduce, Reuse, Repair, Share, Recycle.
 - A government can be a Theocracy or a Democracy, but not both.
-- [Ubuntu](https://en.wikipedia.org/wiki/Ubuntu_philosophy)
 - Action & words can persist in many ways. They impress in your psyche and the psyche of others. They manifest as memories, dreams, echoes, ghosts, and so on. You should act and speak such that your psychic impression is positive and good. Will you persist as a friend, a hero, a pleasant dream, an angel? Or will you persist as an enemy, a villain, a nightmare, a demon?
 - Impact > Intent. "Do the best you can until you know better. Then, when you know better, do better." - Maya Angelou
 
