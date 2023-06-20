@@ -113,7 +113,7 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
 - Your heroes. Do they inspire you to act?
 - Not typically people: Non-life (e.g. rocks), non-sentients (e.g plants), non-humans (e.g. animals, aliens, artificial life forms), etc.
 - Talk to a variety of folks by age, gender, class, occupation, outlook, etc.
-- You are unique. Only you can be you in your lifetime, so be yourself. Go you be you (UBU).
+- You are unique. Only you can be you in your lifetime, so be yourself, be authentic, be your authentic self. Go you be you (UBU).
 - Everyone has value and worthy of love, even the damaged. [_Namaste_](https://en.wikipedia.org/wiki/Namaste) 🙏🏽. [_Ubuntu_](https://en.wikipedia.org/wiki/Ubuntu_philosophy). _Kapwa_ a concept by [Virgilio Enriquez](https://en.wikipedia.org/wiki/Virgilio_Enriquez) about recognizing the unity between self and others.
 
 ## 1.4. WHEN
