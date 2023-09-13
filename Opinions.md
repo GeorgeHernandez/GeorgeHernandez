@@ -96,7 +96,7 @@ Your opinions and worldview will almost certainly differ from mine. And yet we h
 
 ### 1.3.1. Best
 
-- Unicode Encoding: UTF-8, which is Windows Code Page Identifier 65001.
+- Unicode Encoding: UTF-8, which is Windows Code Page Identifier 65001. Prefer later collations for database, e.g. `utf8mb4_unicode_520_ci`.
 - Version Control: Git
 - Indentation: 2 spaces, unless your system requires it.
 - Web Service: REST Web API
