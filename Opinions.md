@@ -112,20 +112,17 @@ Your opinions and worldview will almost certainly differ from mine. And yet we h
 - 1 space between sentences > 2 spaces. Exceptions: You have been wired by typewriter classes or your system requires otherwise (e.g. Linux `fmt -u`).
 - HTML > XHTML
 - My physical keyboard preferences:
-  - Layout: US QWERTY with at least 104 keys. The bottom row: ctrl, win, alt, space, alt gr, win, menu, ctrl. I'm used to this and know where everything is.
+  - Layout: US QWERTY. The bottom row: ctrl, win, alt, space, alt gr, fn, menu, ctrl. I used to prefer 104 keys but getting rid of the numeric keypad saves valuable desktop space. PowerToys can't remap a fn key, but it can remap the menu key: which I almost never use and can be done with shift+f10.
   - Backlit keys. This way you never have to worry about the paint rubbing off.
-  - Wired or rechargeable. No batteries to replace please.
+  - Wired. No batteries to replace or recharge.
   - At least F1-F12, grouped in sets of 4.
-  - Bonus keys like media keys should be above outside of the usual 104. A function may be on the right but definitely not on the left.
+  - Bonus keys like media keys should be above outside of the usual layout. A function may be on the right but definitely not on the left.
   - Water resistant. A "water proof" claim is questionable.
   - Quieter keys preferred but not required. Quieter avoids distractions during remote meetings, but lately microphones screen out the noise.
   - Large print preferred but not required.
   - To use a Windows keyboard on a Mac:
     - ALT works as OPTION ⌥
     - WIN ⊞ works as CMD ⌘
-  - FYI: The closest I've found:
-    - Azio KB505U or KB510W.
-    - FINEDAY Keyboard 2.0. It's looks & feels lovely. Unfortunately it replaced the right win key with a fn key. PowerToys can't remap a fn key, but it can remap the menu key: which I almost never use and can be done with shift+f10.
 
 ### 1.3.3. Good
 
