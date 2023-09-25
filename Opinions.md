@@ -112,10 +112,12 @@ Your opinions and worldview will almost certainly differ from mine. And yet we h
 - 1 space between sentences > 2 spaces. Exceptions: You have been wired by typewriter classes or your system requires otherwise (e.g. Linux `fmt -u`).
 - HTML > XHTML
 - My physical keyboard preferences:
-  - Layout: US QWERTY. The bottom row: ctrl, win, alt, space, alt gr, fn, menu, ctrl. I used to prefer 104 keys but getting rid of the numeric keypad saves valuable desktop space. PowerToys can't remap a fn key, but it can remap the menu key: which I almost never use and can be done with shift+f10.
-  - Backlit keys. This way you never have to worry about the paint rubbing off.
+  - Layout: US QWERTY.
   - Wired. No batteries to replace or recharge.
   - At least F1-F12, grouped in sets of 4.
+  - I used to prefer 104 keys but getting rid of the numeric keypad saves valuable desktop space.
+  - Backlit keys. This way you never have to worry about the paint rubbing off.
+  - The bottom row: ctrl, win, alt, space, alt gr, fn, menu, ctrl. FYI: PowerToys can't remap a fn key, but it can remap the menu key: which I almost never use and can be done with shift+f10.
   - Bonus keys like media keys should be above outside of the usual layout. A function may be on the right but definitely not on the left.
   - Water resistant. A "water proof" claim is questionable.
   - Quieter keys preferred but not required. Quieter avoids distractions during remote meetings, but lately microphones screen out the noise.
