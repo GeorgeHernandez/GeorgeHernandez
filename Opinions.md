@@ -165,7 +165,7 @@ I want to highlight key problems common to many political topics, then move on t
   - Oligarchs have too much voice. Why are elections too expensive?
     - [Campaign finance reform in the United States](https://en.wikipedia.org/wiki/Campaign_finance_reform_in_the_United_States)
       - [Dark money](https://en.wikipedia.org/wiki/Gerrymandering)
-      - [Citizens United v. FEC](https://en.wikipedia.org/wiki/Gerrymandering) (2010)
+      - [Citizens United v. FEC](https://en.wikipedia.org/wiki/Gerrymandering) (2010). It's legalized bribery.
       - [Lobbying in the United States](https://en.wikipedia.org/wiki/Lobbying_in_the_United_States)
       - [Political action committee](https://en.wikipedia.org/wiki/Political_action_committee)
     - [Gerrymandering](https://en.wikipedia.org/wiki/Gerrymandering). Drawing the maps should NOT be done by the parties. The U.S. Census has been used as a tool for gerrymandering.
