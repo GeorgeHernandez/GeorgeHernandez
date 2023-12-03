@@ -342,7 +342,7 @@ There are many heuristics on [Virtue](https://en.wikipedia.org/wiki/Virtue) and 
 - [_Qi_](https://en.wikipedia.org/wiki/Qi). 氣. Vitality.
 - [_Tao_](https://en.wikipedia.org/wiki/Tao). 道. Aka Dao, Do. The Way. The "natural order". "This is The Way".
 - [_Dharma_](https://en.wikipedia.org/wiki/Dharma). Nature & natural. _Adharma_ is unnatural.
-- [_Wu wei_](https://en.wikipedia.org/wiki/Wu_wei). 無為. Effortless action. The best way is often the easiest. Related to "Nature to be commanded must be obeyed.".
+- [_Wu wei_](https://en.wikipedia.org/wiki/Wu_wei). 無為. Effortless excellence, i.e. grace. The best way is often the easiest. Related to "Nature to be commanded must be obeyed.".
 - [Yin and Yang](https://en.wikipedia.org/wiki/Yin_and_yang) ☯️ of [Taoism](https://en.wikipedia.org/wiki/Taoism). There is a lot of dualism in the world, but beware of [false dilemmas](https://en.wikipedia.org/wiki/False_dilemma) and [zero-sum bias](https://en.wikipedia.org/wiki/Zero-sum_thinking).
 - [Life, Liberty and the pursuit of Happiness](https://en.wikipedia.org/wiki/Life,_Liberty_and_the_pursuit_of_Happiness).
   - Life. Survival.
@@ -442,8 +442,9 @@ There are many heuristics on [Virtue](https://en.wikipedia.org/wiki/Virtue) and 
 My favorite virtue is **GRACE**:
 
 - [Courage, Justice, Prudence, Temperance] + [Charity, Faith, Hope] + [Truth, Beauty, Goodness].
-- Grace is virtue so elegant, that it seems natural & effortless. The intolerant seek purity, and yet they tarnish themselves because trying to diminish the grace of another diminishes your own grace. Foster grace in others & you foster grace in yourself too.
+- Grace is virtue so elegant, that it seems natural & effortless. The intolerant seek purity, and yet they tarnish themselves because trying to diminish the grace of another diminishes your own grace. Foster grace in others & you foster grace in yourself too. Wu Wei (無為) is effortless excellence and thus grace.
 - Today I dwell on grace. Grace is a combination of elegance and divine blessing. Grace is beauty beyond form that extends into love. Grace is the sound of your child's first cry or your mother's last breath. Grace are creatures or water in any form. Grace ranges from unprocessed nature to the constructs of man. Grace is fairness, respect, and dignity. Grace delights in science that explores the conversion of sunlight into nourishing food. Grace is there in your darkest moments when faith and hope are just pale flickers of light. Grace abounds in your greatest moments when you are shining with hope and love. Grace is mysterious but obvious. Namaste and may the grace of God be with you. ~ Myself
+- "Courage is grace under pressure" - Ernest Hemingway
 
 ## 1.12. Some Ethics (HOW)
 
