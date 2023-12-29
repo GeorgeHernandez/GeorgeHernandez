@@ -9,7 +9,7 @@ My name is George Hernandez and I live in Chicago. I work as Lead Full Stack Eng
 - 🍞 [My Daily List](DailyList.md)
 - 🌱 [My Favorite Heuristics](Heuristics.md)
 - 🦊 [Know Thyself](KnowThyself.md)
-- 🚶🏽 [Mobile Me](MobileMe.md)
+- 🚶🏽 [Mobile Gear](MobileGear.md)
 - 🤌🏽 [My Opinions](Opinions.md)
 - 💬 [My Favorite Quotes](Quotes.md)
 - ✨ [Stuff I find wonderful](Wonderful.md)
