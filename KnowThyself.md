@@ -96,12 +96,12 @@ I was raised Catholic but I'm an atheist
     - ME: 90%. **I identify with kindness**, but it contributes to my feelings of guilt for not saving the world.
   - Emotionalism (fka Neuroticism)
     - Identifies people who are prone to psychological distress. Individuals who are high in neuroticism tend to be anxious, depressed, self-conscious, impulsive, vulnerable and display angry hostility. Higher Highs. Lower Lows.
-    - ME: 70%. **Alas, I have [dysthymia](https://en.wikipedia.org/wiki/Dysthymia)** and sadly it has gotten stronger over the years.
+    - ME: 70%. **I have [dysthymia](https://en.wikipedia.org/wiki/Dysthymia)** and got stronger over the years but I'm learning to manage it.
   - Extroversion
     - Gregarious, outgoing, sociable, projecting one's personality outward. The opposite of extroversion is introversion. Extroversion has shown to share certain genetic markers with substance abuse. Extroversion is associated with various regions of the prefrontal cortex and the amygdala.
     - High: Respond positively to the stimuli of more people. Outward focus.
     - Low: Respond negatively to the stimuli of more people. Inward focus.
-    - ME: 20%. **I identify as a fox**: A hidden forest creature. My introversion is not as much a hangup as it used to be. I find that I can deal with a lot of people if I have to. My basic advice to introverts: It is fair to comfortably invisible, but when you have something to say: Say it loud and clear.
+    - ME: 20%. **I identify as a fox**: 🦊 A hidden forest creature. My introversion is not as much a hangup as it used to be. I find that I can deal with a lot of people if I have to. My basic advice to introverts: It is fair to be comfortably invisible, but when you have something to say: Say it loud and clear.
   - Agreeableness
     - Refers to a compliant, trusting, empathic, sympathetic, friendly and cooperative nature.
     - Low: Competitive.
@@ -112,7 +112,7 @@ I was raised Catholic but I'm an atheist
     - ME: 80%. **I identify with lining up my ducks**.
   - Openness
     - Composed of two related but separable traits, Openness to Experience and Intellect. Behavioral aspects include having wide interests, and being imaginative and insightful. Considered primarily a cognitive trait. Curious. Creative.
-    - ME: 80%. I identify as an explorer.
+    - ME: 80%. **I identify as an explorer**.
   - Psychoticism
     - Psychoticism is a personality pattern typified by aggressiveness, interpersonal hostility, impulsivity, and sensation-seeking. Psychologist Hans Eysenck's 3 primary traits are P-E-N: Psychoticism, Extroversion, and Neuroticism/Emotionalism.
     - ME: 60%. **I have a contrary nature** and tend to play the devil's advocate. My sense of humor tends to be ironic, i.e. something wrong is often funny. I like to fight and do martial arts, but it's for fun, developing character and skill, etc, i.e. I'm rarely angry at opponents. I will mutter and swear while driving but I don't have road rage. I sometimes get annoyed by problems that could have been prevented, but I try to remember that it happens.
