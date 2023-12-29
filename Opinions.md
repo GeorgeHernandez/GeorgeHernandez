@@ -2,8 +2,6 @@
 
 Here are some of my opinions to express myself in my own idiom and to make a minor contribution to society. I'll start with my opinion on opinions, then provide some of my opinions, starting with some easy ones.
 
-<!-- In Visual Studio Code I use the Markdown All In One extension to manage the section numbers and table of contents.  -->
-
 - [1. My Opinions](#1-my-opinions)
   - [1.1. My opinions on opinions](#11-my-opinions-on-opinions)
     - [1.1.1. Bonus: Some quotes on facts \& opinions](#111-bonus-some-quotes-on-facts--opinions)

@@ -6,8 +6,11 @@ My name is George Hernandez and I live in Chicago. I work as Lead Full Stack Eng
 
 🦊 I am usually quiet but I will share a few things:
 
+- 🍞 [My Daily List](DailyList.md)
+- 🌱 [My Favorite Heuristics](Heuristics.md)
+- 🐈 [Know Thyself](KnowThyself.md)
+- 🤌🏽 [My Opinions](Opinions.md)
+- 💬 [My Favorite Quotes](Quotes.md)
 - ✨ [Stuff I find wonderful](Wonderful.md)
-- 💬 [My favorite quotes](Quotes.md)
-- 🌱 [My favorite heuristics](Heuristics.md)
-- 🤌🏽 [My opinions](Opinions.md)
-- 🐈 [Know thyself](KnowThyself.md)
+
+<!-- Several of my pages have table of contents manged in Visual Studio Code with the "Markdown All In One" extension.  -->
