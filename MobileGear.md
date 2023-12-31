@@ -20,27 +20,27 @@ It is good to know what was in my wallet in case I lose it.
     - American Express (AMEX)
     - Bread AMEX
     - Fidelity Visa
-  - Secondary CCs:
-    - Bank of America MC
-    - Chase Amazon Visa
-    - Discover
-    - PayPal MC
+    - ! Bank of America MC
+    - ! Chase Amazon Visa
+    - ! Discover
+    - ! PayPal MC
     - Target MC
 - Store Cards:
   - Menards
-  - MicroCenter
+  - ! MicroCenter
 - Debit Cards:
-  - AMEX
+  - ! AMEX
   - Capital One MC
   - Fidelity HSA Visa
-  - Wise MC
+  - ! Venmo MC
+  - ! Wise MC
 - Other Cards:
   - Ventra Public Transporation
-  - YMCA Gym
+  - ! YMCA Gym
   - Aetna Health Insurance
-  - ExpressScripts Prescription
+  - ! ExpressScripts Prescription
   - Illinois Driver's License
-  - Illinois Firearm Owners ID & Concealed Carry License
+  - ! Illinois Firearm Owners ID & Concealed Carry License
 - Cash
 
 ## 1.2. Usually On Me
