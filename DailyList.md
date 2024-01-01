@@ -77,7 +77,7 @@ I have other lists. I have lists, lists do not have me.
   - [ ] Shower, Shave, Nails, etc.
   - [ ] Run the Fan after the Shower
 - [ ] 🤗🐸💧
-  - [ ] Social Activities: Hugs, Love, Nurture, etc.
+  - [ ] Social Activities: Hugs, Love, Nurture, Share, etc.
   - [ ] Responsibilities: Work, House Work, Tasks, Projects, etc. "Eat a live frog first thing in the morning and nothing worse will happen to you the rest of the day." - Mark Twain
 - [ ] 🕛🤗🍴💧💊🪥💧
   - [ ] Lunch ~12:00. I have comfortable Meals since I usually skip Breakfast.

@@ -4,7 +4,7 @@ Here is some stuff that I find wonderful, almost magical.
 
 1. Bicycles. Balance and mechanical advantage.
 1. Children
-1. Water: Clouds. Waves. Bodies of water. Floating.
+1. Water: Clouds. Waves. Bodies of water. Floating. Snowflakes.
 1. Wind: Breezes. Windmills.
 1. Flight
 1. Plants & Trees. Photosynthesis & Photons.
