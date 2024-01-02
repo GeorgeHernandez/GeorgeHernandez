@@ -121,21 +121,22 @@ It is good to know what was in my wallet in case I lose it.
 
 - Backpack. Water-Resistant.
 - Work Related:
-  - Pen
   - Bullet-Proof Clipboard
-  - Business Cards. As needed.
-  - Laptop. As needed.
-  - Power Strip
+  - Wall & Car Charger
+  - Male USBA to Male Micro/USB A/Apple Lightning
+  - Spare Mouse Male USB A with Female USB A to Male USB C Adapter
   - Spare Charger for Laptop
-  - Spare Mouse
+  - Laptop. As needed.
+  - Business Cards. As needed.
 - Water Bottle. Refresh beforehand!
 - Umbrella
 - Water-Resistant Folder:
   - Paper
-  - Maps: Chicago, Illinois, USA
+  - Manila Folder
 - In Plastic Bag:
-  - Wall & Car Charger with Plugs for Micro USB, USB C
+  - Pen
   - USB Stick
+  - Male USB A/C to Male USB A/C Adaptor
   - Duct Tape
   - Matches
 
@@ -153,8 +154,11 @@ It is good to know what was in my wallet in case I lose it.
 - Rope
 - Towel
 - First Aid Kit
+- Power Strip with Plugs for Micro USB A, USB C
+- Solar Phone Charger
 - Glock G19 and 50 rounds
 - Pocket Desk Reference
+- Playing Cards
 - Cash
 - Clothes:
   - Socks
@@ -164,6 +168,7 @@ It is good to know what was in my wallet in case I lose it.
   - Long Sleeve T-Shirt
   - Windbreaker with Hood
 - Food. As needed. Preferably in a separate bag.
+  - Maps: Chicago, Illinois, USA
 
 ## 1.7. Travel Bag
 
