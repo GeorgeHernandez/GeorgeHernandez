@@ -25,7 +25,7 @@ I have other lists. I have lists, lists do not have me.
 - [ ] 🕒🤗🚫☕🍬
 - [ ] 🕕🤗🍴
 - [ ] 🕘🤗🚫🕹️
-- [ ] 🕙🪥🤗📖🫀😴
+- [ ] 🕙🪥🤗🫀😴
 
 ## 1.2. My Daily List with Notes
 
@@ -33,12 +33,11 @@ I have other lists. I have lists, lists do not have me.
   - [ ] Wake Up ~06:00. [Chicago Sunrises](https://www.timeanddate.com/sun/usa/chicago) are 05:14/07:18 with goofy DST, but [Manila Sunrises](https://www.timeanddate.com/sun/philippines/manila) are 05:25/06:25.
   - [ ] Put on the Glasses and get more Light to help me Wake Up
   - [ ] Log my Sleep and Weight
-  - [ ] Avoid Phone Surfing. I should do this in general but it sneaks in at Dawn and Dusk.
   - [ ] Spritz my Nose against Hay Fever
   - [ ] Hydrate
 - [ ] 📆⏰🌦️🪙📰💧
   - [ ] Check my Calendar
-  - [ ] Set Alarms
+  - [ ] Set Alarm as needed
   - [ ] Check the Weather
   - [ ] Check my Finances
   - [ ] Check the News
@@ -46,7 +45,7 @@ I have other lists. I have lists, lists do not have me.
   - [ ] Study Languages. I cycle through:
     - [ ] Spanish
     - [ ] Greek
-    - [ ] Mandarin Chinese
+    - [ ] Chinese
     - [ ] Arabic
     - [ ] Korean
     - [ ] Filipino
@@ -61,7 +60,7 @@ I have other lists. I have lists, lists do not have me.
     - [ ] Playing Music
     - [ ] Gardening
 - [ ] 🏋️🤸🏃🚴🚣🏊⚾🏀✊🤼🤺💧
-  - [ ] Twice a week: Vigorous Physical Activity. E.g.
+  - [ ] Vigorous Physical Activity. Twice a week. E.g.
     - [ ] Lifting
     - [ ] Gymnastics
     - [ ] Running
@@ -69,7 +68,7 @@ I have other lists. I have lists, lists do not have me.
     - [ ] Rowing
     - [ ] Swimming
     - [ ] Sports. E.g. Baseball, Basketball.
-  - [ ] Twice a week: Martial Arts. E.g.
+  - [ ] Martial Arts. Twice a week. E.g.
     - [ ] Unarmed
     - [ ] Wrestling
     - [ ] Armed
@@ -99,19 +98,20 @@ I have other lists. I have lists, lists do not have me.
   - [ ] Hydrate less in the evening to reduce Urination during my Sleep Cycle
   - [ ] Avoid evening Coffee and Sweets because they interfere with my Sleep
 - [ ] 🕘🤗🚫🕹️
-  - [ ] Avoid playing involving game in the evening because the probability of continuing to playing past bed time is high.
-- [ ] 🕙🪥🤗📖🫀😴
+  - [ ] Avoid playing involving Games in the evening because the probability of continuing to playing past bed time is high.
+- [ ] 🕙🪥🤗🫀😴
   - [ ] Before Sleeping:
-    - [ ] Read
     - [ ] Do a last minute Heart Rate Check: This ensures that I'm wearing my Watch and that it is properly seated
     - [ ] Go to Sleep ~22:00
 
 ## 1.3. My Weekly List with Notes
 
+Usually on Sundays.
+
 - [ ] 💧🌱 Water my Plant
 - [ ] 🚪🔔 Recharge the Doorbell. (Yes I need to get a wired doorbell)
 - [ ] ♻️🪣 Recycle and Compost
-- [ ] 👨‍🍳 Cook. At least on Sundays.
+- [ ] 👨‍🍳 Cook
 - [ ] ⏲️🫀 Set a Timer then Log my Blood Pressure and Heart Rate
 
 ## 1.4. Gout Countermeasures
