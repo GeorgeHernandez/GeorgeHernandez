@@ -46,16 +46,18 @@ It is good to know what was in my wallet in case I lose it.
 ## 1.2. Usually On Me
 
 - Pants or Shorts Pockets:
-  - Front Right: Phone: Samsung Galaxy Fold.
-  - Front Right Mini: Folder Knife. Cheap because it is easily lost.
+  - Front Right:
+    - Phone: Samsung Galaxy Fold
+  - Front Right Mini:
+    - Soft Measuring Tape
   - Front Left:
     - Wallet
-    - Lighter. Cheap because it is easily lost.
     - Pen. Cheap because it is easily lost.
+    - Lighter. Cheap because it is easily lost.
+    - Folder Knife. Cheap because it is easily lost.
   - Back Left: Left Cut Resistant Glove
   - Back Right:
     - Right Cut Resistant Glove
-    - Soft Measuring Tape
 - Belt:
   - Left: Pouch with Multi-Tool by Leatherman
   - Left Front Loop: Carbiner:
@@ -67,7 +69,7 @@ It is good to know what was in my wallet in case I lose it.
     - Ring 3:
       - Work Keys
     - Left Rear Loop: Handkerchief
-  - Left Rear Loop: Carbiner
+  - Left Rear Loop: Carbiner:
     - Rechargeable LED Flashlight
     - Whistle
     - Ear Plug in a container
