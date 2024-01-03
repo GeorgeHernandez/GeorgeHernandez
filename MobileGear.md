@@ -94,7 +94,7 @@ It is good to know what was in my wallet in case I lose it.
   - Body: Weighty Hoodie or Jacket
   - Hands: Light Gloves
 - < 40 F (< 5 C):
-  - Head: Beanie, Scarf, Balaklava
+  - Head: Beanie Hat, Scarf, Balaklava
   - Body: Coat, Long Johns
   - Hands: Medium Gloves
 
@@ -131,19 +131,22 @@ It is good to know what was in my wallet in case I lose it.
   - Umbrella. Attached via Carbiner.
 - Main Pocket:
   - Bullet-Proof Clipboard
+  - Clipboard
   - Spare Mouse Male A with Female A to Male C Adapter
   - Spare Charger for Laptop
   - Laptop. As needed.
   - Water-Resistant Folder:
     - Paper
     - Manila Folders
-- Main Pocket:
+- Front Pocket:
   - Business Cards. As needed.
   - Duct Tape
   - Wall & Car Charger
   - Male A to Male Micro/A/Lightning
+  - Reusable Grocery Bag
   - Ziploc Bag:
     - Pen
+    - Sticky Notes
     - USB Stick
     - Male A/C to Male A/C Adaptor
     - Matches
@@ -155,40 +158,55 @@ It is good to know what was in my wallet in case I lose it.
 - Outside Pockets:
   - Water Bottle. Refresh beforehand!
   - Rope
-- Minor Pocket:
+- Minor Pocket: Top:
+  - Pouch with Multi-Tool by Leatherman
+  - Whistle/Thermometer/Compass
+  - Handkerchief
+- Minor Pocket: Front:
+  - Pen
+  - Sticky Notes
   - Playing Cards
   - Cash
   - Survival Mirror
   - Pocket Desk Reference
-  - Pen
-- Main Pocket:
+  - Emergency Blanket
   - Survival Knife. Thick fixed blade.
-  - Collapsible Plate, Bowl, Cup
+  - Flashlight. Rechargeable USB C.
+  - Lighter
+  - Fire Starter
+  - Duct Tape
+  - Solar Phone Charger
+  - Rain Poncho. Can wear over Bag
+- Main Pocket:
+  - In Grocery Bag:
+    - Collapsible Plate, Bowl, Cup
+    - Camp Fork, Knife, Spoon, Chopsticks, Straw
+    - Toilet Paper
+    - Wind-Up Radio/Flashlight
+  - In Grocery Bag:
+    - Clothes:
+      - Socks
+      - Underwear
+      - Shoe Socks
+      - Pants that Zip-Off to Shorts
+      - Long Sleeve T-Shirt
+      - Windbreaker with Hood
+      - Neck Gator
+      - Forearm Sleeves
+      - Beanie Hat
   - Collapsible Shovel/Pickaxe
   - Camp Axe/Hammer
-  - Camp Fork, Knife, Spoon, Chopsticks, Straw
-  - Rain Poncho. Can wear over Bag
-  - Wind-Up Radio/Flashlight
+  - Water Pouch
   - Tarp
   - Towel
-  - Embergency Blanket
   - First Aid Kit
-  - Power Strip with Plugs for Micro USB A, USB C
-  - Solar Phone Charger
   - Glock G19 and 50 rounds
   - Food. As needed. Preferably in a separate bag.
-  - Clothes:
-    - Socks
-    - Underwear
-    - Shoe Socks
-    - Pants that Zip-Off to Shorts
-    - Long Sleeve T-Shirt
-    - Windbreaker with Hood
+  - Clipboard
   - Water-Resistant Folder:
     - Paper
     - Manila Folders
-    - Clipboard
-    - Maps: Chicago, Illinois, USA
+    - Maps: Chicago, Illinois, USA, World
 
 ## 1.6. Travel Bags
 
@@ -198,6 +216,13 @@ It is good to know what was in my wallet in case I lose it.
   - Toothpaste
   - Nail Clipper
   - Medications
+  - Hooking Carbiner
+  - Flashlight. Rechargeable USB C.
+  - Pen
+  - Post-It Notes
+  - Collapisble Cup
+  - Nail Clippers
+  - Power Strip with Plugs for USB A, USB C
 - Clothes:
   - Socks
   - Underwear
