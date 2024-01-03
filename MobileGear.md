@@ -5,11 +5,11 @@ Notes on my mobile gear for every day and other occassions.
 - [1. Mobile Me](#1-mobile-me)
   - [1.1. Wallet](#11-wallet)
   - [1.2. Usually On Me](#12-usually-on-me)
-  - [1.3. By Temperature](#13-by-temperature)
-  - [1.5. Gym Bag](#15-gym-bag)
+    - [1.2.1. By Temperature](#121-by-temperature)
+  - [1.3. Gym Bag](#13-gym-bag)
   - [1.4. Work Bag](#14-work-bag)
-  - [1.6. Bug Out Bag](#16-bug-out-bag)
-  - [1.7. Travel Bag](#17-travel-bag)
+  - [1.5. Bug Out Bag](#15-bug-out-bag)
+  - [1.6. Travel Bags](#16-travel-bags)
 
 ## 1.1. Wallet
 
@@ -55,9 +55,8 @@ It is good to know what was in my wallet in case I lose it.
     - Pen. Cheap because it is easily lost.
     - Lighter. Cheap because it is easily lost.
     - Folder Knife. Cheap because it is easily lost.
-  - Back Left: Left Cut Resistant Glove
-  - Back Right:
-    - Right Cut Resistant Glove
+  - Back Left: Left Cut-Resistant Glove
+  - Back Right: Right Cut-Resistant Glove
 - Belt:
   - Left: Pouch with Multi-Tool by Leatherman
   - Left Front Loop: Carbiner:
@@ -66,17 +65,18 @@ It is good to know what was in my wallet in case I lose it.
       - Mail Key
       - Garage Key
       - Car Fob
-    - Ring 3:
+    - Ring 2:
       - Work Keys
-    - Left Rear Loop: Handkerchief
-  - Left Rear Loop: Carbiner:
-    - Rechargeable LED Flashlight
-    - Whistle
-    - Ear Plug in a container
+  - Left Rear Loop:
+    - Handkerchief
+    - Carbiner:
+      - Rechargeable LED Flashlight
+      - Whistle
+      - Ear Plug in a container
 - Left Wrist: Watch: Samsung Galaxy
 - Right Wrist: Leather Strap
 
-## 1.3. By Temperature
+### 1.2.1. By Temperature
 
 - 80+ F (25+ C):
   - Head: 360° Brim
@@ -98,79 +98,99 @@ It is good to know what was in my wallet in case I lose it.
   - Body: Coat, Long Johns
   - Hands: Medium Gloves
 
-## 1.5. Gym Bag
+## 1.3. Gym Bag
 
 - Medium Duffle Bag
-- Water Bottle. Refresh beforehand!
-- Combination Lock
-- Nail Clipper
-- Lifting Belt
-- Minimalist Gloves. By Barehand.
-- Head Band
-- Handkerchief
-- Boxing Gloves
-- Shin Guards
-- Hand Wraps
-- Tally Counter. Cheap & waterproof.
-- Flip Flops
-- Swim Googles
-- Fresh Towel. As needed.
-- Swim Shorts. As needed.
+- Minor Pocket
+  - Combination Lock
+  - Minimalist Gloves. By Barehand.
+- Outside Pocket:
+  - Water Bottle. Refresh beforehand!
+- Side Pocket:
+  - Nail Clipper
+  - Handkerchief
+  - Head Band
+  - Tally Counter. Cheap & waterproof.
+  - Swim Googles
+  - Hand Wraps
+- Shoe Pocket:
+  - Shoes
+  - Flip Flops
+- Main Pocket:
+  - Lifting Belt
+  - Boxing Gloves
+  - Shin Guards
+  - Swim Shorts. As needed.
+  - Fresh Towel. As needed.
 
 ## 1.4. Work Bag
 
 - Backpack. Water-Resistant.
-- Work Related:
+- Outside Pockets:
+  - Water Bottle. Attached via Carbiner. Refresh beforehand!
+  - Umbrella. Attached via Carbiner.
+- Main Pocket:
   - Bullet-Proof Clipboard
-  - Wall & Car Charger
-  - Male USBA to Male Micro/USB A/Apple Lightning
-  - Spare Mouse Male USB A with Female USB A to Male USB C Adapter
+  - Spare Mouse Male A with Female A to Male C Adapter
   - Spare Charger for Laptop
   - Laptop. As needed.
+  - Water-Resistant Folder:
+    - Paper
+    - Manila Folders
+- Main Pocket:
   - Business Cards. As needed.
-- Water Bottle. Refresh beforehand!
-- Umbrella
-- Water-Resistant Folder:
-  - Paper
-  - Manila Folder
-- In Plastic Bag:
-  - Pen
-  - USB Stick
-  - Male USB A/C to Male USB A/C Adaptor
   - Duct Tape
-  - Matches
+  - Wall & Car Charger
+  - Male A to Male Micro/A/Lightning
+  - Ziploc Bag:
+    - Pen
+    - USB Stick
+    - Male A/C to Male A/C Adaptor
+    - Matches
+    - Cash
 
-## 1.6. Bug Out Bag
+## 1.5. Bug Out Bag
 
 - Large Backpack. Lockable.
-- Water Bottle. Refresh beforehand!
-- Survival Knife. Thick fixed blade.
-- Survival Mirror
-- Collapsible Plate, Bowl, Cup
-- Camp Fork, Knife, Spoon
-- Camp Axe, Hammer, Shovel
-- Rain Poncho that can be worn over Bag
-- Tarp
-- Rope
-- Towel
-- First Aid Kit
-- Power Strip with Plugs for Micro USB A, USB C
-- Solar Phone Charger
-- Glock G19 and 50 rounds
-- Pocket Desk Reference
-- Playing Cards
-- Cash
-- Clothes:
-  - Socks
-  - Underwear
-  - Shoe Socks
-  - Pants that Zip-Off to Shorts
-  - Long Sleeve T-Shirt
-  - Windbreaker with Hood
-- Food. As needed. Preferably in a separate bag.
-  - Maps: Chicago, Illinois, USA
+- Outside Pockets:
+  - Water Bottle. Refresh beforehand!
+  - Rope
+- Minor Pocket:
+  - Playing Cards
+  - Cash
+  - Survival Mirror
+  - Pocket Desk Reference
+  - Pen
+- Main Pocket:
+  - Survival Knife. Thick fixed blade.
+  - Collapsible Plate, Bowl, Cup
+  - Collapsible Shovel/Pickaxe
+  - Camp Axe/Hammer
+  - Camp Fork, Knife, Spoon, Chopsticks, Straw
+  - Rain Poncho. Can wear over Bag
+  - Wind-Up Radio/Flashlight
+  - Tarp
+  - Towel
+  - Embergency Blanket
+  - First Aid Kit
+  - Power Strip with Plugs for Micro USB A, USB C
+  - Solar Phone Charger
+  - Glock G19 and 50 rounds
+  - Food. As needed. Preferably in a separate bag.
+  - Clothes:
+    - Socks
+    - Underwear
+    - Shoe Socks
+    - Pants that Zip-Off to Shorts
+    - Long Sleeve T-Shirt
+    - Windbreaker with Hood
+  - Water-Resistant Folder:
+    - Paper
+    - Manila Folders
+    - Clipboard
+    - Maps: Chicago, Illinois, USA
 
-## 1.7. Travel Bag
+## 1.6. Travel Bags
 
 - Traval Bag. TSA-Sized.
 - Toiletry Bag:
@@ -192,4 +212,4 @@ It is good to know what was in my wallet in case I lose it.
   - Passport
   - Workout Clothes and Shoes
   - Ears and Charger
-  - Check-In Bag. As needed.
+- Check-In Bag. As needed.
