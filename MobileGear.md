@@ -13,18 +13,17 @@ Notes on my mobile gear for every day and other occassions.
 
 ## 1.1. Wallet
 
-It is good to know what was in my wallet in case I lose it.
+It is good to know what was in my wallet in case I lose it. "!" means not in my wallet
 
 - Credit Cards:
-  - Primary CCs:
-    - American Express (AMEX)
-    - Bread AMEX
-    - Fidelity Visa
-    - ! Bank of America MC
-    - ! Chase Amazon Visa
-    - ! Discover
-    - ! PayPal MC
-    - Target MC
+  - American Express (AMEX)
+  - Bread AMEX
+  - Fidelity Visa
+  - ! Bank of America MC
+  - ! Chase Amazon Visa
+  - ! Discover
+  - ! PayPal MC
+  - Target MC
 - Store Cards:
   - Menards
   - ! MicroCenter
@@ -36,7 +35,7 @@ It is good to know what was in my wallet in case I lose it.
   - ! Wise MC
 - Other Cards:
   - Ventra Public Transporation
-  - ! YMCA Gym
+  - YMCA Gym
   - Aetna Health Insurance
   - ! ExpressScripts Prescription
   - Illinois Driver's License
