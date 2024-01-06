@@ -5,11 +5,11 @@ Notes on my mobile gear for every day and other occassions.
 - [1. Mobile Me](#1-mobile-me)
   - [1.1. Wallet](#11-wallet)
   - [1.2. Usually On Me](#12-usually-on-me)
-    - [1.2.1. By Temperature](#121-by-temperature)
-  - [1.3. Gym Bag](#13-gym-bag)
-  - [1.4. Work Bag](#14-work-bag)
-  - [1.5. Bug Out Bag](#15-bug-out-bag)
-  - [1.6. Travel Bags](#16-travel-bags)
+  - [1.3. Outerwear By Temperature](#13-outerwear-by-temperature)
+  - [1.4. Gym Bag](#14-gym-bag)
+  - [1.5. Work Bag](#15-work-bag)
+  - [1.6. Bug Out Bag](#16-bug-out-bag)
+  - [1.7. Travel Bags](#17-travel-bags)
 
 ## 1.1. Wallet
 
@@ -75,7 +75,7 @@ It is good to know what was in my wallet in case I lose it. "!" means not in my 
 - Left Wrist: Watch: Samsung Galaxy
 - Right Wrist: Leather Strap
 
-### 1.2.1. By Temperature
+## 1.3. Outerwear By Temperature
 
 - 80+ F (25+ C):
   - Head: 360° Brim
@@ -97,7 +97,7 @@ It is good to know what was in my wallet in case I lose it. "!" means not in my 
   - Body: Coat, Long Johns
   - Hands: Medium Gloves
 
-## 1.3. Gym Bag
+## 1.4. Gym Bag
 
 - Medium Duffle Bag
 - Minor Pocket
@@ -122,7 +122,7 @@ It is good to know what was in my wallet in case I lose it. "!" means not in my 
   - Swim Shorts. As needed.
   - Fresh Towel. As needed.
 
-## 1.4. Work Bag
+## 1.5. Work Bag
 
 - Backpack. Water-Resistant.
 - Outside Pockets:
@@ -151,7 +151,7 @@ It is good to know what was in my wallet in case I lose it. "!" means not in my 
     - Matches
     - Cash
 
-## 1.5. Bug Out Bag
+## 1.6. Bug Out Bag
 
 - Large Backpack. Lockable.
 - Outside Pockets:
@@ -207,7 +207,7 @@ It is good to know what was in my wallet in case I lose it. "!" means not in my 
     - Manila Folders
     - Maps: Chicago, Illinois, USA, World
 
-## 1.6. Travel Bags
+## 1.7. Travel Bags
 
 - Traval Bag. TSA-Sized.
 - Toiletry Bag:
