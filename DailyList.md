@@ -21,7 +21,8 @@ I have other lists. I have lists, lists do not have me.
 - [ ] 🏋️🤸🏃🚴🚣🏊⚾🏀✊🤼🤺💧
 - [ ] 🚿🪒💨💧
 - [ ] 🤗🐸💧
-- [ ] 🕛🤗🍴💧💊🪥💧
+- [ ] 🕛🤗🍴💧
+- [ ] 💊🪥💧
 - [ ] 🕒🤗🚫☕🍬
 - [ ] 🕕🤗🍴
 - [ ] 🕘🤗🚫🕹️
@@ -78,8 +79,10 @@ I have other lists. I have lists, lists do not have me.
 - [ ] 🤗🐸💧
   - [ ] Social Activities: Hugs, Love, Nurture, Share, etc.
   - [ ] Responsibilities: Work, House Work, Tasks, Projects, etc. "Eat a live frog first thing in the morning and nothing worse will happen to you the rest of the day." - Mark Twain
-- [ ] 🕛🤗🍴💧💊🪥💧
+- [ ] 🕛🤗🍴💧
   - [ ] Lunch ~12:00. I have comfortable Meals since I usually skip Breakfast.
+- [ ] 💊🪥💧
+  - [ ] These are typical post-lunch item but I list them separately because they often get de-coupled.
   - [ ] Take my pills:
     - [ ] `SMTWTFS` Vitamin C
     - [ ] `S-T-T-S` Multivitamin
