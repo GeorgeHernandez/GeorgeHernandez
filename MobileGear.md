@@ -47,12 +47,11 @@ It is good to know what was in my wallet in case I lose it. "!" means not in my 
 - Pants or Shorts Pockets:
   - Front Right:
     - Phone: Samsung Galaxy Fold
-  - Front Right Mini:
-    - Soft Measuring Tape
   - Front Left:
     - Wallet
     - Pen. Cheap because it is easily lost.
     - Lighter. Cheap because it is easily lost.
+    - Soft Measuring Tape
     - Folder Knife. Cheap because it is easily lost.
   - Back Left: Left Cut-Resistant Glove
   - Back Right: Right Cut-Resistant Glove
@@ -69,7 +68,7 @@ It is good to know what was in my wallet in case I lose it. "!" means not in my 
   - Left Rear Loop:
     - Handkerchief
     - Carbiner:
-      - Rechargeable LED Flashlight
+      - Flashlight. Rechargeable USB C.
       - Whistle
       - Ear Plug in a container
 - Left Wrist: Watch: Samsung Galaxy
@@ -170,7 +169,7 @@ It is good to know what was in my wallet in case I lose it. "!" means not in my 
   - Pocket Desk Reference
   - Emergency Blanket
   - Survival Knife. Thick fixed blade.
-  - Flashlight. Rechargeable USB C.
+  - Flashlight. Rechargeable USB Micro.
   - Lighter
   - Fire Starter
   - Duct Tape
