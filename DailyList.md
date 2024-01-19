@@ -100,8 +100,6 @@ I have other lists. I have lists, lists do not have me.
   - [ ] Dinner ~18:00.
   - [ ] Hydrate less in the evening to reduce Urination during my Sleep Cycle
   - [ ] Avoid evening Coffee and Sweets because they interfere with my Sleep
-- [ ] 🕘🤗🚫🕹️
-  - [ ] Avoid playing involving Games in the evening because the probability of continuing to playing past bed time is high.
 - [ ] 🕙🪥🤗🫀😴
   - [ ] Before Sleeping:
     - [ ] Do a last minute Heart Rate Check: This ensures that I'm wearing my Watch and that it is properly seated
