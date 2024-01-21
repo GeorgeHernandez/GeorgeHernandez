@@ -18,7 +18,7 @@ It is good to know what was in my wallet in case I lose it. "!" means not in my 
 - Credit Cards:
   - American Express (AMEX)
   - Bread AMEX
-  - Fidelity Visa
+  - ! Fidelity Visa
   - ! Bank of America MC
   - ! Chase Amazon Visa
   - ! Discover
