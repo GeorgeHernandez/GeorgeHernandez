@@ -141,7 +141,7 @@ It is good to know what was in my wallet in case I lose it. "!" means not in my 
   - Duct Tape
   - Wall & Car Charger
   - Male A to Male Micro/A/Lightning
-  - Reusable Grocery Bag
+  - Empty Reusable Bag
   - Ziploc Bag:
     - Pen
     - Sticky Notes
@@ -208,7 +208,7 @@ It is good to know what was in my wallet in case I lose it. "!" means not in my 
 
 ## 1.7. Travel Bags
 
-- Traval Bag. TSA-Sized.
+- Travel Bag. TSA-Sized.
 - Toiletry Bag:
   - Tootbrush & Cover
   - Toothpaste
@@ -227,6 +227,7 @@ It is good to know what was in my wallet in case I lose it. "!" means not in my 
   - Windbreaker with Hood
   - Sleep Wear
 - Wireless Phone and Watch Charger
+- Empty Reusable Bag
 - For Longer Trips:
   - Slip on Shoes for Airport and Room
   - Eye Shield
