@@ -17,11 +17,11 @@ It is good to know what was in my wallet in case I lose it. "!" means not in my 
 
 - Credit Cards:
   - American Express (AMEX)
-  - Bread AMEX
-  - ! Fidelity Visa
   - ! Bank of America MC
+  - ! Bread AMEX
   - ! Chase Amazon Visa
-  - ! Discover
+  - Discover
+  - ! Fidelity Visa
   - ! PayPal MC
   - Target MC
 - Store Cards:
@@ -51,10 +51,11 @@ It is good to know what was in my wallet in case I lose it. "!" means not in my 
     - Wallet
     - Pen. Cheap because it is easily lost.
     - Lighter. Cheap because it is easily lost.
-    - Soft Measuring Tape
     - Folder Knife. Cheap because it is easily lost.
   - Back Left: Left Cut-Resistant Glove
-  - Back Right: Right Cut-Resistant Glove
+  - Back Right:
+    - Right Cut-Resistant Glove
+    - Soft Measuring Tape
 - Belt:
   - Left: Pouch with Multi-Tool by Leatherman
   - Left Front Loop: Carbiner:
