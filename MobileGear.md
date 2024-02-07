@@ -109,6 +109,7 @@ It is good to know what was in my wallet in case I lose it. "!" means not in my 
   - Nail Clipper
   - Handkerchief
   - Head Band
+  - Rolling Beanie
   - Tally Counter. Cheap & waterproof.
   - Swim Googles
   - Hand Wraps
