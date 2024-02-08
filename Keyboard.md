@@ -9,7 +9,7 @@ My keyboard requirements and preferences.
 - Wired. No batteries to replace or recharge. A wireless keyboard is OK if it also has an option to be wired.
 - `F1`-`F12` keys grouped in sets of 4. Ideally each set would be color differentiated.
 - Double Shot Keys. 2 plastics are used: 1 for the key and 1 for the see-through character. This way I never have to deal with the paint rubbing off, which has happened several times over the years. If the paint is durable then this isn't necessary.
-- Bottom Row. `ctrl`, `win`, `alt`, `space`, `altgr`, `win`, `menu`, `ctrl`. Some keyboards will replace either the right `win` or right `menu` key with a `fn` key. If a keyboard has a `fn` key on the bottom row, then I prefer it to replace the right `menu` key since I don't use the latter often. FYI: PowerToys can't remap a `fn` key, but it can remap the `menu` key; I almost never use the `menu` key and it can be done with `shift+f10`.
+- Bottom Row. `ctrl`, `win`, `alt`, `space`, `altgr`, `win`, `menu`, `ctrl`. Some keyboards will replace either the right `win` or right `menu` key with a `fn` key. If a keyboard has a `fn` key on the bottom row, then I prefer it to replace the right `menu` key since I don't use the `menu` key often and there is a `win` key on the left. FYI: The `menu` key can also be done with `shift+f10`. PowerToys can't remap a `fn` key, but it can remap the `menu` key.
 - Bonus Controls. Should be outside of the usual layout. E.g. Media Keys, Volume Wheel, `fn`.
 
 ## Preferences
