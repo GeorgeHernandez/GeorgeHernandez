@@ -15,15 +15,14 @@ I have other lists. I have lists, lists do not have me.
 
 ## 1.1. My Daily List without Notes
 
-- [ ] 🕕👓🔆😴⚖️👃💧
+- [ ] 🕕🔆😴⚖️👃💊💧
 - [ ] 📆⏰🌦️🪙📰💧
 - [ ] 🦉🤟💧
 - [ ] 🖖🚶🏽♾️🤹🪢🎵🌱💧
 - [ ] 🏋️🤸🏃🚴🚣🏊⚾🏀✊🤼🤺💧
 - [ ] 🚿🪒💨💧
-- [ ] 🤗🐸💧
-- [ ] 🕛🤗🍴💧
-- [ ] 💊🪥💧
+- [ ] 🤗✔️🐸💧
+- [ ] 🕛🤗🍴💧🪥💧
 - [ ] 🕒🤗🚫☕🍬
 - [ ] 🕕🤗🍴
 - [ ] 🕘🤗🚫🕹️
@@ -31,11 +30,21 @@ I have other lists. I have lists, lists do not have me.
 
 ## 1.2. My Daily List with Notes
 
-- [ ] 🕕👓🔆😴⚖️👃💧
+- [ ] 🕕👓🔆😴⚖️👃💊💧
   - [ ] Wake Up ~06:00. [Chicago Sunrises](https://www.timeanddate.com/sun/usa/chicago) are 05:14/07:18 with goofy DST, but [Manila Sunrises](https://www.timeanddate.com/sun/philippines/manila) are 05:25/06:25.
   - [ ] Put on the Glasses and get more Light to help me Wake Up
   - [ ] Log my Sleep and Weight
   - [ ] Spritz my Nose against Hay Fever
+  - [ ] Take my pills:
+    - [ ] `SMTWTFS` Vitamin C
+    - [ ] `S-T-T-S` Multivitamin
+    - [ ] `-M-W-F-` Vitamin D
+    - [ ] `-----F-` Fish Oil
+    - [ ] `----T--` Turmeric Curcumin
+    - [ ] `---W---` Ca Mg Zn
+    - [ ] `-M-----` Glucosamine Hydrochloride MSM + Chondroitin
+    - [ ] Allopurinol and Febuxostat were not helpful for my gout
+    - [ ] Take Ibuprofen as needed
   - [ ] Hydrate
 - [ ] 📆⏰🌦️🪙📰💧
   - [ ] Check my Calendar
@@ -77,30 +86,17 @@ I have other lists. I have lists, lists do not have me.
 - [ ] 🚿🪒💨💧
   - [ ] Shower, Shave, Nails, etc.
   - [ ] Run the Fan after the Shower
-- [ ] 🤗🐸💧
+- [ ] 🤗✔️🐸💧
   - [ ] Social Activities: Hugs, Love, Nurture, Share, etc.
-  - [ ] Responsibilities: Work, House Work, Tasks, Projects, etc. "Eat a live frog first thing in the morning and nothing worse will happen to you the rest of the day." - Mark Twain
-- [ ] 🕛🤗🍴💧
+  - [ ] Responsibilities: Work, House Work, Tasks, Projects, etc. Small and Big items. "Eat a live frog first thing in the morning and nothing worse will happen to you the rest of the day." - Mark Twain
+- [ ] 🕛🤗🍴💧🪥💧
   - [ ] Lunch ~12:00. I have comfortable Meals since I usually skip Breakfast.
-- [ ] 💊🪥💧
-  - [ ] These are typical post-lunch item but I list them separately because they often get de-coupled.
-  - [ ] Take my pills:
-    - [ ] `SMTWTFS` Vitamin C
-    - [ ] `S-T-T-S` Multivitamin
-    - [ ] `-M-W-F-` Vitamin D
-    - [ ] `-----F-` Fish Oil
-    - [ ] `----T--` Curcumin
-    - [ ] `---W---` Ca Mg Zn
-    - [ ] `-M-----` Glucosamine Hydrochloride MSM + Chondroitin
-    - [ ] Allopurinol and Febuxostat were not helpful for my gout
-    - [ ] Take Ibuprofen as needed
-  - [ ] Brush my teeth
+  - [ ] Brush my teeth. I try couple brusing with my first meal but it may not happen. E.g. Lunch on the road.
 - [ ] 🕒🤗🚫☕🍬
-  - [ ] After 15:00 Avoid Caffeine and Sweet because they can interefere with my Sleep
+  - [ ] After 15:00. Avoid Caffeine and Sweets because they can interefere with my Sleep
 - [ ] 🕕🤗🍴
   - [ ] Dinner ~18:00.
-  - [ ] Hydrate less in the evening to reduce Urination during my Sleep Cycle
-  - [ ] Avoid evening Coffee and Sweets because they interfere with my Sleep
+  - [ ] Hydrate less in the evening to reduce the need to Urinate during my Sleep Cycle
 - [ ] 🕙🪥🤗🫀😴
   - [ ] Before Sleeping:
     - [ ] Do a last minute Heart Rate Check: This ensures that I'm wearing my Watch and that it is properly seated
