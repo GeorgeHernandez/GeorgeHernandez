@@ -100,13 +100,12 @@ It is good to know what was in my wallet in case I lose it. "!" means not in my 
 
 ## 1.4. Gym Bag
 
-- Medium Duffle Bag
-- Minor Pocket
+- Duffel Bag / Backpack. 60 L with handles on 2 ends & 2 sides by Mier.
+- Front Outside Pocket
   - Combination Lock
   - Minimalist Gloves. By Barehand.
-- Outside Pocket:
-  - Water Bottle. Refresh beforehand!
-- Side Pocket:
+  - Eyewear Retainer. By Croakies.
+- Mesh Inside Pocket:
   - Nail Clipper
   - Handkerchief
   - Head Band
@@ -120,6 +119,10 @@ It is good to know what was in my wallet in case I lose it. "!" means not in my 
   - Lifting Belt
   - Boxing Gloves
   - Shin Guards
+  - Cloth Black Belt
+  - Leather Belt
+  - Shorts. Refresh beforehand!
+  - Water Bottle. Refresh beforehand!
 
 ## 1.5. Swim Bag
 
