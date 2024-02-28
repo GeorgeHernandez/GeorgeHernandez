@@ -10,7 +10,7 @@ I have other lists. I have lists, lists do not have me.
   - [1.1. My Daily List without Notes](#11-my-daily-list-without-notes)
   - [1.2. My Daily List with Notes](#12-my-daily-list-with-notes)
   - [1.3. My Weekly List with Notes](#13-my-weekly-list-with-notes)
-  - [1.3. My Monthl List with Notes](#13-my-monthl-list-with-notes)
+  - [1.3. My Monthly List with Notes](#13-my-monthly-list-with-notes)
   - [1.4. Gout Countermeasures](#14-gout-countermeasures)
 
 ## 1.1. My Daily List without Notes
@@ -110,11 +110,12 @@ Usually on Sundays.
 - [ ] 💧🌱 Water my Plant
 - [ ] 🚪🔔 Recharge the Doorbell. (Yes I need to get a wired doorbell)
 - [ ] ♻️🪣 Recycle and Compost
+- [ ] 🗑️ Wastebaskets
 - [ ] 👕 Refresh Shirt
 - [ ] 🗃️ Parse Physical Files, Letters, etc.
 - [ ] 👨‍🍳 Cook
 
-## 1.3. My Monthl List with Notes
+## 1.3. My Monthly List with Notes
 
 Usually on the 1st of the Month.
 
@@ -122,7 +123,7 @@ Usually on the 1st of the Month.
 - [ ] 👣 Check Feet
 - [ ] 👖 Refresh Pants
 - [ ] 🛏️ Refresh Bedding, Towels, etc.
-- [ ] 👩‍🎓💲 Manually pay daughter's student loans until they get their auto-pay fixed
+- [ ] 👩‍🎓💲 Manually pay daughter's student loans (until they get their auto-pay fixed)
 
 ## 1.4. Gout Countermeasures
 
