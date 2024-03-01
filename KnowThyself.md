@@ -71,11 +71,10 @@ I was raised Catholic but I'm an atheist
 
 ## 1.8. My Acronyms
 
-- ExMAS: Exercise. Martial Arts. Survival.
-- CHOWS: Coin (finances). Home (family & housework). Others (society & service). Work (professional & project). Shop (be wary of materialism)
-- STEM: Science. Technology. Engineering. Math.
-- GRAMP: Grow (plants). Read & wRite. Art. Make. Play (music, games, etc.)
-- CLEWS: Culture. Language. Explore. Worldview. Society. (I admit that this is my clumsiest acroynm.)
+- ✊ HExMAS: Health. Exercise. Martial Arts. Survival.
+- 🥼 STEM: Science. Technology. Engineering. Math. Includes Comuter Science and Engineering (CSE).
+- 🌱 GRAMPS: Grow [plants]. Read & write. Art. Make. Play [music, games, etc.]. Silly.
+- ⚒️ MW. Meta Work. Play & Work. Value & Coin. Society & Self. Personal & Professional. Includes CSE, Productivity, Relations, Culture, Worldview, Politics, Ethics, Projects, and so on.
 
 ## 1.9. As a Person
 
