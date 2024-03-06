@@ -75,7 +75,7 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
       - Not Important and not Urgent. Tasks to DELEGATE. (This irks me. It sounds like stuff for lowly minions.)
       - Not Important and NOT Urgent. Tasks to DELETE.
     - Another way to say it is that the Priority of an item is roughly the average of its Impact (effect) and Urgency (time).
-- Create > Curate > Collect > Consume
+- Create > Curate > Collect > Comment > Consume
 - Consumer < Producer < Producers & Consumers collaborating
 - [Five Ws](https://en.wikipedia.org/wiki/Five_Ws). Who, What, Why When, Where + How. Personally the What & Why are more difficult.
 - Essential > Incidental
