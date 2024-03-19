@@ -23,7 +23,7 @@ It is good to know what was in my wallet in case I lose it. "!" means not in my 
   - ! Chase Amazon Visa
   - Discover
   - ! Fidelity Visa
-  - ! PayPal MC
+  - PayPal MC
   - Target MC
 - Store Cards:
   - Menards
