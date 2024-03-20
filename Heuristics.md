@@ -370,7 +370,7 @@ There are many heuristics on [Virtue](https://en.wikipedia.org/wiki/Virtue) and 
     - Cowardice: The vice of deficient courage.
 - [Theological virtues](https://en.wikipedia.org/wiki/Theological_virtues). 3: Faith, Hope, Charity/Love.
 - [_Brahmavihara_](https://en.wikipedia.org/wiki/Brahmavihara). 4: Benevolence, Compassion, Joy, Equanimity.
-- [Classical elements](https://en.wikipedia.org/wiki/Classical_element). 4-5 shared by several ancient cultures: Earth, Water, Air, Fire, & Aether/Void. The Chinese _Wu Xing_ system also includes Wood and Metal.
+- [Classical elements](https://en.wikipedia.org/wiki/Classical_element). 4-5 shared by several ancient cultures: Earth, Water, Air, Fire, & Aether/Void. The Chinese [_Wu Xing_](<https://en.wikipedia.org/wiki/Wuxing_(Chinese_philosophy)>) system of 5 phases: Earth, Wood, Metal, Water, Fire; i.e. skips Air.
 - [Seven deadly sins](https://en.wikipedia.org/wiki/Seven_deadly_sins). 7-8 sins sort of derived from the Transcendental & Cardinal Virtues.
   - _Gula_ (gluttony)
   - _Luxuria/Fornicatio_ (lust, fornication)
