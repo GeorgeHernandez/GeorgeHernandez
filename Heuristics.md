@@ -361,9 +361,9 @@ There are many heuristics on [Virtue](https://en.wikipedia.org/wiki/Virtue) and 
 - [Transcendentals](https://en.wikipedia.org/wiki/Transcendentals). 3: Truth, Beauty, Goodness.
 - [Cardinal Virtues](https://en.wikipedia.org/wiki/Cardinal_virtues). 4 virtues. From Classical Antiquity starting with Plato (Republic Book IV, 426-435), then on to Cicero, Saint Ambrose, Augustine of Hippo, and Thomas Aquinas.
   - Prudence (φρόνησις, phronēsis; prudentia): aka wisdom. The ability to judge between actions with regard to appropriate actions at a given time.
-  - Courage (ἀνδρεία, andreia; fortitudo): aka bravery, fortitude, forbearance, strength, endurance. The ability to confront fear, uncertainty, and intimidation.
+  - Courage (ἀνδρεία, andreia; fortitudo): aka bravery, fortitude, forbearance, strength, endurance, boldness. The ability to confront fear, uncertainty, and intimidation.
   - Temperance (σωφροσύνη, sōphrosynē; temperantia): aka restraint. The practice of self-control, abstention, discretion, and moderation tempering the appetition; especially sexually, hence the meaning of chastity.
-  - Justice (δικαιοσύνη, dikaiosynē; iustitia): aka fairness. The most extensive and most important virtue; the Greek word also having the meaning righteousness. -
+  - Justice (δικαιοσύνη, dikaiosynē; iustitia): aka fairness, balance, harmony, equity. The most extensive and most important virtue; the Greek word also having the meaning righteousness.
   - Aristotle discussed a large variety of virtues in his Nicomachean Ethics and how each had a golden mean as well as a pair of vices if in excess or if deficient. E.g.
     - Courage: The virtue of facing fear and risk.
     - Rashness: The vice of excess courage.
