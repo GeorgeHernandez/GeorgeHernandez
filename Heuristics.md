@@ -229,6 +229,7 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
 - As simple as possible, but no simpler.
   - [Perfect is the enemy of good](https://en.wikipedia.org/wiki/Perfect_is_the_enemy_of_good)
   - As simple as possible (as per natural law, laws of man, compliance, ethics, not being a jackass, etc), but no simpler.
+  - Sometime simple (e.g. rest when tired, eat when hungry, drink when thirsty, etc) is possible but no prudent.
 - Don't reinvent the wheel.
 - [Programming principle](https://en.wikipedia.org/wiki/Category:Programming_principles). Many of these apply to regular life. Here are some favorites:
   - [Keep it simple, stupid (KISS)](https://en.wikipedia.org/wiki/KISS_principle)
