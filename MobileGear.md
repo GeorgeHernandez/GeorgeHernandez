@@ -158,6 +158,7 @@ It is good to know what was in my wallet in case I lose it. "!" means not in my 
   - Duct Tape
   - Wall & Car Charger
   - Male A to Male Micro/A/Lightning
+  - Solar Phone Charger
   - Empty Reusable Bag
   - Ziploc Bag:
     - Pen
@@ -190,7 +191,6 @@ It is good to know what was in my wallet in case I lose it. "!" means not in my 
   - Lighter
   - Fire Starter
   - Duct Tape
-  - Solar Phone Charger
   - Rain Poncho. Can wear over Bag
 - Main Pocket:
   - In Grocery Bag:
