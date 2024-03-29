@@ -40,8 +40,8 @@ I lost all hearing in my left ear because of an infection I had as a baby.
 I've done a lot of martial arts.
 
 - My dad had us do boxing since I was 7. I was a seasoned 3rd degree black belt in Shotokan Karate. I did nearly two decades with the Chicago Swordplay Guild doing rapier, longsword, spear, etc. I have and do firearms & archery. I've studied and rolled in various martials ranging from Filipino to Judo to Aikido to MMA. I've broken bones and teeth: mine & others.
-- I pondered upon [_bushido_](https://en.wikipedia.org/wiki/Bushido) and the ["Hagakure"](https://en.wikipedia.org/wiki/Hagakure) for a long time. Thinking about death & violence. Not just strategy & tactics, but other issues such as legal & philosophical. I was also a Veterinary Assistant and used [method acting](https://en.wikipedia.org/wiki/Method_acting) with each euthanasia as if I were killing a human being. I have fished, hunted, and slaughtered. In hindsight I would not recommend such a rabbit hole to anyone.
-- However starting in my lower 50s my blood stopped boiling and I'm just not interested in fighting as much as I used to. Even before my 50s I've been realizing that even though martial arts is about violence & death, we are human beings and can't help also making it about so many other things: context, exercise, social growth, a wonderful game, self-expression, strategy, teaching & sharing.
+- I pondered upon [_bushido_](https://en.wikipedia.org/wiki/Bushido) and the ["Hagakure"](https://en.wikipedia.org/wiki/Hagakure) for a long time. Thinking about death & violence. Not just strategy & tactics, but other issues such as legal & philosophical. I was also a Veterinary Assistant and used [method acting](https://en.wikipedia.org/wiki/Method_acting) with each euthanasia as if I were killing a human being; In hindsight I would not recommend such a rabbit hole to anyone. I have fished, hunted, and slaughtered.
+- However starting in my lower 50s my blood stopped boiling. Even before my 50s I've been realizing that even though martial arts is about violence & death, we are human beings and can't help also making it about so many other things: context, exercise, social growth, a wonderful game, self-expression, strategy, teaching & sharing.
 
 ## 1.4. Climate
 
@@ -100,7 +100,7 @@ I was raised Catholic but I'm an atheist
     - Gregarious, outgoing, sociable, projecting one's personality outward. The opposite of extroversion is introversion. Extroversion has shown to share certain genetic markers with substance abuse. Extroversion is associated with various regions of the prefrontal cortex and the amygdala.
     - High: Respond positively to the stimuli of more people. Outward focus.
     - Low: Respond negatively to the stimuli of more people. Inward focus.
-    - ME: 20%. **I identify as a fox**: 🦊 A hidden forest creature. My introversion is not as much a hangup as it used to be. I find that I can deal with a lot of people if I have to. My basic advice to introverts: It is fair to be comfortably invisible, but when you have something to say: Say it loud and clear.
+    - ME: 20%. **I identify as a fox**: 🦊 An independent hidden forest creature. My introversion is not as much a hangup as it used to be. I find that I can deal with a lot of people if I have to. My basic advice to introverts: It is fair to be comfortably invisible, but when you have something to say: Say it loud and clear.
   - Agreeableness
     - Refers to a compliant, trusting, empathic, sympathetic, friendly and cooperative nature.
     - Low: Competitive.
