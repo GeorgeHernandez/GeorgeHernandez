@@ -20,7 +20,7 @@ It is good to know what was in my wallet in case I lose it. "!" means not in my 
   - American Express (AMEX)
   - ! Bank of America MC
   - ! Bread AMEX
-  - ! Chase Amazon Visa
+  - Chase Amazon Visa
   - Discover
   - ! Fidelity Visa
   - PayPal MC
