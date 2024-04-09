@@ -40,9 +40,10 @@ I have other lists. I have lists, lists do not have me.
     - [ ] `S-T-T-S` Multivitamin
     - [ ] `-M-W-F-` Vitamin D
     - [ ] `-----F-` Fish Oil
-    - [ ] `----T--` Turmeric Curcumin
+    - [ ] `----T--` Turmeric Curcumin Glucosamine Hydrochloride MSM + Chondroitin
     - [ ] `---W---` Ca Mg Zn
-    - [ ] `-M-----` Glucosamine Hydrochloride MSM + Chondroitin
+    - [ ] `--T----` Cherry
+    - [ ] `-M-----` Evening Primrose
     - [ ] Allopurinol and Febuxostat were not helpful for my gout
     - [ ] Take Ibuprofen as needed
   - [ ] Hydrate
