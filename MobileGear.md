@@ -140,33 +140,41 @@ It is good to know what was in my wallet in case I lose it. "!" means not in my 
 
 ## 1.6. Work Bag
 
-- Backpack. Water-Resistant.
-- Outside Pockets:
-  - Water Bottle. Attached via Carbiner. Refresh beforehand!
-  - Umbrella. Attached via Carbiner.
+- Slim. Use as Backpack, Shoulder Sling, Side Handle, Top Handle. By Mark Ryden.
 - Main Pocket:
-  - Bullet-Proof Clipboard
-  - Clipboard
-  - Spare Mouse Male A with Female A to Male C Adapter
-  - Spare Charger for Laptop
-  - Laptop. As needed.
-  - Water-Resistant Folder:
-    - Paper
-    - Manila Folders
-- Front Pocket:
-  - Business Cards. As needed.
+  - Clipboard with Pen
+  - Folder with Scrap Paper
+  - Water-Resistant Folder with Blank Paper & Manila Folders
+  - Water Bottle. Refresh beforehand!
+  - Other Random Stuff as needed
+- Main Pocket Laptop Sleeves:
+  - Laptop Charger & Cord
+  - Laptop as needed
+- Main Pocket Inner:
+  - Solar Power Bank with Cord leading to External Female A or C
+- Front Pocket Large:
+  - Pen
+  - Business Card Holder with Cards
+  - Mouse corded with Male A or C
   - Duct Tape
-  - Wall & Car Charger
-  - Male A to Male Micro/A/Lightning
-  - Solar Phone Charger
-  - Empty Reusable Bag
+  - Eyeglass Cloth
   - Ziploc Bag:
     - Pen
     - Sticky Notes
-    - USB Stick
-    - Male A/C to Male A/C Adaptor
+    - USB Stick 64 GB
+    - Short Cord: Male A or C to Male A or C
     - Matches
     - Cash
+- Front Pocket Medium:
+  - Empty Reusable Bag
+  - Quick access Medium Items as needed
+- Front Pocket Small:
+  - Wall & Car Charger with 2 Male A ports and cord with Male A to Male Micro/A/Lightning
+  - Quick access Small Items as needed
+- Side Pocket:
+  - Umbrella attached via Carbiner
+- Top Handle:
+  - Red Paracord Bracelet for distinctive ID
 
 ## 1.7. Bug Out Bag
 
