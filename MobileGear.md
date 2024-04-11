@@ -140,21 +140,22 @@ It is good to know what was in my wallet in case I lose it. "!" means not in my 
 
 ## 1.6. Work Bag
 
-- Slim. Use as Backpack, Shoulder Sling, Side Handle, Top Handle. By Mark Ryden.
+- Slim. Carry as Backpack, Shoulder Sling, Side Handle, Top Handle, Luggage Strap. By Mark Ryden.
 - Main Pocket:
   - Clipboard with Pen
   - Folder with Scrap Paper
   - Water-Resistant Folder with Blank Paper & Manila Folders
-  - Water Bottle. Refresh beforehand!
+  - Umbrella
   - Other Random Stuff as needed
 - Main Pocket Laptop Sleeves:
   - Laptop Charger & Cord
-  - Laptop as needed
+  - Laptop
 - Main Pocket Inner:
   - Solar Power Bank with Cord leading to External Female A or C
 - Front Pocket Large:
   - Pen
   - Business Card Holder with Cards
+  - Pill Box with Ibuprofen
   - Mouse corded with Male A or C
   - Duct Tape
   - Eyeglass Cloth
@@ -172,9 +173,11 @@ It is good to know what was in my wallet in case I lose it. "!" means not in my 
   - Wall & Car Charger with 2 Male A ports and cord with Male A to Male Micro/A/Lightning
   - Quick access Small Items as needed
 - Side Pocket:
-  - Umbrella attached via Carbiner
+  - Water Bottle attached via Carbiner
 - Top Handle:
   - Red Paracord Bracelet for distinctive ID
+- Top Corner:
+  - Earplugs in Jug attached via Carbiner
 
 ## 1.7. Bug Out Bag
 
