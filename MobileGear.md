@@ -173,9 +173,7 @@ It is good to know what was in my wallet in case I lose it. "!" means not in my 
   - Wall & Car Charger with 2 Male A ports and cord with Male A to Male Micro/A/Lightning
   - Quick access Small Items as needed
 - Side Pocket:
-  - Water Bottle attached via Carbiner
-- Top Handle:
-  - Red Paracord Bracelet for distinctive ID
+  - Water Bottle attached via Red Paracord Bracelet for distinctive ID
 - Top Corner:
   - Earplugs in Jug attached via Carbiner
 
