@@ -48,6 +48,9 @@ It is good to know what was in my wallet in case I lose it. "!" means not in my 
 - Pants or Shorts Pockets:
   - Front Right:
     - Phone: Samsung Galaxy Fold
+  - Front Right: Mini:
+    - Whistle
+    - Ear Plug in a container
   - Front Left:
     - Wallet
     - Pen. Cheap because it is easily lost.
@@ -64,15 +67,10 @@ It is good to know what was in my wallet in case I lose it. "!" means not in my 
       - House Key
       - Mail Key
       - Garage Key
-      - Car Fob
-    - Ring 2:
-      - Work Keys
-  - Left Rear Loop:
-    - Handkerchief
-    - Carbiner:
-      - Flashlight. Rechargeable USB C.
-      - Whistle
-      - Ear Plug in a container
+    - Ring 2: Work Keys
+    - Ring 3: Car Fob
+    - Ring 4: Flashlight. Rechargeable USB C.
+  - Left Rear Loop: Handkerchief
 - Left Wrist: Watch: Samsung Galaxy
 - Right Wrist: Leather Strap
 
@@ -174,8 +172,6 @@ It is good to know what was in my wallet in case I lose it. "!" means not in my 
   - Quick access Small Items as needed
 - Side Pocket:
   - Water Bottle attached via Red Paracord Bracelet for distinctive ID
-- Top Corner:
-  - Earplugs in Jug attached via Carbiner
 
 ## 1.7. Bug Out Bag
 
