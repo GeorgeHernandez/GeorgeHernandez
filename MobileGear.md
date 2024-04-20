@@ -234,7 +234,6 @@ It is good to know what was in my wallet in case I lose it. "!" means not in my 
 - Toiletry Bag:
   - Tootbrush & Cover
   - Toothpaste
-  - Nail Clipper
   - Medications
   - Hooking Carbiner
   - Flashlight. Rechargeable USB C.
@@ -242,7 +241,7 @@ It is good to know what was in my wallet in case I lose it. "!" means not in my 
   - Post-It Notes
   - Collapisble Cup
   - Nail Clippers
-  - Power Strip with Plugs for USB A, USB C
+  - Power Strip with Ports for USB A, USB C
 - Clothes:
   - Socks
   - Underwear
