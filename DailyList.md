@@ -91,7 +91,7 @@ I implement my Daily List in Google Keep.
 - [ ] 🤗📰✔️📧🐸💧
   - [ ] Social Activities: Hugs, Love, Nurture, Share, Listen, Vibe, Check, Sync, etc.
   - [ ] Check the News
-  - [ ] Check my Lists
+  - [ ] Check my Lists. E.g. Google Keep, Trello, ghseet[GH, Hdz], gdoc[EE, RC, UIC].
   - [ ] Email and other messages
   - [ ] Responsibilities: Work, House Work, Tasks, Projects, etc. Small and Big items. "Eat a live frog first thing in the morning and nothing worse will happen to you the rest of the day." - Mark Twain
 - [ ] 🕚🤗🍴💧🪥💧
