@@ -23,7 +23,7 @@ I have other lists. I have lists, lists do not have me.
 - [ ] 🚿🪒💨👣💧
 - [ ] 🤗📰✔️📧🐸💧
 - [ ] 🕛🤗🍴💧🪥💧
-- [ ] 🕒🤗🚫☕🍬
+- [ ] 🕒🤗✔️🚫☕🍬
 - [ ] 🕕🤗🍴
 - [ ] 🕙🪥🤗✔️💻🖥️🫀🚶😴
 
@@ -97,8 +97,9 @@ I implement my Daily List in Google Keep.
 - [ ] 🕚🤗🍴💧🪥💧
   - [ ] Brunch ~11:00. I have comfortable Meals since I usually have 2 Meals a day.
   - [ ] Brush my Teeth. I try to couple brushing with my first meal but it may not happen if I'm out of the house or the like.
-- [ ] 🕒🤗🚫☕🍬
+- [ ] 🕒🤗✔️🚫☕🍬
   - [ ] After 15:00 I avoid Caffeine and Sweets because they can interefere with my Sleep
+  - [ ] Check my lists again in the afternoon
 - [ ] 🕕🤗🍴
   - [ ] Dinner ~18:00.
 - [ ] 🕙🪥🤗✔️💻🖥️🫀🚶😴
