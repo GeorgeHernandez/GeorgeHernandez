@@ -23,8 +23,8 @@ I have other lists. I have lists, lists do not have me.
 - [ ] 🚿🪒💨👣💧
 - [ ] 🤗📰✔️📧🐸💧
 - [ ] 🕛🤗🍴💧🪥💧
-- [ ] 🕒🤗✔️🚫☕🍬
-- [ ] 🕕🤗🍴
+- [ ] 🕒🤗🚫☕🍬
+- [ ] 🕕🤗✔️📧🍴
 - [ ] 🕙🪥🤗✔️💻🖥️🫀🚶😴
 
 ## 1.2. My Daily List with Notes
@@ -92,15 +92,15 @@ I implement my Daily List in Google Keep.
   - [ ] Social Activities: Hugs, Love, Nurture, Share, Listen, Vibe, Check, Sync, etc.
   - [ ] Check the News
   - [ ] Check my Lists. E.g. Google Keep, Trello, ghseet[GH, Hdz], gdoc[EE, RC, UIC].
-  - [ ] Email and other messages
+  - [ ] Email and other Communications
   - [ ] Responsibilities: Work, House Work, Tasks, Projects, etc. Small and Big items. "Eat a live frog first thing in the morning and nothing worse will happen to you the rest of the day." - Mark Twain
 - [ ] 🕚🤗🍴💧🪥💧
   - [ ] Brunch ~11:00. I have comfortable Meals since I usually have 2 Meals a day.
   - [ ] Brush my Teeth. I try to couple brushing with my first meal but it may not happen if I'm out of the house or the like.
-- [ ] 🕒🤗✔️🚫☕🍬
+- [ ] 🕒🤗🚫☕🍬
   - [ ] After 15:00 I avoid Caffeine and Sweets because they can interefere with my Sleep
-  - [ ] Check my lists again in the afternoon
-- [ ] 🕕🤗🍴
+- [ ] 🕕🤗✔️📧🍴
+  - [ ] By End of Business Day check my Lists & Communications again
   - [ ] Dinner ~18:00.
 - [ ] 🕙🪥🤗✔️💻🖥️🫀🚶😴
   - [ ] Quick review of my Lists
