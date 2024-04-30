@@ -21,7 +21,7 @@ I have other lists. I have lists, lists do not have me.
 - [ ] 🖖🚶🏽♾️🤹🪢🎵🌱💧
 - [ ] 🏋️🤸🏃🚴🚣🏊⚾🏀✊🤼🤺💧
 - [ ] 🚿🪒💨👣💧
-- [ ] 🕘🤗✔️📧🐸💧
+- [ ] 🕗🤗✔️📧🐸💧
 - [ ] 🕛🤗🍴💧📰🪥💧
 - [ ] 🕒🤗🚫☕🍬
 - [ ] 🕕🤗✔️📧🍴
@@ -88,7 +88,7 @@ I implement my Daily List in Google Keep.
   - [ ] Shower, Shave, Nails, etc.
   - [ ] Run the Fan after the Shower
   - [ ] Examine my Feet
-- [ ] 🕘🤗✔️📧🐸💧
+- [ ] 🕗🤗✔️📧🐸💧
   - [ ] Start of Business Day
   - [ ] Social Activities: Hugs, Love, Nurture, Share, Listen, Vibe, Check, Sync, etc.
   - [ ] Check my Lists. E.g. Google Keep, Trello, ghseet[GH, Hdz], gdoc[EE, RC, UIC].
