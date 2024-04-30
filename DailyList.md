@@ -89,7 +89,7 @@ I implement my Daily List in Google Keep.
   - [ ] Run the Fan after the Shower
   - [ ] Examine my Feet
 - [ ] 🕗🤗✔️📧🐸💧
-  - [ ] Start of Business Day
+  - [ ] Start of Business Day (SOBD). The American BD is 9-5, but I pad it with wind up & wind down time.
   - [ ] Social Activities: Hugs, Love, Nurture, Share, Listen, Vibe, Check, Sync, etc.
   - [ ] Check my Lists. E.g. Google Keep, Trello, ghseet[GH, Hdz], gdoc[EE, RC, UIC].
   - [ ] Email and other Communications
@@ -101,8 +101,8 @@ I implement my Daily List in Google Keep.
 - [ ] 🕒🤗🚫☕🍬
   - [ ] After 15:00 I avoid Caffeine and Sweets because they can interefere with my Sleep
 - [ ] 🕕🤗✔️📧🍴
-  - [ ] End of Business Day: Check my Lists & Communications again
-  - [ ] Dinner ~18:00.
+  - [ ] End of Business Day (EOBD): Check my Lists & Communications again
+  - [ ] Dinner
 - [ ] 🕙🪥🤗✔️💻🖥️🫀🚶😴
   - [ ] Quick review of my Lists
   - [ ] Turn off my Laptop and Monitor
