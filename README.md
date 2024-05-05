@@ -15,6 +15,6 @@ I am a calm, candid, cozy, & curious canid🦊 who strives to be a courageous, c
 - 💬 [Favorite Quotes](Quotes.md)
 - ✨ [Wonderful Stuff](Wonderful.md)
 
-For something simple: (now.html)
+For something simple: [now.html](now.html)
 
 <!-- Several of my pages have table of contents manged in Visual Studio Code with the "Markdown All In One" extension.  -->
