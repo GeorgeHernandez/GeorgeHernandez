@@ -17,10 +17,9 @@ I have other lists. I have lists, lists do not have me.
 
 - [ ] 🕕🔆😴⚖️👃💊💧
 - [ ] 📆⏰🌦️🪙💧
-- [ ] 🦉🤟💧
-- [ ] 🖖🚶🏽♾️🤹🪢🎵🌱💧
-- [ ] 🏋️🤸🏃🚴🚣🏊⚾🏀✊🤼🤺💧
+- [ ] 🖖🚶🏽♾️🤹🪢🎵🌱💧🏋️🤸🏃🚴🚣🏊⚾🏀✊🤼🤺💧
 - [ ] 🚿🪒💨👣💧
+- [ ] 🦉🤟💧
 - [ ] 🕗🤗✔️📧🐸💧
 - [ ] 🕛🤗🍴💧📰🪥💧
 - [ ] 🕒🤗🚫☕🍬
@@ -53,16 +52,7 @@ I implement my Daily List in Google Keep.
   - [ ] Set Alarm as needed
   - [ ] Check the Weather
   - [ ] Check my Finances
-- [ ] 🦉🤟💧
-  - [ ] Study Languages. I cycle through:
-    - [ ] Spanish
-    - [ ] Greek
-    - [ ] Chinese
-    - [ ] Arabic
-    - [ ] Korean
-    - [ ] Filipino
-    - [ ] American Sign Langage
-- [ ] 🖖🚶🏽♾️🤹🪢🎵🌱💧
+- [ ] 🖖🚶🏽♾️🤹🪢🎵🌱💧🏋️🤸🏃🚴🚣🏊⚾🏀✊🤼🤺💧
   - [ ] Mild Physical Activity. E.g.
     - [ ] Stretching
     - [ ] Walking
@@ -71,7 +61,6 @@ I implement my Daily List in Google Keep.
     - [ ] Tying Knots
     - [ ] Playing Music
     - [ ] Gardening
-- [ ] 🏋️🤸🏃🚴🚣🏊⚾🏀✊🤼🤺💧
   - [ ] Vigorous Physical Activity. Twice a week. E.g.
     - [ ] Lifting
     - [ ] Gymnastics
@@ -88,6 +77,15 @@ I implement my Daily List in Google Keep.
   - [ ] Shower, Shave, Nails, etc.
   - [ ] Run the Fan after the Shower
   - [ ] Examine my Feet
+- [ ] 🦉🤟💧
+  - [ ] Study Languages. I cycle through:
+    - [ ] Spanish
+    - [ ] Greek
+    - [ ] Chinese
+    - [ ] Arabic
+    - [ ] Korean
+    - [ ] Filipino
+    - [ ] American Sign Langage
 - [ ] 🕗🤗✔️📧🐸💧
   - [ ] Start of Business Day (SOBD). The American BD is 9-5, but I pad it with wind up & wind down time.
   - [ ] Social Activities: Hugs, Love, Nurture, Share, Listen, Vibe, Check, Sync, etc.
@@ -112,26 +110,25 @@ I implement my Daily List in Google Keep.
 
 ## 1.3. My Weekly List with Notes
 
-Usually on Sundays.
+Usually on the Weekend.
 
 - [ ] ⏲️🫀 Set a Timer then Log my Blood Pressure and Heart Rate
 - [ ] 💧🌱 Water my Plant
 - [ ] 🚪🔔 Recharge the Doorbell. (Yes I need to get a wired doorbell)
-- [ ] ♻️🪣 Recycle and Compost
 - [ ] 🗑️ Wastebaskets
-- [ ] 👕 Refresh Shirt
+- [ ] 👕🛀 Refresh Shirt, Towels
 - [ ] 🗃️ Parse Physical Files, Letters, etc.
-- [ ] 👨‍🍳 Cook
+- [ ] 👨‍🍳🍳 Cook. I'm on Fridays.
 
 ## 1.3. My Monthly List with Notes
 
 Usually on the 1st of the Month.
 
-- [ ] 💇 Haircut
-- [ ] 👣 Check Feet
+- [ ] 👣➿ Check Feet
 - [ ] 👖 Refresh Pants
-- [ ] 🛏️ Refresh Bedding, Towels, etc.
+- [ ] 🛏️ Refresh Bedding
 - [ ] 👩‍🎓💲 Manually pay daughter's student loans (until they get their auto-pay fixed)
+- [ ] 💇 Haircut. Clipper at ¼⅛.
 
 ## 1.4. Gout Countermeasures
 
