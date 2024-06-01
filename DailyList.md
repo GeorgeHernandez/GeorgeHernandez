@@ -18,7 +18,7 @@ I have other lists. I have lists, lists do not have me.
 - [ ] 🕕🔆😴⚖️👃💊💧
 - [ ] 📆⏰🌦️🪙💧
 - [ ] 🖖🚶🏽♾️🤹🪢🎵🌱💧🏋️🤸🏃🚴🚣🏊⚾🏀✊🤼🤺💧
-- [ ] 🚿🪒💨👣💧
+- [ ] 🚿🪒👣💨💧
 - [ ] 🦉🤟💧
 - [ ] 🕗🤗✔️📧🐸💧
 - [ ] 🕛🤗🍴💧📰🪥💧
@@ -74,9 +74,8 @@ I implement my Daily List in Google Keep.
     - [ ] Wrestling
     - [ ] Armed
 - [ ] 🚿🪒💨👣💧
-  - [ ] Shower, Shave, Nails, etc.
+  - [ ] Shower, Shave, Nails, Examine Feet, etc.
   - [ ] Run the Fan after the Shower
-  - [ ] Examine my Feet
 - [ ] 🦉🤟💧
   - [ ] Study Languages. I cycle through:
     - [ ] Spanish
@@ -124,11 +123,10 @@ Usually on the Weekend.
 
 Usually on the 1st of the Month.
 
-- [ ] 👣➿ Check Feet
+- [ ] 💇 Haircut. Clipper at ¼⅛.
 - [ ] 👖 Refresh Pants
 - [ ] 🛏️ Refresh Bedding
 - [ ] 👩‍🎓💲 Manually pay daughter's student loans (until they get their auto-pay fixed)
-- [ ] 💇 Haircut. Clipper at ¼⅛.
 
 ## 1.4. Gout Countermeasures
 
