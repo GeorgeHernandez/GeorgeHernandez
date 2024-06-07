@@ -161,7 +161,9 @@ It is good to know what was in my wallet in case I lose it. "!" means not in my 
     - Pen
     - Sticky Notes
     - USB Stick 64 GB
-    - Short Cord: Male A or C to Male A or C
+    - Short Cords:
+      - Male A or C to Male A or C
+      - Male C to Female HDMI
     - Matches
     - Cash
 - Front Pocket Medium:
