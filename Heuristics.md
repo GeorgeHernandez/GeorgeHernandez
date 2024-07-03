@@ -162,13 +162,13 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
 - [Erikson's stages of psychosocial development](https://en.wikipedia.org/wiki/Erikson%27s_stages_of_psychosocial_development). 8 common psychosocial stages in a lifetime.
 
   ```text
-  Time  Age     Virtue      Crisis                    Relationship          Existential Question
-  /p18m Infant  Hope        Trust v Mistrust          Mother                Can I trust the world?
-  /p3y  Toddler Will        Autonomy v Shame & Doubt  Parents               Is it OK to be me?
-  /p5y  Child 1 Purpose     Initiative v Guilt        Family                Is it OK to do, move, act?
-  /p13y Child 2 Competence  Industry v Inferiority    Neighbor, School      Can I make it in the world?
-  /p21y Teen    Fidelity    Identity v Role Confusion Peers, Role Models    Who am I? Who can I be?
-  /p39y Adult 1 Love        Intimacy v Isolation      Friends, Partners     Can I unite with another?
+  Years Age     Virtue      Psychosocial Crisis       Primary Relationship  Existential Question
+  /p1y  Infant  Hope        Trust v Mistrust          Mother                Can I trust the world?
+  /p2y  Toddler Will        Autonomy v Shame & Doubt  Parents               Is it OK to be me?
+  /p6y  Child 1 Purpose     Initiative v Guilt        Family                Is it OK to do, move, act?
+  /p10y Child 2 Competence  Industry v Inferiority    Neighbor, School      Can I make it in the world?
+  /p20y Teen    Fidelity    Identity v Role Confusion Peers, Role Models    Who am I? Who can I be?
+  /p40y Adult 1 Love        Intimacy v Isolation      Friends, Partners     Can I unite with another?
   /p65y Adult 2 Care        Generativity v Stagnation Household, Workmates  Can I make my life count?
   p65y/ Adult 3 Wisdom      Ego Integrity v Despair   Humankind, My Kind    Is it OK to have been me?
   ```
