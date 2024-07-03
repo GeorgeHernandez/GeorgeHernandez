@@ -149,6 +149,8 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
 
 - "_Vita brevis, ars longa, occasio praeceps, experimentum periculosum, iudicium difficile_" (Latin), "Life is short, the craft long, opportunity fleeting, experiment treacherous, judgment difficult." -Hippocrates. First line of "Aphorisms" from the "Hippocratic Corpus".
 - "Live as if you were to die tomorrow. Learn as if you were to live forever." ~ Gandhi
+- ["This too shall pass"](https://en.wikipedia.org/wiki/This_too_shall_pass)
+- ["Ozymandias"](https://en.wikipedia.org/wiki/Ozymandias) by English Romantic poet Percy Bysshe Shelley.
 - [All the world's a stage](https://en.wikipedia.org/wiki/All_the_world%27s_a_stage). Aka the seven ages of man.
   - Infant
   - Schoolboy
@@ -157,8 +159,19 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
   - Justice
   - Pantaloon
   - Oblivion
-- ["This too shall pass"](https://en.wikipedia.org/wiki/This_too_shall_pass)
-- ["Ozymandias"](https://en.wikipedia.org/wiki/Ozymandias) by English Romantic poet Percy Bysshe Shelley.
+- [Erikson's stages of psychosocial development](https://en.wikipedia.org/wiki/Erikson%27s_stages_of_psychosocial_development). 8 common psychosocial stages in a lifetime.
+
+  ```text
+  Time  Age     Virtue      Crisis                    Relationship          Existential Question
+  /p18m Infant  Hope        Trust v Mistrust          Mother                Can I trust the world?
+  /p3y  Toddler Will        Autonomy v Shame & Doubt  Parents               Is it OK to be me?
+  /p5y  Child 1 Purpose     Initiative v Guilt        Family                Is it OK to do, move, act?
+  /p13y Child 2 Competence  Industry v Inferiority    Neighbor, School      Can I make it in the world?
+  /p21y Teen    Fidelity    Identity v Role Confusion Peers, Role Models    Who am I? Who can I be?
+  /p39y Adult 1 Love        Intimacy v Isolation      Friends, Partners     Can I unite with another?
+  /p65y Adult 2 Care        Generativity v Stagnation Household, Workmates  Can I make my life count?
+  p65y/ Adult 3 Wisdom      Ego Integrity v Despair   Humankind, My Kind    Is it OK to have been me?
+  ```
 
 ## 1.5. Goals (WHAT/WHY)
 
