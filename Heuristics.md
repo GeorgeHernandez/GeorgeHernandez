@@ -164,7 +164,7 @@ Here are some of my favorite heuristics. A [heuristics](https://en.wikipedia.org
   ```text
   Years Age     Virtue      Psychosocial Crisis       Primary Relationship  Existential Question
   /p1y  Infant  Hope        Trust v Mistrust          Mother                Can I trust the world?
-  /p2y  Toddler Will        Autonomy v Shame & Doubt  Parents               Is it OK to be me?
+  /p3y  Toddler Will        Autonomy v Shame & Doubt  Parents               Is it OK to be me?
   /p6y  Child 1 Purpose     Initiative v Guilt        Family                Is it OK to do, move, act?
   /p10y Child 2 Competence  Industry v Inferiority    Neighbor, School      Can I make it in the world?
   /p20y Teen    Fidelity    Identity v Role Confusion Peers, Role Models    Who am I? Who can I be?
