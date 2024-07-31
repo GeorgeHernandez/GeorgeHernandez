@@ -4,7 +4,7 @@ Notes on my mobile gear for every day and other occassions.
 
 - [1. Mobile Me](#1-mobile-me)
   - [1.1. Wallet](#11-wallet)
-  - [1.2. Usually On Me](#12-usually-on-me)
+  - [1.2. Body Bag](#12-body-bag)
   - [1.3. Outerwear By Temperature](#13-outerwear-by-temperature)
   - [1.4. Gym Bag](#14-gym-bag)
   - [1.5. Swim Bag](#15-swim-bag)
@@ -43,36 +43,34 @@ It is good to know what was in my wallet in case I lose it. "!" means not in my 
   - ! Illinois Firearm Owners ID & Concealed Carry License
 - Cash
 
-## 1.2. Usually On Me
+## 1.2. Body Bag
 
-- Pants or Shorts Pockets:
-  - Front Right:
-    - Phone: Samsung Galaxy Fold
-  - Front Right: Mini:
-    - Whistle
-    - Ear Plug in a container
-  - Front Left:
-    - Wallet
-    - Pen. Cheap because it is easily lost.
-    - Lighter. Cheap because it is easily lost.
-    - Folder Knife. Cheap because it is easily lost.
-  - Back Left: Left Cut-Resistant Glove
-  - Back Right:
-    - Right Cut-Resistant Glove
-    - Soft Measuring Tape
-- Belt:
-  - Left: Pouch with Multi-Tool by Leatherman
-  - Left Front Loop: Carbiner:
+- Front Top Pocket:
+  - Pen. Cheap because it is easily lost.
+  - Phone: Samsung Galaxy Z Fold 3
+- Front Middle Pocket:
+  - Handkerchief
+  - Latex Gloves
+  - Wallet
+  - Passport. As needed.
+- Front Bottom Pocket:
+  - Lighter. Cheap because it is easily lost.
+  - Soft Measuring Tape
+  - Pocket Knife
+  - Ear Plug in a Container
+  - Carabiner
     - Ring 1:
       - House Key
       - Mail Key
       - Garage Key
-    - Ring 2: Work Keys
+    - Ring 2: Rizal Center Keys
+      - Front Door
+      - Hall Door
     - Ring 3: Car Fob
-    - Ring 4: Flashlight. Rechargeable USB C.
-  - Left Rear Loop: Handkerchief
-- Left Wrist: Watch: Samsung Galaxy
-- Right Wrist: Leather Strap
+    - Ring 4:
+      - Flashlight. Rechargeable USB C.
+      - Whistle
+- Back Pockets: Usually empty except for occassional documents
 
 ## 1.3. Outerwear By Temperature
 
