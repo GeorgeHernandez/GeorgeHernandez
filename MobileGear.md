@@ -59,16 +59,16 @@ It is good to know what was in my wallet in case I lose it. "!" means not in my 
   - Pocket Knife
   - Ear Plug in a Container
   - Carabiner
-    - Ring 1:
+    - Ring:
       - House Key
       - Mail Key
       - Garage Key
-    - Ring 2: Rizal Center Keys
-      - Front Door
-      - Hall Door
-    - Ring 3: Car Fob
-    - Ring 4:
-      - Flashlight. Rechargeable USB C.
+    - Ring: Rizal Center
+      - Front Door Key
+      - Hall Door Key
+    - Ring: Car Fob
+    - Ring: Flashlight
+    - Ring: Rechargeable USB C
       - Whistle
 - Back Pockets: Usually empty except for occassional documents
 
