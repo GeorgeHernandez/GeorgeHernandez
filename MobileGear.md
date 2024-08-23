@@ -34,13 +34,13 @@ It is good to know what was in my wallet in case I lose it. "!" means not in my 
   - Fidelity HSA Visa
   - ! Venmo MC
   - ! Wise MC
+- IDs:
+  - Illinois Driver's License
+  - UIC
 - Other Cards:
+  - Chicago Public Library
   - Ventra Public Transporation
   - YMCA Gym
-  - Aetna Health Insurance
-  - ! ExpressScripts Prescription
-  - Illinois Driver's License
-  - ! Illinois Firearm Owners ID & Concealed Carry License
 - Cash
 
 ## 1.2. Body Bag
