@@ -111,13 +111,13 @@ I implement my Daily List in Google Keep.
 
 Usually on the Weekend.
 
+- [ ] 💊 Refresh my Supplements, Vitamins, etc.
 - [ ] ⏲️🫀 Set a Timer then Log my Blood Pressure and Heart Rate
 - [ ] 💧🌱 Water my Plant
 - [ ] 🚪🔔 Recharge the Doorbell. (Yes I need to get a wired doorbell)
-- [ ] 🗑️ Wastebaskets
-- [ ] 👕🛀 Refresh Shirt, Towels
+- [ ] 🗑️ Empty Wastebaskets
+- [ ] 👕🛀🧺 Refresh Shirt, Towels. Laundry.
 - [ ] 🗃️ Parse Physical Files, Letters, etc.
-- [ ] 👨‍🍳🍳 Cook. I'm on Fridays.
 
 ## 1.3. My Monthly List with Notes
 
