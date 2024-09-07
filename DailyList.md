@@ -36,11 +36,11 @@ I implement my Daily List in Google Keep.
   - [ ] Log my Sleep and Weight
   - [ ] Spritz my Nose against Hay Fever
   - [ ] Take my pills:
-    - [ ] `SMTWTFS` Vitamin C
-    - [ ] `S-T-T-S` Multivitamin
+    - [ ] `UMTWRFS` Vitamin C
+    - [ ] `U-T-R-S` Multivitamin
     - [ ] `-M-W-F-` Vitamin D
     - [ ] `-----F-` Fish Oil
-    - [ ] `----T--` Turmeric Curcumin Glucosamine Hydrochloride MSM + Chondroitin
+    - [ ] `----R--` Turmeric Curcumin Glucosamine Hydrochloride MSM + Chondroitin
     - [ ] `---W---` Ca Mg Zn
     - [ ] `--T----` Cherry
     - [ ] `-M-----` Evening Primrose
