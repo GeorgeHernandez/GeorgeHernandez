@@ -15,7 +15,7 @@ I have other lists. I have lists, lists do not have me.
 
 ## 1.1. My Daily List without Notes
 
-- [ ] 🕕🔆😴⚖️👃💊💧
+- [ ] 🕕🔆😴👃💊💧
 - [ ] 📆⏰🌦️🪙💧
 - [ ] 🖖🚶🏽♾️🤹🪢🎵🌱💧🏋️🤸🏃🚴🚣🏊⚾🏀✊🤼🤺💧
 - [ ] 🚿🪒👣💨💧
@@ -30,10 +30,10 @@ I have other lists. I have lists, lists do not have me.
 
 I implement my Daily List in Google Keep.
 
-- [ ] 🕕🔆😴⚖️👃💊💧
+- [ ] 🕕🔆😴👃💊💧
   - [ ] Wake Up ~06:00. The range in [Chicago Sunrises](https://www.timeanddate.com/sun/usa/chicago) is large with DST: 05:14/07:18. Contrast with the small variance in [Manila Sunrises](https://www.timeanddate.com/sun/philippines/manila): 05:25/06:25.
   - [ ] Get more Light to help me Wake Up
-  - [ ] Log my Sleep and Weight
+  - [ ] Log my Sleep
   - [ ] Spritz my Nose against Hay Fever
   - [ ] Take my pills:
     - [ ] `UMTWRFS` Vitamin C
@@ -112,11 +112,12 @@ I implement my Daily List in Google Keep.
 Usually on the Weekend.
 
 - [ ] 💊 Refresh my Supplements, Vitamins, etc.
+- [ ] ⚖️ weigh myself
 - [ ] ⏲️🫀 Set a Timer then Log my Blood Pressure and Heart Rate
 - [ ] 💧🌱 Water my Plant
 - [ ] 🚪🔔 Recharge the Doorbell. (Yes I need to get a wired doorbell)
 - [ ] 🗑️ Empty Wastebaskets
-- [ ] 👕🛀🧺 Refresh Shirt, Towels. Laundry.
+- [ ] 🌙👕🛀🧺 Refresh Night Shirt, Towels. Laundry.
 - [ ] 🗃️ Parse Physical Files, Letters, etc.
 
 ## 1.3. My Monthly List with Notes
