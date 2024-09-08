@@ -126,7 +126,7 @@ It is good to know what was in my wallet in case I lose it. "!" means not in my 
 
 ## 1.6. Work Backpack
 
-- TSA-Sized.
+- TSA-Sized. Can cinch tight.
 - Main Pocket:
   - Clipboard with Pen & Paper
   - Folder with Scrap Paper & Blank Paper
@@ -145,6 +145,7 @@ It is good to know what was in my wallet in case I lose it. "!" means not in my 
   - Wall & Car Charger with 2 Female USB A Ports
   - Cord with Male USB A to Male USB Micro & USB C & Lightning
   - Ziploc:
+    - AA Battery. Spare for my Mouse.
     - USB Stick 64 GB
     - Adapter with Female USB A to Male USB C
     - Adapter with Female USB C to Male USB A
@@ -161,7 +162,7 @@ It is good to know what was in my wallet in case I lose it. "!" means not in my 
 - Side Pocket:
   - Snacks
   - Pocket Knife: Swiss Army Work Champ
-  - Flashlight. Rechargeable USB C.
+  - Rechargeable USB C Flashlight
   - Teaspoon
   - Duct Tape
   - Latex Gloves
@@ -248,6 +249,7 @@ It is good to know what was in my wallet in case I lose it. "!" means not in my 
   - Underwear
   - Sleep Wear
 - Wireless Phone and Watch Charger
+-
 - For Longer Trips:
   - Slip on Shoes (e.g. Crocs) for Airport and Room
   - Eye Shield
