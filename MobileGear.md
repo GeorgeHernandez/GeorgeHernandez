@@ -3,16 +3,35 @@
 Notes on my mobile gear for every day and other occassions.
 
 - [1. Mobile Me](#1-mobile-me)
-  - [1.1. Wallet](#11-wallet)
-  - [1.2. Body Bag](#12-body-bag)
+  - [1.1. Usually On Me](#11-usually-on-me)
+  - [1.2. Wallet](#12-wallet)
   - [1.3. Outerwear By Temperature](#13-outerwear-by-temperature)
   - [1.4. Gym Bag](#14-gym-bag)
   - [1.5. Swim Bag](#15-swim-bag)
-  - [1.6. Work Bag](#16-work-bag)
+  - [1.6. Work Backpack](#16-work-backpack)
   - [1.7. Bug Out Bag](#17-bug-out-bag)
   - [1.8. Travel Bags](#18-travel-bags)
 
-## 1.1. Wallet
+## 1.1. Usually On Me
+
+- Right Front Pocket: Phone. Samsung Galaxy Z Fold 3
+- Right Front Mini Pocket: Ear Plug in a Case
+- Left Front Pocket:
+  - Wallet
+  - Pen. Cheap because it is easily lost.
+- Right Rear Pocket:
+  - Handkerchief
+  - Soft Measuring Tape
+- Belt Loop:
+  - Ring:
+    - House Key
+    - Mail Key
+  - Ring: Car Fob
+  - Ring: Rechargeable USB C Flashlight
+  - Ring: Whistle
+  - Ring: Mini-Tool: Scissors, Nail File, Flat Screwdriver
+
+## 1.2. Wallet
 
 It is good to know what was in my wallet in case I lose it. "!" means not in my wallet
 
@@ -42,35 +61,6 @@ It is good to know what was in my wallet in case I lose it. "!" means not in my 
   - Ventra Public Transporation
   - YMCA Gym
 - Cash
-
-## 1.2. Body Bag
-
-- Front Top Pocket:
-  - Pen. Cheap because it is easily lost.
-  - Phone: Samsung Galaxy Z Fold 3
-- Front Middle Pocket:
-  - Handkerchief
-  - Latex Gloves
-  - Wallet
-  - Passport. As needed.
-- Front Bottom Pocket:
-  - Lighter. Cheap because it is easily lost.
-  - Soft Measuring Tape
-  - Pocket Knife
-  - Ear Plug in a Container
-  - Carabiner
-    - Ring:
-      - House Key
-      - Mail Key
-      - Garage Key
-    - Ring: Rizal Center
-      - Front Door Key
-      - Hall Door Key
-    - Ring: Car Fob
-    - Ring: Flashlight
-    - Ring: Rechargeable USB C
-      - Whistle
-- Back Pockets: Usually empty except for occassional documents
 
 ## 1.3. Outerwear By Temperature
 
@@ -134,44 +124,57 @@ It is good to know what was in my wallet in case I lose it. "!" means not in my 
   - Swim Shorts. Refresh beforehand!
   - Fresh Towel. Refresh beforehand!
 
-## 1.6. Work Bag
+## 1.6. Work Backpack
 
-- Slim. Carry as Backpack, Shoulder Sling, Side Handle, Top Handle, Luggage Strap. By Mark Ryden.
+- TSA-Sized.
 - Main Pocket:
-  - Clipboard with Pen
-  - Folder with Scrap Paper
-  - Water-Resistant Folder with Blank Paper & Manila Folders
+  - Clipboard with Pen & Paper
+  - Folder with Scrap Paper & Blank Paper
+  - Misc Work/School Folders
   - Umbrella
-  - Other Random Stuff as needed
-- Main Pocket Laptop Sleeves:
-  - Laptop Charger & Cord
+  - Windbreaker with Hood
+  - Water Bottle. Refresh beforehand!
+  - Solar Power Bank with Cord leading to External Female USB A
   - Laptop
-- Main Pocket Inner:
-  - Solar Power Bank with Cord leading to External Female A or C
-- Front Pocket Large:
-  - Pen
-  - Business Card Holder with Cards
-  - Pill Box with Ibuprofen
-  - Mouse corded with Male A or C
-  - Duct Tape
-  - Eyeglass Cloth
-  - Ziploc Bag:
-    - Pen
-    - Sticky Notes
+  - Keffiyeh. Versatile & cushions Laptop.
+- Front Pocket Forward: Empty Reusable Bag
+- Front Pocket Middle: Tech:
+  - Laptop Charger & Cord
+  - Wireless Mouse
+  - Power Strip with 2 Female USB A Ports & 2 Female USB C Ports
+  - Wall & Car Charger with 2 Female USB A Ports
+  - Cord with Male USB A to Male USB Micro & USB C & Lightning
+  - Ziploc:
     - USB Stick 64 GB
-    - Short Cords:
-      - Male A or C to Male A or C
-      - Male C to Female HDMI
-    - Matches
-    - Cash
-- Front Pocket Medium:
-  - Empty Reusable Bag
-  - Quick access Medium Items as needed
-- Front Pocket Small:
-  - Wall & Car Charger with 2 Male A ports and cord with Male A to Male Micro/A/Lightning
-  - Quick access Small Items as needed
+    - Adapter with Female USB A to Male USB C
+    - Adapter with Female USB C to Male USB A
+    - Adapter with Female HDMI to Male USB C
+    - Adapter with Male USB A & C to Male USB C & Lightning
+- Top Pocket: Office:
+  - Pens
+  - Pencils
+  - Pencil Shapener
+  - Dry Erase Markers
+  - Calculator: TI-30Xs
+  - Eraser Stick
+  - Sticky Notes
 - Side Pocket:
-  - Water Bottle attached via Red Paracord Bracelet for distinctive ID
+  - Snacks
+  - Pocket Knife: Swiss Army Work Champ
+  - Flashlight. Rechargeable USB C.
+  - Teaspoon
+  - Duct Tape
+  - Latex Gloves
+  - Pepper Spray
+  - Ziploc Bag:
+    - Pill Box with Ibuprofen
+    - Cash
+    - Matches
+    - Lighter
+- Shoulder Straps:
+  - Paracord Bracelet with Mini Knife
+  - Hooking Carbiner
+- Top Handle: Hat Clip
 
 ## 1.7. Bug Out Bag
 
@@ -237,24 +240,21 @@ It is good to know what was in my wallet in case I lose it. "!" means not in my 
   - Medications
   - Hooking Carbiner
   - Flashlight. Rechargeable USB C.
-  - Pen
-  - Post-It Notes
   - Collapisble Cup
-  - Nail Clippers
-  - Power Strip with Ports for USB A, USB C
+  - Nail Clippers. In Check-In Bag, otherwise buy at destination.
+  - Razor
 - Clothes:
   - Socks
   - Underwear
-  - Windbreaker with Hood
   - Sleep Wear
 - Wireless Phone and Watch Charger
-- Empty Reusable Bag
 - For Longer Trips:
-  - Slip on Shoes for Airport and Room
+  - Slip on Shoes (e.g. Crocs) for Airport and Room
   - Eye Shield
-  - Neck Pillow
-  - Travel Blanket
+  - Neck Pillow that holds Head back
   - Passport
   - Workout Clothes and Shoes
   - Ears and Charger
+  - Juggling Balls
+  - Jump Rope
 - Check-In Bag. As needed.
