@@ -114,7 +114,6 @@ Usually on the Weekend.
 - [ ] 💊 Refresh my Supplements, Vitamins, etc.
 - [ ] ⚖️ weigh myself
 - [ ] ⏲️🫀 Set a Timer then Log my Blood Pressure and Heart Rate
-- [ ] 💧🌱 Water my Plant
 - [ ] 🚪🔔 Recharge the Doorbell. (Yes I need to get a wired doorbell)
 - [ ] 🗑️ Empty Wastebaskets
 - [ ] 🌙👕🛀🧺 Refresh Night Shirt, Towels. Laundry.
