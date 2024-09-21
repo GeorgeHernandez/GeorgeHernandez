@@ -111,9 +111,9 @@ I implement my Daily List in Google Keep.
 
 Usually on the Weekend.
 
-- [ ] 💊 Refresh my Supplements, Vitamins, etc.
-- [ ] ⚖️ weigh myself
+- [ ] ⚖️ Weigh myself
 - [ ] ⏲️🫀 Set a Timer then Log my Blood Pressure and Heart Rate
+- [ ] 💊 Refresh my Supplements, Vitamins, etc.
 - [ ] 🚪🔔 Recharge the Doorbell. (Yes I need to get a wired doorbell)
 - [ ] 🗑️ Empty Wastebaskets
 - [ ] 🌙👕🛀🧺 Refresh Night Shirt, Towels. Laundry.
