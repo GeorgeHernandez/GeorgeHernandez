@@ -19,11 +19,10 @@ I have other lists. I have lists, lists do not have me.
 - [ ] 📆⏰🌦️🪙💧
 - [ ] 🖖🚶🏽♾️🤹🪢🎵🌱💧🏋️🤸🏃🚴🚣🏊⚾🏀✊🤼🤺💧
 - [ ] 🚿🪒👣💨💧
-- [ ] 🦉🤟💧
 - [ ] 🕗🤗✔️📧🐸💧
 - [ ] 🕛🤗🍴💧📰🪥💧
-- [ ] 🕒🤗🚫☕🍬
-- [ ] 🕕🤗✔️📧🍴
+- [ ] 🕒🤗💧🚫☕🍬
+- [ ] 🕕🤗✔️📧🍴💧
 - [ ] 🕙🪥🤗✔️💻🖥️🫀🚶😴
 
 ## 1.2. My Daily List with Notes
@@ -76,15 +75,6 @@ I implement my Daily List in Google Keep.
 - [ ] 🚿🪒💨👣💧
   - [ ] Shower, Shave, Nails, Examine Feet, etc.
   - [ ] Run the Fan after the Shower
-- [ ] 🦉🤟💧
-  - [ ] Study Languages. I cycle through:
-    - [ ] Spanish
-    - [ ] Greek
-    - [ ] Chinese
-    - [ ] Arabic
-    - [ ] Korean
-    - [ ] Filipino
-    - [ ] American Sign Langage
 - [ ] 🕗🤗✔️📧🐸💧
   - [ ] Start of Business Day (SOBD). The American BD is 9-5, but I pad it with wind up & wind down time.
   - [ ] Social Activities: Hugs, Love, Nurture, Share, Listen, Vibe, Check, Sync, etc.
@@ -95,9 +85,9 @@ I implement my Daily List in Google Keep.
   - [ ] Brunch ~11:00. I have comfortable Meals since I usually have 2 Meals a day.
   - [ ] Check the News
   - [ ] Brush my Teeth. I try to couple brushing with my first meal but it may not happen if I'm out of the house or the like.
-- [ ] 🕒🤗🚫☕🍬
+- [ ] 🕒🤗💧🚫☕🍬
   - [ ] After 15:00 I avoid Caffeine and Sweets because they can interefere with my Sleep
-- [ ] 🕕🤗✔️📧🍴
+- [ ] 🕕🤗✔️📧🍴💧
   - [ ] End of Business Day (EOBD): Check my Lists & Communications again
   - [ ] Dinner
 - [ ] 🕙🪥🤗✔️💻🖥️🫀🚶😴
@@ -114,8 +104,9 @@ Usually on the Weekend.
 - [ ] ⚖️ Weigh myself
 - [ ] ⏲️🫀 Set a Timer then Log my Blood Pressure and Heart Rate
 - [ ] 💊 Refresh my Supplements, Vitamins, etc.
-- [ ] 🚪🔔 Recharge the Doorbell. (Yes I need to get a wired doorbell)
 - [ ] 🗑️ Empty Wastebaskets
+- [ ] 🚪🔔 Recharge the Doorbell. (Yes I need to get a wired doorbell)
+- [ ] 🦉🤟 Study Languages. I cycle through:
 - [ ] 🌙👕🛀🧺 Refresh Night Shirt, Towels. Laundry.
 - [ ] 🗃️ Parse Physical Files, Letters, etc.
 
