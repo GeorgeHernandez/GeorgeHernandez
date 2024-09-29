@@ -23,7 +23,7 @@ I have other lists. I have lists, lists do not have me.
 - [ ] 🕛🤗🍴💧📰🪥💧
 - [ ] 🕒🤗💧🚫☕🍬
 - [ ] 🕕🤗✔️📧🍴💧
-- [ ] 🕙🪥🤗✔️💻🖥️🫀🚶😴
+- [ ] 🕙🪥🤗✔️💻🖥️🫀⏰😴
 
 ## 1.2. My Daily List with Notes
 
@@ -90,11 +90,11 @@ I implement my Daily List in Google Keep.
 - [ ] 🕕🤗✔️📧🍴💧
   - [ ] End of Business Day (EOBD): Check my Lists & Communications again
   - [ ] Dinner
-- [ ] 🕙🪥🤗✔️💻🖥️🫀🚶😴
+- [ ] 🕙🪥🤗✔️💻🖥️🫀⏰😴
   - [ ] Quick review of my Lists
   - [ ] Turn off my Laptop and Monitor
   - [ ] Do a last minute Heart Rate Check: This ensures that I'm wearing my Watch and that it is properly seated.
-  - [ ] Peek at my Walking Stats for the day.
+  - [ ] Check on the Alarm Clock
   - [ ] Go to Sleep ~22:00
 
 ## 1.3. My Weekly List with Notes
