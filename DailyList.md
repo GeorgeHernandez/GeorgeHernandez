@@ -38,11 +38,11 @@ I implement my Daily List in Google Keep.
     - [ ] `UMTWRFS` Vitamin C
     - [ ] `U-T-R-S` Multivitamin
     - [ ] `-M-W-F-` Vitamin D
-    - [ ] `-----F-` Fish Oil
-    - [ ] `----R--` Turmeric Curcumin Glucosamine Hydrochloride MSM + Chondroitin
-    - [ ] `---W---` Ca Mg Zn
-    - [ ] `--T----` Cherry
     - [ ] `-M-----` Evening Primrose
+    - [ ] `--T----` Cherry
+    - [ ] `---W---` Ca Mg Zn
+    - [ ] `----R--` Turmeric Curcumin Glucosamine Hydrochloride MSM + Chondroitin
+    - [ ] `-----F-` Fish Oil
     - [ ] Allopurinol and Febuxostat were not helpful for my gout
     - [ ] Take Ibuprofen as needed
   - [ ] Hydrate
@@ -74,7 +74,7 @@ I implement my Daily List in Google Keep.
     - [ ] Armed
 - [ ] 🚿🪒💨👣💧
   - [ ] Shower, Shave, Nails, Examine Feet, etc.
-  - [ ] Run the Fan after the Shower
+  - [ ] Run the Fan after the Shower`
 - [ ] 🕗🤗✔️📧🐸💧
   - [ ] Start of Business Day (SOBD). The American BD is 9-5, but I pad it with wind up & wind down time.
   - [ ] Social Activities: Hugs, Love, Nurture, Share, Listen, Vibe, Check, Sync, etc.
