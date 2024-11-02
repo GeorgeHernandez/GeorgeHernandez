@@ -7,30 +7,17 @@ My Daily List is in my usual chronological order but sometimes things get moved 
 I have other lists. I have lists, lists do not have me.
 
 - [1. My Daily List](#1-my-daily-list)
-  - [1.1. My Daily List without Notes](#11-my-daily-list-without-notes)
-  - [1.2. My Daily List with Notes](#12-my-daily-list-with-notes)
-  - [1.3. My Weekly List with Notes](#13-my-weekly-list-with-notes)
+  - [1.1. My Daily List with Notes](#11-my-daily-list-with-notes)
+  - [1.2. My Weekly List with Notes](#12-my-weekly-list-with-notes)
   - [1.3. My Monthly List with Notes](#13-my-monthly-list-with-notes)
   - [1.4. Gout Countermeasures](#14-gout-countermeasures)
 
-## 1.1. My Daily List without Notes
-
-- [ ] 🕕🔆😴👃💊💧
-- [ ] 📆⏰🌦️🪙💧
-- [ ] 🖖🚶🏽♾️🤹🪢🎵🌱💧🏋️🤸🏃🚴🚣🏊⚾🏀✊🤼🤺💧
-- [ ] 🚿🪒👣💨💧
-- [ ] 🕗🤗✔️📧🐸💧
-- [ ] 🕛🤗🍴💧📰🪥💧
-- [ ] 🕒🤗💧🚫☕🍬
-- [ ] 🕕🤗✔️📧🍴💧
-- [ ] 🕙🪥🤗✔️💻🖥️🫀⏰😴
-
-## 1.2. My Daily List with Notes
+## 1.1. My Daily List with Notes
 
 I implement my Daily List in Google Keep.
 
-- [ ] 🕕🔆😴👃💊💧
-  - [ ] Wake Up ~06:00. The range in [Chicago Sunrises](https://www.timeanddate.com/sun/usa/chicago) is large with DST: 05:14/07:18. Contrast with the small variance in [Manila Sunrises](https://www.timeanddate.com/sun/philippines/manila): 05:25/06:25.
+- [ ] 🕔🔆😴👃💊💧
+  - [ ] Wake Up ~05:00. The range in [Chicago Sunrises](https://www.timeanddate.com/sun/usa/chicago) is large with DST: 05:14/07:18. Contrast with the small variance in [Manila Sunrises](https://www.timeanddate.com/sun/philippines/manila): 05:25/06:25.
   - [ ] Get more Light to help me Wake Up
   - [ ] Log my Sleep
   - [ ] Spritz my Nose against Hay Fever
@@ -41,7 +28,7 @@ I implement my Daily List in Google Keep.
     - [ ] `-M-----` Evening Primrose
     - [ ] `--T----` Cherry
     - [ ] `---W---` Ca Mg Zn
-    - [ ] `----R--` Turmeric Curcumin Glucosamine Hydrochloride MSM + Chondroitin
+    - [ ] `----R--` Turmer``ic Curcumin Glucosamine Hydrochloride MSM + Chondroitin
     - [ ] `-----F-` Fish Oil
     - [ ] Allopurinol and Febuxostat were not helpful for my gout
     - [ ] Take Ibuprofen as needed
@@ -72,16 +59,18 @@ I implement my Daily List in Google Keep.
     - [ ] Unarmed
     - [ ] Wrestling
     - [ ] Armed
-- [ ] 🚿🪒💨👣💧
+- [ ] 🚿🪒👣💨👁️💧
   - [ ] Shower, Shave, Nails, Examine Feet, etc.
-  - [ ] Run the Fan after the Shower`
-- [ ] 🕗🤗✔️📧🐸💧
+  - [ ] Run the Fan after the Shower
+  - [ ] Eye drops as needed
+- [ ] 🕗🤗🍴✔️📧🐸👁️💧
   - [ ] Start of Business Day (SOBD). The American BD is 9-5, but I pad it with wind up & wind down time.
   - [ ] Social Activities: Hugs, Love, Nurture, Share, Listen, Vibe, Check, Sync, etc.
+  - [ ] Food
   - [ ] Check my Lists. E.g. Google Keep, Trello, ghseet[GH, Hdz], gdoc[EE, RC, UIC].
   - [ ] Email and other Communications
   - [ ] Responsibilities: Work, House Work, Tasks, Projects, etc. Small and Big items. "Eat a live frog first thing in the morning and nothing worse will happen to you the rest of the day." - Mark Twain
-- [ ] 🕚🤗🍴💧📰🪥💧
+- [ ] 🕚🤗🍴💧📰🪥👁️💧
   - [ ] Brunch ~11:00. I have comfortable Meals since I usually have 2 Meals a day.
   - [ ] Check the News
   - [ ] Brush my Teeth. I try to couple brushing with my first meal but it may not happen if I'm out of the house or the like.
@@ -97,7 +86,7 @@ I implement my Daily List in Google Keep.
   - [ ] Check on the Alarm Clock
   - [ ] Go to Sleep ~22:00
 
-## 1.3. My Weekly List with Notes
+## 1.2. My Weekly List with Notes
 
 Usually on the Weekend.
 
