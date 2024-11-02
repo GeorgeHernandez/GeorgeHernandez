@@ -107,6 +107,7 @@ Usually on the 1st of the Month.
 - [ ] 👖 Refresh Pants
 - [ ] 🛏️ Refresh Bedding
 - [ ] 👩‍🎓💲 Manually pay daughter's student loans (until they get their auto-pay fixed)
+- [ ] 🚰 Refresh Water Cooler
 
 ## 1.4. Gout Countermeasures
 
