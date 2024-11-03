@@ -39,8 +39,8 @@ It is good to know what was in my wallet in case I lose it. "!" means not in my 
   - American Express (AMEX)
   - ! Bank of America MC
   - ! Bread AMEX
-  - Chase Amazon Visa
-  - Discover
+  - ! Chase Amazon Visa
+  - ! Discover
   - ! Fidelity Visa
   - PayPal MC
   - Target MC
@@ -59,7 +59,7 @@ It is good to know what was in my wallet in case I lose it. "!" means not in my 
 - Other Cards:
   - Chicago Public Library
   - Ventra Public Transporation
-  - YMCA Gym
+  - ! YMCA Gym
 - Cash
 
 ## 1.3. Outerwear By Temperature
