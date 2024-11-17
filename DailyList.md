@@ -28,7 +28,7 @@ I implement my Daily List in Google Keep.
     - [ ] `-M-----` Evening Primrose
     - [ ] `--T----` Cherry
     - [ ] `---W---` Ca Mg Zn
-    - [ ] `----R--` Turmer``ic Curcumin Glucosamine Hydrochloride MSM + Chondroitin
+    - [ ] `----R--` Turmeric Curcumin Glucosamine Hydrochloride MSM + Chondroitin
     - [ ] `-----F-` Fish Oil
     - [ ] Allopurinol and Febuxostat were not helpful for my gout
     - [ ] Take Ibuprofen as needed
@@ -63,15 +63,15 @@ I implement my Daily List in Google Keep.
   - [ ] Shower, Shave, Nails, Examine Feet, etc.
   - [ ] Run the Fan after the Shower
   - [ ] Eye drops as needed
-- [ ] 🕗🤗🍴✔️📧🐸👁️💧
-  - [ ] Start of Business Day (SOBD). The American BD is 9-5, but I pad it with wind up & wind down time.
+- [ ] 🕕🤗🍴✔️📧🐸👁️💧
+  - [ ] Start of Business Day (SOBD). The American BD is 9-5, but I pad it with commute plus wind up & wind down time.
   - [ ] Social Activities: Hugs, Love, Nurture, Share, Listen, Vibe, Check, Sync, etc.
   - [ ] Food
   - [ ] Check my Lists. E.g. Google Keep, Trello, ghseet[GH, Hdz], gdoc[EE, RC, UIC].
   - [ ] Email and other Communications
   - [ ] Responsibilities: Work, House Work, Tasks, Projects, etc. Small and Big items. "Eat a live frog first thing in the morning and nothing worse will happen to you the rest of the day." - Mark Twain
 - [ ] 🕚🤗🍴💧📰🪥👁️💧
-  - [ ] Brunch ~11:00. I have comfortable Meals since I usually have 2 Meals a day.
+  - [ ] Lunch ~11:00
   - [ ] Check the News
   - [ ] Brush my Teeth. I try to couple brushing with my first meal but it may not happen if I'm out of the house or the like.
 - [ ] 🕒🤗💧🚫☕🍬
@@ -83,7 +83,7 @@ I implement my Daily List in Google Keep.
   - [ ] Quick review of my Lists
   - [ ] Turn off my Laptop and Monitor
   - [ ] Do a last minute Heart Rate Check: This ensures that I'm wearing my Watch and that it is properly seated.
-  - [ ] Check on the Alarm Clock
+  - [ ] Check on the Alarm Clocks
   - [ ] Go to Sleep ~22:00
 
 ## 1.2. My Weekly List with Notes
