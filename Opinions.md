@@ -82,6 +82,7 @@ Your opinions and worldview will almost certainly differ from mine. And yet we h
 - Period (`.`) > Comma (`,`). For use as a decimal character, the period is simpler. It's right there on the numeric keypad.
 - Wheelbarrow with centrally-mounted wheel > end-mounted wheel
 - Mobile devices with larger bottom bezels. These devices are often put in stands with slots.
+- Page numbers should generally be in the upper right. Rationale: If you put a stapled set of papers in a Portrait Folder, then the upper right corner is the only accessible corner.
 
 ### 1.2.3. Good
 
@@ -89,6 +90,7 @@ Your opinions and worldview will almost certainly differ from mine. And yet we h
 - The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "NOT RECOMMENDED", "MAY", and "OPTIONAL" MAY BE interpreted as described in [RFC 2119](http://www.ietf.org/rfc/rfc2119.txt). Aka Conformance Verbs for Requirement Levels.
 - ISO 9000: 7 Quality Management Principles: Customer Focus. Leadership. Engagement of People. Process Approach. Improvement. Evidence-Based Decision Making. Relationship Management.
 - 13 month calendars where each month is 28 day. E.g. [International Fixed Calendar](https://en.wikipedia.org/wiki/International_Fixed_Calendar) or [Positivist calendar](https://en.wikipedia.org/wiki/Positivist_calendar). Alas, not likely to ever be broadly implemented.
+- If you provide a standard, opinion, etc., consider giving a rationale for it.
 
 ## 1.3. SHOULD CSE
 
