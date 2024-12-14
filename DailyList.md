@@ -16,33 +16,23 @@ I have other lists. I have lists, lists do not have me.
 
 I implement my Daily List in Google Keep.
 
-- [ ] 🕔🔆😴👃💊💧
+- [ ] 🕔🔆😴👃💊💧. 📆⏰🌦️🪙💧.
   - [ ] Wake Up ~05:00. The range in [Chicago Sunrises](https://www.timeanddate.com/sun/usa/chicago) is large with DST: 05:14/07:18. Contrast with the small variance in [Manila Sunrises](https://www.timeanddate.com/sun/philippines/manila): 05:25/06:25.
   - [ ] Get more Light to help me Wake Up
   - [ ] Log my Sleep
   - [ ] Spritz my Nose against Hay Fever
-  - [ ] Take my pills:
-    - [ ] `UMTWRFS` Vitamin C
-    - [ ] `U-T-R-S` Multivitamin
-    - [ ] `-M-W-F-` Vitamin D
-    - [ ] `-M-----` Evening Primrose
-    - [ ] `--T----` Cherry
-    - [ ] `---W---` Ca Mg Zn
-    - [ ] `----R--` Turmeric Curcumin Glucosamine Hydrochloride MSM + Chondroitin
-    - [ ] `-----F-` Fish Oil
-    - [ ] Allopurinol and Febuxostat were not helpful for my gout
-    - [ ] Take Ibuprofen as needed
+  - [ ] Take my Supplements
   - [ ] Hydrate
-- [ ] 📆⏰🌦️🪙💧
   - [ ] Check my Calendar
-  - [ ] Set Alarm as needed
+  - [ ] Set Alarms as needed
   - [ ] Check the Weather
   - [ ] Check my Finances
-- [ ] 🖖🚶🏽♾️🤹🪢🎵🌱💧🏋️🤸🏃🚴🚣🏊⚾🏀✊🤼🤺💧
+  - [ ] Hydrate
+- [ ] 🖖🚶🏽♾️🤹🪢🎵🌱💧. 🏋️🤸🏃🚴🚣🏊⚾🏀✊🤼🤺💧.
   - [ ] Mild Physical Activity. E.g.
     - [ ] Stretching
     - [ ] Walking
-    - [ ] Twirling Sticks
+    - [ ] Twirling Sticks, Maces
     - [ ] Juggling
     - [ ] Tying Knots
     - [ ] Playing Music
@@ -59,27 +49,27 @@ I implement my Daily List in Google Keep.
     - [ ] Unarmed
     - [ ] Wrestling
     - [ ] Armed
-- [ ] 🚿🪒👣💨👁️💧
+- [ ] 🚿🪒👣💨👁️💧/
   - [ ] Shower, Shave, Nails, Examine Feet, etc.
   - [ ] Run the Fan after the Shower
   - [ ] Eye drops as needed
-- [ ] 🕕🤗🍴✔️📧🐸👁️💧
+- [ ] 🕕🤗🍴✔️📧🐸💧/
   - [ ] Start of Business Day (SOBD). The American BD is 9-5, but I pad it with commute plus wind up & wind down time.
   - [ ] Social Activities: Hugs, Love, Nurture, Share, Listen, Vibe, Check, Sync, etc.
   - [ ] Food
-  - [ ] Check my Lists. E.g. Google Keep, Trello, ghseet[GH, Hdz], gdoc[EE, RC, UIC].
-  - [ ] Email and other Communications
-  - [ ] Responsibilities: Work, House Work, Tasks, Projects, etc. Small and Big items. "Eat a live frog first thing in the morning and nothing worse will happen to you the rest of the day." - Mark Twain
-- [ ] 🕚🤗🍴💧📰🪥👁️💧
+  - [ ] Check my Lists. E.g. Google Keep, Trello, ghseet[GH, Hdz], gdoc[GH TODO].
+  - [ ] Checky my Communications
+  - [ ] Responsibilities: Work, House Work, Tasks, Projects, etc.
+  - [ ] Small and Big Items. "Eat a live frog first thing in the morning and nothing worse will happen to you the rest of the day." - Mark Twain
+- [ ] 🕚🤗🍴💧. 🪥👁️💧/
   - [ ] Lunch ~11:00
-  - [ ] Check the News
-  - [ ] Brush my Teeth. I try to couple brushing with my first meal but it may not happen if I'm out of the house or the like.
-- [ ] 🕒🤗💧🚫☕🍬
+  - [ ] Brush my Teeth. I try to couple brushing with my meals but it may not happen if I'm out of the house or the like.
+- [ ] 🕒🤗👁️💧🚫☕🍬.
   - [ ] After 15:00 I avoid Caffeine and Sweets because they can interefere with my Sleep
-- [ ] 🕕🤗✔️📧🍴💧
+- [ ] 🕕🤗✔️📧🍴💧.
   - [ ] End of Business Day (EOBD): Check my Lists & Communications again
   - [ ] Dinner
-- [ ] 🕙🪥🤗✔️💻🖥️🫀⏰😴
+- [ ] 🕙🪥🤗👁️💻🖥️🫀⏰😴.
   - [ ] Quick review of my Lists
   - [ ] Turn off my Laptop and Monitor
   - [ ] Do a last minute Heart Rate Check: This ensures that I'm wearing my Watch and that it is properly seated.
@@ -93,6 +83,14 @@ Usually on the Weekend.
 - [ ] ⚖️ Weigh myself
 - [ ] ⏲️🫀 Set a Timer then Log my Blood Pressure and Heart Rate
 - [ ] 💊 Refresh my Supplements, Vitamins, etc.
+  - [ ] `UMTWRFS` Vitamin C
+  - [ ] `U-T-R-S` Multivitamin
+  - [ ] `-M-W-F-` Vitamin D
+  - [ ] `-M-----` Evening Primrose
+  - [ ] `--T----` Cherry
+  - [ ] `---W---` Ca Mg Zn
+  - [ ] `----R--` Turmeric Curcumin Glucosamine Hydrochloride MSM + Chondroitin
+  - [ ] `-----F-` Fish Oil
 - [ ] 🗑️ Empty Wastebaskets
 - [ ] 🚪🔔 Recharge the Doorbell. (Yes I need to get a wired doorbell)
 - [ ] 🦉🤟 Study Languages. I cycle through:
