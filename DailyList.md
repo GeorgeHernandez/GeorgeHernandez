@@ -16,10 +16,9 @@ I have other lists. I have lists, lists do not have me.
 
 I implement my Daily List in Google Keep.
 
-- [ ] 🕔🔆😴👃💊💧. 📆⏰🌦️🪙💧.
+- [ ] 🕔🔆👃💊💧. 📆⏰🌦️🪙💧.
   - [ ] Wake Up ~05:00. The range in [Chicago Sunrises](https://www.timeanddate.com/sun/usa/chicago) is large with DST: 05:14/07:18. Contrast with the small variance in [Manila Sunrises](https://www.timeanddate.com/sun/philippines/manila): 05:25/06:25.
   - [ ] Get more Light to help me Wake Up
-  - [ ] Log my Sleep
   - [ ] Spritz my Nose against Hay Fever
   - [ ] Take my Supplements
   - [ ] Hydrate
@@ -28,7 +27,7 @@ I implement my Daily List in Google Keep.
   - [ ] Check the Weather
   - [ ] Check my Finances
   - [ ] Hydrate
-- [ ] 🖖🚶🏽♾️🤹🪢🎵🌱💧. 🏋️🤸🏃🚴🚣🏊⚾🏀✊🤼🤺💧.
+- [ ] 🖖🚶🏽♾️🤹🪢🎵🌱💧. 🏋️🤸🏃🚴🚣🏊⚾🏀💧. ✊🤼🤺💧.
   - [ ] Mild Physical Activity. E.g.
     - [ ] Stretching
     - [ ] Walking
@@ -49,11 +48,11 @@ I implement my Daily List in Google Keep.
     - [ ] Unarmed
     - [ ] Wrestling
     - [ ] Armed
-- [ ] 🚿🪒👣💨👁️💧/
+- [ ] 🚿🪒👣👁️💨💧.
   - [ ] Shower, Shave, Nails, Examine Feet, etc.
   - [ ] Run the Fan after the Shower
   - [ ] Eye drops as needed
-- [ ] 🕕🤗🍴✔️📧🐸💧/
+- [ ] 🕕🤗🍴✔️📧🐸💧.
   - [ ] Start of Business Day (SOBD). The American BD is 9-5, but I pad it with commute plus wind up & wind down time.
   - [ ] Social Activities: Hugs, Love, Nurture, Share, Listen, Vibe, Check, Sync, etc.
   - [ ] Food
@@ -61,7 +60,7 @@ I implement my Daily List in Google Keep.
   - [ ] Checky my Communications
   - [ ] Responsibilities: Work, House Work, Tasks, Projects, etc.
   - [ ] Small and Big Items. "Eat a live frog first thing in the morning and nothing worse will happen to you the rest of the day." - Mark Twain
-- [ ] 🕚🤗🍴💧. 🪥👁️💧/
+- [ ] 🕛🤗🍴💧. 🪥👁️💧.
   - [ ] Lunch ~11:00
   - [ ] Brush my Teeth. I try to couple brushing with my meals but it may not happen if I'm out of the house or the like.
 - [ ] 🕒🤗👁️💧🚫☕🍬.
@@ -69,9 +68,9 @@ I implement my Daily List in Google Keep.
 - [ ] 🕕🤗✔️📧🍴💧.
   - [ ] End of Business Day (EOBD): Check my Lists & Communications again
   - [ ] Dinner
-- [ ] 🕙🪥🤗👁️💻🖥️🫀⏰😴.
+- [ ] 🕙🤗🪥👁️💻🖥️🫀⏰😴.
   - [ ] Quick review of my Lists
-  - [ ] Turn off my Laptop and Monitor
+  - [ ] Turn off my Laptop and Monitor`
   - [ ] Do a last minute Heart Rate Check: This ensures that I'm wearing my Watch and that it is properly seated.
   - [ ] Check on the Alarm Clocks
   - [ ] Go to Sleep ~22:00
