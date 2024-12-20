@@ -17,63 +17,63 @@ I have other lists. I have lists, lists do not have me.
 I implement my Daily List in Google Keep.
 
 - [ ] 🕔🔆👃💊💧. 📆⏰🌦️🪙💧.
-  - [ ] Wake Up ~05:00. The range in [Chicago Sunrises](https://www.timeanddate.com/sun/usa/chicago) is large with DST: 05:14/07:18. Contrast with the small variance in [Manila Sunrises](https://www.timeanddate.com/sun/philippines/manila): 05:25/06:25.
-  - [ ] Get more Light to help me Wake Up
-  - [ ] Spritz my Nose against Hay Fever
-  - [ ] Take my Supplements
+  - [ ] Wake up. The range in [Chicago Sunrises](https://www.timeanddate.com/sun/usa/chicago) is large with DST: 05:14/07:18. Contrast with the small variance in [Manila Sunrises](https://www.timeanddate.com/sun/philippines/manila): 05:25/06:25.
+  - [ ] Get more light to help me wake up
+  - [ ] Spritz my nose against hay fever
+  - [ ] Take my supplements
   - [ ] Hydrate
-  - [ ] Check my Calendar
-  - [ ] Set Alarms as needed
-  - [ ] Check the Weather
-  - [ ] Check my Finances
-  - [ ] Hydrate
+  - [ ] Check my calendar
+  - [ ] Set alarms as needed
+  - [ ] Check the weather
+  - [ ] Check my finances
+  - [ ] Hydrate. Especially to fight my gout.
 - [ ] 🖖🚶🏽♾️🤹🪢🎵🌱💧. 🏋️🤸🏃🚴🚣🏊⚾🏀💧. ✊🤼🤺💧.
-  - [ ] Mild Physical Activity. E.g.
+  - [ ] Mild physical activity. E.g.
     - [ ] Stretching
     - [ ] Walking
-    - [ ] Twirling Sticks, Maces
+    - [ ] Twirling sticks, clubs, maces
     - [ ] Juggling
-    - [ ] Tying Knots
-    - [ ] Playing Music
+    - [ ] Tying knots
+    - [ ] Playing music
     - [ ] Gardening
-  - [ ] Vigorous Physical Activity. Twice a week. E.g.
+  - [ ] Vigorous physical activity. Twice a week. E.g.
     - [ ] Lifting
     - [ ] Gymnastics
     - [ ] Running
     - [ ] Biking
     - [ ] Rowing
     - [ ] Swimming
-    - [ ] Sports. E.g. Baseball, Basketball.
-  - [ ] Martial Arts. Twice a week. E.g.
+    - [ ] Sports. E.g. Baseball, basketball.
+  - [ ] Martial arts. Twice a week. E.g.
     - [ ] Unarmed
     - [ ] Wrestling
     - [ ] Armed
 - [ ] 🚿🪒👣👁️💨💧.
-  - [ ] Shower, Shave, Nails, Examine Feet, etc.
-  - [ ] Run the Fan after the Shower
-  - [ ] Eye drops as needed
-- [ ] 🕕🤗🍴✔️📧🐸💧.
-  - [ ] Start of Business Day (SOBD). The American BD is 9-5, but I pad it with commute plus wind up & wind down time.
-  - [ ] Social Activities: Hugs, Love, Nurture, Share, Listen, Vibe, Check, Sync, etc.
-  - [ ] Food
-  - [ ] Check my Lists. E.g. Google Keep, Trello, ghseet[GH, Hdz], gdoc[GH TODO].
-  - [ ] Checky my Communications
-  - [ ] Responsibilities: Work, House Work, Tasks, Projects, etc.
-  - [ ] Small and Big Items. "Eat a live frog first thing in the morning and nothing worse will happen to you the rest of the day." - Mark Twain
-- [ ] 🕛🤗🍴💧. 🪥👁️💧.
+  - [ ] Shower, shave, nails, examine feet, etc.
+  - [ ] Run the fan after the shower
+  - [ ] Eye drops as needed.
+- [ ] 🕕🍴💧. 🪥👁️💧.
+  - [ ] Breakfast.
+  - [ ] Brush my teeth. I try to couple brushing with my meals but it may not happen if I'm out of the house or the like.
+- [ ] 🕗✔️📧🐸💧.
+  - [ ] Start of business day. The American business day is 9-5, but I pad it with commute plus wind up & wind down time.
+  - [ ] Check my lists. E.g. Google Keep, Trello, ghseet[GH, Hdz], gdoc[GH TODO].
+  - [ ] Checky my communications
+  - [ ] Responsibilities: Work, house work, tasks, projects, etc.
+  - [ ] Small and big items. "Eat a live frog first thing in the morning and nothing worse will happen to you the rest of the day." - Mark Twain
+- [ ] 🕛🍴💧. 🪥👁️💧.
   - [ ] Lunch ~11:00
-  - [ ] Brush my Teeth. I try to couple brushing with my meals but it may not happen if I'm out of the house or the like.
-- [ ] 🕒🤗👁️💧🚫☕🍬.
-  - [ ] After 15:00 I avoid Caffeine and Sweets because they can interefere with my Sleep
-- [ ] 🕕🤗✔️📧🍴💧.
-  - [ ] End of Business Day (EOBD): Check my Lists & Communications again
+- [ ] 🕒💧🚫☕🍬.
+  - [ ] After 15:00 I avoid caffeine and sweets because they can interefere with my sleep
+- [ ] 🕔✔️📧👁️💧.
+  - [ ] End of business day: Check my lists & communications again.
+- [ ] 🕖🍴💧.
   - [ ] Dinner
-- [ ] 🕙🤗🪥👁️💻🖥️🫀⏰😴.
-  - [ ] Quick review of my Lists
-  - [ ] Turn off my Laptop and Monitor`
-  - [ ] Do a last minute Heart Rate Check: This ensures that I'm wearing my Watch and that it is properly seated.
-  - [ ] Check on the Alarm Clocks
-  - [ ] Go to Sleep ~22:00
+- [ ] 🕙🪥👁️💻⏰😴.
+  - [ ] Quick review of my lists
+  - [ ] Turn off my laptop and monitor
+  - [ ] Check on my alarm clocks
+  - [ ] Go to sleep
 
 ## 1.2. My Weekly List with Notes
 
