@@ -8,26 +8,31 @@ My keyboard requirements and preferences.
 - Wired. No batteries to replace or recharge. A wireless keyboard is OK if it also has an option to be wired.
 - `F1`-`F12` keys grouped in sets of 4. Allows them to be located by feel. Ideally each set would be color differentiated.
 - Quiet. People get annoyed when they can hear your typing during meetings.
-- Volume Wheel. A Volume Wheel is preferred over Volume Keys because it can be adjusted without looking. Clicking the Wheel should Mute, but quickly dialing up/down can work.
-- Double Shot Keys. 2 plastics are used: 1 for the key and 1 for the see-through character. This way I never have to deal with the paint rubbing off, which has happened often over the years.
+- Volume wheel. A volume wheel is preferred over Volume Keys because it can be adjusted without looking. Clicking the wheel should mute, but quickly dialing up/down can work.
+- Double shot keys. Aka translucent keykaps. 2 plastics are used: 1 for the key and 1 for the see-through character. This way I never have to deal with the paint rubbing off, which has happened often over the years.
 
 ## Preferences
 
-- Key Count. I waffle between 104 Keys (100%) and 84 Keys (80%), aka Ten Key Less (TKL). My muscle memory prefers the former, but the latter restores valuable desktop space. Some keyboard shortcuts are made assuming a numeric keypad but these can be remapped or avoided or re-implmented with hardware for the numeric keyboard. 75% Layouts are even tighter but the layouts are inconsistent or not preferable. E.g. If you're going to include the `home`, `page up`, `page down`, `end` keys, then they should be provided in that order.
-- Bottom Row. `ctrl`, `win`, `alt`, `space`, `altgr`, `win`, `menu`, `ctrl`. Some keyboards will replace either the right `win` or right `menu` key with a `fn` key. Ideally the `fn` key should not be with the rest of the keys. FYI: The `menu` key can also be done with `shift+f10`. PowerToys can't remap a `fn` key, but it can remap the `menu` key. Alas this is rarely done this way.
-- Bonus Controls. Should be outside of the usual layout. E.g. Media Keys, Volume Wheel, `fn`.
-- Low Profile Keys. Lighter, more accurate, less strain. Not a priority.
-- Water Resistant. A "water proof" claim is questionable. Not a priority.
-- Pass Through Cabling. Use for a mouse or a numeric keypad. Ideally it would be included with all the smaller (80% & down) keyboards. Not a priority.
-- Large Print. In theory this helps, but it looks odd.
+- Key count. I waffle between 104 keys (100%) and 84 keys (80%), aka Ten Key Less (TKL). My muscle memory prefers the former, but the latter restores valuable desktop space. Some keyboard shortcuts are made assuming a numeric keypad but these can be remapped or avoided or re-implmented with hardware for the numeric keyboard. 96%, 75%, etc. layouts are even tighter but the layouts are inconsistent or not preferable. E.g. If you're going to include the `home`, `page up`, `page down`, `end` keys, then they should be provided in that order.
+- Bottom row keys. The [US-International layout](https://en.wikipedia.org/wiki/British_and_American_keyboards#/media/File:KB_US-International.svg): `ctrl`, `win`, `alt`, `space`, `altgr`, `win`, `menu`, `ctrl`. Ideally the left of the `space` key would have `ctrl`, `win`, `alt`, `fn`, & `menu`, then the same keys in reverse order on the right side. I would like the US International layout, but these days keyboards replace either the right `win` or right `menu` key with a `fn` key. FYI: The `menu` key can also be done with `shift+f10`. PowerToys can't remap a `fn` key, but it can remap the `menu` key.
+- Bonus controls. Should be outside of the usual layout. E.g. Media keys, volume wheel, `fn`.
+- Low profile keys. Lighter, more accurate, less strain. Not a priority.
+- Water resistant keys. A "water proof" claim is questionable. Not a priority.
+- Pass through cabling. Use for a mouse or a numeric keypad. Ideally it would be included with all the smaller (80% & down) keyboards. Not a priority.
+- Large print. In theory this helps, but it looks odd.
 
 ## FYI
 
 - To use a Windows keyboard on a Mac:
   - `alt` works as `option` (`⌥`)
   - `win` (`⊞`) works as `cmd` (`⌘`)
-- Key switches. Both the bump & the click provide some personal satisfaction but the noise may annoy others. I don't type fast enough for the bump to make a difference in my speed.
+- Key switches. Both the bump & the click provide some personal satisfaction, but the noise may annoy others. I don't type fast enough for the bump to make a difference in my typing rate.
   - Red/linear mechanical switch keys have no bump & are quiet.
   - Brown/tactile mechanical switch keys have a bump & are quiet.
   - Blue/clicky mechanical switch keys have a bump & are clicky.
   - Optical switch key rely on breaking a beam instead of physical contact. Not many choices available yet.
+- https://en.wikipedia.org/wiki/Keyboard_layout
+- https://en.wikipedia.org/wiki/QWERTY
+- https://en.wikipedia.org/wiki/British_and_American_keyboards
+- https://en.wikipedia.org/wiki/ECMA-23
+- https://en.wikipedia.org/wiki/ISO/IEC_9995
