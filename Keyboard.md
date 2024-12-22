@@ -6,9 +6,9 @@ My keyboard requirements and preferences.
 
 - **Layout**: US QWERTY. Not the most efficient but I'm used to it and so would most American guest users on my keyboard. Muscle memory allows one to find most keys by feel, i.e. without looking at the keyboard.
 - **Wired**: No batteries to replace or recharge. A wireless keyboard is OK if it also has an option to be wired.
-- `F1`-`F12` keys grouped in sets of 4. This allows them to be located by feel. Ideally each set would be color differentiated.
+- **`F1`-`F12` keys**: Grouped in sets of 4. This allows them to be located by feel. Ideally each set would be color differentiated.
 - **Quiet**: People get annoyed when they can hear your typing during meetings.
-- **Volume **wheel. A volume wheel is preferred over volume keys because it can be adjusted without looking. Clicking the wheel should mute, but quickly dialing up/down can work.
+- **Volume wheel**. A volume wheel is preferred over volume keys because it can be adjusted without looking. Clicking the wheel should mute, but quickly dialing up/down can work.
 - **Double shot keys**: Aka translucent keykaps. 2 plastics are used: 1 for the key and 1 for the see-through character. This way I never have to deal with the paint rubbing off, which has happened often over the years.
 
 ## Preferences
