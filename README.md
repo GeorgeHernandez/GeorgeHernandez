@@ -1,10 +1,10 @@
 # Hello, world! 👋 🌎
 
-My name is George Hernandez and I live in Chicago. I work as Lead Full Stack Engineer at [XIL Health](https://xilhealth.com) in the healthcare industry there. (Yes, it's a [Yon Yonson](https://en.wikipedia.org/wiki/Yon_Yonson) reference.)
+This repository was originally a brief "About Me". However, I love exploring and sharing. What & how I share also tells you about me.
 
-I am a calm, candid, cozy, & curious canid🦊 who strives to be a courageous, creative, & kind contributor. 🦊The fox is my spirit animal: I identify as a hidden forest creature. How do you know? How can you know? Let's test it out. Let's be effective & efficient but manage our suffering as we do it.
+My name is George Hernandez and I live in Chicago.
 
-🦊 I am usually quiet but I will share a few things:
+🦊The fox is my spirit animal: I identify as a hidden forest creature. I am a calm, candid, cozy, & curious canid who strives to be a courageous, creative, & kind contributor. How do you know? How can you know? Let's test it out. Let's be effective & efficient but let's communicate & manage our suffering as we do it.
 
 - 🍞 [Daily List](DailyList.md)
 - 🌱 [Favorite Heuristics](Heuristics.md)
