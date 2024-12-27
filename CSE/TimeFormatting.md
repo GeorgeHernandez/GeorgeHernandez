@@ -59,7 +59,7 @@ There are many tokens for formatting date and time in different contexts so you 
 - Timezone
   - `Z` or `zzz`. Timezone offset as `+` or `-` and `HH:mm`. E.g. `-08:00`.
   - `%z`. Timezone offset as `+` or `-` and `HHMMSS`. E.g. `-080000`.
-  - `z`. Timezone offset as `GMT ` and `+` or `-` and `HH:mm`. E.g. `GMT-08:00`.
+  - `z`. Timezone offset as `GMT` and `+` or `-` and `HH:mm`. E.g. `GMT-08:00`.
   - `%Z`. Timezone name. E.g. `UTC`.
   - `zzzz`. Timezone offset. E.g. `Pacific Standard Time`.
 - Timestamp
