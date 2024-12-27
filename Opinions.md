@@ -1,6 +1,8 @@
 # 1. My Opinions
 
-Here are some of my opinions to express myself in my own idiom and to make a minor contribution to society. I'll start with my opinion on opinions, then provide some of my opinions, starting with some easy ones.
+summary: Some of my opinions to express myself in my own idiom and to make a minor contribution to society.
+
+I'll start with my opinion on opinions, then provide some of my opinions, starting with some easy ones.
 
 - [1. My Opinions](#1-my-opinions)
   - [1.1. My opinions on opinions](#11-my-opinions-on-opinions)

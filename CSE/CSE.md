@@ -1,6 +1,6 @@
 # CSE
 
-summary:: Computer Science Engineering stuff that I enjoy sharing.
+summary:: Computer Science Engineering (CSE) stuff that I enjoy sharing.
 
 - [Keyboard](Keyboard.md). My personal keyboard requirements and preferences.
 - [Time Formatting](TimeFormatting.md). Time formatting for CSE.

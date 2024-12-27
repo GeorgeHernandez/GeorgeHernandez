@@ -1,6 +1,6 @@
 # 1. Mobile Me
 
-Notes on my mobile gear for every day and other occassions.
+summary: My mobile habits for every day carry and other occasions.
 
 - [1. Mobile Me](#1-mobile-me)
   - [1.1. Usually On Me](#11-usually-on-me)

@@ -1,6 +1,6 @@
 # Wonderful
 
-Here is some stuff that I find wonderful, almost magical.
+summary: Some stuff I find wonderful, almost magical.
 
 1. Bicycles. Balance and mechanical advantage.
 1. Children

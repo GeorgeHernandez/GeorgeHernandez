@@ -6,6 +6,6 @@ summary: Public log by George Hernandez.
 
 ```dataview
 TABLE summary as "Summary", file.folder as "Folder"
-WHERE contains(file.path, this.file.folder) AND file.name != this.file.name AND file.name != "Attachments" AND file.name != "_attachments" AND file.name != "Template"
+WHERE contains(file.path, this.file.folder) AND file.name != this.file.name AND file.name != "Attachments" AND file.name != "_attachments"
 SORT file.name ASC
 ```

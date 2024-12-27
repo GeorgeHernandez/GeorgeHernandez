@@ -1,5 +1,7 @@
 # 1. Know Thyself
 
+summary: A few things about me.
+
 The Ancient Greek aphorism ["know thyself"](https://en.wikipedia.org/wiki/Know_thyself) is one the three Delphic maxims inscribed at the Temple of Apollo at Delphi. This phrase can be interpreted in many ways but usually it means that it is helpful and wise to contemplate on yourself. On the other hand, one of the other maxims inscribed at the same temple is "nothing to excess", so don't over examine yourself.
 
 It is prudent to be introspective (in moderation), but people also love to do it. People are fascinated with themselves because we have to deal with ourselves all the time. People also want to know more about the other people, especially those that we have to deal with. Heck people are social animals who like stories and patterns, so we like to learn about other people in general. Knowing yourself and others reduces social friction, creates empathy, improves problem solving, and so on.
