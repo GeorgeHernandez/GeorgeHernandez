@@ -8,12 +8,12 @@ My name is George Hernandez and I live in Chicago.
 
 - 🍞 [Daily List](DailyList.md)
 - 🌱 [Favorite Heuristics](Heuristics.md)
-- ⌨️ [Keyboard](Keyboard.md)
 - 🦊 [Know Thyself](KnowThyself.md)
 - 🚶🏽 [Mobile Gear](MobileGear.md)
 - 🤌🏽 [Opinions](Opinions.md)
 - 💬 [Favorite Quotes](Quotes.md)
 - ✨ [Wonderful Stuff](Wonderful.md)
+- ⌨️ [CSE](CSE/README.md)
 
 <!-- Notes to self:
 - Visual Studio Code:

@@ -1,6 +1,6 @@
 # 1. Time Formatting
 
-Time formatting for CSE.
+summary:: Time formatting for CSE.
 
 - [1. Time Formatting](#1-time-formatting)
   - [1.1. Favorite Formatting Tokens](#11-favorite-formatting-tokens)

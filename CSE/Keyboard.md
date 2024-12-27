@@ -1,6 +1,6 @@
 # My Keyboard
 
-My keyboard requirements and preferences.
+summary:: My personal keyboard requirements and preferences.
 
 ## Requirements
 
