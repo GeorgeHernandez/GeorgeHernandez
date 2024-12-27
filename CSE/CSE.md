@@ -3,6 +3,7 @@
 summary:: Computer Science Engineering (CSE) stuff that I enjoy sharing.
 
 - [Keyboard](Keyboard.md). My personal keyboard requirements and preferences.
+- [Markdown](Markdown.md). Notes on Markdown, a lightweight markup language that converts into HTML.
 - [Time Formatting](TimeFormatting.md). Time formatting for CSE.
 
 ```dataview

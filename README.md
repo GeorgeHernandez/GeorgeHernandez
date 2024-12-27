@@ -26,8 +26,8 @@ FYI about this repo:
 - This repo is publicly shared on [GitHub](https://github.com/) but is better viewed with the Obsidian app.
 - [Obsidian](https://obsidian.md/):
   - Several of my pages of table of contents (for other pages) managed with the [Dataview community plugin](https://blacksmithgu.github.io/obsidian-dataview/) for Obsidian.
-  - Date: ctrl + ;
-  - Time: ctrl + :
+  - Date: `ctrl + ;`
+  - Time: `ctrl + :`
   - [My Obsidian Templates](Templates/Templates.md)
 - Visual Studio Code:
   - Several of my pages have table of contents (for the page) managed with the "Markdown All In One" extension.
