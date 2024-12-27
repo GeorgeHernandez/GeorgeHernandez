@@ -15,4 +15,12 @@ I am a calm, candid, cozy, & curious canid🦊 who strives to be a courageous, c
 - 💬 [Favorite Quotes](Quotes.md)
 - ✨ [Wonderful Stuff](Wonderful.md)
 
-<!-- Several of my pages have table of contents manged in Visual Studio Code with the "Markdown All In One" extension.  -->
+<!-- Notes to self:
+- Visual Studio Code:
+  - Several of my pages have table of contents managed with the "Markdown All In One" extension.
+  - Now via shortcut: ctrl + k t
+  - Now via snippet: ctrl + space now
+- Obsidian:
+  - Date: ctrl + ;
+  - Time: ctrl + :
+-->
