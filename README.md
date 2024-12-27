@@ -13,7 +13,7 @@ My name is George Hernandez and I live in Chicago.
 - 🤌🏽 [Opinions](Opinions.md)
 - 💬 [Favorite Quotes](Quotes.md)
 - ✨ [Wonderful Stuff](Wonderful.md)
-- ⌨️ [CSE](CSE.md)
+- ⌨️ [CSE](CSE/CSE.mdCSE.md)
 
 <!-- Notes to self:
 - Visual Studio Code:
