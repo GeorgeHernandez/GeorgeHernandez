@@ -48,7 +48,7 @@ I implement my Daily List in Google Keep.
     - [ ] Unarmed
     - [ ] Wrestling
     - [ ] Armed
-- [ ] 🚿🪒👣👁️💨💧.
+- [ ] 💧🚿🪒👣👁️💨💧.
   - [ ] Shower, shave, nails, examine feet, etc.
   - [ ] Run the fan after the shower
   - [ ] Eye drops as needed.
