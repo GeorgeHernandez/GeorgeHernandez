@@ -2,6 +2,7 @@
 
 summary:: Computer Science Engineering (CSE) stuff that I enjoy sharing.
 
+- [Google Wish List](GoogleWishList.md). Just a few personal requests for Google.
 - [Keyboard](Keyboard.md). My personal keyboard requirements and preferences.
 - [Markdown](Markdown.md). Notes on Markdown, a lightweight markup language that converts into HTML.
 - [Time Formatting](TimeFormatting.md). Time formatting for CSE.

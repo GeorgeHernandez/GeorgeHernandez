@@ -2,7 +2,7 @@
 
 summary: Public log by George Hernandez.
 
-- [2024-12](2024-12.md)
+- [2024](2024.md)
 
 ```dataview
 TABLE summary as "Summary", file.folder as "Folder"
