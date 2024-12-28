@@ -334,6 +334,7 @@ The `strike` tag is HTML 5 obsolete in favor of the `s` tag or the `ins` and `de
 - URL #1. E.g. `http://example.com` & `foo@example.com` become http://example.com & foo@example.com.
 - URL #2. E.g. `<http://example.com>` & `<foo@example.com>` become <http://example.com> & <foo@example.com>.
 - Alt, URL. E.g. `[example](https://example.com)` becomes [example](http://example.com).
+  - If the URL contains parentheses, enclose it in angle bracket. E.g. `[Obsidian](<https://en.wikipedia.org/wiki/Obsidian_(software)>)` becomes [Obsidian](<https://en.wikipedia.org/wiki/Obsidian_(software)>).
 - Alt, URL, title. E.g. `[example](https://example.com "tooltip")` becomes [example](http://example.com "tooltip").
 - Local relative link. E.g. `[About](CSE.md)` becomes [CSE](CSE.md).
 - Format links. E.g.

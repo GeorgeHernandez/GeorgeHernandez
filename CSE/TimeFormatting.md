@@ -1,13 +1,8 @@
-# 1. Time Formatting
+# Time Formatting
 
 summary:: Time formatting for CSE.
 
-- [1. Time Formatting](#1-time-formatting)
-  - [1.1. Favorite Formatting Tokens](#11-favorite-formatting-tokens)
-  - [1.2. Favorite Token Combinations](#12-favorite-token-combinations)
-  - [1.3. References](#13-references)
-
-## 1.1. Favorite Formatting Tokens
+## Favorite Formatting Tokens
 
 There are many tokens for formatting date and time in different contexts so you have to check your context. I am merely collecting a few of my favorites, especially ISO 8601.
 
@@ -70,7 +65,7 @@ There are many tokens for formatting date and time in different contexts so you 
   - `%%`. Literal `%`.
   - `\`. Escape character `%`. E.g. `h \h` can yield `1 h`.
 
-## 1.2. Favorite Token Combinations
+## Favorite Token Combinations
 
 - Date
   - `YYYY-MM-DD`. ISO 8601 date. E.g. `2009-06-15`.
@@ -85,7 +80,7 @@ There are many tokens for formatting date and time in different contexts so you 
   - `HH:mm`. ISO 8601 hour and minutes. E.g. `13:45`.
   - `HH:mm:ss` or `%X`1. ISO 8601 hour, minutes, and seconds. E.g. `13:45:30`.
 
-## 1.3. References
+## References
 
 - C/C++
   - https://en.wikipedia.org/wiki/C_date_and_time_functions
