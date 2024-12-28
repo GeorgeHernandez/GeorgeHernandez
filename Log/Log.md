@@ -1,6 +1,6 @@
 # Log
 
-summary: Public log by George Hernandez.
+summary:: Public log by George Hernandez.
 
 - [2024](2024.md)
 
