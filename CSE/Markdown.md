@@ -479,8 +479,8 @@ MAY become:
 
 Markdown does not cover all HTML.
 
-- To do subscripts, use raw HTML. E.g. `H<sub>2</sub>O is water` becomes H<sub>2</sub>O is water. Alternatively you could use naturally superscripted characters. E.g. `H₂O is water` becomes H₂O is water.
-- To do superscripts, use raw HTML. E.g. `3<sup>2</sup> = 9` becomes 3<sup>2</sup> = 9. Alternatively you could use naturally superscripted characters. E.g. `3² = 9` becomes 3² = 9.
+- To do subscripts, use raw HTML. E.g.  `H<sub>2</sub>O is water` becomes H<sub>2</sub>O is water. Alternatively you could use naturally superscripted characters. E.g. With U+2082: `H₂O is water` becomes H₂O is water.
+- To do superscripts, use raw HTML. E.g. `3<sup>2</sup> = 9` becomes 3<sup>2</sup> = 9. Alternatively you could use naturally superscripted characters. E.g. With U+00B2: `3² = 9` becomes 3² = 9.
 
 ### Glossaries
 
