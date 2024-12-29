@@ -356,6 +356,8 @@ A reference-style link has 2 parts:
 - The ID can be used 1..N times on the page. E.g.
   - `[One][1] and [Two] [2] are good but [Two][2] is better`
 
+BTW: Obsidian uses Markdown links but also Wikilinks. The latter are convenient within Obsidian but are NOT Markdown and only point to Markdown files within the Obsidian vault. E.g. `[[Hi world|Hello world]]` functions like `[Hello world](Hello%20world.md)`.
+
 ### Images (img)
 
 Alt, URL. E.g.
