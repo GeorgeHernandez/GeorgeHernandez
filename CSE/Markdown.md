@@ -334,7 +334,15 @@ The `strike` tag is HTML 5 obsolete in favor of the `s` tag or the `ins` and `de
 - URL #1. E.g. `http://example.com` & `foo@example.com` become http://example.com & foo@example.com.
 - URL #2. E.g. `<http://example.com>` & `<foo@example.com>` become <http://example.com> & <foo@example.com>.
 - Alt, URL. E.g. `[example](https://example.com)` becomes [example](http://example.com).
+- Anchors (aka Bookmarks).
+  - Anchor on another page. E.g. An anchor like `<a name="foo">` can be linked to with `[foo](https://example.com#bar)` which becomes [foo](https://example.com#bar).
+  - Anchor on same page. E.g. `[foo](#bar)` becomes [foo](#bar).
   - If the URL contains parentheses, enclose it in angle bracket. E.g. `[Obsidian](<https://en.wikipedia.org/wiki/Obsidian_(software)>)` becomes [Obsidian](<https://en.wikipedia.org/wiki/Obsidian_(software)>).
+  - Systems often create implicit anchors for headers in Markdown. E.g.
+    - An anchor of `## My Header` may be linked to with `[My Header](#my-header)`. 
+    - Obsidian Wikilinks will search & auto-complete an anchor of `## My Header` with `[[##My Header`.
+    - Bitbucket might prefix implicit anchor with `markdown-header-`.
+    - GitHub might prefix with `user-content-`.
 - Alt, URL, title. E.g. `[example](https://example.com "tooltip")` becomes [example](http://example.com "tooltip").
 - Local relative link. E.g. `[About](CSE.md)` becomes [CSE](CSE.md).
 - Format links. E.g.
@@ -348,7 +356,7 @@ The `strike` tag is HTML 5 obsolete in favor of the `s` tag or the `ins` and `de
 
 A reference-style link has 2 parts:
 
-- The URL is refrenced by an ID that is specified anywhere on the page but often at the end of the document. E.g.
+- The URL is referenced by an ID that is specified anywhere on the page but often at the end of the document. E.g.
   - `[1]:  https://example.com/1`
   - `[2]: <https://example.com/2>`
   - `[3]:  https://example.com/3 "tooltip"`
@@ -356,7 +364,7 @@ A reference-style link has 2 parts:
 - The ID can be used 1..N times on the page. E.g.
   - `[One][1] and [Two] [2] are good but [Two][2] is better`
 
-BTW: Obsidian uses Markdown links but also Wikilinks. Wikilinks are convenient within Obsidian (auto-complete, simpler syntax, works with DataView, etc.) but are NOT Markdown and can only point to Markdown files within the Obsidian vault. E.g. `[[Hi world|Hello world]]` functions like `[Hello world](Hello%20world.md)`.
+BTW: Obsidian uses Markdown links but also Wikilinks. Wikilinks are convenient within Obsidian (search & auto-complete, simpler syntax, works with DataView, etc.) but are NOT Markdown and can only point to Markdown files within the Obsidian vault. E.g. `[[Hi world|Hello world]]` functions like `[Hello world](Hello%20world.md)`.
 
 ### Images (img)
 
