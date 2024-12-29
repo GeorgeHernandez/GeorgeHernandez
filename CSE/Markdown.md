@@ -327,7 +327,9 @@ To use both `em` and `strong` tripple asterisks (preferred because underscores a
 
 The `code` tag is made with single backticks, and is usually rendered as monospace. E.g. `` `foo` `` becomes `foo`. To display multiple backticks, then enclose with even more backticks! E.g. ` ````enclose code with 3 backticks (```) with 4 backticks```` ` becomes ` enclose code with 3 backticks (```) with 4 backticks `.
 
-The `strike` tag is HTML 5 obsolete in favor of the `s` tag or the `ins` and `del` tag pair. In Markdowns the `s` tag is made with double tildes, and is usually rendered as a strikethrough. E.g `~~foo~~` become ~~foo~~.
+The `strike` tag is HTML 5 obsolete in favor of the `s` tag or the `ins` and `del` tag pair. In Markdowns the `s` tag is made with double tildes, and is usually rendered as a strikethrough. E.g. `~~foo~~` becomes ~~foo~~.
+
+Obsidian Markdown can highlight but it is not standard Markdown. E.g. `==foo==` becomes ==foo==.
 
 ### Links (a)
 
@@ -518,3 +520,4 @@ MAY become:
 - https://www.markdownguide.org/basic-syntax/
 - https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/
 - [Use Markdown in Google Docs, Slides, & Drawings](https://support.google.com/docs/answer/12014036?hl=en). Since around 2022-04. Italics, Bold, Italics & Bold, Strikethrough (enclose with `-` instead of `~~`), Links, & Headings. Google was already been converting `- ` or `* ` to a bullet list item.
+- https://help.obsidian.md/Editing+and+formatting/Obsidian+Flavored+Markdown
