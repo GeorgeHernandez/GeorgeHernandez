@@ -1,3 +1,3 @@
 # {{date: YYYY-MM-DD}}
 
-summary:: A template for new logs.
+summary:: Log noteS for {{date: YYYY-MM-DD}}.

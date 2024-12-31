@@ -14,28 +14,33 @@ summary: My mobile habits for every day carry and other occasions.
 
 ## 1.1. Usually On Me
 
-- Right Front Pocket: Phone. Samsung Galaxy Z Fold 3
-- Right Front Mini Pocket: Ear Plug in a Case
-- Left Front Pocket:
+- Right front pocket: 
+  - Phone. Samsung Galaxy Z Fold 3
+  - Pen. Soft plastic. Cheap because it is easily lost.
+- Right front mini pocket:
+  - Ear plug in a case
+  - A few coins
+- Left front pocket:
   - Wallet
-  - Pen. Cheap because it is easily lost.
-- Right Rear Pocket:
+  - Soft measuring tape
+- Right rear pocket:
   - Handkerchief
-  - Soft Measuring Tape
-- Belt Loop:
+- Belt loop:
   - Ring:
-    - House Key
-    - Mail Key
-  - Ring: Car Fob
-  - Ring: Rechargeable USB C Flashlight
-  - Ring: Whistle
-  - Ring: Mini-Tool: Scissors, Nail File, Flat Screwdriver
+    - House key
+    - Mail key
+    - Garage key
+  - Car fob
+   - Ring: 
+     - Whistle with bottle opener
+     - Key-sized mini-tool
+     - Swiss Army Knife: The Jetsetter has no blade.
 
 ## 1.2. Wallet
 
 It is good to know what was in my wallet in case I lose it. "!" means not in my wallet
 
-- Credit Cards:
+- Credit cards:
   - American Express (AMEX)
   - ! Bank of America MC
   - ! Bread AMEX
@@ -44,10 +49,10 @@ It is good to know what was in my wallet in case I lose it. "!" means not in my 
   - ! Fidelity Visa
   - PayPal MC
   - Target MC
-- Store Cards:
+- Store cards:
   - Menards
   - ! MicroCenter
-- Debit Cards:
+- Debit cards:
   - ! AMEX
   - Capital One MC
   - Fidelity HSA Visa
@@ -56,207 +61,208 @@ It is good to know what was in my wallet in case I lose it. "!" means not in my 
 - IDs:
   - Illinois Driver's License
   - UIC
-- Other Cards:
+- Other cards:
   - Chicago Public Library
-  - Ventra Public Transporation
+  - Ventra Public Transportation
   - ! YMCA Gym
 - Cash
 
 ## 1.3. Outerwear By Temperature
 
 - 80+ F (25+ C):
-  - Head: 360° Brim
+  - Head: 360° brim
 - 70-80 F (20-25 C):
-  - Head: Trucker Cap
+  - Head: Trucker cap
 - 60-70 F (15-20 C):
   - Head: Cap
-  - Body: Hoodie or Windbreaker
+  - Body: Hoodie or windbreaker
 - 50-60 F (10-15 C):
-  - Head: Cap, Scarf
-  - Body: Hoodie or Windbreaker
-  - Hands: Light Gloves
+  - Head: Cap, scarf
+  - Body: Hoodie or windbreaker
+  - Hands: Light gloves
 - 40-50 F (5-10 C):
-  - Head: Cap, Scarf
-  - Body: Weighty Hoodie or Jacket
-  - Hands: Light Gloves
+  - Head: Cap, scarf
+  - Body: Weighty hoodie or jacket
+  - Hands: Light gloves
 - < 40 F (< 5 C):
-  - Head: Beanie Hat, Scarf, Balaklava
-  - Body: Coat, Long Johns
-  - Hands: Medium Gloves
+  - Head: Beanie hat, scarf, balaklava
+  - Body: Coat, Inner Jacket, Long Johns
+  - Hands: Medium gloves
 
 ## 1.4. Gym Bag
 
-- Duffel Bag / Backpack. 60 L with handles on 2 ends & 2 sides by Mier.
-- Front Outside Pocket
-  - Combination Lock
-  - Minimalist Gloves. By Barehand.
-  - Eyewear Retainer. By Croakies.
-- Mesh Inside Pocket:
-  - Nail Clipper
+- Duffel bag / backpack. 60 L with handles on 2 ends & 2 sides by Mier.
+- Front outside pocket
+  - Combination lock
+  - Minimalist gloves. By Barehand.
+  - Eyewear retainer. By Croakies.
+- Mesh inside pocket:
+  - Nail clipper
   - Handkerchief
-  - Head Band
-  - Rolling Beanie
-  - Tally Counter. Cheap & waterproof.
-  - Hand Wraps
-- Shoe Pocket:
+  - Head band
+  - Rolling beanie
+  - Tally counter. Cheap & waterproof.
+  - Hand wraps
+- Shoe pocket:
   - Shoes
   - Flip Flops
-- Main Pocket:
-  - Lifting Belt
-  - Boxing Gloves
-  - Shin Guards
+- Main pocket:
+  - Lifting belt
+  - Boxing gloves
+  - Shin guards
   - Cloth Black Belt
-  - Leather Belt
+  - Leather belt
   - Shorts. Refresh beforehand!
-  - Water Bottle. Refresh beforehand!
+  - Water bottle. Refresh beforehand!
+  - Folder for paperwork
 
 ## 1.5. Swim Bag
 
-- Outside Pockets:
-  - Water Bottle. Refresh beforehand!
-  - Swim Googles
-  - Tally Counter. Cheap & waterproof.
+- Outside pockets:
+  - Water bottle. Refresh beforehand!
+  - Swim goggles
+  - Tally counter. Cheap & waterproof.
   - Handkerchief
-- Inside Pocket:
-  - Combination Lock
-- Main Pocket
-  - Flip Flops
-  - Swim Shorts. Refresh beforehand!
-  - Fresh Towel. Refresh beforehand!
+- Inside pocket:
+  - Combination lock
+- Main pocket:
+  - Flip flops
+  - Swim shorts. Refresh beforehand!
+  - Fresh towel. Refresh beforehand!
 
 ## 1.6. Work Backpack
 
-- TSA-Sized. Can cinch tight.
-- Main Pocket:
-  - Clipboard with Pen & Paper
-  - Folder with Scrap Paper & Blank Paper
-  - Misc Work/School Folders
+- TSA-sized. Can cinch tight.
+- Main pocket:
+  - Clipboard with pen & scrap paper
+  - Folder with scrap paper & blank paper
+  - Folders as needed
   - Umbrella
-  - Windbreaker with Hood
-  - Water Bottle. Refresh beforehand!
-  - Solar Power Bank with Cord leading to External Female USB A
+  - Windbreaker with hood
+  - Water bottle. Refresh beforehand!
+  - Solar power bank with cord leading to external female USB A.
   - Laptop
-  - Keffiyeh. Versatile & cushions Laptop.
-- Front Pocket Forward: Empty Reusable Bag
-- Front Pocket Middle: Tech:
-  - Laptop Charger & Cord
-  - Wireless Mouse
-  - Power Strip with 2 Female USB A Ports & 2 Female USB C Ports
-  - Wall & Car Charger with 2 Female USB A Ports
-  - Cord with Male USB A to Male USB Micro & USB C & Lightning
+  - Keffiyeh. Versatile & cushions laptop.
+- Front pocket forward: Empty reusable bag
+- Front pocket middle: Tech:
+  - Laptop charger & cord
+  - Wireless mouse
+  - Power strip with 2 female USB A ports & 2 female USB C ports
+  - Wall & car charger with 2 female USB A ports
+  - Cord with male USB A to male USB Micro & USB C & Lightning
   - Ziploc:
-    - AA Battery. Spare for my Mouse.
-    - USB Stick 64 GB
-    - Adapter with Female USB A to Male USB C
-    - Adapter with Female USB C to Male USB A
-    - Adapter with Female HDMI to Male USB C
-    - Adapter with Male USB A & C to Male USB C & Lightning
-- Top Pocket: Office:
+    - AA battery. Spare for my mouse.
+    - USB stick 64 GB
+    - Adapter with female USB A to male USB C
+    - Adapter with female USB C to male USB A
+    - Adapter with female HDMI to male USB C
+    - Adapter with male USB A & C to male USB C & Lightning
+- Top pocket: Office:
   - Pens
   - Pencils
-  - Pencil Shapener
-  - Dry Erase Markers
+  - Pencil sharpener
+  - Dry erase markers
   - Calculator: TI-30Xs
-  - Eraser Stick
-  - Sticky Notes
-- Side Pocket:
+  - Eraser stick
+  - Sticky notes
+- Side pocket:
   - Snacks
-  - Pocket Knife: Swiss Army Work Champ
-  - Rechargeable USB C Flashlight
+  - Rechargeable USB C flashlight
   - Teaspoon
-  - Duct Tape
-  - Latex Gloves
-  - Pepper Spray
-  - Ziploc Bag:
-    - Pill Box with Ibuprofen
+  - Duct tape
+  - Latex gloves
+  - Pepper spray
+  - Ziploc bag:
+    - Pill box with Ibuprofen
     - Cash
     - Matches
     - Lighter
-- Shoulder Straps:
-  - Paracord Bracelet with Mini Knife
-  - Hooking Carbiner
-- Top Handle: Hat Clip
+- Shoulder straps:
+  - Double-ended carbineer
+  - Flashlight carbineer
+  - Hooking carbineer
+  - Carbineer with a small knife
+  - Hat vlip
 
 ## 1.7. Bug Out Bag
 
-- Large Backpack. Lockable.
-- Outside Pockets:
-  - Water Bottle. Refresh beforehand!
+- Large backpack. Lockable.
+- Outside pockets:
+  - Water bottle. Refresh beforehand!
   - Rope
-- Minor Pocket: Top:
-  - Pouch with Multi-Tool by Leatherman
+- Minor pocket: Top:
+  - Pouch with multi-tool by Leatherman
   - Whistle/Thermometer/Compass
   - Handkerchief
-- Minor Pocket: Front:
+- Minor pocket: Front:
   - Pen
-  - Sticky Notes
-  - Playing Cards
+  - Sticky notes
+  - Playing cards
   - Cash
-  - Survival Mirror
+  - Survival mirror
   - Pocket Desk Reference
-  - Emergency Blanket
-  - Survival Knife. Thick fixed blade.
+  - Emergency blanket
+  - Survival knife. Thick fixed blade.
   - Flashlight. Rechargeable USB Micro.
   - Lighter
-  - Fire Starter
-  - Duct Tape
-  - Rain Poncho. Can wear over Bag
-- Main Pocket:
-  - In Grocery Bag:
-    - Collapsible Plate, Bowl, Cup
-    - Camp Fork, Knife, Spoon, Chopsticks, Straw
-    - Toilet Paper
-    - Wind-Up Radio/Flashlight
-  - In Grocery Bag:
+  - Fire starter
+  - Duct tape
+  - Rain poncho. Can wear over bag.
+- Main pocket:
+  - In grocery bag:
+    - Collapsible plate, bowl, cup
+    - Camp fork, knife, spoon, hopsticks, strawc
+    - Toilet paper
+    - Wind-up radio/flashlight
+  - In grocery bag:
     - Clothes:
       - Socks
       - Underwear
-      - Shoe Socks
-      - Pants that Zip-Off to Shorts
-      - Long Sleeve T-Shirt
-      - Windbreaker with Hood
-      - Neck Gator
-      - Forearm Sleeves
-      - Beanie Hat
-  - Collapsible Shovel/Pickaxe
-  - Camp Axe/Hammer
-  - Water Pouch
+      - Shoe socks
+      - Pants that zip-off to shorts
+      - Long sleeve T-shirt
+      - Windbreaker with hood
+      - Balaclava
+      - Forearm fleeves
+      - Beanie hat
+  - Collapsible shovel/pickaxe
+  - Camp axe/hammer
+  - Water pouch
   - Tarp
   - Towel
-  - First Aid Kit
+  - First aid kit
   - Glock G19 and 50 rounds
   - Food. As needed. Preferably in a separate bag.
   - Clipboard
-  - Water-Resistant Folder:
+  - Water-resistant folder:
     - Paper
-    - Manila Folders
+    - Manila folders
     - Maps: Chicago, Illinois, USA, World
 
 ## 1.8. Travel Bags
 
-- Travel Bag. TSA-Sized.
-- Toiletry Bag:
-  - Tootbrush & Cover
+- Travel bag. TSA-sized.
+- Toiletry bag:
+  - Tootbrush & cover
   - Toothpaste
   - Medications
-  - Hooking Carbiner
+  - Hooking carbineer
   - Flashlight. Rechargeable USB C.
-  - Collapisble Cup
-  - Nail Clippers. In Check-In Bag, otherwise buy at destination.
+  - Collapsible Cup
+  - Nail clippers. In check-in bag, otherwise buy at destination.
   - Razor
 - Clothes:
   - Socks
   - Underwear
-  - Sleep Wear
-- Wireless Phone and Watch Charger
--
+  - Sleep wear
+- Wireless phone and watch charger
 - For Longer Trips:
-  - Slip on Shoes (e.g. Crocs) for Airport and Room
-  - Eye Shield
-  - Neck Pillow that holds Head back
+  - Slip on shoes (e.g. Crocs) for airport and room
+  - Eye shield.
+  - Neck pillow that holds head back.
   - Passport
-  - Workout Clothes and Shoes
-  - Ears and Charger
-  - Juggling Balls
-  - Jump Rope
-- Check-In Bag. As needed.
+  - Workout clothes, shoes
+  - Ears and charger
+  - Juggling balls
+  - Jump rope
+- Check-in bag. As needed.
