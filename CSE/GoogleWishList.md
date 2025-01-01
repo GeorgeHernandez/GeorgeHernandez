@@ -37,6 +37,7 @@ summary:: Just a few personal requests for Google.
 - [Text folding / Code folding](https://productforums.google.com/forum/#!topic/docs/tVIgbwtAYtI])
 - 2020-02-18 Just as there is a keyboard shortcut to apply italic styling (ctrl+i) or heading 1 (ctrl+alt+1), I would like a shortcut for PRE styling or a way to do it in a Markdown fashion.
 - 2022-09-07 A way to insert a Document Summary in the Document that stays in sync with the Document Summary on the left.
+- 2025-01-01 A way to insert a smart chip on mobile. You can update some smart chip on mobile, but you can't insert them.
 
 ## Google Keep
 
