@@ -345,7 +345,9 @@ Obsidian Markdown can highlight but it is not standard Markdown. E.g. `==foo==` 
     - Bitbucket might prefix implicit anchor with `markdown-header-`.
     - GitHub might prefix with `user-content-`.
 - Alt, URL, title. E.g. `[example](https://example.com "tooltip")` becomes [example](http://example.com "tooltip").
-- Local relative link. E.g. `[About](CSE.md)` becomes [CSE](CSE.md).
+- Local relative links. 
+  - Look in same same folder or parent folders for the specified file. E.g. `[CSE](CSE.md)`.
+  - Look in child folders for the specified file. E.g. `[bar](foo/bar.md)`.
 - Format links. E.g.
   - `**[example](https://example.com)**` becomes **[example](https://example.com)**
   - `_[example](https://example.com)_` becomes _[example](https://example.com)_
