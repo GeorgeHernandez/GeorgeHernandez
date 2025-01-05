@@ -1,6 +1,7 @@
 # Google Wish List
 
 summary:: Just a few personal requests for Google.
+parents:: [[CSE]]
 
 ## Android
 

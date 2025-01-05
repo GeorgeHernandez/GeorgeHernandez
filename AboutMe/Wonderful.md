@@ -1,7 +1,7 @@
 # Wonderful
 
 summary: Some stuff I find wonderful, almost magical.
-parents: [[My]]
+parents: [[AboutMe]]
 
 1. Bicycles. Balance and mechanical advantage.
 1. Children

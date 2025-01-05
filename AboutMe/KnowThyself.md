@@ -1,7 +1,7 @@
 # 1. Know Thyself
 
 summary:: A few things about me.
-parents: [[My]]
+parents: [[AboutMe]]
 
 The Ancient Greek aphorism ["know thyself"](https://en.wikipedia.org/wiki/Know_thyself) is one the three Delphic maxims inscribed at the Temple of Apollo at Delphi. This phrase can be interpreted in many ways but usually it means that it is helpful and wise to contemplate on yourself. On the other hand, one of the other maxims inscribed at the same temple is "nothing to excess", so don't over examine yourself.
 

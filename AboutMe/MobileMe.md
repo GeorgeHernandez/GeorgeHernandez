@@ -1,7 +1,7 @@
 # 1. Mobile Me
 
 summary:: My mobile habits for every day carry and other occasions.
-parents: [[My]]
+parents: [[AboutMe]]
 
 - [1. Mobile Me](#1-mobile-me)
   - [1.1. Usually On Me](#11-usually-on-me)

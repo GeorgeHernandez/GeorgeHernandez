@@ -1,7 +1,9 @@
-# My
+# About Me
 
 summary:: Stuff particularly "About Me".
 parents:: [[README|Home]]
+
+🦊The fox is my spirit animal: I identify as a hidden forest creature. I am a calm, candid, cozy, & curious canid who strives to be a courageous, creative, & kind contributor. How do you know? How can you know? Let's test it out. Let's be effective & efficient but let's communicate & manage our suffering as we do it.
 
 - 🍞 [[DailyList]]. My Daily List (checklist, routine) in Pictograms (for brevity).
 - 🌱 [[Heuristics|Favorite Heuristics]]. Some of my favorite heuristics.

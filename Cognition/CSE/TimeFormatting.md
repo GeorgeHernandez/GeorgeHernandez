@@ -1,6 +1,7 @@
 # Time Formatting
 
 summary:: Time formatting for CSE.
+parents:: [[CSE]]
 
 ## Favorite Formatting Tokens
 

@@ -1,6 +1,7 @@
 # My Keyboard
 
 summary:: My personal keyboard requirements and preferences.
+parents:: [[CSE]]
 
 ## Requirements
 
