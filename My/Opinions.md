@@ -1,6 +1,7 @@
 # 1. My Opinions
 
-summary: Some of my opinions to express myself in my own idiom and to make a minor contribution to society.
+summary:: Some of my opinions to express myself in my own idiom and to make a minor contribution to society.
+parents: [[My]]
 
 I'll start with my opinion on opinions, then provide some of my opinions, starting with some easy ones.
 

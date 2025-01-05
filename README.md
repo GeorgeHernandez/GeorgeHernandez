@@ -16,10 +16,14 @@ Files:
 - 💬 [Favorite Quotes](Quotes.md)
 - ✨ [Wonderful Stuff](Wonderful.md)
 
-Directories:
+There's my [[Log]] 🪵, which should be largely point-in-time content, then there's content that I intend to edit as needed over time, and have categorized as follows:
 
-- ⌨️ [CSE](CSE/CSE.md)
-- 🪵 [Log](Log/Log.md)
+- [[Cognition]] 🦉. Pertains to the mind, STEM, prudence, etc.
+- [[Courage]] 🦁. Pertains to the body, martial arts, exercise, etc.
+- [[Culture]] 🕊️. Pertains to the spirit, worldviews, justice, etc.
+- [[Log]] 🪵. Largely point-in-time content, that I shouldn't edit.
+- [[My]] 🦊. Stuff particularly "About Me".
+- [[zEtc]] 📤. Stuff that doesn't fit neatly into my schema.
 
 FYI about this repo:
 

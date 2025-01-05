@@ -1,6 +1,7 @@
 # CSE
 
 summary:: Computer Science Engineering (CSE) stuff that I enjoy sharing.
+parents:: [[Cognition]]
 
 - [Google Wish List](GoogleWishList.md). Just a few personal requests for Google.
 - [Keyboard](Keyboard.md). My personal keyboard requirements and preferences.

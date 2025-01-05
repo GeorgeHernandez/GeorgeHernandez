@@ -1,6 +1,7 @@
 # 1. My Favorite Heuristics
 
 summary:: Some of my favorite heuristics.
+parents: [[My]]
 
 A [heuristic](https://en.wikipedia.org/wiki/Heuristic) is any approach to problem solving or self-discovery that employs a practical method that is not guaranteed to be optimal, perfect, or rational, but is nevertheless sufficient for reaching an immediate, short-term goal or approximation. The origin of a heuristic doesn't matter (when, who, where, how, why, etc.), as long as it is helpful. (The curious and intellectually honest should want to dig into the derivation, political context, etc.. If a heuristic isn't helpful, then don't use it.
 

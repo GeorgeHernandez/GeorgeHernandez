@@ -2,7 +2,7 @@
 
 summary:: My Obsidian templates.
 
-- [Log](Log.md)
+- [LogNote](LogNote.md)
 - [Note](Note.md)
 
 ```dataview
