@@ -3,10 +3,11 @@
 summary:: Computer Science Engineering (CSE) stuff that I enjoy sharing.
 parents:: [[Cognition]]
 
-- [Google Wish List](GoogleWishList.md). Just a few personal requests for Google.
-- [Keyboard](Keyboard.md). My personal keyboard requirements and preferences.
-- [Markdown](Markdown.md). Notes on Markdown, a lightweight markup language that converts into HTML.
-- [Time Formatting](TimeFormatting.md). Time formatting for CSE.
+- [[GoogleWishList|Google Wish List]]. Just a few personal requests for Google.
+- [[Keyboard]]. My personal keyboard requirements and preferences.
+- [[Markdown]]. Notes on Markdown, a lightweight markup language that converts into HTML.
+- [[Obsidian]]. Notes on Obsidian, a personal knowledge base and note-taking software application that operates on Markdown files in a Vault (repo or directory).
+- [[TimeFormatting|Time Formatting]]. Time formatting for CSE.
 
 ```dataview
 TABLE summary as "Summary", file.folder as "Folder"
