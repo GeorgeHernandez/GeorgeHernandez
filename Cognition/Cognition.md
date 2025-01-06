@@ -3,6 +3,12 @@
 summary:: A category for items emphasizing cognition.
 parents:: [[README|Home]]
 
+🦉 **Cognition**. I love STEM and seeking the Objective. Epistemology: How do you know? How can you know? Let’s test it out. 32 + 42 = 52. [Unicode](https://en.wikipedia.org/wiki/Unicode). Wikipedia. Levers. [PV = nRT](https://en.wikipedia.org/wiki/Ideal_gas_law). Metric system. [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601). Spreadsheets.
+
+> [!quote]
+> The first principle is that you must not fool yourself, and you are the easiest person to fool.
+> ~ Richard Feynman
+
 This category emphasizes cognition, and content like the following:
 - Mind
 - Science, Evidence, Quantify, Test
