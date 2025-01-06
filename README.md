@@ -4,7 +4,7 @@ aliases:
 ---
 # Hello, world! 👋 🌎!
 
-My name is George Hernandez and I live in Chicago. This repository was originally a brief "About Me". But it has grown since I love exploring & sharing. What & how I share also tells you about me.
+My name is George Hernandez and I live in Chicago.
 
 My content is categorized as follows:
 
@@ -15,8 +15,13 @@ My content is categorized as follows:
 - [[Log]] 🪵. Largely point-in-time content, that I shouldn't edit.
 - [[zEnd]] 📤. Stuff that doesn't fit neatly into my schema.
 
-About this repo:
+## About this Repo
 
-- This repo is publicly shared on [GitHub](https://github.com/) but is better viewed with the Obsidian app.
-- [Obsidian](https://obsidian.md/). It was previously written mainly in [Visual Studio Code](https://code.visualstudio.com/).
-- [My Obsidian Templates](Templates/Templates.md)
+This repo has several functions:
+  - It's "About Me" for George Hernandez.
+  - It's a public repository of notes by George Hernandez. 
+  - It's a public web log (blog) by George Hernandez.
+
+This repo is currently made with [Obsidian](https://obsidian.md/) and is best viewed with Obsidian, but it can also be publicly viewed and navigated at [GitHub](https://github.com/). - This repo was previously written mainly in [Visual Studio Code](https://code.visualstudio.com/).
+
+%%[My Obsidian Templates](Templates/Templates.md)%%
