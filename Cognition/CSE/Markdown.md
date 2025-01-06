@@ -433,26 +433,26 @@ _  underscore
 Markdown has syntax for implementing simpler tables. E.g.
 
 ```markdown
-| TH cells      |         are          | bold & centered by default |
+| TH cells      |         are          | bold & centered<br>by default |
 | ------------- | :------------------: | -------------------------: |
 | col 1 is      |     left-aligned     |                  some text |
 | col 2 is      |       centered       |                        $69 |
 | col 3 is      |    right-aligned     |                     $69420 |
 | col 4 is      |    right-aligned     |                       $420 |
-| zebra stripes |         are          |                  automated |
+| zebra stripes |         are          |             oftenautomated |
 | _em_          |      **strong**      |                     `code` |
 |               | alas no joined cells |
 ```
 
 becomes:
 
-| TH cells      |         are          | bold & centered by default |
+| TH cells      |         are          | bold & centered<br>by default |
 | ------------- | :------------------: | -------------------------: |
 | col 1 is      |     left-aligned     |                  some text |
 | col 2 is      |       centered       |                        $69 |
 | col 3 is      |    right-aligned     |                     $69420 |
 | col 4 is      |    right-aligned     |                       $420 |
-| zebra stripes |         are          |                  automated |
+| zebra stripes |         are          |            often automated |
 | _em_          |      **strong**      |                     `code` |
 |               | alas no joined cells |                            |
 

@@ -5,14 +5,22 @@ parents:: [[CSE]]
 
 ## Tips
 
-- Internal links:
+Internal links:
+
   - The Markdown syntax, e.g. `[Hello world](Hi%20world.md)` or `[Hello world](<Hi world.md>)`, works in & out of Obsidian.
 - The Wikilink syntax, e.g. `[[Hi world|Hello world]]`, only works within Obsidian. 
-- External link:
+
+External links:
+
   - Markdown syntax, e.g. `[An Example](https://example.com/foo%20bar "my tooltip")` or `[An Example](<https://example.com/foo  bar> "my tooltip)`, work in & out of Obsidian. 
-- Callouts are foldable content within your notes. 
-  - They come with an icon, a title, and different formatting. 
-  - Callouts start with something like `[!tip]-`. 
+
+Callouts are foldable content within your notes. E.g.
+
+> [!tip]
+> This is a `tip` callout.
+  - They come with an icon, a title of its type (by default), and different formatting. 
+  - Callouts start with something like `[!tip]-`. Suffixing with a minus (-) displays it as folded.
+  - Create your own title by adding it on the first line. E.g. `[!tip] My Tip`.
   - Callouts available include: 
     - abstract. Aliases: summary, tldr
     - bug
@@ -26,6 +34,8 @@ parents:: [[CSE]]
     - tip. Aliases: hint, important
     - todo
     - warning. Aliases: caution, attention
+
+[[Dataview]] is a community plugin that uses metadata in your Markdown files so the files  can be queried like a database.
 
 # References
 
