@@ -42,7 +42,7 @@ It is good to know what was in my wallet in case I lose it. "!" means not in my 
   - Target MC
 - Store cards:
   - Menards
-  - ! MicroCenter
+  - ! Micro Center
 - Debit cards:
   - ! AMEX
   - Capital One MC
@@ -76,7 +76,7 @@ It is good to know what was in my wallet in case I lose it. "!" means not in my 
   - Body: Weighty hoodie or jacket
   - Hands: Light gloves
 - < 40 F (< 5 C):
-  - Head: Beanie hat, scarf, balaklava
+  - Head: Beanie hat, scarf, balaclava
   - Body: Coat, Inner Jacket, Long Johns
   - Hands: Medium gloves
 
@@ -202,7 +202,7 @@ It is good to know what was in my wallet in case I lose it. "!" means not in my 
 - Main pocket:
   - In grocery bag:
     - Collapsible plate, bowl, cup
-    - Camp fork, knife, spoon, hopsticks, strawc
+    - Camp fork, knife, spoon, chopsticks, straw
     - Toilet paper
     - Wind-up radio/flashlight
   - In grocery bag:

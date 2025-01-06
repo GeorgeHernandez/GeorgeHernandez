@@ -330,7 +330,7 @@ The `code` tag is made with single backticks, and is usually rendered as monospa
 
 The `strike` tag is HTML 5 obsolete in favor of the `s` tag or the `ins` and `del` tag pair. In Markdowns the `s` tag is made with double tildes, and is usually rendered as a strikethrough. E.g. `~~foo~~` becomes ~~foo~~.
 
-Obsidian Markdown can highlight but it is not standard Markdown. E.g. `==foo==` becomes ==foo==.
+[[Obsidian]] Markdown can highlight but it is not standard Markdown. E.g. `==foo==` becomes ==foo==.
 
 ### Links (a)
 

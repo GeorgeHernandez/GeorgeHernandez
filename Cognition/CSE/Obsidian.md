@@ -17,7 +17,6 @@ External links:
 Comments:
 - HTML comments work in & out of Obsidian. E.g. `The <!-- best --> dog`  is rendered as: The <!-- best --> dog. 
 - Obsidian comments only work in Obsidian editing view and are implemented with double-percentage (`%%`) syntax. E.g.
-
 ```text
 The %%best%% dog.
 
@@ -29,7 +28,6 @@ multiple lines
 ```
 
 is rendered as:
-
 The %%best%% dog.
 
 %%
@@ -88,14 +86,12 @@ References:
 Callouts are blocks of foldable content within your notes. E.g.
 
 The following:
-
 ```
 > [!tip]
 > This is a `tip` callout.
 ```
 
 is rendered as:
-
 > [!tip]
 > This is a `tip` callout.
 
@@ -127,7 +123,6 @@ References:
 Tag your notes to make them more searchable. E.g. Filter by tags in graph view.
 
 Add a tag anywhere in a note with hashtag syntax. E.g. `#meeting`. Alternatively, tags can be added as property in YAML provided as a list. E.g.
-
 ```yaml
 ---
 tags:

@@ -8,13 +8,11 @@ After you've installed and enabled Dataview, then you need to annotate your file
 ## Annotate
 
 3 ways to annotate your Markdown files:
-
 1. Frontmatter
 2. Inline Fields
 3. Implicit Fields
 
 **Frontmatter** is a common Markdown extension which allows for YAML metadata to be added to the top of a page. It is natively supported by Obsidian and explained in its official documentation. Annotation via Frontmatter is hidden. E.g.
-
 ```yaml
 ---
 alias: "document"
@@ -27,7 +25,6 @@ thoughts:
 ```
 
 **Inline Fields** use `Key:: Value` syntax. Inline Fields are visible and can be anywhere in a file. E.g.
-
 ```text
 MyField:: Hello there
 **Bold Field**:: The End
@@ -39,7 +36,6 @@ Sanitized keys replace spaces with dashes. E.g. Bold Field becomes bold-field.
 ```
 
 **Implicit Fields** are automated. E.g.
-
 ```
 Creation day:		file.cday
 Links in file:	file.outlinks
@@ -53,8 +49,7 @@ Name of file:		file.name
 
 ## Query
 
-Query your files via Markdown codeblocks. E.g.
-
+Query your files via Markdown code blocks. E.g.
 ```dataview
 
 ```
@@ -63,14 +58,12 @@ Query your files via Markdown codeblocks. E.g.
 ```
 
 The types of views:
-
 - LIST
 - TABLE
 - TASK
 - CALENDAR
 
 E.g. But I've replaced `dataview` for display purposes.
-
 ```text
 TABLE date, summary FROM "Meetings"
 WHERE CONTAINS(summary, "Alice") AND LENGTH(file.name) = 4
@@ -82,7 +75,6 @@ WHERE type = "person" AND project = "Zero"
 ```
 
 Data types for fields:
-
 - Text
   - E.g. `Hi there`, `"Hi there"`
   - YAML allows multiline with its pipe operator.
@@ -105,8 +97,7 @@ Data types for fields:
 
 ## References
 
-Official
-
+Official:
 - https://blacksmithgu.github.io/obsidian-dataview/
 - https://blacksmithgu.github.io/obsidian-dataview/annotation/add-metadata/
 - https://blacksmithgu.github.io/obsidian-dataview/annotation/types-of-metadata/
@@ -114,6 +105,5 @@ Official
 - https://blacksmithgu.github.io/obsidian-dataview/queries/dql-js-inline/
 - https://blacksmithgu.github.io/obsidian-dataview/queries/structure/ 
 
-Tutorials
-
+Tutorials:
 - van der Hoeven, Nicole. 2024-12-27 8:23 AM. How to use the Obsidian Dataview plugin. https://www.youtube.com/watch?v=JTObSymEvWA 

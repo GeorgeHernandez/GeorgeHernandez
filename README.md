@@ -7,7 +7,6 @@ aliases:
 My name is George Hernandez and I live in Chicago.
 
 My content is categorized as follows:
-
 - [[AboutMe|About Me]] 🦊. Stuff particularly "About Me".
 - [[Cognition]] 🦉. Pertains to the mind, STEM, prudence, etc.
 - [[Courage]] 🦁. Pertains to the body, martial arts, exercise, etc.

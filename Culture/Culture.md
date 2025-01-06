@@ -4,7 +4,6 @@ summary:: A category for items emphasizing culture.
 parents:: [[README|Home]]
 
 This category emphasizes culture, and content like the following:
-
 - Spirit
 - World View, Ethics, Politics, Rhetoric
 - Justice, Politics
