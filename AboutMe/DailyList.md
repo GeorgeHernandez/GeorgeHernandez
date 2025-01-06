@@ -1,19 +1,13 @@
-# 1. My Daily List
+# My Daily List
 
 summary:: My Daily List (checklist, routine) in Pictograms (for brevity).
-parents: [[AboutMe]]
+parents: [[AboutMe|About Me]]
 
 My Daily List is in my usual chronological order but sometimes things get moved around. I do each list item 0..N times. Most of my list items are Positive (e.g. Eat Lunch). I used to have more Negative list items, but then I realized they apply in general. E.g. I used to specify 📵 (Avoid Phone Surfing) for key times, but then I realized that it should apply most of the time. Some Positive List Items should apply most of the time, but I don't mind the repitition.
 
 I have other lists. I have lists, lists do not have me.
 
-- [1. My Daily List](#1-my-daily-list)
-  - [1.1. My Daily List with Notes](#11-my-daily-list-with-notes)
-  - [1.2. My Weekly List with Notes](#12-my-weekly-list-with-notes)
-  - [1.3. My Monthly List with Notes](#13-my-monthly-list-with-notes)
-  - [1.4. Gout Countermeasures](#14-gout-countermeasures)
-
-## 1.1. My Daily List with Notes
+## My Daily List with Notes
 
 I implement my Daily List in Google Keep.
 
@@ -76,7 +70,7 @@ I implement my Daily List in Google Keep.
   - [ ] Check on my alarm clocks
   - [ ] Go to sleep
 
-## 1.2. My Weekly List with Notes
+## My Weekly List with Notes
 
 Usually on the Weekend.
 
@@ -97,7 +91,7 @@ Usually on the Weekend.
 - [ ] 🌙👕🛀🧺 Refresh Night Shirt, Towels. Laundry.
 - [ ] 🗃️ Parse Physical Files, Letters, etc.
 
-## 1.3. My Monthly List with Notes
+## My Monthly List with Notes
 
 Usually on the 1st of the Month.
 
@@ -107,7 +101,7 @@ Usually on the 1st of the Month.
 - [ ] 👩‍🎓💲 Manually pay daughter's student loans (until they get their auto-pay fixed)
 - [ ] 🚰 Refresh Water Cooler
 
-## 1.4. Gout Countermeasures
+## Gout Countermeasures
 
 Some [Gout](https://en.wikipedia.org/wiki/Gout) countermeasures:
 

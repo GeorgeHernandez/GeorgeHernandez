@@ -3,41 +3,153 @@
 summary:: Notes on Obsidian, a personal knowledge base and note-taking software application that operates on Markdown files in a Vault (repo or directory).
 parents:: [[CSE]]
 
-## Tips
+## Basic formatting
+
+Obsidian uses [[Markdown]] as well as Markdown-like syntax that only works in Obsidian.
 
 Internal links:
 
-  - The Markdown syntax, e.g. `[Hello world](Hi%20world.md)` or `[Hello world](<Hi world.md>)`, works in & out of Obsidian.
+- The Markdown syntax, e.g. `[Hello world](Hi%20world.md)` or `[Hello world](<Hi world.md>)`, works in & out of Obsidian.
 - The Wikilink syntax, e.g. `[[Hi world|Hello world]]`, only works within Obsidian. 
 
 External links:
 
-  - Markdown syntax, e.g. `[An Example](https://example.com/foo%20bar "my tooltip")` or `[An Example](<https://example.com/foo  bar> "my tooltip)`, work in & out of Obsidian. 
+- Markdown syntax, e.g. `[An Example](https://example.com/foo%20bar "my tooltip")` or `[An Example](<https://example.com/foo  bar> "my tooltip)`, work in & out of Obsidian. 
 
-Callouts are foldable content within your notes. E.g.
+Comments:
+
+- HTML comments work in & out of Obsidian. E.g. `The <!-- best --> dog`  is rendered as: The <!-- best --> dog. 
+- Obsidian comments only work in Obsidian editing view and are implemented with double-percentage (`%%`) syntax. E.g.
+
+```text
+The %%best%% dog.
+
+%%
+Block comments
+can span
+multiple lines
+%%
+```
+
+is rendered as:
+
+The %%best%% dog.
+
+%%
+Block comments
+can span
+multiple lines
+%%
+
+References:
+
+- https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax
+- https://help.obsidian.md/Editing+and+formatting/HTML+content
+- https://help.obsidian.md/Linking+notes+and+files/Internal+links
+
+## Plugins
+
+Plugins extend the functionality of Obsidian. 
+
+Core plugins are built into Obsidian. I almost immediately configured these core plugins:
+
+- Daily notes
+- Templates
+
+Community plugin are optional. I almost immediately configured these core plugins:
+
+- [[Dataview]]
+  - Uses metadata in your Markdown files so the files  can be queried like a database.
+- Git
+- Table of Contents
+  - The outline available in the Obsidian interface works fine within Obsidian. It should default to be on the left, but thankfully you can just drag it to the left instead.
+  - Use the Table of Contents plugin if you want a table of contents for just page for people NOT viewing the page in Obsidian. 
+  - I used to manage table of contents with the "Markdown All In One" extension for Visual Studio Code.
+  - If a page is so large that it needs a huge table of contents, then perhaps the page should be split into smaller pages. 
+
+## Shortcuts
+
+Personally I love these 2 shortcuts from spreadsheets:
+
+- Date: `ctrl + ;`
+- Time: `ctrl + :`
+- FYI: In Visual Studio Code I approximate it with:
+  - Now via shortcut: `ctrl + k t`
+  - Now via snippet: `ctrl + space now`
+
+References:
+
+- https://help.obsidian.md/User+interface/Hotkeys
+- https://help.obsidian.md/Editing+and+formatting/Editing+shortcuts
+
+## Callouts
+
+Callouts are blocks of foldable content within your notes. E.g.
+
+The following:
+
+```
+> [!tip]
+> This is a `tip` callout.
+```
+
+is rendered as:
 
 > [!tip]
 > This is a `tip` callout.
-  - They come with an icon, a title of its type (by default), and different formatting. 
-  - Callouts start with something like `[!tip]-`. Suffixing with a minus (-) displays it as folded.
-  - Create your own title by adding it on the first line. E.g. `[!tip] My Tip`.
-  - Callouts available include: 
-    - abstract. Aliases: summary, tldr
-    - bug
-    - danger. Aliases: error
-    - example
-    - failure. Aliases: fail, missing
-    - info
-    - question. Aliases: help, faq
-    - quote. Aliases: cite
-    - success. Aliases: check, done
-    - tip. Aliases: hint, important
-    - todo
-    - warning. Aliases: caution, attention
 
-[[Dataview]] is a community plugin that uses metadata in your Markdown files so the files  can be queried like a database.
+Callout formatting:
 
-# References
+- Callouts come with an icon, a title of its type (by default), and different formatting. 
+- To display as folded, suffix with a minus (-). E.g. `[!tip]-`.
+- Instead of the default title, you can add your own on the first line. E.g. `[!tip] My Tip`.
+- Callouts can be nested.
+
+The types of Callouts available include: 
+
+  -`abstract`. Aliases: `summary`, `tldr`
+  -`bug`
+  -`danger`. Aliases: `error`
+  -`example`
+  -`failure`. Aliases: `fail`, `missing`
+  -`info`
+  -`question`. Aliases: `help`, `faq`
+  -`quote`. Aliases: `cite`
+  -`success`. Aliases: `check`, `done`
+  -`tip`. Aliases: `hint`, `important`
+  -`todo`
+  -`warning`. Aliases: `caution`, `attention`
+
+References:
+
+- https://help.obsidian.md/Editing+and+formatting/Callouts.
+
+## Tags
+
+Tag your notes to make them more searchable. E.g. Filter by tags in graph view.
+
+Add a tag anywhere in a note with hashtag syntax. E.g. `#meeting`. Alternatively, tags can be added as property in YAML provided as a list. E.g.
+
+```yaml
+---
+tags:
+  - meeting
+  - public
+```
+
+Tag are case-insensitive and can only use these characters:
+
+- Alphabetical. Tags MUST contain at least 1 non-numeric. It is a decades long convention that variables not start with a number.
+- Numeric
+- Underscore (`_`)
+- Hyphen (`-`)
+- Slash (`/`) for nested tags. E.g. `#meeting/public`.
+
+References:
+
+- https://help.obsidian.md/Editing+and+formatting/Tags
+
+## References
 
 Official Site
 
@@ -45,9 +157,7 @@ Official Site
 - https://obsidian.md/mobile 
 - https://obsidian.md/sync. $4/mo.
 - https://help.obsidian.md/Home   
-- https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax
 - https://help.obsidian.md/Editing+and+formatting/Advanced+formatting+syntax. Tables, diagrams (with Mermaid), math (with MathJax and LaTeX).
-- https://help.obsidian.md/Editing+and+formatting/Callouts.
 - https://help.obsidian.md/Plugins/Bookmarks
 - https://help.obsidian.md/Plugins/Templates. Boilerplates for different kinds of new notes.
 

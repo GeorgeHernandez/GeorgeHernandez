@@ -1,17 +1,17 @@
 # Wonderful
 
 summary: Some stuff I find wonderful, almost magical.
-parents: [[AboutMe]]
+parents: [[AboutMe|About Me]]
 
 1. Bicycles. Balance and mechanical advantage.
-1. Children
-1. Water: Clouds. Waves. Bodies of water. Floating. Snowflakes.
-1. Wind: Breezes. Windmills.
-1. Flight
-1. Plants & Trees. Photosynthesis & Photons.
-1. Pre-Verbals
-1. Salt
-1. Math, Triangles, Circles. E.g. 3² + 4² = 5²
-1. Craftsmanship & Care. By any species, in any capacity.
-1. [_Bagheera kiplingi_](https://en.wikipedia.org/wiki/Bagheera_kiplingi). Of the 40K species of spiders, this is the only one that is mostly herbivorous.
-1. Wikipedia
+2. Children
+3. Water: Clouds. Waves. Bodies of water. Floating. Snowflakes.
+4. Wind: Breezes. Windmills.
+5. Flight
+6. Plants & Trees. Photosynthesis & Photons.
+7. Pre-Verbals
+8. Salt
+9. Math, Triangles, Circles. E.g. 3² + 4² = 5²
+10. Craftsmanship & Care. By any species, in any capacity.
+11. [_Bagheera kiplingi_](https://en.wikipedia.org/wiki/Bagheera_kiplingi). Of the 40K species of spiders, this is the only one that is mostly herbivorous.
+12. Wikipedia

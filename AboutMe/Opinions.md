@@ -1,26 +1,11 @@
-# 1. My Opinions
+# My Opinions
 
 summary:: Some of my opinions to express myself in my own idiom and to make a minor contribution to society.
-parents: [[AboutMe]]
+parents: [[AboutMe|About Me]]
 
 I'll start with my opinion on opinions, then provide some of my opinions, starting with some easy ones.
 
-- [1. My Opinions](#1-my-opinions)
-  - [1.1. My opinions on opinions](#11-my-opinions-on-opinions)
-    - [1.1.1. Bonus: Some quotes on facts \& opinions](#111-bonus-some-quotes-on-facts--opinions)
-  - [1.2. SHOULD](#12-should)
-    - [1.2.1. Best](#121-best)
-    - [1.2.2. Better](#122-better)
-    - [1.2.3. Good](#123-good)
-  - [1.3. SHOULD CSE](#13-should-cse)
-    - [1.3.1. Best](#131-best)
-    - [1.3.2. Better](#132-better)
-    - [1.3.3. Good](#133-good)
-  - [1.4. SHOULD NOT](#14-should-not)
-  - [1.5. Politics \& Policies](#15-politics--policies)
-    - [1.5.1. Political Issues](#151-political-issues)
-
-## 1.1. My opinions on opinions
+## My opinions on opinions
 
 Your opinions and worldview will almost certainly differ from mine. And yet we have so much in common that it is important to be able to share and parse our opinions so as to have informed, tested, reviewed, & overall improved opinions.
 
@@ -34,7 +19,7 @@ Your opinions and worldview will almost certainly differ from mine. And yet we h
 - METAPHORS. Metaphors are great because they take something we already know and carry them forward to something else.
 - PERSPECTIVE: Opinions vary in different points in our lives, contexts, etc.
 
-### 1.1.1. Bonus: Some quotes on facts & opinions
+### Bonus: Some quotes on facts & opinions
 
 "You can spend your whole life building a wall of facts between you and anything real." - Chuck Palahniuk
 
@@ -48,9 +33,9 @@ Your opinions and worldview will almost certainly differ from mine. And yet we h
 
 "Why, you simple creatures, the weakest of all weak things is a virtue which has not been tested in the fire." - Mark Twain
 
-## 1.2. SHOULD
+## SHOULD
 
-### 1.2.1. Best
+### Best
 
 - Time and Date Standard: [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601), e.g. `YYYY-MM-DD hh:mm:ss` and `P15DT7H`. http://xkcd.com/1179/. I wonder if `2019\10\03-24` would have been better?
 - System of Measurement: Metric. However I have a few personal opinions.
@@ -72,7 +57,7 @@ Your opinions and worldview will almost certainly differ from mine. And yet we h
 
 - Browser: Google Chrome. Best by largest number of users and if you use multiple Google accounts. Microsoft Edge uses less memory and has vertical tabbing.
 
-### 1.2.2. Better
+### Better
 
 - Breastfeeding > Formula
 - Toilet rolls releasing from the top > bottom
@@ -87,7 +72,7 @@ Your opinions and worldview will almost certainly differ from mine. And yet we h
 - Mobile devices with larger bottom bezels. These devices are often put in stands with slots.
 - Page numbers should generally be in the upper right. Rationale: If you put a stapled set of papers in a Portrait Folder, then the upper right corner is the only accessible corner.
 
-### 1.2.3. Good
+### Good
 
 - Because of the [oligodynamic effect](https://en.wikipedia.org/wiki/Oligodynamic_effect), it would be nice if some germ-exposed items were made out of naturally biocidal metals. E.g. Brass doorknobs, silverware.
 - The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "NOT RECOMMENDED", "MAY", and "OPTIONAL" MAY BE interpreted as described in [RFC 2119](http://www.ietf.org/rfc/rfc2119.txt). Aka Conformance Verbs for Requirement Levels.
@@ -95,9 +80,9 @@ Your opinions and worldview will almost certainly differ from mine. And yet we h
 - 13 month calendars where each month is 28 day. E.g. [International Fixed Calendar](https://en.wikipedia.org/wiki/International_Fixed_Calendar) or [Positivist calendar](https://en.wikipedia.org/wiki/Positivist_calendar). Alas, not likely to ever be broadly implemented.
 - If you provide a standard, opinion, etc., consider giving a rationale for it.
 
-## 1.3. SHOULD CSE
+## SHOULD CSE
 
-### 1.3.1. Best
+### Best
 
 - Unicode Encoding: UTF-8, which is Windows Code Page Identifier 65001. Prefer later collations for database, e.g. `utf8mb4_unicode_520_ci`.
 - Version Control: Git
@@ -107,7 +92,7 @@ Your opinions and worldview will almost certainly differ from mine. And yet we h
 - Parks, especially national and state parks are awesome!
 - Public libraries are awesome!
 
-### 1.3.2. Better
+### Better
 
 - Floating Point Marker > Comma
 - TOML > YAML > JSON > XML
@@ -115,7 +100,7 @@ Your opinions and worldview will almost certainly differ from mine. And yet we h
 - 1 space between sentences > 2 spaces. Exceptions: You have been wired by typewriter classes or your system requires otherwise (e.g. Linux `fmt -u`).
 - HTML > XHTML
 
-### 1.3.3. Good
+### Good
 
 - The end of files (EOF) SHOULD have a blank line.
 - Long versions of options for console commands SHOULD use a double dash, while the short versions use a single dash. E.g. `--force` and `-f`.
@@ -127,7 +112,7 @@ Your opinions and worldview will almost certainly differ from mine. And yet we h
     - `7`. PATCH. Backwards compatible bug fixes.
 - Font for code MUST be monospaced. Which font is a matter of choice; I like Google's [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono) because it has great contrast between troublesome characters like `1Il0O1`, it **bolds** well, and it is free (libre & gratis).
 
-## 1.4. SHOULD NOT
+## SHOULD NOT
 
 - Dibs. E.g. [Chicago's 'Dibs' Tradition Can Get Dirty, And Even Dangerous](https://www.npr.org/local/309/2020/03/02/811209907/chicago-s-dibs-tradition-can-get-dirty-and-even-dangerous).
 - Graffiti on signs and homes
@@ -140,7 +125,7 @@ Your opinions and worldview will almost certainly differ from mine. And yet we h
 - Loud music after midnight if your neighbors can hear it
 - Anti: Vaccines, Round Earth, Evolution, Apollo Missions, Education & Science, Separation of church & state
 
-## 1.5. Politics & Policies
+## Politics & Policies
 
 Everyone looks out for themselves. Everyone protects & promotes their interests. Thus everyone should form their opinions. However we also have loved ones and we also live in a society, a [_polis_](https://en.wikipedia.org/wiki/Polis). Politics & Policies affects many of us and thus we need to parse the many opinions.
 
@@ -198,7 +183,7 @@ I want to highlight key problems common to many political topics, then move on t
       - Yes, people are different (gender, age, physical abilities, smarts, looks, etc) no one needs to be poor or uncared for.
 - RULE BY THE MANY. A fair democracy is better than an oligarchy, but there are problems with misinformation, propaganda, and manipulation. Part of it is weak epistemology, but part of it can be contributed to purposeful campaigns. There is the adage "A lie is halfway round the world before the truth has got its boots on", but the propagation of "false news" is magnified by social media.
 
-### 1.5.1. Political Issues
+### Political Issues
 
 Some issues can incite some people. The policy making process should be granular as much as possible and not bundled with trigger issues or pork issues. Here are some issues in alphabetical order.
 

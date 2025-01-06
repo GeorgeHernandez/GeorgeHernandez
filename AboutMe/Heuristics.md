@@ -1,27 +1,11 @@
-# 1. My Favorite Heuristics
+# My Favorite Heuristics
 
 summary:: Some of my favorite heuristics.
-parents: [[AboutMe]]
+parents: [[AboutMe|About Me]]
 
 A [heuristic](https://en.wikipedia.org/wiki/Heuristic) is any approach to problem solving or self-discovery that employs a practical method that is not guaranteed to be optimal, perfect, or rational, but is nevertheless sufficient for reaching an immediate, short-term goal or approximation. The origin of a heuristic doesn't matter (when, who, where, how, why, etc.), as long as it is helpful. (The curious and intellectually honest should want to dig into the derivation, political context, etc.. If a heuristic isn't helpful, then don't use it.
 
-- [1. My Favorite Heuristics](#1-my-favorite-heuristics)
-  - [1.1. Epistemology](#11-epistemology)
-  - [1.2. Perspective](#12-perspective)
-  - [1.3. WHO](#13-who)
-  - [1.4. WHEN](#14-when)
-  - [1.5. Goals (WHAT/WHY)](#15-goals-whatwhy)
-  - [1.6. Manage your suffering (HOW)](#16-manage-your-suffering-how)
-  - [1.7. Manage complexity (HOW)](#17-manage-complexity-how)
-  - [1.8. Form follows function (HOW/WHAT)](#18-form-follows-function-howwhat)
-  - [1.9. Better actions (HOW)](#19-better-actions-how)
-  - [1.10. Humane actions (HOW/WHY)](#110-humane-actions-howwhy)
-  - [1.11. Virtue \& Sin (HOW)](#111-virtue--sin-how)
-  - [1.12. Some Ethics (HOW)](#112-some-ethics-how)
-  - [1.13. Learning \& Teaching (HOW)](#113-learning--teaching-how)
-  - [1.14. Social lubrication (HOW)](#114-social-lubrication-how)
-
-## 1.1. Epistemology
+## Epistemology
 
 - How do you know? What do you know?
 - "The first principle is that you must not fool yourself, and you are the easiest person to fool." ~ Richard Feynman
@@ -60,7 +44,7 @@ A [heuristic](https://en.wikipedia.org/wiki/Heuristic) is any approach to proble
   - [Gettier problem](https://en.wikipedia.org/wiki/Gettier_problem)
   - [Social constructionism](https://en.wikipedia.org/wiki/Social_constructionism). Each person creates their own "constructed reality" that drives their behaviors.
 
-## 1.2. Perspective
+## Perspective
 
 - If you don't have perspective, then you may just be reacting.
 - Effectiveness != Efficacy. Efficacy implies causation proved by deconfounding other variables, whereas effectiveness implies correlation with outcomes regardless of presence of other variables.
@@ -99,7 +83,7 @@ A [heuristic](https://en.wikipedia.org/wiki/Heuristic) is any approach to proble
 - [Physicists Have Discovered a Formula for Success, and It Contains a Brutal Truth Most People Don't Want to Admit](https://www.inc.com/jessica-stillman/physicists-have-discovered-a-formula-for-success-it-contains-a-brutal-truth-most-people-dont-want-to-admit.html)
   - Success = (Ability to execute ) \* (Potential value of an idea).
 
-## 1.3. WHO
+## WHO
 
 - [Grammatical person](https://en.wikipedia.org/wiki/Grammatical_person)
   - 1st person singular: I. Me.
@@ -119,7 +103,7 @@ A [heuristic](https://en.wikipedia.org/wiki/Heuristic) is any approach to proble
 - You are unique. Only you can be you in your lifetime, so be yourself, be authentic, be your authentic self. Go you be you (UBU).
 - Everyone has value and worthy of love, even the damaged. [_Namaste_](https://en.wikipedia.org/wiki/Namaste) 🙏🏽. [_Ubuntu_](https://en.wikipedia.org/wiki/Ubuntu_philosophy). _Kapwa_ a concept by [Virgilio Enriquez](https://en.wikipedia.org/wiki/Virgilio_Enriquez) about recognizing the unity between self and others.
 
-## 1.4. WHEN
+## WHEN
 
 - Time and Date Standard: [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601), e.g. `YYYY-MM-DD hh:mm:ss` and `P3DT2H`. http://xkcd.com/1179/. I wonder if `2019\10\03-24` would have been better?
 - Time is finite
@@ -176,7 +160,7 @@ A [heuristic](https://en.wikipedia.org/wiki/Heuristic) is any approach to proble
   p65y/ Adult 3 Wisdom      Ego Integrity v Despair   Humankind, My Kind    Is it OK to have been me?
   ```
 
-## 1.5. Goals (WHAT/WHY)
+## Goals (WHAT/WHY)
 
 - Greek Aristotle's [_Telos_](https://en.wikipedia.org/wiki/Telos) (end, goal). Japanese [_Ikigai_](https://en.wikipedia.org/wiki/Ikigai) (reason for being) 生き甲斐. French _raison d'être_ (reason to be).
 
@@ -197,7 +181,7 @@ A [heuristic](https://en.wikipedia.org/wiki/Heuristic) is any approach to proble
 - [Satisficing](https://en.wikipedia.org/wiki/Satisficing). A decision-making strategy or cognitive heuristic that entails searching through the available alternatives until an acceptability threshold is met. E.g. A task is to sew a patch onto a pair of blue pants. The best needle to do the threading is a 4-cm-long needle with a 3-millimeter eye. This needle is hidden in a haystack along with 1,000 other needles varying in size from 1 cm to 6 cm. Satisficing claims that the first needle that can sew on the patch is the one that should be used. Spending time searching for that one specific needle in the haystack is a waste of energy and resources.
 - [Flow](<https://en.wikipedia.org/wiki/Flow_(psychology)>). Aka being in the zone. A mental state in which a person performing some activity is fully immersed in a feeling of energized focus, full involvement, and enjoyment in the process of the activity. Voluntary challenging worthwhile activities. Neither not challenging (boring) or too challenging (crushing).
 
-## 1.6. Manage your suffering (HOW)
+## Manage your suffering (HOW)
 
 - [Stoicism](https://en.wikipedia.org/wiki/Stoicism). What you can affect. The facts, events, outcomes, etc. may differ from your expectations.
 - Reduce aversion (_dvesha_) 🐍: confusion, drama, discouragement, procrastination, fear, complaints, angst, feeling sorry for yourself. Do not live in a world of poison.
@@ -234,7 +218,7 @@ A [heuristic](https://en.wikipedia.org/wiki/Heuristic) is any approach to proble
 - Get help. Sometimes you need extra tools, people, time, space, etc to solve things.
 - Pain \* Resistance = Suffering. Similarly, making too much of Pleasure leads to Hedonism.
 
-## 1.7. Manage complexity (HOW)
+## Manage complexity (HOW)
 
 - Signal-to-Noise Ratio (SNR)
 - 🌱⏳🌳.
@@ -264,7 +248,7 @@ A [heuristic](https://en.wikipedia.org/wiki/Heuristic) is any approach to proble
 - [Fractal](https://en.wikipedia.org/wiki/Fractal). The term "fractal" was first used by mathematician Benoit Mandelbrot in 1975. The topic itself is fascinating but I like to apply the concept generally in this fashion: Manageable systems have similarities regardless of the size & type of the system even though the specifics at each zoom & domain differ. E.g. Managing the health of 3, 30, 300, 3e3, 3e6, 300e6, 7e9.
 - [Power law](https://en.wikipedia.org/wiki/Power_law)
 
-## 1.8. Form follows function (HOW/WHAT)
+## Form follows function (HOW/WHAT)
 
 - Function is WHAT is to be done or made. Form is HOW it is done or made.
 - "Whether it be the sweeping eagle in his flight, or the open apple-blossom, the toiling work-horse, the blithe swan, the branching oak, the winding stream at its base, the drifting clouds, over all the coursing sun, form ever follows function, and this is the law. Where function does not change, form does not change. The granite rocks, the ever-brooding hills, remain for ages; the lightning lives, comes into shape, and dies, in a twinkling. It is the pervading law of all things organic and inorganic, of all things physical and metaphysical, of all things human and all things superhuman, of all true manifestations of the head, of the heart, of the soul, that the life is recognizable in its expression, that form ever follows function. This is the law." ~ Louis Sullivan. "The Tall Office Building Artistically Considered" (1896)
@@ -302,7 +286,7 @@ A [heuristic](https://en.wikipedia.org/wiki/Heuristic) is any approach to proble
       - [What’s in a name? TTPs in Info Sec](https://posts.specterops.io/whats-in-a-name-ttps-in-info-sec-14f24480ddcc)
       - [Department of Defense Dictionary of Military and Associated Terms](https://irp.fas.org/doddir/dod/jp1_02.pdf). Joint Publication 1-02.
 
-## 1.9. Better actions (HOW)
+## Better actions (HOW)
 
 - Quality. E.g. [ISO 9000](https://en.wikipedia.org/wiki/ISO_9000): Customer focus, Leadership, Engagement of people, Process approach, Improvement, Evidence-based decision making, Relationship management.
 - Growth = Stress + Rest. E.g. PDCA, Kaizen, Virtuous Circle
@@ -327,7 +311,7 @@ A [heuristic](https://en.wikipedia.org/wiki/Heuristic) is any approach to proble
   - End meetings a bit earlier than the stated time.
   - Discussions that are not strictly on the agenda for all attendees should be reserved for sidebars, later meetings, etc.
 
-## 1.10. Humane actions (HOW/WHY)
+## Humane actions (HOW/WHY)
 
 - [Golden Rule](https://en.wikipedia.org/wiki/Golden_Rule)
   - Sex SHOULD require consent. Examples of non-consensual sex: Pedophilia, bestiality, rape. Consent FRIES: Freely given, Reversible, Informed, Enthusiastic, Specific.
@@ -351,7 +335,7 @@ A [heuristic](https://en.wikipedia.org/wiki/Heuristic) is any approach to proble
 - Action & words can persist in many ways. They impress in your psyche and the psyche of others. They manifest as memories, dreams, echoes, ghosts, and so on. You should act and speak such that your psychic impression is positive and good. Will you persist as a friend, a hero, a pleasant dream, an angel? Or will you persist as an enemy, a villain, a nightmare, a demon?
 - Impact > Intent. "Do the best you can until you know better. Then, when you know better, do better." - Maya Angelou
 
-## 1.11. Virtue & Sin (HOW)
+## Virtue & Sin (HOW)
 
 There are many heuristics on [Virtue](https://en.wikipedia.org/wiki/Virtue) and [Sin](https://en.wikipedia.org/wiki/Sin). My set is rather arbitrary and arranged by "number".
 
@@ -463,7 +447,7 @@ My favorite virtue is **GRACE**:
 - Today I dwell on grace. Grace is a combination of elegance and divine blessing. Grace is beauty beyond form that extends into love. Grace is the sound of your child's first cry or your mother's last breath. Grace are creatures or water in any form. Grace ranges from unprocessed nature to the constructs of man. Grace is fairness, respect, and dignity. Grace delights in science that explores the conversion of sunlight into nourishing food. Grace is there in your darkest moments when faith and hope are just pale flickers of light. Grace abounds in your greatest moments when you are shining with hope and love. Grace is mysterious but obvious. Namaste and may the grace of God be with you. ~ Myself
 - "Courage is grace under pressure" - Ernest Hemingway
 
-## 1.12. Some Ethics (HOW)
+## Some Ethics (HOW)
 
 A spectrum:
 
@@ -514,7 +498,7 @@ TODO
   - 2019-03-19
   - 2020-02-22
 
-## 1.13. Learning & Teaching (HOW)
+## Learning & Teaching (HOW)
 
 - 10 Kh to become an expert. 20 h to learn. The major barrier to skill isn't intellectual, it's emotional.
   - Get the tools.
@@ -532,7 +516,7 @@ TODO
   - Train incompatible behaviors to tip the scales towards getting the desired results.
 - Study things by analysis (breaking down), then make new things by synthesis.
 
-## 1.14. Social lubrication (HOW)
+## Social lubrication (HOW)
 
 - Rhetoric: inform, persuade, or motivate. Appeal with logos, pathos, and ethos. Use invention, arrangement, style, memory, & delivery.
 - THINK: Is your communication True, Helpful, Inspiring, Necessary, Kind?

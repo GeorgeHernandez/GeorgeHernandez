@@ -109,7 +109,7 @@ The next line
 This line ends in 1 literal `<br>`<br>
 The next line
 
-This line ends in 2 spaces (`  `)
+This line ends in 2 spaces (`  `)  
 The next line
 
 This line ends in 1 newline
@@ -124,7 +124,7 @@ The next line
 This line ends in 1 literal `<br>`<br>
 The next line
 
-This line ends in 2 spaces (`  `)
+This line ends in 2 spaces (`  `)  
 The next line
 
 This line ends in 1 newline
@@ -509,7 +509,7 @@ MAY become:
   <dd>definition 2</dd>
 </dl>
 
-## Links
+## References
 
 - http://en.wikipedia.org/wiki/Markdown.
   "Markdown is a plain text formatting syntax[5] designed so that it can be converted to HTML and many other formats[6] using a tool by the same name. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor."

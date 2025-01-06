@@ -1,19 +1,9 @@
-# 1. Mobile Me
+# Mobile Me
 
 summary:: My mobile habits for every day carry and other occasions.
-parents: [[AboutMe]]
+parents: [[AboutMe|About Me]]
 
-- [1. Mobile Me](#1-mobile-me)
-  - [1.1. Usually On Me](#11-usually-on-me)
-  - [1.2. Wallet](#12-wallet)
-  - [1.3. Outerwear By Temperature](#13-outerwear-by-temperature)
-  - [1.4. Gym Bag](#14-gym-bag)
-  - [1.5. Swim Bag](#15-swim-bag)
-  - [1.6. Work Backpack](#16-work-backpack)
-  - [1.7. Bug Out Bag](#17-bug-out-bag)
-  - [1.8. Travel Bags](#18-travel-bags)
-
-## 1.1. Usually On Me
+## Usually On Me
 
 - Right front pocket: 
   - Phone. Samsung Galaxy Z Fold 3
@@ -37,7 +27,7 @@ parents: [[AboutMe]]
      - Key-sized mini-tool
      - Swiss Army Knife: The Jetsetter has no blade.
 
-## 1.2. Wallet
+## Wallet
 
 It is good to know what was in my wallet in case I lose it. "!" means not in my wallet
 
@@ -68,7 +58,7 @@ It is good to know what was in my wallet in case I lose it. "!" means not in my 
   - ! YMCA Gym
 - Cash
 
-## 1.3. Outerwear By Temperature
+## Outerwear By Temperature
 
 - 80+ F (25+ C):
   - Head: 360° brim
@@ -90,7 +80,7 @@ It is good to know what was in my wallet in case I lose it. "!" means not in my 
   - Body: Coat, Inner Jacket, Long Johns
   - Hands: Medium gloves
 
-## 1.4. Gym Bag
+## Gym Bag
 
 - Duffel bag / backpack. 60 L with handles on 2 ends & 2 sides by Mier.
 - Front outside pocket
@@ -117,7 +107,7 @@ It is good to know what was in my wallet in case I lose it. "!" means not in my 
   - Water bottle. Refresh beforehand!
   - Folder for paperwork
 
-## 1.5. Swim Bag
+## Swim Bag
 
 - Outside pockets:
   - Water bottle. Refresh beforehand!
@@ -131,9 +121,9 @@ It is good to know what was in my wallet in case I lose it. "!" means not in my 
   - Swim shorts. Refresh beforehand!
   - Fresh towel. Refresh beforehand!
 
-## 1.6. Work Backpack
+## Work Bag
 
-- TSA-sized. Can cinch tight.
+- TSA-sized backpack. Can adjust size with cinches.
 - Main pocket:
   - Clipboard with pen & scrap paper
   - Folder with scrap paper & blank paper
@@ -185,7 +175,7 @@ It is good to know what was in my wallet in case I lose it. "!" means not in my 
   - Carbineer with a small knife
   - Hat vlip
 
-## 1.7. Bug Out Bag
+## Bug Out Bag
 
 - Large backpack. Lockable.
 - Outside pockets:
@@ -240,7 +230,7 @@ It is good to know what was in my wallet in case I lose it. "!" means not in my 
     - Manila folders
     - Maps: Chicago, Illinois, USA, World
 
-## 1.8. Travel Bags
+## Travel Bags
 
 - Travel bag. TSA-sized.
 - Toiletry bag:

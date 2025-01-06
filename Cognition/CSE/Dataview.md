@@ -109,6 +109,8 @@ Official
 
 - https://blacksmithgu.github.io/obsidian-dataview/
 - https://blacksmithgu.github.io/obsidian-dataview/annotation/add-metadata/
+- https://blacksmithgu.github.io/obsidian-dataview/annotation/types-of-metadata/
+- https://blacksmithgu.github.io/obsidian-dataview/annotation/metadata-pages/
 - https://blacksmithgu.github.io/obsidian-dataview/queries/dql-js-inline/
 - https://blacksmithgu.github.io/obsidian-dataview/queries/structure/ 
 

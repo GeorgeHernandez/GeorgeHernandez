@@ -33,6 +33,9 @@ parents:: [[CSE]]
   - Brown/tactile mechanical switch keys have a bump & are quiet.
   - Blue/clicky mechanical switch keys have a bump & are clicky.
   - Optical switch key rely on breaking a beam instead of physical contact. Not many choices available yet.
+
+## References
+
 - https://en.wikipedia.org/wiki/Keyboard_layout
 - https://en.wikipedia.org/wiki/QWERTY
 - https://en.wikipedia.org/wiki/British_and_American_keyboards
