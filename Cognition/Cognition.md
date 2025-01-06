@@ -11,3 +11,7 @@ This category emphasizes cognition, and content like the following:
 - Math, Truth, Logic
 - Prudence, Common Sense
 - Education, Learning, Teaching
+
+Specifically:
+
+- [[CSE]]

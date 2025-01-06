@@ -3,6 +3,9 @@
 summary:: Stuff particularly "About Me".
 parents:: [[README|Home]]
 
+> [!tldr]
+> I was born 1968-10-22 in the Philippines. I moved to America when I was 4. I am deaf in my left ear. I've lived almost entirely in Chicago since then. I've done martial arts since I was 7. I graduated from Lane Tech HS. I got a Bachelors in Chemical Engineering at UIC. I am happily married with 3 wonderful kids. After working in various capacities, I worked for over 20  years in healthcare and public health doing software and database development for hospitals and the federal government. I volunteer at the [Rizal Center](https://rizalcenter.org) by doing their website and teaching martial arts. I should finish my Masters in Education for Science Education in 2025-05 at UIC so I can serve as a high school teacher wherever the [Chicago Public Schools](https://www.cps.edu/) need me.
+
 🦊The fox is my spirit animal: I identify as a hidden forest creature. I am a calm, candid, cozy, & curious canid who strives to be a courageous, creative, & kind contributor. How do you know? How can you know? Let's test it out. Let's be effective & efficient but let's communicate & manage our suffering as we do it.
 
 - 🍞 [[DailyList]]. My Daily List (checklist, routine) in Pictograms (for brevity).
