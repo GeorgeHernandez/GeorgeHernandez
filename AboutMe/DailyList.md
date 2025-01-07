@@ -10,7 +10,6 @@ I have other lists. I have lists, lists do not have me.
 ## My Daily List with Notes
 
 I implement my Daily List in Google Keep.
-
 - [ ] 🕔🔆👃💊📆⏰🌦️🪙💧.
   - [ ] Wake up. The range in [Chicago Sunrises](https://www.timeanddate.com/sun/usa/chicago) is large with DST: 05:14/07:18. Contrast with the small variance in [Manila Sunrises](https://www.timeanddate.com/sun/philippines/manila): 05:25/06:25.
   - [ ] Get more light to help me wake up
