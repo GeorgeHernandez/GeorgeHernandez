@@ -111,6 +111,7 @@ Your opinions and worldview will almost certainly differ from mine. And yet we h
     - `8`. MINOR. Backwards compatible additions to the API.
     - `7`. PATCH. Backwards compatible bug fixes.
 - Font for code MUST be monospaced. Which font is a matter of choice; I like Google's [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono) because it has great contrast between troublesome characters like `1Il0O1`, it **bolds** well, and it is free (libre & gratis).
+- https://rosettacode.org/wiki/Rosetta_Code. 100s of algorithms expressed in 100s of programming languages.
 
 ## SHOULD NOT
 

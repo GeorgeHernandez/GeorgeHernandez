@@ -25,6 +25,7 @@ parents:: [[CSE]]
 
 - Vertical bookmarks like Microsoft Edge
   - 2022-08-20 At some point Google Chrome added a Sidebar with 2 nice items: A Reading List and Bookmarks in a vertical tree format.
+- 2025-01-06 I've been using the saved tab groups a lot for weeks now and I like them but it's a work in progress. What I'd like next is the ability to sort or reorder the list of saved tab groups.
 
 ## Google Contacts
 
