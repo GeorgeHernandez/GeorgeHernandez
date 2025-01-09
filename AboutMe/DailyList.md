@@ -3,14 +3,15 @@
 summary:: My Daily List (checklist, routine) in Pictograms (for brevity).
 parents: [[AboutMe|About Me]]
 
-My Daily List is in my usual chronological order but sometimes things get moved around. I do each list item 0..N times. Most of my list items are Positive (e.g. Eat Lunch). I used to have more Negative list items, but then I realized they apply in general. E.g. I used to specify 📵 (Avoid Phone Surfing) for key times, but then I realized that it should apply most of the time. Some Positive List Items should apply most of the time, but I don't mind the repitition.
+My Daily List is in my usual chronological order but sometimes things get moved around. I do each list item 0..N times. Most of my list items are Positive (e.g. Eat Lunch). I used to have more Negative list items, but then I realized they apply in general. E.g. I used to specify 📵 (Avoid Phone Surfing) for key times, but then I realized that it should apply most of the time. Some Positive List Items should apply most of the time, but I don't mind the repetition.
 
 I have other lists. I have lists, lists do not have me.
 
 ## My Daily List with Notes
 
-I implement my Daily List in Google Keep.
-- [ ] 🕔🔆👃💊📆⏰🌦️🪙💧.
+Not everyday is the same, but it's soothing to have a familiar routine and rhythm. 
+
+- [ ] 05:00🔆👃💊📆⏰🌦️🪙💧.
   - [ ] Wake up. The range in [Chicago Sunrises](https://www.timeanddate.com/sun/usa/chicago) is large with DST: 05:14/07:18. Contrast with the small variance in [Manila Sunrises](https://www.timeanddate.com/sun/philippines/manila): 05:25/06:25.
   - [ ] Get more light to help me wake up
   - [ ] Spritz my nose against hay fever
@@ -45,24 +46,24 @@ I implement my Daily List in Google Keep.
   - [ ] Shower, shave, nails, examine feet, etc.
   - [ ] Run the fan after the shower
   - [ ] Eye drops as needed.
-- [ ] 🕕🍴💧. 🪥👁️💧.
+- [ ] 06:00 🍴💧. 🪥👁️💧.
   - [ ] Breakfast.
   - [ ] Brush my teeth. I try to couple brushing with my meals but it may not happen if I'm out of the house or the like.
-- [ ] 🕗✔️📧🐸💧.
-  - [ ] Start of business day. The American business day is 9-5, but I pad it with commute plus wind up & wind down time.
+- [ ] 07:00 ✔️📧🐸💧.
+  - [ ] Start of business day. The American business day is 9-5, but I pad it with commute plus wind up & wind down time. It also depends if I'm working that day, working from home, etc.
   - [ ] Check my lists. E.g. Google Keep, Trello, ghseet[GH, Hdz], gdoc[GH TODO].
   - [ ] Checky my communications
   - [ ] Responsibilities: Work, house work, tasks, projects, etc.
   - [ ] Small and big items. "Eat a live frog first thing in the morning and nothing worse will happen to you the rest of the day." - Mark Twain
-- [ ] 🕛🍴💧. 🪥👁️💧.
-  - [ ] Lunch ~11:00
-- [ ] 🕒💧🚫☕🍬.
-  - [ ] After 15:00 I avoid caffeine and sweets because they can interefere with my sleep
-- [ ] 🕔✔️📧👁️💧.
+- [ ] 12:00 🍴💧. 🪥👁️💧.
+  - [ ] Lunch.
+- [ ] 15:00 💧🚫☕🍬.
+  - [ ] From the afternoon and on I avoid caffeine and sweets because they can interfere with my sleep
+- [ ] 16:00 ✔️📧👁️💧.
   - [ ] End of business day: Check my lists & communications again.
-- [ ] 🕖🍴💧.
+- [ ] 19:00🍴💧.
   - [ ] Dinner
-- [ ] 🕙🪥👁️💻⏰😴.
+- [ ] 22:00 🪥👁️💻⏰😴.
   - [ ] Quick review of my lists
   - [ ] Turn off my laptop and monitor
   - [ ] Check on my alarm clocks
