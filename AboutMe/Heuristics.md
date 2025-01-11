@@ -247,6 +247,7 @@ A [heuristic](https://en.wikipedia.org/wiki/Heuristic) is any approach to proble
 - [Complex system](https://en.wikipedia.org/wiki/Complex_system)
 - [Fractal](https://en.wikipedia.org/wiki/Fractal). The term "fractal" was first used by mathematician Benoit Mandelbrot in 1975. The topic itself is fascinating but I like to apply the concept generally in this fashion: Manageable systems have similarities regardless of the size & type of the system even though the specifics at each zoom & domain differ. E.g. Managing the health of 3, 30, 300, 3e3, 3e6, 300e6, 7e9.
 - [Power law](https://en.wikipedia.org/wiki/Power_law)
+- Some things get complex more quickly than others. E.g. In the [analysis of algorithms](https://en.wikipedia.org/wiki/Analysis_of_algorithms) the time complexity of algorithms can be reasonable or unreasonable. The number of steps in proportion to their input for algorithms with reasonable runtimes do not grow faster than polynomials (<= n^c), while unreasonable runtimes may grow much faster, e.g. exponential (c^n) or factorial (n!) growth. The [traveling salesman problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem) (TSP) is a famous combinatorial optimization problem with factorial growth that can only be solved heuristically instead of with brute force computing.
 
 ## Form follows function (HOW/WHAT)
 
