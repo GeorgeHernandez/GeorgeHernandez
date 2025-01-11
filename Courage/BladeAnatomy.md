@@ -15,7 +15,7 @@ There are several common **Reference Positions** when discussing swords and kniv
 ## Primary Properties
 
 There are several primary properties of blades.
-- **Mass** (Weight) of the gear.
+- **Mass** (Weight) of the gear. Practice weapons may be lighter for safety, or heavier for exercise drills.
 - **Profile** refers to the perpendicular distance from back edge to front edge.
   - In Scabbard Reference: The left-to-right distance, as if viewing a person's profile.
   - In Cut Reference: The front-back x-axis.
@@ -78,11 +78,11 @@ The **Guard** includes parts around the grip and base of the sword that serve to
   - Guards, armor, and such were banned by colonizers.
 - A **Bolster** is a piece that joins the handle to the blade/guard. A bolster may serve as a finger guard, as well as adding weight and balance to a knife.
   - On Japanese swords the guard consists of a *Habaki* ferrule cap, a  *Seppa* spacer, the *Tsuba* a small circular guard, and another *Seppa* spacer.
-- A **[Crossguard](https://en.wikipedia.org/wiki/Crossguard)** can be as simple as a bar that is perpendicular to grip and sword.
+- A **[Crossguard](https://en.wikipedia.org/wiki/Crossguard)** (Crossbar) can be as simple as a bar that is perpendicular to grip and sword.
   - A **Quillon** is a bar on either side of the blade, i.e. a sword may have 0..2 quillons.
 - Guards came in various complexities beyond a simple crossguard:
   - A **Nagel** ("nail") is like a mini-crossguard on the dorsal flat side, i.e. perpendicular to the cross, common on German [Messers](https://en.wikipedia.org/wiki/Messer_(sword).
-  - Knuckle Guards, Finger Guards, Side Rings, Plates, Cups, etc. for Swept-Hilt and Cup Hilt [Rapiers](https://en.wikipedia.org/wiki/Rapier) and other swords.
+  - Knuckle Guards, Finger Guards, Side Rings, Curved Plates, Cups, etc. for Swept-Hilt and Cup Hilt [Rapiers](https://en.wikipedia.org/wiki/Rapier) and other swords.
 - **[Basket-Hilted Swords](https://en.wikipedia.org/wiki/Basket-hilted_sword)** have the hand fully encased. E.g. The Schiavona or Scottish Broadsword.
 
 ### Blade
@@ -107,8 +107,9 @@ The **Strong** (Forte, *Jin Fushi* in Japanese) is roughly the 1/4 to 1/3 closer
 - The **Choil**, if present, is distally between the sharpened edge and the shoulder. The main kinds:
   - An **Unsharpened Choil** for finger control, so sharpening has a boundary, the strong does not need to be sharp, etc.
     - A **[Ricasso](https://en.wikipedia.org/wiki/Ricasso)** is an unsharpened choil found on swords past the cross guard.
-    - A **Schilt** is like a shield-shaped choil on German [Feders](https://en.wikipedia.org/wiki/Feder_(fencing)). It is like a guard but on the blade instead of the guard.
     - A **Thumb Rise** (Thumb Rest) on the back is where the thumb may rest to help with support and aim.
+    - A **Schilt** is like a shield-shaped choil on German [Feders](https://en.wikipedia.org/wiki/Feder_(fencing)). It is like a guard but on the blade instead of the guard.
+    - **Lugs** or various protrusion may be found on true 2-handed swords past the ricasso and serve as a guide and a bit of protection.
   - A **Sharpened Choil** for fine detailed cutting work. It may be notch within an unsharpened choil for particular purposes.
   - A **Nail Mark** (Nail Groove) is found on the flat near the back edge on some  folding knives so you can use a fingernail to grab the blade. Some knives have a hole instead that do the same job.
 - The **Heel** is roughly the lower 1/5 of the sharpened  edge of a knives. It is used for fast chopping or slower careful work.
@@ -132,6 +133,7 @@ The **Sharpness** of a blade refers to the fineness of the application point of 
 - A **Sharp Edge** refers to a thin cutting edge. The edge should be hard (because there is less material), but in many case not so hard that it is difficult to resharpen.
   - The **[Hamon](https://en.wikipedia.org/wiki/Hamon_(swordsmithing))** ("edge pattern") of Japanese swords is a visible effect created on the blade by the hardening process between the harder cutting edge and the softer spine.
 - A **Sharp Point** refers to a narrow point. A sharp point is good for piercing, but a long thin point may be vulnerable to fracturing.
+- **Unsharpened Blades** have always existed, especially for practice gear. Edges can be thicker. Tips can be thickened (rolled, spatulated, covered)
 
 The **Veer** of a blade refers to how the front edge and back edge are straight, convex, or concave.
 - A **Straight** blade is not curved. E.g. a [Jian](https://en.wikipedia.org/wiki/Jian).
