@@ -8,9 +8,9 @@ This page focuses on identifying the terminology of key parts of many bladed gea
 **Figure:** A schematic of a fictional blade to help with identifying the parts of bladed gear. I made it in 2015 (or earlier).<br>![[2025-01-11_Blade_Anatomy.gif]]
 
 There are several common **Reference Positions** when discussing swords and knives:
-- **Scabbard Reference**: Point down as if sheathed or hanging on a wall. This as shown in the figure. Used in [Oakeshott typology](https://en.wikipedia.org/wiki/Oakeshott_typology) for the 13 medieval blade types (X to XXII) primarily because blades often inscriptions oriented in this fashion.
-- **Cut Reference**: Point up, heaven grip, hand forward, wrist rotation neutral.
-- **Thrust Reference**: Point forward, flashlight grip, wrist rotation neutral.
+- **Scabbard Reference Position**: Point down as if sheathed or hanging on a wall. This as shown in the figure. Used in [Oakeshott typology](https://en.wikipedia.org/wiki/Oakeshott_typology) for the 13 medieval blade types (X to XXII) primarily because blades often inscriptions oriented in this fashion.
+- **Cut Reference Position**: Point up, heaven grip, hand forward, wrist rotation neutral.
+- **Thrust Reference Position**: Point forward, flashlight grip, wrist rotation neutral.
 
 ## Primary Properties
 
@@ -78,12 +78,14 @@ The **Guard** includes parts around the grip and base of the sword that serve to
   - Guards, armor, and such were banned by colonizers.
 - A **Bolster** is a piece that joins the handle to the blade/guard. A bolster may serve as a finger guard, as well as adding weight and balance to a knife.
   - On Japanese swords the guard consists of a *Habaki* ferrule cap, a  *Seppa* spacer, the *Tsuba* a small circular guard, and another *Seppa* spacer.
-- A **[Crossguard](https://en.wikipedia.org/wiki/Crossguard)** (Crossbar) can be as simple as a bar that is perpendicular to grip and sword.
-  - A **Quillon** is a bar on either side of the blade, i.e. a sword may have 0..2 quillons.
-- Guards came in various complexities beyond a simple crossguard:
-  - A **Nagel** ("nail") is like a mini-crossguard on the dorsal flat side, i.e. perpendicular to the cross, common on German [Messers](https://en.wikipedia.org/wiki/Messer_(sword).
-  - Knuckle Guards, Finger Guards, Side Rings, Curved Plates, Cups, etc. for Swept-Hilt and Cup Hilt [Rapiers](https://en.wikipedia.org/wiki/Rapier) and other swords.
-- **[Basket-Hilted Swords](https://en.wikipedia.org/wiki/Basket-hilted_sword)** have the hand fully encased. E.g. The Schiavona or Scottish Broadsword.
+- A **[Crossguard](https://en.wikipedia.org/wiki/Crossguard)** (Crossbar) can be as simple as a bar that is perpendicular to the grip and sword.
+  - A **Quillon** is a bar on the croossguard. Assuming the Cut Reference Position, a sword may have 0..2 quillons:
+    - A **Front Quillon**. If extended towards the pommel it also becomes a **Knuckle Guard**.
+    - A **Back Quillon**. 
+    - An **Outside Quillon**. The most famous is the *Nagel* ("nail") common on German [Messers](https://en.wikipedia.org/wiki/Messer_(sword).
+- Guards came in various complexities beyond crossguards: 
+  - Finger Guards, Side Rings, Curved Plates, Cups, etc. E.g. Swept-Hilt and Cup Hilt [Rapiers](https://en.wikipedia.org/wiki/Rapier).
+  - **[Basket-Hilted Swords](https://en.wikipedia.org/wiki/Basket-hilted_sword)** have the hand fully encased. E.g. The Schiavona or Scottish Broadsword.
 
 ### Blade
 
