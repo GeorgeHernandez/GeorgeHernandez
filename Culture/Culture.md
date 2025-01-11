@@ -17,3 +17,13 @@ This category emphasizes culture, and content like the following:
 - Relations, Languages
 - Love, Beauty, Virtue, Goodness
 - Vote, Qualify
+
+## Directory Table of Contents
+
+- 
+
+```dataview
+TABLE summary as "Summary", file.folder as "Folder"
+WHERE contains(file.path, this.file.folder) AND file.name != this.file.name AND file.name != "Attachments" AND file.name != "_attachments"
+SORT file.name ASC
+```

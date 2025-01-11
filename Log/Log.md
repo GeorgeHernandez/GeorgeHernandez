@@ -3,8 +3,8 @@
 summary:: Public log by George Hernandez.
 parents:: [[README|Home]]
 
-- [2024](2024/2024.md)
-- [2025](2025/2025.md)
+- [[2024]]
+- [[2025]]
 
 ```dataview
 TABLE summary as "Summary", file.folder as "Folder"
