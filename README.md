@@ -23,4 +23,4 @@ This repo has several functions:
 
 This repo is currently made with [Obsidian](https://obsidian.md/) and is best viewed with Obsidian, but it can also be  viewed and navigated at [GitHub](https://github.com/) without Obsidian. This repo was previously written mainly in [Visual Studio Code](https://code.visualstudio.com/).
 
-%%[My Obsidian Templates](Templates/Templates.md)%%
+%%[[Templates]]%%
