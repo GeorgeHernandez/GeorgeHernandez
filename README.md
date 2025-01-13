@@ -25,14 +25,16 @@ This repo is currently made with [Obsidian](https://obsidian.md/) and is best vi
 
 ## Site Conventions
 
-I tend to use [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601), but I may get lazy with UPPERCASING it.
+Conventions I tend to follow on this site.
+
+[ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) for dates, etc. I may get lazy with UPPERCASING it.
 - Dates. E.g. `2025-01-13`.
 - Times. E.g. `14:40`.
 - Interval periods. E.g. `P15DT7H`.
 - Recurring intervals. E.g. `R/2025-01-13/P2W`.
 - See also http://xkcd.com/1179/.
 
-I tend to use metric ([SI](https://en.wikipedia.org/wiki/International_System_of_Units)), but I will occasionally use pounds (lbs, #), miles, and F. I change 3 prefixes:
+Metric ([SI](https://en.wikipedia.org/wiki/International_System_of_Units)), but I will occasionally use pounds (lbs, #), miles, and F. I change 3 prefixes:
     ```yaml
     [da, h, k, M, G,  T,  P,  E,  Z,  Y,  R,  Q] to:
     [ D, H, K, M, G,  T,  P,  E,  Z,  Y,  R,  Q]. e:
@@ -41,20 +43,22 @@ I tend to use metric ([SI](https://en.wikipedia.org/wiki/International_System_of
 
 The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "NOT RECOMMENDED", "MAY", and "OPTIONAL" MAY BE interpreted as described in [RFC 2119](http://www.ietf.org/rfc/rfc2119.txt). Aka Conformance Verbs for Requirement Levels.
 
-I tend to used double dot notation for [cardinality requirements](https://en.wikipedia.org/wiki/Cardinality_(data_modeling)). E.g. To specify that set has 1 to 3 items, I would denote it as `1..3`.
+Double dot notation for [cardinality requirements](https://en.wikipedia.org/wiki/Cardinality_(data_modeling)). E.g. To specify that set has 1 to 3 items, I would denote it as `1..3`.
 
-I tend to use 2 spaces (`  `) for indentation when writing about code, unless the system requires otherwise. 4 spaces looks better, hard tabs can be adjusted, but if you have to hand type code and hard tabs are not available, then 2 spaces is what works.
+Two spaces (`  `) for indentation when writing about code, unless the system requires otherwise. 4 spaces looks better, hard tabs can be adjusted, but if you have to hand type code and hard tabs are not available, then 2 spaces is what works.
 
-I tend to use these [Latin abbreviations](https://en.wikipedia.org/wiki/List_of_Latin_abbreviations) often:
+The [Latin abbreviations](https://en.wikipedia.org/wiki/List_of_Latin_abbreviations) I tend to use most often:
 - `ca.`. *circa*. "around".
 - `e.g.`. *exempli gratia*. "for example". Mnemonic: "example given".
 - `et al.`. *et alii*. "and others". E.g. Kili, Fili, et al.
 - `etc`. *et cetera*. "and the others"
 -  `i.e.`.  *id est*. "that is".
-- `ibid.` *ibidem*. "in the same place". The same citation as the previoius
+- `ibid.` *ibidem*. "in the same place". The same citation as the previoius.
 
-I tend to use [APA style](https://en.wikipedia.org/wiki/APA_style) for citations and references.
+Tables are prefixed with "**Table:**" followed by a description. Similarly figures are prefixed with "**Figure:**" followed by a description. I may yet apply tags to figures and tables.
 
-I tend to use `zEnd` as a header for miscellaneous items. I pronounce it like /the end/ but /zee end/. It's a carry over convention from sorting by type and I want to `zEnd` to be the last type.
+[APA style](https://en.wikipedia.org/wiki/APA_style) for citations and references.
+
+`zEnd` as a header for miscellaneous items. I pronounce it like /the end/ but as /zee end/. It's a convention from sorting a spreadsheet by type and I want to `zEnd` to be the last type.
 
 %%[[Templates]]%%

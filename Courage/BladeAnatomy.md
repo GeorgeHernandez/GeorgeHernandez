@@ -158,7 +158,7 @@ The **Veer** of a blade refers to how the front edge and back edge are straight,
   - **Hawkbill** (C6). Recurved and sharp belly and back.
   - **[Ulu](https://en.wikipedia.org/wiki/Ulu)** (Head Knife) (C7). The grip is perpendicular to the usual orientation.
 
-**Figure:** Schematics of knife patterns from Wikpedia's [Blade](https://en.wikipedia.org/wiki/Blade).<br>![[2025-01-22_Knife_blades_S_series.png]]![[2025-01-11_Knife_blades_C_series.png]]
+**Figure:** Schematics of knife patterns from Wikpedia's [Blade](https://en.wikipedia.org/wiki/Blade).<br>![[2025-01-11_Knife_blades_S_series.png]]![[2025-01-11_Knife_blades_C_series.png]]
 
 The **Bevel** (Grind) refers to the cross-section shape of the blade. Here are some of the more common cross-sections:
 - **Wedge** is roughly an isosceles triangle: A  back and 2 equal sized flats.

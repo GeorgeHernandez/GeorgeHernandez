@@ -19,7 +19,11 @@ This category emphasizes cognition, and content like the following:
 
 ## Directory Table of Contents
 
-- [[CSE]]
+- [[CardinalAndOrdinal|Cardinal and Ordinal]]. Cardinal counts, while ordinal orders.
+- [[CSE]]. A directory on computer science and engineering.
+- [[MetricOrSIPrefixes|Metric or SI Prefixes]]. Prefixes used in the International System of Units (SI), aka the metric system.
+- [[PeriodicTable|Periodic Table]]. A few notes on the Periodic Table.
+- [[ScientificAndEngineeringNotation|Scientific and Engineering Notation]]. A few notes on scientific and engineering notation.
 
 
 ```dataview
