@@ -41,7 +41,6 @@ Your opinions and worldview will almost certainly differ from mine. And yet we h
 - System of Measurement: Metric. However I have a few personal opinions.
 
   - The prefixes for the positive exponents SHOULD change from:
-
     ```yaml
     [da, h, k, M, G,  T,  P,  E,  Z,  Y,  R,  Q] to:
     [ D, H, K, M, G,  T,  P,  E,  Z,  Y,  R,  Q]. e:
@@ -49,7 +48,6 @@ Your opinions and worldview will almost certainly differ from mine. And yet we h
     ```
 
   - The prefixes for the negative exponents are fine. ISO 2955 was on track: µ isn't ASCII but it's easy to enter with a keyboard input like EN INTL.
-
     ```yaml
     [d, c, m, μ, n,  p,  f,  a,  z,  y,  r,  q]. e-:
     [1, 2, 3, 6, 9, 12, 15, 18, 21, 24, 27, 30]
@@ -86,7 +84,7 @@ Your opinions and worldview will almost certainly differ from mine. And yet we h
 
 - Unicode Encoding: UTF-8, which is Windows Code Page Identifier 65001. Prefer later collations for database, e.g. `utf8mb4_unicode_520_ci`.
 - Version Control: Git
-- Indentation: 2 spaces, unless your system requires it.
+- Indentation: 2 spaces, unless your system requires it. 4 spaces looks better, hard tabs can be adjusted, but if you have to hand type code and hard tabs are not available, then 2 spaces is what works.
 - Web Service: REST Web API
 - Wikipedia is awesome!
 - Parks, especially national and state parks are awesome!

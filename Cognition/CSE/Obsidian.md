@@ -58,15 +58,23 @@ Core plugins are built into Obsidian. I almost immediately configured these core
 - Daily notes
 - Templates
 
-Community plugin are optional. I almost immediately configured these core plugins:
-- [[Dataview]]
-  - Uses metadata in your Markdown files so the files  can be queried like a database.
+Community plugin are optional. 
+
+Community plugins I'm using:
+- [[Dataview]]. Uses metadata in your Markdown files so the files  can be queried like a database.
+- Editing Toolbar
 - Git
 - Table of Contents
   - The outline available in the Obsidian interface works fine within Obsidian. It should default to be on the left, but thankfully you can just drag it to the left instead.
   - Use the Table of Contents plugin if you want a table of contents for just page for people NOT viewing the page in Obsidian. 
   - I used to manage table of contents with the "Markdown All In One" extension for Visual Studio Code.
   - If a page is so large that it needs a huge table of contents, then perhaps the page should be split into smaller pages. 
+
+Community plugins I'm considering:
+- Advanced Tables
+- DataLoom
+- Mxmind Mindmap
+- Remotely Save
 
 ## Shortcuts
 
