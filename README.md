@@ -34,6 +34,8 @@ Conventions I tend to follow on this site.
 - Recurring intervals. E.g. `R/2025-01-13/P2W`.
 - See also http://xkcd.com/1179/.
 
+[Engineering notation](https://en.wikipedia.org/wiki/Engineering_notation) for some numbers. E.g. Instead of 3 million, I will say 3e6.
+
 Metric ([SI](https://en.wikipedia.org/wiki/International_System_of_Units)), but I will occasionally use pounds (lbs, #), miles, and F. I change 3 prefixes:
     ```yaml
     [da, h, k, M, G,  T,  P,  E,  Z,  Y,  R,  Q] to:
