@@ -21,7 +21,7 @@ This repo has several functions:
 - It's a public repository of notes by George Hernandez.
 - It's a public web log (blog) by George Hernandez.
 
-This repo is currently made with [Obsidian](https://obsidian.md/) and is best viewed with Obsidian, but it can also be  viewed and navigated at [GitHub](https://github.com/) without Obsidian. This repo was previously written mainly in [Visual Studio Code](https://code.visualstudio.com/).
+This repo is currently made with [Obsidian](https://obsidian.md/) and is best viewed with Obsidian, but it can also be viewed and navigated at [GitHub](https://github.com/) without Obsidian. This repo was previously written mainly in [Visual Studio Code](https://code.visualstudio.com/).
 
 ## Site Conventions
 
@@ -59,6 +59,6 @@ Tables are prefixed with "**Table:**" followed by a description. Similarly figur
 
 [APA style](https://en.wikipedia.org/wiki/APA_style) for citations and references.
 
-`zEnd` as a header for miscellaneous items. I pronounce it like /the end/ but as /zee end/. It's a convention from sorting a spreadsheet by type and I want to `zEnd` to be the last type.
+`zEnd` as a header for miscellaneous items. I pronounce as /zee end/ because it's a play on "the end". It's a convention from sorting a spreadsheet by type and I want to `zEnd` to be the last type. Nearing the end is often an achievement to be celebrated.
 
 %%[[Templates]]%%
