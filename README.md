@@ -17,8 +17,8 @@ My content is categorized as follows:
 ## About this Repo
 
 This repo has several functions:
-- It's an "About Me" for George Hernandez.
 - It's a public repository of notes by George Hernandez.
+- It's an "About Me" for George Hernandez.
 - It's a public web log (blog) by George Hernandez.
 
 This repo is currently made with [Obsidian](https://obsidian.md/) and is best viewed with Obsidian, but it can also be viewed and navigated at [GitHub](https://github.com/) without Obsidian. This repo was previously written mainly in [Visual Studio Code](https://code.visualstudio.com/).
@@ -34,7 +34,7 @@ Conventions I tend to follow on this site.
 - Recurring intervals. E.g. `R/2025-01-13/P2W`.
 - See also http://xkcd.com/1179/.
 
-[Engineering notation](https://en.wikipedia.org/wiki/Engineering_notation) for some numbers. E.g. Instead of 3 million, I will say 3e6.
+[E notation](https://en.wikipedia.org/wiki/Scientific_notation#E_notation) for some numbers. See [[ScientificAndEngineeringNotation| Scientific and Engineering Notation]]. E.g. Instead of 3 million, I may say 3e6.
 
 Metric ([SI](https://en.wikipedia.org/wiki/International_System_of_Units)), but I will occasionally use pounds (lbs, #), miles, and F. I change 3 prefixes:
     ```yaml
