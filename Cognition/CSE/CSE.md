@@ -3,6 +3,7 @@
 summary:: Computer Science Engineering (CSE) stuff that I enjoy sharing.
 parents:: [[Cognition]]
 
+- [[CaseOfCases|Case of Cases]]. Capitalization and letter case for sets of words. 
 - [[GoogleWishList|Google Wish List]]. Just a few personal requests for Google.
 - [[Keyboard]]. My personal keyboard requirements and preferences.
 - [[Markdown]]. Notes on Markdown, a lightweight markup language that converts into HTML.
