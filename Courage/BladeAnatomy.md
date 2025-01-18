@@ -137,12 +137,36 @@ The **Sharpness** of a blade refers to the fineness of the application point of 
 - A **Sharp Point** refers to a narrow point. A sharp point is good for piercing, but a long thin point may be vulnerable to fracturing.
 - **Unsharpened Blades** have always existed, especially for practice gear. Edges can be thicker. Tips can be thickened (rolled, spatulated, covered)
 
-The **Veer** of a blade refers to how the front edge and back edge are straight, convex, or concave.
-- A **Straight** blade is not curved. E.g. a [Jian](https://en.wikipedia.org/wiki/Jian).
-- A **Convex** (Curved) blade curves away from the edge, e.g. a [Scimitar](https://en.wikipedia.org/wiki/Scimitar).
-- A **Concave** (Recurved) blade curves toward the edge, e.g. a [Kukri](https://en.wikipedia.org/wiki/Kukri.
+> [!info] Curve or Recurve
+> The words "curve" and "recurve" can be used on 2 similar concepts that I distinguish with the words **Veer** and **Slope**. 
 
-  The back and front edges may not veer in the same fashion.
+The **Veer** of a blade refers to whether the path of the edge is straight, convex, or concave.
+- A **Straight** edge has no veer. Tends to thrust. E.g. A [Jian](https://en.wikipedia.org/wiki/Jian).
+- A **Convex** edge veers ("curves) away from the edge.. Tends to slash or chop. E.g. A [Scimitar](https://en.wikipedia.org/wiki/Scimitar).
+- A **Concave** edge veers ("recurves") toward the edge. Tends reap or hook. E.g. A [Sickle](https://en.wikipedia.org/wiki/Sickle).
+- If you have a sword in a cut reference position, then using emoticons:
+  - `:-|` straight
+  - `:-)` convex
+  - `:-(` concave
+- If you have a sword in a thrust reference position, then using emojis:
+  - 😑 straight
+  - ☺️ convex
+  - ☹️ concave
+- Some blade have opposite veer on both edges. E.g. A [Shotel](https://en.wikipedia.org/wiki/Shotel).
+- Some blades alternate veer on the same edge. E.g. Leaf-blades like the [Xiphos](https://en.wikipedia.org/wiki/Xiphos) or [Sting](https://en.wikipedia.org/wiki/List_of_weapons_and_armour_in_Middle-earth#Sting).
+- Similar or other functionality can be implemented with appendages. E.g. [Polearm](https://en.wikipedia.org/wiki/Polearm) variants.
+
+The **Slope** of a blade refers to the general line of an edge relative to the central axis of the grip. E.g.
+- If you have a sword in a thrust reference position, with the grip horizontal, then in math terms the difference between grip and tip can be:
+  - Positive (+Δx, ↗️), i.e. upward slope. A [Katana](https://en.wikipedia.org/wiki/Katana) is convex blade with a positive slope.
+  - Zero (0Δx, ➡️), i.e. flat or horizontal or no slope. Most kitchen knives have a convex blade with no slope.
+  - Negative (-Δx, ↘️), i.e. downward  slope. A [Kukri](https://en.wikipedia.org/wiki/Kukri) is a convex blade with a negative slope.
+- If you have a sword in a cut reference position, with the grip vertical, then the math definition of slope does not apply but the 3 slopes above would translate to:
+  - Backward leaning, i.e. "curved" towards you. E.g. The katana.
+  - No leaning, i.e. straight up. E.g. The kitchen knife.
+  - Forward leaning, i.e. "recurved" away from you. E.g. The kukri.
+
+  The back and front edges may not veer or slope in the same fashion.
   - **Straight Back** (S1). Kitchen knifes typically have a straight back and a curved belly.
   - **Trailing Point** (S2). Very curved belly & back. E.g. A [Filet Knife](https://en.wikipedia.org/wiki/Fillet_knife).
   - **Drop Point** (S3). Curved belly. Recurved back.
