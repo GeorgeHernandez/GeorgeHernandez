@@ -128,17 +128,18 @@ The **Weak** (Debole, Foible, *Ten Fushi* in Japanese) is roughly the 1/4 or 1/
 The **[Center of Percussion](https://en.wikipedia.org/wiki/Center_of_percussion)** (CoP, Sweet Spot) is a point on blade where if you attach the blade to a pivot, then a perpendicular impact at the CoP  will produce no reactive shock at pivot.
 
 The **Taper** of a blade refers to the thinning (from grip to tip) of either its thickness or profile.
-- **Profile Taper** refers to the thinning of the profile from grip to tip. E.g. Cutting swords may stay the same profile throughout most of the length (or even widen at some points), whereas a thrusting sword almost always has a clear profile taper.
-- **Distal Taper** refers to the thinning of the thickness from grip to tip. E.g. Cutting swords may not have distal taper until the tip, whereas thrusting swords almost always have clear distal taper.
+- **Profile Taper** refers to the thinning of the profile from grip to tip. E.g. 
+  - Cutting swords may stay the same profile throughout most of the length (or even widen at some points), whereas a thrusting sword almost always has a clear profile taper.
+  - The [Cinquedea](https://en.wikipedia.org/wiki/Cinquedea) has distinctive profile taper.
+- **Distal Taper** refers to the thinning of the thickness from grip to tip. E.g.
+  - Cutting swords may not have distal taper until the tip, whereas thrusting swords almost always have clear distal taper.
+  - Rectangular [Cleavers](https://en.wikipedia.org/wiki/Cleaver) usually have the same spine thickness from grip to tip.
 
 The **Sharpness** of a blade refers to the fineness of the application point of a blade.
 - A **Sharp Edge** refers to a thin cutting edge. The edge should be hard (because there is less material), but in many case not so hard that it is difficult to resharpen.
   - The **[Hamon](https://en.wikipedia.org/wiki/Hamon_(swordsmithing))** ("edge pattern") of Japanese swords is a visible effect created on the blade by the hardening process between the harder cutting edge and the softer spine.
 - A **Sharp Point** refers to a narrow point. A sharp point is good for piercing, but a long thin point may be vulnerable to fracturing.
 - **Unsharpened Blades** have always existed, especially for practice gear. Edges can be thicker. Tips can be thickened (rolled, spatulated, covered)
-
-> [!info] Curve or Recurve
-> The words "curve" and "recurve" can be used on 2 similar concepts that I distinguish with the words **Veer** and **Slope**. 
 
 The **Veer** of a blade refers to whether the path of the edge is straight, convex, or concave.
 - A **Straight** edge has no veer. Tends to thrust. E.g. A [Jian](https://en.wikipedia.org/wiki/Jian).
@@ -156,15 +157,16 @@ The **Veer** of a blade refers to whether the path of the edge is straight, conv
 - Some blades alternate veer on the same edge. E.g. Leaf-blades like the [Xiphos](https://en.wikipedia.org/wiki/Xiphos) or [Sting](https://en.wikipedia.org/wiki/List_of_weapons_and_armour_in_Middle-earth#Sting).
 - Similar or other functionality can be implemented with appendages. E.g. [Polearm](https://en.wikipedia.org/wiki/Polearm) variants.
 
-The **Slope** of a blade refers to the general line of an edge relative to the central axis of the grip. E.g.
+The **Slope**  or **Lean** of a blade refers to the general line of an edge relative to the central axis of the grip. E.g.
 - If you have a sword in a thrust reference position, with the grip horizontal, then in math terms the difference between grip and tip can be:
-  - Positive (+Δx, ↗️), i.e. upward slope. A [Katana](https://en.wikipedia.org/wiki/Katana) is convex blade with a positive slope.
-  - Zero (0Δx, ➡️), i.e. flat or horizontal or no slope. Most kitchen knives have a convex blade with no slope.
-  - Negative (-Δx, ↘️), i.e. downward  slope. A [Kukri](https://en.wikipedia.org/wiki/Kukri) is a convex blade with a negative slope.
-- If you have a sword in a cut reference position, with the grip vertical, then the math definition of slope does not apply but the 3 slopes above would translate to:
-  - Backward leaning, i.e. "curved" towards you. E.g. The katana.
-  - No leaning, i.e. straight up. E.g. The kitchen knife.
-  - Forward leaning, i.e. "recurved" away from you. E.g. The kukri.
+  - **Positive Slope** (+Δx, ↗️), i.e. upward. A [Katana](https://en.wikipedia.org/wiki/Katana) is convex blade with a positive slope.
+  - **Zero Slope** (0Δx, ➡️), i.e. flat or horizontal or no slope. Most kitchen knives have a convex blade with no slope.
+  - **Negative Slope** (-Δx, ↘️), i.e. downward. A [Kukri](https://en.wikipedia.org/wiki/Kukri) is a convex blade with a negative slope.
+- If you have a sword in a cut reference position, with the grip vertical, then the math definition of slope does not apply, but the 3 slopes above would correspond to the following:
+  - **Backward Leaning**, i.e. "curved" towards you. E.g. The katana.
+  - **No Leaning**, i.e. straight up. E.g. The kitchen knife.
+  - **Forward Leaning**, i.e. "recurved" away from you. E.g. The kukri.
+- Blades with pistol grips (or the like) effectively have  negative sloping (forward leaning) blades.
 
   The back and front edges may not veer or slope in the same fashion.
   - **Straight Back** (S1). Kitchen knifes typically have a straight back and a curved belly.
