@@ -85,9 +85,15 @@ Personally I love these 2 shortcuts from spreadsheets:
   - Now via shortcut: `ctrl + k t`
   - Now via snippet: `ctrl + space now`
 
+Multiple cursors:
+- For very specific locations:  `alt+click`
+- For consecutive lines: `shift+alt+drag`
+- To cancel multiple cursors: `click`
+
 References:
 - https://help.obsidian.md/User+interface/Hotkeys
 - https://help.obsidian.md/Editing+and+formatting/Editing+shortcuts
+- https://help.obsidian.md/Editing+and+formatting/Multiple+cursors
 
 ## Callouts
 
@@ -110,18 +116,18 @@ Callout formatting:
 - Callouts can be nested.
 
 The types of Callouts available include: 
-  -`abstract`. Aliases: `summary`, `tldr`
-  -`bug`
-  -`danger`. Aliases: `error`
-  -`example`
-  -`failure`. Aliases: `fail`, `missing`
-  -`info`
-  -`question`. Aliases: `help`, `faq`
-  -`quote`. Aliases: `cite`
-  -`success`. Aliases: `check`, `done`
-  -`tip`. Aliases: `hint`, `important`
-  -`todo`
-  -`warning`. Aliases: `caution`, `attention`
+  -`> [!abstract]`. Aliases: `summary`, `tldr`
+  -`> [!bug]`
+  -`> [!danger]`. Aliases: `error`
+  -`> [!example]`
+  -`> [!failure]`. Aliases: `fail`, `missing`
+  -`> [!info]`
+  -`> [!question]`. Aliases: `help`, `faq`
+  -`> [!quote]`. Aliases: `cite`
+  -`> [!success]`. Aliases: `check`, `done`
+  -`> [!tip]`. Aliases: `hint`, `important`
+  -`> [!todo]`
+  -`> [!warning]`. Aliases: `caution`, `attention`
 
 References:
 - https://help.obsidian.md/Editing+and+formatting/Callouts.
