@@ -2,3 +2,5 @@
 
 summary:: Public log by George Hernandez for {{date:YYYY-MM-DD}}.
 parents: [[{{date:YYYY-MM}}]]
+
+{{date:hh:mm}}
