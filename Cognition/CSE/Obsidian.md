@@ -11,7 +11,7 @@ Internal links:
 - The Markdown syntax, e.g. `[Hello world](Hi%20world.md)` or `[Hello world](<Hi world.md>)`, works in & out of Obsidian.
 - The Wikilink syntax, e.g. `[[Hi world|Hello world]]`, only works within Obsidian. 
 
-External links:
+External links: 
 - Markdown syntax, e.g. `[An Example](https://example.com/foo%20bar "my tooltip")` or `[An Example](<https://example.com/foo  bar> "my tooltip)`, work in & out of Obsidian. 
 
 Comments:
@@ -64,6 +64,7 @@ Community plugins I'm using:
 - [[Dataview]]. Uses metadata in your Markdown files so the files  can be queried like a database.
 - Editing Toolbar
 - Git
+- Natural Language Dates. Allows you to enter dates with syntax like `@yesterday`. 
 - Table of Contents
   - The outline available in the Obsidian interface works fine within Obsidian. It should default to be on the left, but thankfully you can just drag it to the left instead.
   - Use the Table of Contents plugin if you want a table of contents for just page for people NOT viewing the page in Obsidian. 
@@ -84,6 +85,7 @@ Personally I love these 2 shortcuts from spreadsheets:
 - FYI: In Visual Studio Code I approximate it with:
   - Now via shortcut: `ctrl + k t`
   - Now via snippet: `ctrl + space now`
+- The Natural Language Dates plugin allows you to enter dates with syntax like `@yesterday`. 
 
 Multiple cursors:
 - For very specific locations:  `alt+click`
