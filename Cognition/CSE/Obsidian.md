@@ -74,6 +74,7 @@ Community plugins I'm using:
 Community plugins I'm considering:
 - Advanced Tables
 - DataLoom
+- Excalidraw
 - Mxmind Mindmap
 - Remotely Save
 
@@ -138,7 +139,9 @@ References:
 
 Tag your notes to make them more searchable. E.g. Filter by tags in graph view.
 
-Add a tag anywhere in a note with hashtag syntax. E.g. `#meeting`. Alternatively, tags can be added as property in YAML provided as a list. E.g.
+Method 1: Add a tag anywhere in a note with hashtag syntax. E.g. `#meeting`. 
+
+Method 2: Tags can be added as property in YAML provided as a list. E.g.
 ```yaml
 ---
 tags:
@@ -152,6 +155,10 @@ Tag are case-insensitive and can only use these characters:
 - Underscore (`_`)
 - Hyphen (`-`)
 - Slash (`/`) for nested tags. E.g. `#meeting/public`.
+
+Some ideas for tags:
+- `#towatch`
+- `#giftideas`
 
 References:
 - https://help.obsidian.md/Editing+and+formatting/Tags
