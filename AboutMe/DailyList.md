@@ -10,17 +10,39 @@ I have other lists. I have lists, lists do not have me.
 ## My Daily List with Notes
 
 Not everyday is the same, but it's soothing to have a familiar routine and rhythm. 
-
-- [ ] 05:00🔆👃💊📆⏰🌦️🪙💧.
+- [ ] 05:00🔆📆⏰🌦️🪙👃💊💧.
   - [ ] Wake up. The range in [Chicago Sunrises](https://www.timeanddate.com/sun/usa/chicago) is large with DST: 05:14/07:18. Contrast with the small variance in [Manila Sunrises](https://www.timeanddate.com/sun/philippines/manila): 05:25/06:25.
   - [ ] Get more light to help me wake up
-  - [ ] Spritz my nose against hay fever
-  - [ ] Take my supplements
   - [ ] Check my calendar
   - [ ] Set alarms as needed
   - [ ] Check the weather
   - [ ] Check my finances
+  - [ ] Spritz my nose against hay fever
+  - [ ] Take my supplements
   - [ ] Hydrate. Especially to fight my gout.
+- [ ] 06:00 🍴💧. 🪥👁️💧.
+  - [ ] Breakfast.
+  - [ ] Brush my teeth. I try to couple brushing with my meals but it may not happen if I'm out of the house or the like.
+  - [ ] Eye drops as needed.
+- [ ] 07:00 ✔️📧🐸💧.
+  - [ ] Start of business day. The American business day is 9-5, but I pad it with commute plus wind up & wind down time. It also depends if I'm working that day, working from home, etc.
+  - [ ] Check my lists. This has been constantly changing my entire life but lately my primary list is a Google Doc "GH TODO". Others include: Google Keep & Trello.
+  - [ ] Checky my communications
+  - [ ] Responsibilities: Work, house work, tasks, projects, etc.
+  - [ ] Small and big items. "Eat a live frog first thing in the morning and nothing worse will happen to you the rest of the day." - Mark Twain
+- [ ] 12:00 🍴💧. 🪥👁️💧.
+  - [ ] Lunch.
+- [ ] 15:00 💧🚫☕🍬.
+  - [ ] From the afternoon and on I avoid caffeine and sweets because they can interfere with my sleep
+- [ ] 16:00 ✔️📧👁️💧.
+  - [ ] End of business day: Check my lists & communications again.
+- [ ] 19:00🍴💧.
+  - [ ] Dinner
+- [ ] 22:00 🪥👁️💻⏰😴.
+  - [ ] Quick review of my lists
+  - [ ] Turn off my laptop and monitor
+  - [ ] Check on my alarm clocks
+  - [ ] Go to sleep
 - [ ] 🖖🚶🏽♾️🤹🪢🎵🌱💧. 🏋️🤸🏃🚴🚣🏊⚾🏀💧. ✊🤼🤺💧.
   - [ ] Mild physical activity. E.g.
     - [ ] Stretching
@@ -46,33 +68,10 @@ Not everyday is the same, but it's soothing to have a familiar routine and rhyth
   - [ ] Shower, shave, nails, examine feet, etc.
   - [ ] Run the fan after the shower
   - [ ] Eye drops as needed.
-- [ ] 06:00 🍴💧. 🪥👁️💧.
-  - [ ] Breakfast.
-  - [ ] Brush my teeth. I try to couple brushing with my meals but it may not happen if I'm out of the house or the like.
-- [ ] 07:00 ✔️📧🐸💧.
-  - [ ] Start of business day. The American business day is 9-5, but I pad it with commute plus wind up & wind down time. It also depends if I'm working that day, working from home, etc.
-  - [ ] Check my lists. E.g. Google Keep, Trello, ghseet[GH, Hdz], gdoc[GH TODO].
-  - [ ] Checky my communications
-  - [ ] Responsibilities: Work, house work, tasks, projects, etc.
-  - [ ] Small and big items. "Eat a live frog first thing in the morning and nothing worse will happen to you the rest of the day." - Mark Twain
-- [ ] 12:00 🍴💧. 🪥👁️💧.
-  - [ ] Lunch.
-- [ ] 15:00 💧🚫☕🍬.
-  - [ ] From the afternoon and on I avoid caffeine and sweets because they can interfere with my sleep
-- [ ] 16:00 ✔️📧👁️💧.
-  - [ ] End of business day: Check my lists & communications again.
-- [ ] 19:00🍴💧.
-  - [ ] Dinner
-- [ ] 22:00 🪥👁️💻⏰😴.
-  - [ ] Quick review of my lists
-  - [ ] Turn off my laptop and monitor
-  - [ ] Check on my alarm clocks
-  - [ ] Go to sleep
 
 ## My Weekly List with Notes
 
 Usually on the Weekend.
-
 - [ ] ⚖️ Weigh myself
 - [ ] ⏲️🫀 Set a Timer then Log my Blood Pressure and Heart Rate
 - [ ] 💊 Refresh my Supplements, Vitamins, etc.
@@ -93,7 +92,6 @@ Usually on the Weekend.
 ## My Monthly List with Notes
 
 Usually on the 1st of the Month.
-
 - [ ] 💇 Haircut. Clipper at ¼⅛.
 - [ ] 👖 Refresh Pants
 - [ ] 🛏️ Refresh Bedding
@@ -103,7 +101,6 @@ Usually on the 1st of the Month.
 ## Gout Countermeasures
 
 Some [Gout](https://en.wikipedia.org/wiki/Gout) countermeasures:
-
 - Reduce High Purine Foods:
   - Theobromine. Found in Cocoa & Tea 🍵.
   - Odd Meats
@@ -126,7 +123,7 @@ Some [Gout](https://en.wikipedia.org/wiki/Gout) countermeasures:
   - Potatoes 🥔
   - Cottage Cheese
 - More:
-  - Hydration 💧 because Gout is largely a Kidney issue
+  - Hydration 💧 because Gout is largely a Kidney issue. This is probably the most important gout countermeasure.
   - Coffee ☕
   - Cherries 🍒
   - Exercise
