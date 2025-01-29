@@ -65,6 +65,7 @@ Community plugins I'm using:
 - Editing Toolbar
 - Git
 - Natural Language Dates. Allows you to enter dates with syntax like `@yesterday`. 
+- Quick Explorer. 
 - Table of Contents
   - The outline available in the Obsidian interface works fine within Obsidian. It should default to be on the left, but thankfully you can just drag it to the left instead.
   - Use the Table of Contents plugin if you want a table of contents for just page for people NOT viewing the page in Obsidian. 
