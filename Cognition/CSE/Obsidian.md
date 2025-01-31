@@ -64,7 +64,7 @@ Community plugins I'm using:
 - [[Dataview]]. Uses metadata in your Markdown files so the files  can be queried like a database.
 - Editing Toolbar
 - Git
-- Natural Language Dates. Allows you to enter dates with syntax like `@yesterday`. 
+- Natural Language Dates. Allows you to enter dates with syntax like `@yesterday`.
 - Quick Explorer. 
 - Table of Contents
   - The outline available in the Obsidian interface works fine within Obsidian. It should default to be on the left, but thankfully you can just drag it to the left instead.
