@@ -36,7 +36,7 @@ It is good to know what was in my wallet in case I lose it. "!" means not in my 
   - ! Bank of America MC
   - ! Bread AMEX
   - ! Chase Amazon Visa
-  - ! Discover
+  - Discover
   - ! Fidelity Visa
   - PayPal MC
   - Target MC
