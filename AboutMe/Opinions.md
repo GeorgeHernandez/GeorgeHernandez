@@ -59,7 +59,7 @@ Your opinions and worldview will almost certainly differ from mine. And yet we h
 
 - Breastfeeding > Formula
 - Toilet rolls releasing from the top > bottom
-- A4 paper ([ISO 216](https://en.wikipedia.org/wiki/ISO_216)) > 8.5"x11"
+- A4 paper ([ISO 216](https://en.wikipedia.org/wiki/ISO_216)) > [Letter paper](https://en.wikipedia.org/wiki/Letter_(paper_size)). Tip: Since Letter paper (8.5" x 11" or 215.9 mm x 279.4 mm) is wider but A4 paper (8.27" x 11.7" or 210 mm x 297 mm) is taller, then an image proportioned to Letter height and A4 width will fit both Letter and A4.
 - Common Era (CE) > AD
 - Butter > Margarine
 - Languages with few characters > many of characters

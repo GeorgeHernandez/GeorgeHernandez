@@ -32,7 +32,7 @@ Not everyday is the same, but it's soothing to have a familiar routine and rhyth
   - [ ] Small and big items. "Eat a live frog first thing in the morning and nothing worse will happen to you the rest of the day." - Mark Twain
 - [ ] 12:00 🍴💧. 🪥👁️💧.
   - [ ] Lunch.
-- [ ] 15:00 💧🚫☕🍬.
+- [ ] 15:00 🚫[☕🍬]💧.
   - [ ] From the afternoon and on I avoid caffeine and sweets because they can interfere with my sleep
 - [ ] 16:00 ✔️📧👁️💧.
   - [ ] End of business day: Check my lists & communications again.
@@ -68,6 +68,8 @@ Not everyday is the same, but it's soothing to have a familiar routine and rhyth
   - [ ] Shower, shave, nails, examine feet, etc.
   - [ ] Run the fan after the shower
   - [ ] Eye drops as needed.
+- [ ] 🪵
+    - [ ] Log: Reflect, journal.
 
 ## My Weekly List with Notes
 
@@ -76,7 +78,7 @@ Usually on the Weekend.
 - [ ] ⏲️🫀 Set a Timer then Log my Blood Pressure and Heart Rate
 - [ ] 💊 Refresh my Supplements, Vitamins, etc.
 - [ ] `UMTWRFS` Vitamin C
-- [ ] `U-T-R-S` Multivitamin
+- [x] `U-T-R-S` Multivitamin
 - [ ] `-M-W-F-` Vitamin D
 - [ ] `-M-----` Evening Primrose
 - [ ] `--T----` Cherry
