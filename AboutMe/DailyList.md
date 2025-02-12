@@ -77,7 +77,7 @@ Usually on the Weekend.
 - [ ] ⚖️ Weigh myself
 - [ ] ⏲️🫀 Set a Timer then Log my Blood Pressure and Heart Rate
 - [ ] 💊 Refresh my Supplements, Vitamins, etc.
-- [ ] `UMTWRFS` Vitamin C
+- [ ] `UMTWRFS` Vitamin C, Alopurinol
 - [x] `U-T-R-S` Multivitamin
 - [ ] `-M-W-F-` Vitamin D
 - [ ] `-M-----` Evening Primrose
