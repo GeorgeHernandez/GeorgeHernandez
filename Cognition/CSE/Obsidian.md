@@ -76,8 +76,10 @@ Community plugins I'm considering:
 - Advanced Tables
 - DataLoom
 - Excalidraw
+- Folder Note
 - Mxmind Mindmap
 - Remotely Save
+- Tasks
 
 ## Shortcuts
 
