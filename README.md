@@ -37,6 +37,7 @@ Conventions I tend to follow on this site.
 [E notation](https://en.wikipedia.org/wiki/Scientific_notation#E_notation) for some numbers. See [[ScientificAndEngineeringNotation| Scientific and Engineering Notation]]. E.g. Instead of 3 million, I may say 3e6.
 
 Metric ([SI](https://en.wikipedia.org/wiki/International_System_of_Units)), but I will occasionally use pounds (lbs, #), miles, and F. I change 3 prefixes:
+
     ```
     [da, h, k, M, G,  T,  P,  E,  Z,  Y,  R,  Q] to:
     [ D, H, K, M, G,  T,  P,  E,  Z,  Y,  R,  Q]. e:
