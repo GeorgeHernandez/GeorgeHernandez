@@ -37,7 +37,7 @@ Conventions I tend to follow on this site.
 [E notation](https://en.wikipedia.org/wiki/Scientific_notation#E_notation) for some numbers. See [[ScientificAndEngineeringNotation| Scientific and Engineering Notation]]. E.g. Instead of 3 million, I may say 3e6.
 
 Metric ([SI](https://en.wikipedia.org/wiki/International_System_of_Units)), but I will occasionally use pounds (lbs, #), miles, and F. I change 3 prefixes:
-    ```yaml
+    ```
     [da, h, k, M, G,  T,  P,  E,  Z,  Y,  R,  Q] to:
     [ D, H, K, M, G,  T,  P,  E,  Z,  Y,  R,  Q]. e:
     [ 1, 2, 3, 6, 9, 12, 15, 18, 21, 24, 27, 30]
@@ -47,14 +47,15 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
 
 Double dot notation for [cardinality requirements](https://en.wikipedia.org/wiki/Cardinality_(data_modeling)). E.g. To specify that set has 1 to 3 items, I would denote it as `1..3`.
 
-Two spaces (`  `) for indentation when writing about code, unless the system requires otherwise. 4 spaces looks better, hard tabs can be adjusted, but if you have to hand type code and hard tabs are not available, then 2 spaces is what works.
+Two spaces (`  `) for indentation when writing about code, unless the system requires otherwise. 4 spaces looks better, hard tabs can be adjusted, but if you have to hand type code and hard tabs are not available, then 2 spaces is what works. 
+- 2025-02-16 After years of entering indentation as 2 spaces, I will try 4 spaces.
 
 The [Latin abbreviations](https://en.wikipedia.org/wiki/List_of_Latin_abbreviations) I tend to use most often:
 - `ca.`. *circa*. "around".
 - `e.g.`. *exempli gratia*. "for example". Mnemonic: "example given".
 - `et al.`. *et alii*. "and others". E.g. Kili, Fili, et al.
 - `etc`. *et cetera*. "and the others"
--  `i.e.`.  *id est*. "that is".
+- `i.e.`.  *id est*. "that is".
 - `ibid.` *ibidem*. "in the same place". The same citation as the previoius.
 
 Tables are prefixed with "**Table:**" followed by a description. Similarly figures are prefixed with "**Figure:**" followed by a description. I may yet apply tags to figures and tables.
