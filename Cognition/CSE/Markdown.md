@@ -359,7 +359,6 @@ The `strike` tag is HTML 5 obsolete in favor of the `s` tag or the `ins` and `de
   - `<a href="https://example/identity_(id)">bar</a>` becomes <a href="https://example/identity_(id)">bar</a>
 
 A reference-style link has 2 parts:
-
 - The URL is referenced by an ID that is specified anywhere on the page but often at the end of the document. E.g.
   - `[1]:  https://example.com/1`
   - `[2]: <https://example.com/2>`
