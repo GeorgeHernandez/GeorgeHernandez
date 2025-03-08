@@ -77,13 +77,8 @@ Usually on the Weekend.
 - [ ] ⚖️ Weigh myself
 - [ ] ⏲️🫀 Set a Timer then Log my Blood Pressure and Heart Rate
 - [ ] 💊 Refresh my Supplements, Vitamins, etc.
-- [ ] `UMTWRFS` Vitamin C, Alopurinol
-- [x] `U-T-R-S` Multivitamin
-- [ ] `-M-W-F-` Vitamin D
-- [ ] `-M-----` Evening Primrose
-- [ ] `--T----` Cherry
-- [ ] `---W---` Ca Mg Zn
-- [ ] `----R--` Turmeric Curcumin Glucosamine Hydrochloride MSM + Chondroitin
+- [ ] `UMTWRFS` Alopurinol
+- [ ] `U-T-R-S` Vitamin D
 - [ ] `-----F-` Fish Oil
 - [ ] 🗑️ Empty Wastebaskets
 - [ ] 🚪🔔 Recharge the Doorbell. (Yes I need to get a wired doorbell)
