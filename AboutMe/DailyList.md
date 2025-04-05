@@ -79,7 +79,8 @@ Usually on the Weekend.
 - [ ] 💊 Refresh my Supplements, Vitamins, etc.
 - [ ] `UMTWRFS` Alopurinol
 - [ ] `U-T-R-S` Vitamin D
-- [ ] `-----F-` Fish Oil
+- [ ] ---W--- Glucosamine Chondroitin MSM & Turmeric
+- [ ] -----F- Fish Oil
 - [ ] 🗑️ Empty Wastebaskets
 - [ ] 🚪🔔 Recharge the Doorbell. (Yes I need to get a wired doorbell)
 - [ ] 🦉🤟 Study Languages. I cycle through:
