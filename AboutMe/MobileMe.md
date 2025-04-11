@@ -39,7 +39,7 @@ It is good to know what was in my wallet in case I lose it. "!" means not in my 
   - Discover
   - ! Fidelity Visa
   - PayPal MC
-  - Target MC
+  - ! Target MC
 - Store cards:
   - Menards
   - ! Micro Center
