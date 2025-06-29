@@ -1,4 +1,4 @@
-# My Daily List
+ 0# My Daily List
 
 summary:: My Daily List (checklist, routine) in Pictograms (for brevity).
 parents: [[AboutMe|About Me]]
@@ -10,56 +10,63 @@ I have other lists. I have lists, lists do not have me.
 ## My Daily List with Notes
 
 Not everyday is the same, but it's soothing to have a familiar routine and rhythm. 
-- [ ] 5🔆💧📆⏰🌦️🪙👃💊💧.
+- [ ] 5a🔆🦷📆⏰🌦️🪙👃💊.
   - [ ] Wake up. The range in [Chicago Sunrises](https://www.timeanddate.com/sun/usa/chicago) is large with DST: 05:14/07:18. Contrast with the small variance in [Manila Sunrises](https://www.timeanddate.com/sun/philippines/manila): 05:25/06:25.
-  - [ ] Get more light to help me wake up
-  - [ ] Check my calendar
-  - [ ] Set alarms as needed
-  - [ ] Check the weather
-  - [ ] Check my finances
-  - [ ] Spritz my nose against hay fever
-  - [ ] Take my supplements
-  - [ ] Hydrate. Especially to fight my gout.
-- [ ] 6 🍴💧. 🪥👁️💧.
+  - [ ] Get more light to help me wake up.
+  - [ ] Rinse my mouthpiece.
+  - [ ] Check my calendar.
+  - [ ] Set alarms as needed.
+  - [ ] Check the weather.
+  - [ ] Check my finances.
+  - [ ] Spritz my nose against hay fever.
+  - [ ] Take my supplements.
+- [ ] 🚿🪒👣👁️💨.
+  - [ ] Shower, shave, nails, examine feet, etc.
+  - [ ] Run the fan after the shower.
+  - [ ] Eye drops as needed.
+- [ ] 6a🍴🪥👁️.
   - [ ] Breakfast.
   - [ ] Brush my teeth. I try to couple brushing with my meals but it may not happen if I'm out of the house or the like.
   - [ ] Eye drops as needed.
-- [ ] 12 🍴💧. 🪥👁️💧.
+- [ ] 🐸🏡
+    - [ ] "Eat a live frog". Do something that take courage.
+    - [ ] Homemaking.
+- [ ] 1p🍴🪥👁️.
   - [ ] Lunch.
-- [ ] 7 🍴💧. 🪥👁️💧.
-  - [ ] Dinner
-- [ ] 10 ⏰📶😴.
-  - [ ] Check on my alarm clocks
-  - [ ] Charge my phone
-  - [ ] Go to sleep
-- [ ] 🖖🚶🏽♾️🤹🪢🎵🌱💧. 🏋️🤸🏃🚴🚣🏊⚾🏀💧. ✊🤼🤺💧.
+- [ ] MWFS🖖🚶🏽♾️🤹🪢🎵🌱. TR🏋️🤸🏃🚴🚣🏊⚾🏀. U✊🤼🤺.
   - [ ] Mild physical activity. E.g.
-    - [ ] Stretching
-    - [ ] Walking
-    - [ ] Twirling sticks, clubs, maces
-    - [ ] Juggling
-    - [ ] Tying knots
-    - [ ] Playing music
-    - [ ] Gardening
+    - [ ] Stretching.
+    - [ ] Walking.
+    - [ ] Twirling sticks, clubs, maces.
+    - [ ] Juggling.
+    - [ ] Tying knots.
+    - [ ] Playing music.
+    - [ ] Gardening.
   - [ ] Vigorous physical activity. Twice a week. E.g.
-    - [ ] Lifting
-    - [ ] Gymnastics
-    - [ ] Running
-    - [ ] Biking
-    - [ ] Rowing
-    - [ ] Swimming
+    - [ ] Lifting.
+    - [ ] Gymnastics.
+    - [ ] Running.
+    - [ ] Biking.
+    - [ ] Rowing.
+    - [ ] Swimming.
     - [ ] Sports. E.g. Baseball, basketball.
   - [ ] Martial arts. Twice a week. E.g.
-    - [ ] Unarmed
-    - [ ] Wrestling
-    - [ ] Armed
-- [ ] 🚿🪒👣👁️💨💧.
-  - [ ] Shower, shave, nails, examine feet, etc.
-  - [ ] Run the fan after the shower
-  - [ ] Eye drops as needed.
-- [ ] 🤗♟️📺🪵 
+    - [ ] Unarmed.
+    - [ ] Wrestling.
+    - [ ] Armed.
+- [ ] 7p🍴🪥👁️.
+  - [ ] Dinner.
+- [ ] 🤗♟️📺🪵. 
     - [ ] Social time
+    - [ ] Play time.
+    - [ ] Watch time.
     - [ ] Log: Reflect, journal.
+- [ ] 9p⏰📶🦷💧😴.
+  - [ ] Check on my alarm clocks.
+  - [ ] Charge my phone.
+  - [ ] Use mouthpiece.
+  - [ ] Check on water bottle.
+  - [ ] Go to sleep
 
 ## My Weekly List with Notes
 
@@ -67,9 +74,10 @@ Usually on the Weekend.
 - [ ] ⚖️ Weigh myself
 - [ ] ⏲️🫀 Set a Timer then Log my Blood Pressure and Heart Rate
 - [ ] 💊 Refresh my Supplements, Vitamins, etc.
-- [ ] `UMTWRFS` Alopurinol
-- [ ] `U-T-R-S` Vitamin D
-- [ ] ---W--- Glucosamine Chondroitin MSM & Turmeric
+- [ ] UMTWRFS Alopurinol
+- [ ] U-T-R-S Vitamin D
+- [ ] -M-W--- Glucosamine Chondroitin MSM & Turmeric
+- [ ] --T-R-- Undenatured Type II Collagen
 - [ ] -----F- Fish Oil
 - [ ] 🗑️ Empty Wastebaskets
 - [ ] 🚪🔔 Recharge the Doorbell. (Yes I need to get a wired doorbell)

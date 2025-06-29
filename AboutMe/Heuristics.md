@@ -110,7 +110,7 @@ A [heuristic](https://en.wikipedia.org/wiki/Heuristic) is any approach to proble
 - How long? How often?
 - Time is always flowing
 - Timing
-  - If you're going to fail, fail fast.
+  - If you're going to fail, fail fast (or fail mindfully).
   - Lots of timing in martial arts. True time as per [George Silver](https://en.wikipedia.org/wiki/George_Silver). _Vor_ and _noch_ of the [German school of fencing](https://en.wikipedia.org/wiki/German_school_of_fencing). And so on.
   - "To every thing there is a season, and a time to every purpose under the heaven" ~ [Ecclesiastes 3](https://biblehub.com/ecclesiastes/3.htm).
   - [Procrastination](https://en.wikipedia.org/wiki/Procrastination) is often not about time but about emotional suffering. Procrastinating, surfing, lounging, chilling, etc. can alleviate suffering. You have to determine need (v want) and whether you have the time for it now (v later).
