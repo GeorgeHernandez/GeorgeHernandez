@@ -25,6 +25,11 @@ There are several common **Reference Positions** when discussing swords and kniv
     - Grip: Flashlight.
     - Wrist rotation: Neutral.
     - Blade protrusion: Thumb side.
+- **Hanging Reference Position**: 
+    - Point: Downward.
+    - Grip: Teacup.
+    - Wrist rotation: Neutral on the outside. Hyper pronated on the inside.
+    - Blade protrusion: Thumb side.
 
 ## Primary Properties
 
@@ -70,10 +75,13 @@ The **Grip** (Handle) usually aligns with the axis of the blade.
   - On Japanese swords the tang is encased in a *Fuchi* sleeve held in with a *Mekugi* plug. The tang may have a *Mei* signture on it.
 
 > [!info] Grips
-> The concept of the "grip of a sword" is related to "how to grip a sword". Primarily:
-> - **Cut Grip** vs **Thrust Grip**. See Cut Reference vs Thrust Reference above. Both are common.
-> - **Heaven Grip** vs **Earth Grip**. The blade sticks out on either the thumb side or pinky side. Heaven grip is far more common.
-> - **Forward Grip** vs **Backward Grip**. The front edge either faces forward or backward. Forward grip is far more common.
+> The concept of the "grip part of a sword" is related to "how to grip a sword". Primarily:
+> - **Grip Purpose**
+>     - **Cut Grip**. Aka Hammer Grip.
+>     - **Thrust Grip**. Aka Flashlight Grip.
+>     - **Hanging Grip**. Aka Teacup Grip.
+> - **Grip Protrusion**. The blade sticks out on either the thumb side or pinky side. Protrusion from the thumb side is far more common.
+> - **Forward Grip** vs **Backward Grip**. The front edge either faces forward or backward. Forward grip is far more common. Not applicable to true double-edged swords.
 > - **Wrist Rotation**. There are 5 primary rotations:
 >   - Neutral. Palm inward
 >   - Pronated. Palm downward.
@@ -81,7 +89,9 @@ The **Grip** (Handle) usually aligns with the axis of the blade.
 >   - Supinated. Palm upward
 >   - Hyper Supinated. Palm inward from across your body.
 > - **Fingering Grips**. 1-3 fingers sneaking forward for more control.
->   - **Back Edge Thumbing** vs **Flat Thumbing**. E.g. Commonly the former with some saber grips, the latter with the *ZwerchHau* of German *Kunst des Fechtens* or covering with the flat.
+>   - **Point Control Fingering**. Common with Rapiers and Side Swords.
+>   - **Back Edge Thumbing**. Commonly  with some saber grips or when pressing hard with a knife.
+>   - **Flat Thumbing**. Common with the *ZwerchHau* of German *Kunst des Fechtens* or covering with the flat.
 
 ### Guard
 
