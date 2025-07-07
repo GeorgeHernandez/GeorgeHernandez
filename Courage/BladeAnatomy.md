@@ -8,9 +8,23 @@ This page focuses on identifying the terminology of key parts of many bladed gea
 **Figure:** A schematic of a fictional blade to help with identifying the parts of bladed gear. I made it in 2015 (or earlier).<br>![[2025-01-11_Blade_Anatomy.gif]]
 
 There are several common **Reference Positions** when discussing swords and knives:
-- **Scabbard Reference Position**: Point down as if sheathed or hanging on a wall. This as shown in the figure. Used in [Oakeshott typology](https://en.wikipedia.org/wiki/Oakeshott_typology) for the 13 medieval blade types (X to XXII) primarily because blades often inscriptions oriented in this fashion.
-- **Cut Reference Position**: Point up, heaven grip, hand forward, wrist rotation neutral.
-- **Thrust Reference Position**: Point forward, flashlight grip, wrist rotation neutral.
+- **Scabbard Reference Position**: 
+    - Point: Down as if sheathed or hanging on a wall. This as shown in the figure. Used in [Oakeshott typology](https://en.wikipedia.org/wiki/Oakeshott_typology) for the 13 medieval blade types (X to XXII) primarily because blades often have inscriptions oriented in this fashion.
+    - Front edge: Left.
+    - Grip: N/A.
+    - Wrist rotation: N/A.
+    - Blade protrusion: N/A.
+- **Cut Reference Position**: 
+    - Point: Up.
+    - Front edge: Forward.
+    - Grip: Hammer/neutral.
+    - Wrist rotation: Neutral.
+    - Blade protrusion: Thumb side.
+- **Thrust Reference Position**: 
+    - Point: Forward.
+    - Grip: Flashlight.
+    - Wrist rotation: Neutral.
+    - Blade protrusion: Thumb side.
 
 ## Primary Properties
 
