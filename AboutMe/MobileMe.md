@@ -34,24 +34,26 @@ It is good to know what was in my wallet in case I lose it. "!" means not in my 
 - Credit cards:
   - American Express (AMEX)
   - ! Bank of America MC
-  - ! Bread AMEX
+  - Bread AMEX
   - ! Chase Amazon Visa
+  - Citibank Costco Visa
   - Discover
   - ! Fidelity Visa
   - PayPal MC
   - ! Target MC
 - Store cards:
+  - Costco
   - Menards
   - ! Micro Center
 - Debit cards:
   - ! AMEX
   - Capital One MC
-  - Fidelity HSA Visa
+  - Fidelity NetBenefits HSA Visa
   - ! Venmo MC
   - ! Wise MC
 - IDs:
-  - Illinois Driver's License
-  - UIC
+  - Illinois Real Driver's License
+  - ! UIC
 - Other cards:
   - Chicago Public Library
   - Ventra Public Transportation
