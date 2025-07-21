@@ -24,7 +24,6 @@ parents: [[AboutMe|About Me]]
   - Car fob
    - Ring: 
      - Whistle with bottle opener
-     - Key-sized mini-tool
      - Swiss Army Knife: The Jetsetter has no blade.
 
 ## Wallet
