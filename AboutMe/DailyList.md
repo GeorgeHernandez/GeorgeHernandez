@@ -10,29 +10,31 @@ I have other lists. I have lists, lists do not have me.
 ## My Daily List with Notes
 
 Not everyday is the same, but it's soothing to have a familiar routine and rhythm. 
-- [ ] 5a🔆🦷📆⏰🌦️🪙👃💊.
-  - [ ] Wake up. The range in [Chicago Sunrises](https://www.timeanddate.com/sun/usa/chicago) is large with DST: 05:14/07:18. Contrast with the small variance in [Manila Sunrises](https://www.timeanddate.com/sun/philippines/manila): 05:25/06:25.
+- [ ] 5a🔆🦷📆⏰🌦️🪙📵👃💊.
+  - [ ] Wake up. Compare sunrise ranges in [Chicago](https://www.timeanddate.com/sun/usa/chicago) (with DST): 05:14/07:18, against [Manila](https://www.timeanddate.com/sun/philippines/manila): 05:25/06:25.
   - [ ] Get more light to help me wake up.
   - [ ] Rinse my mouthpiece.
   - [ ] Check my calendar.
   - [ ] Set alarms as needed.
   - [ ] Check the weather.
   - [ ] Check my finances.
+  - [ ] Minimize phone use.
   - [ ] Spritz my nose against hay fever.
-  - [ ] Take my supplements.
-- [ ] 🚿🪒👣👁️💨.
+  - [ ] Take my pills.
+- [ ] 🚿🪒👣💨.
   - [ ] Shower, shave, nails, examine feet, etc.
   - [ ] Run the fan after the shower.
-  - [ ] Eye drops as needed.
-- [ ] 6a🍴🪥👁️.
+- [ ] 6a🍴🪥.
   - [ ] Breakfast.
   - [ ] Brush my teeth. I try to couple brushing with my meals but it may not happen if I'm out of the house or the like.
   - [ ] Eye drops as needed.
-- [ ] 🐸🏡
+- [ ] 🐸🏡🤟.
     - [ ] "Eat a live frog". Do something that take courage.
     - [ ] Homemaking.
+    - [ ] Language practice. E.g. ES, ASL.
 - [ ] 1p🍴🪥👁️.
   - [ ] Lunch.
+  - [ ] Eye drops as needed.
 - [ ] MWFS🖖🚶🏽♾️🤹🪢🎵🌱. TR🏋️🤸🏃🚴🚣🏊⚾🏀. U✊🤼🤺.
   - [ ] Mild physical activity. E.g.
     - [ ] Stretching.
@@ -42,7 +44,7 @@ Not everyday is the same, but it's soothing to have a familiar routine and rhyth
     - [ ] Tying knots.
     - [ ] Playing music.
     - [ ] Gardening.
-  - [ ] Vigorous physical activity. Twice a week. E.g.
+  - [ ] Vigorous physical activity. Weekly: 1-2x. E.g.
     - [ ] Lifting.
     - [ ] Gymnastics.
     - [ ] Running.
@@ -50,23 +52,23 @@ Not everyday is the same, but it's soothing to have a familiar routine and rhyth
     - [ ] Rowing.
     - [ ] Swimming.
     - [ ] Sports. E.g. Baseball, basketball.
-  - [ ] Martial arts. Twice a week. E.g.
+  - [ ] Martial arts. Weekly: 1-2x. E.g.
     - [ ] Unarmed.
     - [ ] Wrestling.
     - [ ] Armed.
-- [ ] 7p🍴🪥👁️.
+- [ ] 7p🍴🪥.
   - [ ] Dinner.
-- [ ] 🤗♟️📺🪵. 
-    - [ ] Social time
+- [ ] 🤗♟️▶️🪵📝. 
+    - [ ] Social time.
     - [ ] Play time.
-    - [ ] Watch time.
+    - [ ] Watch or Listen time.
     - [ ] Log: Reflect, journal.
 - [ ] 9p⏰📶🦷💧😴.
   - [ ] Check on my alarm clocks.
   - [ ] Charge my phone.
   - [ ] Use mouthpiece.
   - [ ] Check on water bottle.
-  - [ ] Go to sleep
+  - [ ] Go to sleep.
 
 ## My Weekly List with Notes
 
