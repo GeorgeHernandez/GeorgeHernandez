@@ -101,8 +101,7 @@ I was raised Catholic but I'm an atheist
     - Psychoticism is a personality pattern typified by aggressiveness, interpersonal hostility, impulsivity, and sensation-seeking. Psychologist Hans Eysenck's 3 primary traits are P-E-N: Psychoticism, Extroversion, and Neuroticism/Emotionalism.
     - ME: 60%. **I have a contrary nature** and tend to play the devil's advocate. My sense of humor tends to be ironic, i.e. something wrong is often funny. I like to fight and do martial arts, but it's for fun, developing character and skill, etc, i.e. I'm rarely angry at opponents. I will mutter and swear while driving but I don't have road rage. I sometimes get annoyed by problems that could have been prevented, but I try to remember that it happens.
   - Self-esteem
-    - A "favorable or unfavorable attitude toward the self" (Rosenberg, 1965). An individual's sense of his or her value or worth, or the extent to which a person values, approves of, appreciates, prizes, or l
-    - ikes him or herself" (Blascovich & Tomaka, 1991).
+    - A "favorable or unfavorable attitude toward the self" (Rosenberg, 1965). An individual's sense of his or her value or worth, or the extent to which a person values, approves of, appreciates, prizes, or likes him or herself" (Blascovich & Tomaka, 1991).
     - ME: 70%. Odd that I can like myself but also be a bit morose.
   - Harm avoidance
     - A tendency towards shyness, being fearful and uncertain, tendency to worry.
