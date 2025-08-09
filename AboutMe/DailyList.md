@@ -5,7 +5,7 @@ parents: [[AboutMe|About Me]]
 
 My Daily List is in my usual chronological order but sometimes things get moved around. I do each list item 0..N times. Most of my list items are Positive (e.g. Eat Lunch). I used to have more Negative list items, but then I realized they apply in general. E.g. I used to specify 📵 (Avoid Phone Surfing) for key times, but then I realized that it should apply most of the time. Some Positive List Items should apply most of the time, but I don't mind the repetition.
 
-I have other lists. I have lists, lists do not have me.
+I have other lists. I have lists; lists do not have me.
 
 ## My Daily List with Notes
 
