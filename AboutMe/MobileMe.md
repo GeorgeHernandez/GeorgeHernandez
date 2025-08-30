@@ -25,10 +25,24 @@ parents: [[AboutMe|About Me]]
         - House key
         - Mail key
         - Garage key
+        - Work key
     - Car fob
     - Ring: 
          - Whistle with bottle opener
          - Swiss Army Knife: The Jetsetter has no blade.
+
+## FMA Shorts
+- Right
+    - Unsharpened folder
+    - 8" stick
+    - Pen
+    - Soft measuring tap
+- Left
+    - Sharp folder
+    - Lighter
+    - Meter of string
+- Back Left
+    - Hankie
 
 ## Wallet
 
@@ -115,16 +129,16 @@ It is good to know what was in my wallet in case I lose it. A "!" prefix means i
 ## Swim Bag
 
 - Outside pockets:
-  - Water bottle. Refresh beforehand!
-  - Swim goggles
-  - Tally counter. Cheap & waterproof.
-  - Handkerchief
+    - Water bottle. Refresh beforehand!
+    - Swim goggles
+    - Tally counter. Cheap & waterproof.
+    - Handkerchief
 - Inside pocket:
-  - Combination lock
+    - Combination lock
 - Main pocket:
-  - Flip flops
-  - Swim shorts. Refresh beforehand!
-  - Fresh towel. Refresh beforehand!
+    - Flip flops
+    - Swim shorts. Refresh beforehand!
+    - Fresh towel. Refresh beforehand!
 
 ## Work Bag
 
