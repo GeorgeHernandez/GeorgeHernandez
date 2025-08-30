@@ -33,54 +33,80 @@ Not everyday is the same, but it's soothing to have a familiar routine and rhyth
     - [ ] Homemaking.
     - [ ] Language practice. E.g. ES, ASL.
 - [ ] 1p🍴🪥👁️.
-  - [ ] Lunch.
-  - [ ] Eye drops as needed.
+    - [ ] Lunch.
+    - [ ] Eye drops as needed.
 - [ ] MWFS🖖🚶🏽♾️🤹🪢🎵🌱. TR🏋️🤸🏃🚴🚣🏊⚾🏀. U✊🤼🤺.
-  - [ ] Mild physical activity. E.g.
-    - [ ] Stretching.
-    - [ ] Walking.
-    - [ ] Twirling sticks, clubs, maces.
-    - [ ] Juggling.
-    - [ ] Tying knots.
-    - [ ] Playing music.
-    - [ ] Gardening.
-  - [ ] Vigorous physical activity. Weekly: 1-2x. E.g.
-    - [ ] Lifting.
-    - [ ] Gymnastics.
-    - [ ] Running.
-    - [ ] Biking.
-    - [ ] Rowing.
-    - [ ] Swimming.
-    - [ ] Sports. E.g. Baseball, basketball.
+    - [ ] Mild physical activity. E.g.
+        - [ ] Stretching.
+        - [ ] Walking.
+        - [ ] Twirling sticks, clubs, maces.
+        - [ ] Juggling.
+        - [ ] Tying knots.
+        - [ ] Playing music.
+        - [ ] Gardening.
+    - [ ] Vigorous physical activity. Weekly: 1-2x. E.g.
+        - [ ] Lifting.
+        - [ ] Gymnastics.
+        - [ ] Running.
+        - [ ] Biking.
+        - [ ] Rowing.
+        - [ ] Swimming.
+        - [ ] Sports. E.g. Baseball, basketball.
   - [ ] Martial arts. Weekly: 1-2x. E.g.
     - [ ] Unarmed.
     - [ ] Wrestling.
     - [ ] Armed.
 - [ ] 7p🍴🪥.
-  - [ ] Dinner.
+    - [ ] Dinner.
 - [ ] 🤗♟️▶️🪵📝. 
     - [ ] Social time.
     - [ ] Play time.
     - [ ] Watch or Listen time.
     - [ ] Log: Reflect, journal.
 - [ ] 9p⏰📶🦷💧😴.
-  - [ ] Check on my alarm clocks.
-  - [ ] Charge my phone.
-  - [ ] Use mouthpiece.
-  - [ ] Check on water bottle.
-  - [ ] Go to sleep.
+    - [ ] Check on my alarm clocks.
+    - [ ] Charge my phone.
+    - [ ] Use mouthpiece.
+    - [ ] Check on water bottle.
+    - [ ] Go to sleep.
 
+## My Recurring Lists for Work/School
+
+- [ ] Beginning of Day (BOD):
+    - [ ] Make lunch.
+    - [ ] Put on ID.
+    - [ ] Punch in.
+    - [ ] Put lunch away.
+    - [ ] Print job 1: 40 EN, 10 ES. Staple as needed.
+    - [ ] Print job 2: 40 EN, 10 ES. Staple as needed.
+    - [ ] Standards & Objectives on Whiteboard.
+    - [ ] Charge laptop.
+- [ ] End of Day (EOD):
+    - [ ] Attendance in Aspen.
+    - [ ] Grading. Anything past due is 50%.
+    - [ ] Chromebooks: Count & Charge.
+    - [ ] Environment: Close Windows. Turn off A/C. Lock door. 
+    - [ ] Punch out. 
+    - [ ] Put ID in Backpack.
+    - [ ] Next day Slides & Tarea. With Standards & Objectives.
+- [ ] End of Week (EOW):
+    - [ ] Erlenmeyer plant: Give Earl 5 drops.
+    - [ ] Print Daily sheets for the following week.
+    - [ ] Parse Daily sheets against Students SY25.26.
+    - [ ] Grade weekly AC assignments on Daily, forward to next week, add to Aspen.
+    - [ ] Look at the next p2w on the ACCA calendar.
+    - [ ] Submit lesson plans for the following week.
 ## My Weekly List with Notes
 
 Usually on the Weekend.
 - [ ] ⚖️ Weigh myself
 - [ ] ⏲️🫀 Set a Timer then Log my Blood Pressure and Heart Rate
 - [ ] 💊 Refresh my Supplements, Vitamins, etc.
-- [ ] UMTWRFS Alopurinol
-- [ ] U-T-R-S Vitamin D
-- [ ] -M-W--- Glucosamine Chondroitin MSM & Turmeric
-- [ ] --T-R-- Undenatured Type II Collagen
-- [ ] -----F- Fish Oil
+    - [ ] UMTWRFS Alopurinol
+    - [ ] U-T-R-S Vitamin D
+    - [ ] -M-W--- Glucosamine Chondroitin MSM & Turmeric
+    - [ ] --T-R-- Undenatured Type II Collagen
+    - [ ] -----F- Fish Oil
 - [ ] 🗑️ Empty Wastebaskets
 - [ ] 🚪🔔 Recharge the Doorbell. (Yes I need to get a wired doorbell)
 - [ ] 🦉🤟 Study Languages. I cycle through:
