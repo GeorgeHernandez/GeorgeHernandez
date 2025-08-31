@@ -11,31 +11,17 @@ I have other lists. I have lists; lists do not have me.
 
 Not everyday is the same, but it's soothing to have a familiar routine and rhythm. 
 - [ ] 5a🔆🦷📆⏰🌦️🪙📵👃💊.
-  - [ ] Wake up. Compare sunrise ranges in [Chicago](https://www.timeanddate.com/sun/usa/chicago) (with DST): 05:14/07:18, against [Manila](https://www.timeanddate.com/sun/philippines/manila): 05:25/06:25.
-  - [ ] Get more light to help me wake up.
-  - [ ] Rinse my mouthpiece.
-  - [ ] Check my calendar.
-  - [ ] Set alarms as needed.
-  - [ ] Check the weather.
-  - [ ] Check my finances.
-  - [ ] Minimize phone use.
-  - [ ] Spritz my nose against hay fever.
-  - [ ] Take my pills.
-- [ ] 🚿🪒👣💨.
-  - [ ] Shower, shave, nails, examine feet, etc.
-  - [ ] Run the fan after the shower.
-- [ ] 6a🍴🪥.
-  - [ ] Breakfast.
-  - [ ] Brush my teeth. I try to couple brushing with my meals but it may not happen if I'm out of the house or the like.
-  - [ ] Eye drops as needed.
-- [ ] 🐸🏡🤟.
-    - [ ] "Eat a live frog". Do something that take courage.
-    - [ ] Homemaking.
-    - [ ] Language practice. E.g. ES, ASL.
-- [ ] 1p🍴🪥👁️.
-    - [ ] Lunch.
-    - [ ] Eye drops as needed.
-- [ ] MWFS🖖🚶🏽♾️🤹🪢🎵🌱. TR🏋️🤸🏃🚴🚣🏊⚾🏀. U✊🤼🤺.
+    - [ ] Wake up. Compare sunrise ranges in [Chicago](https://www.timeanddate.com/sun/usa/chicago) (with DST): 05:14/07:18, against [Manila](https://www.timeanddate.com/sun/philippines/manila): 05:25/06:25.
+    - [ ] Get more light to help me wake up.
+    - [ ] Rinse my mouthpiece.
+    - [ ] Check my calendar.
+    - [ ] Set alarms as needed.
+    - [ ] Check the weather.
+    - [ ] Check my finances.
+    - [ ] Minimize phone use.
+    - [ ] Spritz my nose against hay fever.
+    - [ ] Take my pills.
+- [ ] MWFS🖖🚶🏽♾️🤹🪢🎵🌱. 🚿👃👣🪒💨.
     - [ ] Mild physical activity. E.g.
         - [ ] Stretching.
         - [ ] Walking.
@@ -44,7 +30,21 @@ Not everyday is the same, but it's soothing to have a familiar routine and rhyth
         - [ ] Tying knots.
         - [ ] Playing music.
         - [ ] Gardening.
-    - [ ] Vigorous physical activity. Weekly: 1-2x. E.g.
+    - [ ] Shower, nose, nails, feet, shave, etc.
+    - [ ] Run the fan after the shower.
+- [ ] 6a🍴🪥👁️.
+    - [ ] Breakfast.
+    - [ ] Brush my teeth. I try to couple brushing with my meals but it may not happen if I'm out of the house or the like.
+    - [ ] Eye drops as needed.
+- [ ] 🐸🏡🤟.
+    - [ ] "Eat a live frog". Do something that take courage.
+    - [ ] Homemaking. Home & Garden.
+    - [ ] Language practice. E.g. ES, ASL.
+- [ ] 1p🍴🪥👁️.
+    - [ ] Lunch.
+    - [ ] Eye drops as needed.
+- [ ] MWFS🖖🚶🏽♾️🤹🪢🎵🌱. TR🏋️🤸🏃🚴🚣🏊⚾🏀. U✊🤼🤺.
+    - [ ]     - [ ] Vigorous physical activity. Weekly: 1-2x. E.g.
         - [ ] Lifting.
         - [ ] Gymnastics.
         - [ ] Running.
