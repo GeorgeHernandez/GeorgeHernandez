@@ -21,7 +21,7 @@ Not everyday is the same, but it's soothing to have a familiar routine and rhyth
     - [ ] Minimize phone use.
     - [ ] Spritz my nose against hay fever.
     - [ ] Take my pills.
-- [ ] MWFS🖖🚶🏽♾️🤹🪢🎵🌱. 🚿👃👣🪒💨.
+- [ ] 🖖🚶🏽♾️🤹🪢🎵🌱. 🚿👃👣🪒💨.
     - [ ] Mild physical activity. E.g.
         - [ ] Stretching.
         - [ ] Walking.
@@ -34,17 +34,18 @@ Not everyday is the same, but it's soothing to have a familiar routine and rhyth
     - [ ] Run the fan after the shower.
 - [ ] 6a🍴🪥👁️.
     - [ ] Breakfast.
-    - [ ] Brush my teeth. I try to couple brushing with my meals but it may not happen if I'm out of the house or the like.
+    - [ ] Brush my teeth.
     - [ ] Eye drops as needed.
 - [ ] 🐸🏡🤟.
-    - [ ] "Eat a live frog". Do something that take courage.
+    - [ ] "Eat a live frog".
     - [ ] Homemaking. Home & Garden.
     - [ ] Language practice. E.g. ES, ASL.
 - [ ] 1p🍴🪥👁️.
     - [ ] Lunch.
+    - [ ] Brush my teeth. This may not happen if I'm out of the house or the like.
     - [ ] Eye drops as needed.
-- [ ] MWFS🖖🚶🏽♾️🤹🪢🎵🌱. TR🏋️🤸🏃🚴🚣🏊⚾🏀. U✊🤼🤺.
-    - [ ]     - [ ] Vigorous physical activity. Weekly: 1-2x. E.g.
+- [ ] TR🏋️🤸🏃🚴🚣🏊⚾🏀. U✊🤼🤺. 🚿👃👣🪒💨.
+    - [ ] Vigorous physical activity. E.g.
         - [ ] Lifting.
         - [ ] Gymnastics.
         - [ ] Running.
@@ -52,12 +53,13 @@ Not everyday is the same, but it's soothing to have a familiar routine and rhyth
         - [ ] Rowing.
         - [ ] Swimming.
         - [ ] Sports. E.g. Baseball, basketball.
-  - [ ] Martial arts. Weekly: 1-2x. E.g.
+  - [ ] Martial arts. E.g.
     - [ ] Unarmed.
     - [ ] Wrestling.
     - [ ] Armed.
 - [ ] 7p🍴🪥.
     - [ ] Dinner.
+    - [ ] Brush my teeth.
 - [ ] 🤗♟️▶️🪵📝. 
     - [ ] Social time.
     - [ ] Play time.
