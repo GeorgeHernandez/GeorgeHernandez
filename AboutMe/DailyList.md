@@ -131,6 +131,7 @@ Not everyday is the same, but it's soothing to have a familiar routine and rhyth
     - [ ] Parse Daily sheets against my Students sheet. Update student meta. Archve old Daily sheet.
     - [ ] Reflect on Grades, Assignments, etc.
     - [ ] Look at the ACCA calendar.
+    - [ ] Submit next LPs.
     - [ ] Next Slides, etc. Objectives & Standards. In LPs & GC.
 
 
