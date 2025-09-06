@@ -72,6 +72,33 @@ Not everyday is the same, but it's soothing to have a familiar routine and rhyth
     - [ ] Check on water bottle.
     - [ ] Go to sleep.
 
+## My Weekly to Monthly Lists with Notes
+
+- [ ] R/p1w. Usually on the Weekend.
+    - [ ] 🦷 Treat my mouthpiece.
+    - [ ] 🪵 Log my weight, blood pressure, and heart rate.
+    - [ ] Groceries
+    - [ ] Doorbell. (Yes I need to get a wired doorbell)
+    - [ ] MARC
+    - [ ] Laundry. Including towels & sleeping clothes.
+- [ ] R/p2w
+    - [ ] 💊 Refresh my Supplements, Vitamins, etc.
+        - [ ] UMTWRFS Alopurinol
+        - [ ] U-T-R-S Vitamin D
+        - [ ] U-T-R-- Ca Mg Zn
+        - [ ] -M-W--- Glucosamine Chondroitin MSM & Turmeric
+        - [ ] --T-R-- Undenatured Type II Collagen
+        - [ ] -----F- Fish Oil
+    - [ ] Therapy. Specify next date.
+    - [ ] Go out as a couple.
+- [ ] R/1m
+    - [ ] Refresh Pants
+    - [ ] Haircut. Clipper at ¼⅛.
+    - [ ] Student loan. Manually pay (until they get their auto-pay fixed)
+    - [ ] Refresh Bedding
+    - [ ] Couples therapy. Specify next date.
+    - [ ] Refresh Water Cooler
+    - [ ] Hdz Huddle. Review finances, etc.
 ## My Recurring Lists for Work/School
 
 - [ ] Beginning of Day (BOD):
@@ -98,58 +125,34 @@ Not everyday is the same, but it's soothing to have a familiar routine and rhyth
     - [ ] Grade weekly AC assignments on Daily, forward to next week, add to Aspen.
     - [ ] Look at the next p2w on the ACCA calendar.
     - [ ] Submit lesson plans for the following week.
-## My Weekly List with Notes
 
-Usually on the Weekend.
-- [ ] ⚖️ Weigh myself
-- [ ] ⏲️🫀 Set a Timer then Log my Blood Pressure and Heart Rate
-- [ ] 💊 Refresh my Supplements, Vitamins, etc.
-    - [ ] UMTWRFS Alopurinol
-    - [ ] U-T-R-S Vitamin D
-    - [ ] -M-W--- Glucosamine Chondroitin MSM & Turmeric
-    - [ ] --T-R-- Undenatured Type II Collagen
-    - [ ] -----F- Fish Oil
-- [ ] 🗑️ Empty Wastebaskets
-- [ ] 🚪🔔 Recharge the Doorbell. (Yes I need to get a wired doorbell)
-- [ ] 🦉🤟 Study Languages. I cycle through:
-- [ ] 🌙👕🛀🧺 Refresh Night Shirt, Towels. Laundry.
-- [ ] 🗃️ Parse Physical Files, Letters, etc.
-
-## My Monthly List with Notes
-
-Usually on the 1st of the Month.
-- [ ] 💇 Haircut. Clipper at ¼⅛.
-- [ ] 👖 Refresh Pants
-- [ ] 🛏️ Refresh Bedding
-- [ ] 👩‍🎓💲 Manually pay daughter's student loans (until they get their auto-pay fixed)
-- [ ] 🚰 Refresh Water Cooler
 
 ## Gout Countermeasures
 
 Some [Gout](https://en.wikipedia.org/wiki/Gout) countermeasures:
 - Reduce High Purine Foods:
-  - Theobromine. Found in Cocoa & Tea 🍵.
-  - Odd Meats
-  - Yeast
-  - Sardines
-  - Tuna
-  - Hard Alcohol
+    - Theobromine. Found in Cocoa & Tea 🍵.
+    - Odd Meats
+    - Yeast
+    - Sardines
+    - Tuna
+    - Hard Alcohol
 - Reduce High Fructose Foods:
-  - High Fructose Corny Syrup (HFCS)
-  - Soda 🥤
-  - Honey 🍯
-  - Tamarind. Not on most Fructose lists.
-  - Dates
-  - Raisins
-  - Agave
+    - High Fructose Corny Syrup (HFCS)
+    - Soda 🥤
+    - Honey 🍯
+    - Tamarind. Not on most fructose lists.
+    - Dates
+    - Raisins
+    - Agave
 - Reduce:
-  - Salt 🧂. I ❤️🧂 but it messes with Blood Pressure & Inflammation
-  - Calories
+    - Salt 🧂. I ❤️🧂 but it messes with blood pressure, inflammation, & bone density.
+    - Calories
 - More Low Purine Foods:
   - Potatoes 🥔
   - Cottage Cheese
 - More:
-  - Hydration 💧 because Gout is largely a Kidney issue. This is probably the most important gout countermeasure.
+  - Hydration 💧 because gout is largely a Kidney issue. This is probably the most important gout countermeasure.
   - Coffee ☕
   - Cherries 🍒
   - Exercise
