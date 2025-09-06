@@ -103,30 +103,35 @@ Not everyday is the same, but it's soothing to have a familiar routine and rhyth
     - [ ] Hdz Huddle. Review finances, etc.
 ## My Recurring Lists for Work/School
 
-- [ ] Beginning of Day (BOD):
+- [ ] Beginning of Day (BoD):
     - [ ] Make lunch.
     - [ ] Put on ID.
     - [ ] Punch in.
     - [ ] Put lunch away.
-    - [ ] Print job 1: 40 EN, 10 ES. Staple as needed.
-    - [ ] Print job 2: 40 EN, 10 ES. Staple as needed.
-    - [ ] Standards & Objectives on Whiteboard.
+    - [ ] Print job 1: 42 EN. Staple as needed.
+    - [ ] Print job 2: 42 EN. Staple as needed.
     - [ ] Charge laptop.
-- [ ] End of Day (EOD):
+    - [ ] Startup touchscreen.
+    - [ ] Objectives & Standards on Whiteboard.
+- [ ] End of Day (EoD):
     - [ ] Attendance in Aspen.
     - [ ] Grading. Anything past due is 50%.
+    - [ ] Log Reflections: Grades, Assignments, etc.
     - [ ] Chromebooks: Count & Charge.
-    - [ ] Environment: Close Windows. Turn off A/C. Lock door. 
+    - [ ] Environment: Close Windows. Turn off A/C. 
+    - [ ] Put away laptop.
+    - [ ] Lock door. 
     - [ ] Punch out. 
     - [ ] Put ID in Backpack.
-    - [ ] Next day Slides & Tarea. With Standards & Objectives.
-- [ ] End of Week (EOW):
+    - [ ] Slides, etc. Standards & Objectives. In LPs & GC.
+- [ ] End of Week (EoW):
     - [ ] Erlenmeyer plant: Give Earl 5 drops.
     - [ ] Print Daily sheets for the following week.
-    - [ ] Parse Daily sheets against Students SY25.26.
-    - [ ] Grade weekly AC assignments on Daily, forward to next week, add to Aspen.
-    - [ ] Look at the next p2w on the ACCA calendar.
-    - [ ] Submit lesson plans for the following week.
+    - [ ] Grade weekly AC assignments on Daily. Forward AC, pronunciations, etc. to next week. Add AC to Aspen.
+    - [ ] Parse Daily sheets against my Students sheet. Update student meta. Archve old Daily sheet.
+    - [ ] Reflect on Grades, Assignments, etc.
+    - [ ] Look at the ACCA calendar.
+    - [ ] Next Slides, etc. Objectives & Standards. In LPs & GC.
 
 
 ## Gout Countermeasures
