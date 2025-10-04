@@ -85,7 +85,7 @@ Not everyday is the same, but it's soothing to have a familiar routine and rhyth
     - [ ] Laundry. Including towels & sleeping clothes.
 - [ ] R/p2w
     - [ ] 💊 Refresh my Supplements, Vitamins, etc.
-        - [ ] UMTWRFS Alopurinol 100 mg
+        - [ ] UMTWRFS Alopurinol 100 mg, Multivitamins
         - [ ] U-T-R-S Ca 1g, Mg 400 mg, Zn 25 mg, D 15 mcg (600 IU RDA)
         - [ ] -M-W--- Glucosamine 1.5g, Chondroitin MSM Turmeric 1.2 g
         - [ ] -M-W--- D 50 mcg (2000 IU)
