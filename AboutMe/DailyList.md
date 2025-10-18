@@ -23,7 +23,7 @@ Not everyday is the same, but it's soothing to have a familiar routine and rhyth
     - [ ] Minimize phone use.
     - [ ] Spritz my nose against hay fever.
     - [ ] Take my pills.
-- [ ] 🖖🚶🏽♾️🤹🪢🎵🌱. 🚿👃👣🪒💨.
+- [ ] 🖖🚶🏽♾️🤹🪢🎵🌱. TR🏋️🤸🏃🚴🚣🏊⚾🏀. U✊🤼🤺. 🚿👃👣🪒💨.
     - [ ] Mild physical activity. E.g.
         - [ ] Stretching.
         - [ ] Walking.
@@ -32,21 +32,6 @@ Not everyday is the same, but it's soothing to have a familiar routine and rhyth
         - [ ] Tying knots.
         - [ ] Playing music.
         - [ ] Gardening.
-    - [ ] Shower, nose, nails, feet, shave, etc.
-    - [ ] Run the fan after the shower.
-- [ ] 6a🍴🪥👁️.
-    - [ ] Breakfast.
-    - [ ] Brush my teeth.
-    - [ ] Eye drops as needed.
-- [ ] 🐸🏡🤟.
-    - [ ] "Eat a live frog".
-    - [ ] Homemaking. Home & Garden.
-    - [ ] Language practice. E.g. ES, ASL.
-- [ ] 1p🍴🪥👁️.
-    - [ ] Lunch.
-    - [ ] Brush my teeth. This may not happen if I'm out of the house or the like.
-    - [ ] Eye drops as needed.
-- [ ] TR🏋️🤸🏃🚴🚣🏊⚾🏀. U✊🤼🤺. 🚿👃👣🪒💨.
     - [ ] Vigorous physical activity. E.g.
         - [ ] Lifting.
         - [ ] Gymnastics.
@@ -55,10 +40,25 @@ Not everyday is the same, but it's soothing to have a familiar routine and rhyth
         - [ ] Rowing.
         - [ ] Swimming.
         - [ ] Sports. E.g. Baseball, basketball.
-  - [ ] Martial arts. E.g.
-    - [ ] Unarmed.
-    - [ ] Wrestling.
-    - [ ] Armed.
+    - [ ] Martial arts. E.g.
+        - [ ] Unarmed.
+        - [ ] Wrestling.
+        - [ ] Armed.
+    - [ ] Shower, nose, nails, feet, shave, etc.
+        - [ ] Run the fan after the shower.
+- [ ] 6a🍴🪥👁️.
+    - [ ] Breakfast.
+    - [ ] Brush my teeth.
+    - [ ] Eye drops as needed.
+- [ ] 🐸.
+    - [ ] "Eat a live frog".
+- [ ] 1p🍴🪥👁️.
+    - [ ] Lunch.
+    - [ ] Brush my teeth. This may not happen if I'm out of the house or the like.
+    - [ ] Eye drops as needed.
+- [ ] 🏡🤟.
+    - [ ] Homemaking. Home & Garden.
+    - [ ] Language practice. E.g. ES, ASL.
 - [ ] 7p🍴🪥.
     - [ ] Dinner.
     - [ ] Brush my teeth.
@@ -86,9 +86,9 @@ Not everyday is the same, but it's soothing to have a familiar routine and rhyth
 - [ ] R/p2w
     - [ ] 💊 Refresh my Supplements, Vitamins, etc.
         - [ ] UMTWRFS Alopurinol 100 mg, Multivitamins
-        - [ ] U-T-R-S Ca 1g, Mg 400 mg, Zn 25 mg, D 15 mcg (600 IU RDA)
-        - [ ] -M-W--- Glucosamine 1.5g, Chondroitin MSM Turmeric 1.2 g
-        - [ ] -M-W--- D 50 mcg (2000 IU)
+        - [ ] -M-W-F- D 50 mcg (2000 IU)
+        - [ ] ---W--S Ca 1g, Mg 400 mg, Zn 25 mg, D 15 mcg (600 IU RDA)
+        - [ ] --T-R-- Glucosamine 1.5g, Chondroitin MSM Turmeric 1.2 g
         - [ ] --T-R-- Undenatured Type II Collagen 40 mg
         - [ ] -----F- Fish Oil 1 g
     - [ ] Therapy. Specify next date.
