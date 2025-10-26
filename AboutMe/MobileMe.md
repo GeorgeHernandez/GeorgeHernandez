@@ -9,15 +9,15 @@ parents: [[AboutMe|About Me]]
     - Phone. Samsung Galaxy Z Fold 3
 - Right front mini pocket:
     - Soft measuring tape
-    - Pocket knife. Cheap because it is easily lost.
+    - Pocket knife. Cheap because it is easily lost. Clips fall out.
 - Right pen pocket:
     - 4 color pen. Because I'm a teacher.
     - Black Sharpie
-    - Pencil
-    - (If a right pen pocket is not available then a cheap soft plastic pen with my phone)
+    - (If a right pen pocket is not available then a cheap soft plastic pen won't scratch my phone)
 - Left front pocket:
     - Wallet
     - A few coins
+    - Shoelace
 - Left rear pocket:
     - Handkerchief
 - Belt loop:
