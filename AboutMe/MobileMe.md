@@ -50,12 +50,12 @@ It is good to know what was in my wallet in case I lose it. A "!" prefix means i
 
 - Credit cards:
     - American Express (AMEX)
-    - ! Bank of America MC
+    - Bank of America MC
     - Bread AMEX
     - ! Chase Amazon Visa
     - Citibank Costco Visa
     - Discover
-    - ! Fidelity Visa
+    - Fidelity HSA Visa
     - PayPal MC
     - ! Target MC
 - Store cards:
