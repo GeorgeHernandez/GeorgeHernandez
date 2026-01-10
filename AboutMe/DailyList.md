@@ -12,10 +12,9 @@ I have other lists. I have lists; lists do not have me.
 ## My Daily List with Notes
 
 Not everyday is the same, but it's soothing to have a familiar routine and rhythm. 
-- [ ] 5a🔆🦷📆⏰🌦️🪙📵👃💊.
+- [ ] 5a🔆📆⏰🌦️🪙📵👃💊.
     - [ ] Wake up. Compare sunrise ranges in [Chicago](https://www.timeanddate.com/sun/usa/chicago) (with DST): 05:14/07:18, against [Manila](https://www.timeanddate.com/sun/philippines/manila): 05:25/06:25.
     - [ ] Get more light to help me wake up.
-    - [ ] Rinse my mouthpiece.
     - [ ] Check my calendar.
     - [ ] Set alarms as needed.
     - [ ] Check the weather.
@@ -67,10 +66,9 @@ Not everyday is the same, but it's soothing to have a familiar routine and rhyth
     - [ ] Play time.
     - [ ] Watch or Listen time.
     - [ ] Log: Reflect, journal.
-- [ ] 9p⏰📶🦷💧😴.
+- [ ] 9p⏰📶💧😴.
     - [ ] Check on my alarm clocks.
     - [ ] Charge my phone.
-    - [ ] Use mouthpiece.
     - [ ] Check on water bottle.
     - [ ] Go to sleep.
 
@@ -95,7 +93,7 @@ Not everyday is the same, but it's soothing to have a familiar routine and rhyth
     - [ ] Go out as a couple.
 - [ ] R/1m
     - [ ] Refresh Pants
-    - [ ] Haircut. Clipper at ¼⅛.
+    - [ ] Haircut. Clipper at ¼.
     - [ ] Student loan. Manually pay (until they get their auto-pay fixed)
     - [ ] Refresh Bedding
     - [ ] Couples therapy. Specify next date.
