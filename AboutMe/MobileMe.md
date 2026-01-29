@@ -55,11 +55,10 @@ It is good to know what was in my wallet in case I lose it. A "!" prefix means i
     - ! Chase Amazon Visa
     - Citibank Costco Visa
     - Discover
-    - Fidelity HSA Visa
+    - Fidelity Visa
     - PayPal MC
     - ! Target MC
 - Store cards:
-    - Costco
     - Menards
     - ! Micro Center
 - Debit cards:
@@ -69,6 +68,7 @@ It is good to know what was in my wallet in case I lose it. A "!" prefix means i
     - ! Venmo MC
     - ! Wise MC
 - IDs:
+    - Firearm Owner's Identification Card/CCL
     - Illinois Real Driver's License
     - ! UIC
 - Other cards:
