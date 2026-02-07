@@ -12,7 +12,7 @@ I have other lists. I have lists; lists do not have me.
 ## My Daily List with Notes
 
 Not everyday is the same, but it's soothing to have a familiar routine and rhythm. 
-- [ ] 5a🔆📆⏰🌦️🪙📵👃💊.
+- [ ] 6a🔆📆⏰🌦️🪙📵👃💊👁️.
     - [ ] Wake up. Compare sunrise ranges in [Chicago](https://www.timeanddate.com/sun/usa/chicago) (with DST): 05:14/07:18, against [Manila](https://www.timeanddate.com/sun/philippines/manila): 05:25/06:25.
     - [ ] Get more light to help me wake up.
     - [ ] Check my calendar.
@@ -22,7 +22,8 @@ Not everyday is the same, but it's soothing to have a familiar routine and rhyth
     - [ ] Minimize phone use.
     - [ ] Spritz my nose against hay fever.
     - [ ] Take my pills.
-- [ ] 🖖🚶🏽♾️🤹🪢🎵🌱. TR🏋️🤸🏃🚴🚣🏊⚾🏀. U✊🤼🤺. 🚿👃👣🪒💨.
+    - [ ] Eye drops as needed.
+- [ ] 🖖🚶🏽♾️🤹🪢🎵🌱. 🏋️T. 🤸🏃🚴🚣🏊⚾🏀R. ✊🤼🤺U. 
     - [ ] Mild physical activity. E.g.
         - [ ] Stretching.
         - [ ] Walking.
@@ -43,39 +44,37 @@ Not everyday is the same, but it's soothing to have a familiar routine and rhyth
         - [ ] Unarmed.
         - [ ] Wrestling.
         - [ ] Armed.
-    - [ ] Shower, nose, nails, feet, shave, etc.
-        - [ ] Run the fan after the shower.
-- [ ] 6a🍴🪥👁️.
+    - [ ] 👃👣🪒👁️MWFS.
+        - [ ] Nose, nails, feet, shave, etc.
+- [ ] 7a🍴🪥👁️.
     - [ ] Breakfast.
     - [ ] Brush my teeth.
     - [ ] Eye drops as needed.
-- [ ] 🐸.
+- [ ] 🐸🏡🤟.
     - [ ] "Eat a live frog".
-- [ ] 1p🍴🪥👁️.
+    - [ ] Homemaking. Home & Garden.
+    - [ ] Language practice. E.g. ESP, ASL, TGL.
+- [ ] 11a🍴🪥👁️.
     - [ ] Lunch.
     - [ ] Brush my teeth. This may not happen if I'm out of the house or the like.
     - [ ] Eye drops as needed.
-- [ ] 🏡🤟.
-    - [ ] Homemaking. Home & Garden.
-    - [ ] Language practice. E.g. ES, ASL.
-- [ ] 7p🍴🪥.
+- [ ] 6p🍴🪥.
     - [ ] Dinner.
     - [ ] Brush my teeth.
-- [ ] 🤗♟️▶️🪵📝. 
+- [ ] 🤗▶️🪵📝. 
     - [ ] Social time.
-    - [ ] Play time.
-    - [ ] Watch or Listen time.
+    - [ ] Watch, Listen, Read, See, Play time.
     - [ ] Log: Reflect, journal.
-- [ ] 9p⏰📶💧😴.
+- [ ] 10p⏰📶👁️💧😴.
     - [ ] Check on my alarm clocks.
     - [ ] Charge my phone.
+    - [ ] Eye drops as needed.
     - [ ] Check on water bottle.
     - [ ] Go to sleep.
 
 ## My Weekly to Monthly Lists with Notes
 
 - [ ] R/p1w. Usually on the Weekend.
-    - [ ] 🦷 Treat my mouthpiece.
     - [ ] 🪵 Log my weight, blood pressure, and heart rate.
     - [ ] Groceries
     - [ ] Doorbell. (Yes I need to get a wired doorbell)
@@ -89,28 +88,19 @@ Not everyday is the same, but it's soothing to have a familiar routine and rhyth
         - [ ] --T-R-- Glucosamine 1.5g, Chondroitin MSM Turmeric 1.2 g
         - [ ] --T-R-- Undenatured Type II Collagen 40 mg
         - [ ] -----F- Fish Oil 1 g
-    - [ ] Therapy. Specify next date.
-    - [ ] Go out as a couple.
 - [ ] R/1m
     - [ ] Refresh Pants
-    - [ ] Haircut. Clipper at ¼.
+    - [ ] Haircut. Clipper at ⅛".
     - [ ] Student loan. Manually pay (until they get their auto-pay fixed)
     - [ ] Refresh Bedding
-    - [ ] Couples therapy. Specify next date.
     - [ ] Refresh Water Cooler
     - [ ] Hdz Huddle. Review finances, etc.
 ## My Recurring Lists for Work/School
 
 - [ ] Beginning of Day (BoD):
     - [ ] Make lunch.
-    - [ ] Put on ID.
     - [ ] Punch in.
     - [ ] Put lunch away.
-    - [ ] Print job 1: 42 EN. Staple as needed.
-    - [ ] Print job 2: 42 EN. Staple as needed.
-    - [ ] Charge laptop.
-    - [ ] Startup touchscreen.
-    - [ ] Objectives & Standards on Whiteboard.
 - [ ] End of Day (EoD):
     - [ ] Attendance in Aspen.
     - [ ] Grading. Anything past due is 50%.
