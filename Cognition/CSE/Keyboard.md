@@ -29,10 +29,31 @@ parents:: [[CSE]]
   - `alt` works as `option` (`⌥`)
   - `win` (`⊞`) works as `cmd` (`⌘`)
 - **Key switches**: Both the bump & the click provide some personal satisfaction, but the noise may annoy others. I don't type fast enough for the bump to make a difference in my typing rate.
-  - Red/linear mechanical switch keys have no bump & are quiet.
-  - Brown/tactile mechanical switch keys have a bump & are quiet.
-  - Blue/clicky mechanical switch keys have a bump & are clicky.
-  - Optical switch key rely on breaking a beam instead of physical contact. Not many choices available yet.
+    - By sound:
+        - Silent.
+        - Thocky: Deep, low-pitched.
+        - Creamy: Between Thocky & Clacky.
+        - Clacky: Higher-pitched.
+    - By feel:
+        - Clicky: Small bump mid-press with an audible click. Like a traditional typewriter or mouse click.
+        - Tactile: Small bump mid-press with a quieter click.
+        - Linear: Smooth, no bump mid-press. Least resistant. Fastest. May be Silent or louder.
+    - By operating mechanism:
+        - MX: By breaking physical contact.
+        - Optical: By breaking beam of light.
+        - Hall-Effect (HE): By magnetism.
+    - By number of pins:
+        - 3-pin. Compatible with 5-pin switches.
+        - 5-pin. Not-compatible with 3-pin switches.
+    - By travel:
+        - Longer stem: Longer travel per press.
+- 
+        - Shorter stem: Shorter travel per press.
+    - Combined:
+        - Red: Mechanical. Linear. Silent.
+        - Brown: Mechanical. Tactile. Quiet.
+        - Blue: Mechanical. Clicky. Clacky.
+        - Optical: Rely on breaking a beam instead of physical contact. Not many choices available yet.
 
 ## References
 
@@ -41,3 +62,4 @@ parents:: [[CSE]]
 - https://en.wikipedia.org/wiki/British_and_American_keyboards
 - https://en.wikipedia.org/wiki/ECMA-23
 - https://en.wikipedia.org/wiki/ISO/IEC_9995
+- https://kineticlabs.com/guides/keyboard-switches
