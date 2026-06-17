@@ -12,12 +12,13 @@ I have other lists. I have lists but lists do not have me.
 ## My Daily List with Notes
 
 Not everyday is the same, but it's soothing to have a familiar routine and rhythm. 
-- [ ] 🏡📵💧👁️🐸🤟.
+- [ ] 🏡📵💧🐸🧿.
     - [ ] Housework. Dishes, trash, repairs, etc.
     - [ ] Minimize phone use, doom scrolling, etc.
     - [ ] Hydrate. Check my water bottle.
-    - [ ] Eyedrops as needed.
     - [ ] "Eat a live frog". Usually work.
+    - [ ] Eyedrops as needed. Also Evil Eye.
+- [ ] ES🤟PH.
     - [ ] Language practice. Usually ESP, ASL, TGL.
 - [ ] 🖖🚶🏽♾️🤹🪢🎵🌱.
     - [ ] Mild physical activity. E.g.
