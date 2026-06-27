@@ -12,23 +12,6 @@ I have other lists. I have lists but lists do not have me.
 ## My Daily List with Notes
 
 Not everyday is the same, but it's soothing to have a familiar routine and rhythm. 
-- [ ] 🏡📵💧🐸🧿.
-    - [ ] Housework. Dishes, trash, repairs, etc.
-    - [ ] Minimize phone use, doom scrolling, etc.
-    - [ ] Hydrate. Check my water bottle.
-    - [ ] "Eat a live frog". Usually work.
-    - [ ] Eyedrops as needed. Also Evil Eye.
-- [ ] ES🤟PH.
-    - [ ] Language practice. Usually ESP, ASL, TGL.
-- [ ] 🖖🚶🏽♾️🤹🪢🎵🌱.
-    - [ ] Mild physical activity. E.g.
-        - [ ] Stretching.
-        - [ ] Walking.
-        - [ ] Twirling sticks, clubs, maces.
-        - [ ] Juggling.
-        - [ ] Tying knots.
-        - [ ] Playing music.
-        - [ ] Gardening.
 - [ ] 6a🔆📆⏰🌦️🪙👃💊.
     - [ ] Wake up. Compare sunrise ranges in [Chicago](https://www.timeanddate.com/sun/usa/chicago) (with DST): 05:14/07:18, against [Manila](https://www.timeanddate.com/sun/philippines/manila): 05:25/06:25.
     - [ ] Get more light to help me wake up.
@@ -46,17 +29,36 @@ Not everyday is the same, but it's soothing to have a familiar routine and rhyth
 - [ ] 6p🍴🪥.
     - [ ] Dinner.
     - [ ] Brush my teeth.
-- [ ] 🤗▶️🪵📝. 
-    - [ ] Social time.
-    - [ ] Watch, Listen, Read, See, Play time.
-    - [ ] Log: Reflect, journal.
 - [ ] 10p⏰📶😴.
     - [ ] Check on my alarm clocks.
     - [ ] Charge my phone.
     - [ ] Go to sleep.
+- [ ] 🖖🚶🏽♾️🤹🪢🎵🌱.
+    - [ ] Mild physical activity. E.g.
+        - [ ] Stretching.
+        - [ ] Walking.
+        - [ ] Twirling sticks, clubs, maces.
+        - [ ] Juggling.
+        - [ ] Tying knots.
+        - [ ] Playing music.
+        - [ ] Gardening.
+- [ ] ES🤟PH.
+    - [ ] Language practice. Usually ESP, ASL, TGL.
+- [ ] 🤗▶️🪵📝. 
+    - [ ] Social time.
+    - [ ] Watch, Listen, Read, See, Play time.
+    - [ ] Log: Reflect, journal.
+- [ ] 🐸🏡📵💧🧿.
+    - [ ] "Eat a live frog". Usually work.
+    - [ ] Housework. Dishes, trash, repairs, etc.
+    - [ ] Minimize phone use, doom scrolling, etc.
+    - [ ] Hydrate. Check my water bottle.
+    - [ ] Eyedrops as needed. Also Evil Eye.
 
 ## My Weekly List with Notes
 
+- [ ] MT🚪🔔.
+    - [ ] Doorbell.
 - [ ] T🏋️.
     - [ ] Heavier lifting or resistance.
 - [ ] WS👣 👃🪒👁️.
@@ -71,15 +73,13 @@ Not everyday is the same, but it's soothing to have a familiar routine and rhyth
         - [ ] Sports. E.g. Baseball, basketball.
 - [ ] FSU💧🌿.
     - [ ] Water plants.
-- [ ] FSU🚪🔔.
-    - [ ] Doorbell.
 - [ ] S⚖️🫀💊.
     - [ ] Log my weight, blood pressure, and heart rate.
     - [ ] Refresh my Supplements, Vitamins, etc. This is actually R/p2w.
         - [ ] MTWRFSU Alopurinol 100 mg, Multivitamins, D 50 mcg (2000 IU)
         - [ ] --W--S- Ca 1g, Mg 400 mg, Zn 25 mg, D 15 mcg (600 IU RDA)
         - [ ] -T-R--- Glucosamine 1.5g, Chondroitin MSM Turmeric 1.2 g
-        - [ ] -T-R--- Undenatured Type II Collagen 40 mg
+        - [ ] M--R--- Undenatured Type II Collagen 40 mg
         - [ ] ----F-- Fish Oil 1 g
 - [ ] S🛒.
     - [ ] Groceries
