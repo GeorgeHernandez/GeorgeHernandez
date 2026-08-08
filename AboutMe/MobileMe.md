@@ -251,6 +251,9 @@ It is good to know what was in my wallet in case I lose it. A "!" prefix means i
 - Travel bag. TSA-sized.
     - Wireless phone charger
     - Neck pillow
+    - Notepad & pen
+    - Clipboard & pen
+    - Water bottle. Empty pre-flight.
 - Toiletry bag. In check-in bag.
     - Toothbrush & cover
     - Toothpaste
@@ -270,4 +273,6 @@ It is good to know what was in my wallet in case I lose it. A "!" prefix means i
     - Passport
     - Workout clothes, shoes
     - Jump rope
+    - Wallet for foreign money
 - Check-in bag. As needed.
+    - Luggage strap. In case the locks pop open.
