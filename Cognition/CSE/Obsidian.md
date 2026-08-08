@@ -101,10 +101,17 @@ Multiple cursors:
 - For consecutive lines: `shift+alt+drag`
 - To cancel multiple cursors: `click`
 
+Command palette: `ctrl + p`
+- `Fold all headings and lists`
+- `Unfold all headings and lists`
+- `Fold less`
+- `Fold more`
+
 References:
-- https://help.obsidian.md/User+interface/Hotkeys
-- https://help.obsidian.md/Editing+and+formatting/Editing+shortcuts
-- https://help.obsidian.md/Editing+and+formatting/Multiple+cursors
+- https://obsidian.md/help/hotkeys
+- https://obsidian.md/help/editing-shortcuts
+- https://obsidian.md/help/multiple-cursors
+- https://obsidian.md/help/folding
 
 ## Callouts
 

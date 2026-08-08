@@ -134,6 +134,7 @@ It is good to know what was in my wallet in case I lose it. A "!" prefix means i
     - Combination lock
 - Main pocket:
     - Flip flops
+    - Snorkeling mask, swim shoes
     - Swim shorts. Refresh beforehand!
     - Fresh towel. Refresh beforehand!
 
@@ -273,8 +274,7 @@ It is good to know what was in my wallet in case I lose it. A "!" prefix means i
     - Passport
     - Workout clothes & shoes
     - Jump rope
-    - Swim suit
-    - Snorkeling mask, swim shoes
+    - Swim bag
     - Wallet for foreign money
 - Check-in bag
     - Max mass: 50# (23 Kg)
