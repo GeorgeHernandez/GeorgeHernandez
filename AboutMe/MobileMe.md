@@ -249,27 +249,25 @@ It is good to know what was in my wallet in case I lose it. A "!" prefix means i
 ## Travel Bags
 
 - Travel bag. TSA-sized.
-- Toiletry bag:
-    - Tootbrush & cover
+    - Wireless phone charger
+    - Neck pillow
+- Toiletry bag. In check-in bag.
+    - Toothbrush & cover
     - Toothpaste
     - Medications
-    - Hooking carbineer
+    - Hooking carbineer. In case no hook is available.
     - Flashlight. Rechargeable USB C.
-    - Collapsible Cup
-    - Nail clippers. In check-in bag, otherwise buy at destination.
+    - Cup
+    - Nail clippers
     - Razor
 - Clothes:
     - Socks
     - Underwear
     - Sleep wear
-- Wireless phone and watch charger
+    - Hooded wind breaker
+    - Slip on shoes, e.g. Crocs. For wet floors, TSA.
 - For Longer Trips:
-    - Slip on shoes (e.g. Crocs) for airport and room
-    - Eye shield.
-    - Neck pillow that holds head back.
     - Passport
     - Workout clothes, shoes
-    - Ears and charger
-    - Juggling balls
     - Jump rope
 - Check-in bag. As needed.
