@@ -35,11 +35,8 @@ parents: [[AboutMe|About Me]]
 - Right
     - Unsharpened folder
     - 8" stick
-    - Pen
-    - Soft measuring tap
+    - Soft measuring tape
 - Left
-    - Sharp folder
-    - Lighter
     - Meter of string
 - Back Left
     - Hankie
@@ -248,13 +245,15 @@ It is good to know what was in my wallet in case I lose it. A "!" prefix means i
 
 ## Travel Bags
 
-- Travel bag. TSA-sized.
+- Carry-on bag
+    - Max size: 21x14x9" (55x35x23 cm)
+    - Max mass: 15-22# (7-10 Kg)
     - Wireless phone charger
     - Neck pillow
     - Notepad & pen
     - Clipboard & pen
     - Water bottle. Empty pre-flight.
-- Toiletry bag. In check-in bag.
+- Toiletry bag
     - Toothbrush & cover
     - Toothpaste
     - Medications
@@ -262,6 +261,7 @@ It is good to know what was in my wallet in case I lose it. A "!" prefix means i
     - Flashlight. Rechargeable USB C.
     - Cup
     - Nail clippers
+    - Small scissors
     - Razor
 - Clothes:
     - Socks
@@ -269,10 +269,16 @@ It is good to know what was in my wallet in case I lose it. A "!" prefix means i
     - Sleep wear
     - Hooded wind breaker
     - Slip on shoes, e.g. Crocs. For wet floors, TSA.
-- For Longer Trips:
+- For longer trips:
     - Passport
-    - Workout clothes, shoes
+    - Workout clothes & shoes
     - Jump rope
+    - Swim suit
+    - Snorkeling mask, swim shoes
     - Wallet for foreign money
-- Check-in bag. As needed.
+- Check-in bag
+    - Max mass: 50# (23 Kg)
+    - Label with name, phone, email
+    - Laptop & charger. MUST be in check-in.
+    - Power bank. MUST be in check-in.
     - Luggage strap. In case the locks pop open.
