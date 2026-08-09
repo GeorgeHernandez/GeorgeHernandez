@@ -125,22 +125,22 @@ It is good to know what was in my wallet in case I lose it. A "!" prefix means i
 
 ## Swim Bag
 
-- Outside pockets:
-    - Water bottle. Refresh beforehand!
-    - Swim goggles
-    - Tally counter. Cheap & waterproof.
-    - Handkerchief
-- Inside pocket:
-    - Combination lock
-- Main pocket:
-    - Flip flops
-    - Snorkeling mask, swim shoes
-    - Swim shorts. Refresh beforehand!
-    - Fresh towel. Refresh beforehand!
+- A dry bag
+- Swim goggles
+- Tally counter. Cheap & waterproof.
+- Combination lock
+- Flip flops. For wet rooms.
+- If snorkeling:
+    - Swim shoes. For rocky shores.
+    - Snorkeling mask
+- Refresh beforehand:
+    - Swim shorts
+    - Towel
+    - Water bottle
 
 ## Work Bag
 
-- TSA-sized backpack. Can adjust size with cinches.
+- A TSA compliant backpack. Can adjust size with cinches.
 - Main pocket:
     - Clipboard with pen & scrap paper
     - Folder with scrap paper & blank paper
