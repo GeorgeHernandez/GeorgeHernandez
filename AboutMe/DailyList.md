@@ -12,7 +12,7 @@ I have other lists. I have lists but lists do not have me.
 ## My Daily List with Notes
 
 Not everyday is the same, but it's soothing to have a familiar routine and rhythm. 
-- [ ] 6a🔆📆⏰🌦️🪙👃💊.
+- [ ] 6a🔆👃💊📆⏰🌦️🪙.
     - [ ] Wake up. Compare sunrise ranges in [Chicago](https://www.timeanddate.com/sun/usa/chicago) (with DST): 05:14/07:18, against [Manila](https://www.timeanddate.com/sun/philippines/manila): 05:25/06:25.
     - [ ] Get more light to help me wake up.
     - [ ] Check my calendar.
@@ -23,13 +23,13 @@ Not everyday is the same, but it's soothing to have a familiar routine and rhyth
     - [ ] Take my pills.   
 - [ ] 7a🍴.
     - [ ] Breakfast.
-- [ ] 11a🍴🌃?
+- [ ] 12p🍴🌃?
     - [ ] Lunch.
     - [ ] Discuss dinner plans.
-- [ ] 6p🍴🪥.
+- [ ] 7p🍴.
     - [ ] Dinner.
+- [ ] 10p🪥⏰📶😴.
     - [ ] Brush my teeth.
-- [ ] 10p⏰📶😴.
     - [ ] Check on my alarm clocks.
     - [ ] Charge my phone.
     - [ ] Go to sleep.
@@ -42,8 +42,8 @@ Not everyday is the same, but it's soothing to have a familiar routine and rhyth
         - [ ] Tying knots.
         - [ ] Playing music.
         - [ ] Gardening.
-- [ ] ES🤟PH.
-    - [ ] Language practice. Usually ESP, ASL, TGL.
+- [ ] ESP🤟FIL.
+    - [ ] Language practice. Usually Español, American Sign Language, Filipino.
 - [ ] 🤗▶️🪵📝. 
     - [ ] Social time.
     - [ ] Watch, Listen, Read, See, Play time.
